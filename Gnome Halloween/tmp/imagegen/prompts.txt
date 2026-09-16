@@ -1,0 +1,90 @@
+Built-in image generation tool; no API/CLI fallback used.
+
+OUTLINE
+Use case: illustration-story. Create a new BLACK LINE ART MASTER for a beginner preprinted acrylic canvas paint kit, square 1536x1536 image. The attached Christmas gnome outline is a character/style reference only; create a HALLOWEEN version. Retain the charming stocky front-facing gnome, large oval nose, parted sweeping moustache, big pointed fluffy beard, rounded coat and two oval shoes. Replace Christmas hat with tall crooked witch hat, curled point bending to viewer right, wide brim, a simple band with rectangular buckle. No Christmas lights, no pompom, no trees, no snow. One medium jack-o-lantern at lower left and one at lower right, behind gnome's shoes beside his coat; each pumpkin has one simple stem, two triangular eyes and a broad single smiling mouth, easily painted. Large simple crescent moon upper left and two simple bat silhouettes outlined (WHITE interiors) upper right. A single gentle curved ground line behind shoes and pumpkins. Spacious open background. Gnome takes about 80% image height, full hat and shoes visible with 6% outer white breathing room. Friendly not scary. Uniform smooth bold black outlines on pure white; all closed shapes suitable to paint within. NO gray shading, NO fills, NO color, NO hatching, NO lettering, NO frame or dimension markings. Keep the design simple and broad enough for beginners. Image input is style and character reference, not edit target.
+
+FINISHED REFERENCE
+Use case: sketch-to-render. Image 1 is the EXACT black-line outline for a preprinted beginner acrylic canvas. Create its FINISHED PAINTING reference by coloring this very same drawing, preserving every contour, all shapes, coordinates, scale and composition. Do not redraw, move, crop or add any object. Square front-on flat artwork, no props or text. Friendly Halloween gnome. Paint smooth beginner-achievable acrylic brushwork, crisp black contours and modest highlights; no complex realism. Pale blue sky (white with touch of blue); warm light brown ground (white with little brown); yellow crescent moon; solid black bats. Purple hat including entire brim and coat (red + blue), slightly lighter on broad surfaces, subtle darker purple folds. Orange hatband including center hole of buckle and both pumpkins (yellow + little red). Gold-yellow rectangular buckle rim. Peach oval nose (white + little yellow + tiny red). Brown shoes. White moustache and fluffy beard with very light gray curved downward strand shadows (white + speck black). Green pumpkin stems. Black triangle eyes and black smiling mouths on pumpkins. Subtle pumpkin groove shadows from orange + tiny brown. A few short white highlights on dry pumpkin upper curves, buckle corner, nose and shoes; fine white beard strands. NO stars, NO dots or decorative extras on hat, NO snow, NO trees, NO Christmas objects. Precisely preserve outline, including full white breathing space. Colored reference should be easy to follow with seven acrylic pots white, black, red, yellow, blue, green, brown.
+
+REFERENCE CORRECTION
+Edit image 1 only: correct the beard color. The spiky outer tufts of the beard on BOTH sides immediately below the moustache were mistakenly painted purple. They are WHITE BEARD, not coat. Repaint all of those purple hair-shaped patches white with subtle light gray strand shading, so the complete beard from left jagged outer silhouette to right jagged outer silhouette is white, all the way down to its lower tips. Only the smooth rounded coat areas below/behind the beard remain purple. Preserve EXACTLY every contour, size, position, shape, all the remaining colors, sky, ground, moon, bats, hat, pumpkins, nose and shoes. This is a precise limited color correction. Image 2 is the black-outline shape reference. No other changes.
+
+GUIDE
+Use case: infographic-diagram. Create a beautiful print-ready ONE-PAGE illustrated beginner painting instruction sheet, US Letter portrait ratio 8.5:11, high resolution 2550x3300 or larger. Inputs: image 1 Christmas guide is the DESIGN AND LAYOUT reference; image 2 Halloween outline is the EXACT preprinted design; image 3 Halloween finished painting is the EXACT goal and header preview; image 4 master River and Ridge logo is the exact BRAND identity. New Halloween sheet, not Christmas. Friendly handwritten-style navy title, very legible navy captions, white page, pale blue watercolor brushstroke accents, tiny pumpkin and bat doodles. Print-safe white outer margin. Match reference sheet's generous illustrated feel and four-column by three-row grid. Top left small finished image 3, middle large "Paint Night" and subtitle "Halloween Gnome Painting Guide", top right COMPLETE wide River and Ridge logo with exact wording "RIVER AND RIDGE" and "PAINT-YOUR-OWN", ribbon, mountains, trees and river. Adapt logo colors to THIS page's navy lettering, light-blue brushstroke ribbon, purple and warm orange artwork accents, retain foliage and no snow; preserve overall design and aspect ratio. No generic slogan in logo area. Avoid overlapping header objects. Logo recoloring is subtle not redesign.
+
+Materials banner with exact text:
+"Materials"
+"Preprinted canvas • Acrylic paints • Large and small brushes"
+"Water cup • Paper towels • Palette or paper plate"
+"Paint colors: white, black, red, yellow, blue, green and brown"
+
+Twelve equal panels in 4 columns x 3 rows, numbered 1 through 12 left-to-right. Each panel image ABOVE short heading and exact caption, clear gaps between rows/text/footer. The gnome design in EVERY image must retain the outline's original geometry, crescent upper left, two bats upper right, curled witch hat, broad brim, rectangular buckle, oval nose, white parted mustache and jagged beard, smooth coat, two shoes, one pumpkin each side. Do not invent new hats, shapes, trees, Christmas lights or pompom. Progressive panels 1-8 MUST keep yet-unpainted features white with outlines. In particular NO black pumpkin faces before panel 10, NO nose/shoes before 6, NO buckle/stems before 8. Images 9-12 are distinctly different useful closeups/actions.
+
+Panel 1 heading "Set up your canvas"
+Caption "Cover your table. Follow the printed lines. Use thin coats; rinse and blot your brush between colors."
+Image: exact unpainted black-outline image 2, all regions white.
+
+Panel 2 heading "Paint the sky"
+Caption "Mix white with a touch of blue for pale blue. Paint around the outlines; leave every shape white."
+Image: same exact outline with ONLY pale blue sky, all shapes and ground still white.
+
+Panel 3 heading "Ground, moon & bats"
+Caption "Mix white with a little brown for the ground. Paint the moon yellow and the bats black."
+Image: pale blue sky, light brown ground, yellow moon, black bats; gnome and pumpkins entirely white.
+
+Panel 4 heading "Hat, brim & coat"
+Caption "Mix red and blue for purple; add a little white. Paint the hat, brim and coat. Leave the band and buckle white."
+Image: adds purple hat crown, entire brim and smooth coat areas ONLY; beard/mustache/nose/shoes/pumpkins/band/buckle all white.
+
+Panel 5 heading "Pumpkins & hatband"
+Caption "Mix yellow with a little red for orange. Paint the pumpkins and band, including the buckle center. Leave faces and stems white."
+Image: adds orange pumpkins and hat band including buckle inner hole; buckle rim, stems, pumpkin eyes and mouths still white.
+
+Panel 6 heading "Nose & shoes"
+Caption "For peach, mix white, a little yellow and a tiny touch of red. Paint the nose peach and shoes brown."
+Image: adds peach nose and brown shoes only; beard white unshaded, stems/buckle/eyes/mouths still white.
+
+Panel 7 heading "Fluffy white beard"
+Caption "Paint the whole beard and mustache white. Mix white with a speck of black for light gray; add curved, downward strands."
+Image: white beard including ALL spiky side tufts, fine gray downward shading, white mustache. No purple beard. Other unpainted areas still white.
+
+Panel 8 heading "Stems & buckle"
+Caption "Paint pumpkin stems green and the buckle rim yellow. Let these base coats dry before adding details."
+Image: adds green stems and yellow buckle rim, pumpkin faces still white.
+
+Panel 9 heading "Brush in shadows"
+Caption "Mix red and blue with a speck of black for hat folds. Mix yellow, a little red and a touch of brown for pumpkin grooves."
+Image: close-up of purple hat folds, brush applying a darker purple stroke, orange band and yellow buckle, supplementary small pumpkin groove inset if needed. No completed black pumpkin face yet.
+
+Panel 10 heading "Make them smile"
+Caption "Once the orange is dry, use a small brush and black to fill both pumpkins' printed eyes and smiles."
+Image: large close-up of orange pumpkin with green stem, brush filling its smiling mouth black; triangle eyes black. This shape matches original.
+
+Panel 11 heading "Add soft highlights"
+Caption "On dry paint, add short white strokes to the nose, shoes, buckle and pumpkin tops. Finish with fine white beard strands."
+Image: DIFFERENT close-up of lower white beard, brown shoes, pumpkin edge, brush adding a white shine on shoe. No snow.
+
+Panel 12 heading "Dry & tidy up"
+Caption "Lay the canvas flat until completely dry. Wash brushes, wipe your palette and close your paint pots."
+Image: overhead view of complete exact image 3 as canvas lying FLAT on table, closed paint pots and clean brushes beside it. Not an easel.
+
+Small footer on pale blue brushstroke: "Thin coats • Let layers dry • Make it your own"
+All text verbatim spelled correctly. Size captions for readable actual printed page, not tiny. Keep total page clean and well-spaced. Keep all 12 steps. Do not truncate recipes. No extra instructions, dimensions, kit-included claim, snowflakes or Christmas motifs.
+
+GUIDE CORRECTION
+Precise correction of attached guide image 1. Keep page layout and ALL wording, numbers, captions, typography, decorations and whitespace identical. Inputs 2 and 3 are authoritative exact outline and finished artwork; input 4 exact master logo.
+REPLACE artwork thumbnails 1 through 8 with faithful miniatures of EXACT outline image 2 with its original proportions, curled tip, full broad brim, large beard silhouette, positions of moon, bats, pumpkins, nose and shoes. Do not redesign the gnome to a squatter body or different hat. The current thumbnails are inaccurate redraws. In EVERY early panel pumpkin triangle eyes and single smiling mouths have complete CLOSED black outlines matching input 2, white interiors until step 10. Never omit or cover these face outlines. All stage rules below mandatory:
+1 pure black-line image 2 white everywhere.
+2 only sky pale blue.
+3 add light brown ground, yellow moon, black bats; everything else white.
+4 add purple hat incl. full brim and smooth coat below beard. Hatband, buckle, nose, WHOLE beard/mustache, BOTH shoes, BOTH pumpkins and stems all still WHITE.
+5 add orange pumpkins and hatband INCLUDING orange center inside buckle. The buckle RIM white. BOTH shoes WHITE, nose WHITE, both pumpkin stems WHITE, eyes and mouths WHITE within black CLOSED outlines. Absolutely no brown shoes or green stems in step 5.
+6 add peach nose and brown shoes; both stems still WHITE, buckle rim WHITE. Eyes and smiles still WHITE, with closed black outlines.
+7 same as 6, add white/light-gray beard brush strokes. Restore exact triangle eyes and smiling mouth white regions in both pumpkins; they must NOT be solid orange featureless pumpkins. Both pumpkin stems still WHITE.
+8 add GREEN stems, YELLOW buckle rim, orange buckle center. Eyes and smiles remain white.
+Header top-left PREVIEW: replace with finished input image 3, with ORANGE band and YELLOW buckle rim, not white unfinished band or buckle. Keep exact character and composition.
+Panel 12 flat canvas: show exact finished reference input 3 miniaturized, retain props/table layout.
+Panel 9: include a small pumpkin groove inset with brush adding brown-orange groove so it teaches the second half of caption too. Preserve existing hat-fold closeup.
+Panels 10 and 11 keep useful closeups of original shapes.
+LOGO at top right: preserve complete logo design, all exact letters, mountains/tree/river arrangement and wide ribbon. Derive palette directly from THIS page: darker title tone for all lettering and outlines; pale brushstroke tone for ribbon; incorporate muted pumpkin/hat tones into mountains and folds, foliage stays green and river stays blue. No tan/brown lettering, no snow, no redesign. The logo must harmonize with page rather than retain original brown lettering.
+NO text changes. High resolution portrait full sheet. Fix all the listed painting-stage inconsistencies while keeping excellent legibility.

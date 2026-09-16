@@ -1,0 +1,10 @@
+Adult-focused revision
+Current finished reference: ../../gnome-halloween-finished-reference-adult.png
+Original outline and earlier finished reference retained unchanged.
+Earlier guide PDF, PNG and generated artwork archived in ../earlier-guide/.
+Revised page uses more restrained typography, navy lettering, muted accents, no playful decorative doodles, painterly plum/russet/smoky-blue artwork, and technique-focused headings.
+One US Letter page verified and visually inspected after rendering with Windows.Data.Pdf. PDF margins are at least 0.25 inch. No caption collisions or clipping observed.
+The matching PNG is rendered directly from the revised PDF at 2550 x 3300 pixels. Source sheet resolution is 1102 x 1427; export resolution does not add source detail.
+All 12 numbers, captions, color recipes, drying direction, and last-row closeups reviewed. The guide retains the seven-paint palette.
+Project AGENTS.md now includes reusable adult-audience preferences and a separate Halloween-specific current-reference section.
+Built-in image generation prompts saved in ../imagegen/adult-revision-prompts.txt.

@@ -1,0 +1,87 @@
+Built-in image generation tool. Adult-focused revision; original outline and earlier finished reference retained.
+
+FINISHED REFERENCE
+Use case: style-transfer. Edit image 1 into a sophisticated acrylic painting reference for an ADULT Halloween paint-night kit. Image 2 is the fixed preprinted outline: preserve EXACTLY its shapes, arrangement, silhouette, scale and all positions. Keep this gnome, curled witch hat with brim and buckle, oval nose, sweeping moustache, long beard, two shoes, two jack-o-lanterns, crescent moon and two bats. The concept and geometry stay; elevate color, brush handling, lighting and finish. Square full artwork, no lettering, no props.
+Make a warm, atmospheric artisan folk-art painting suitable for adult seasonal home decor. Rich restrained colors, matte acrylic texture, soft modeled volumes and directional drybrush strokes. Smoky muted blue-gray twilight background (blue + tiny black + white), softly varied but no new objects or stars. Deep plum hat and coat (red + blue + touch brown), folds with deeper near-black plum. Weathered russet-orange pumpkins and band (yellow + red + touch brown). Soft ivory moon (white + little yellow), muted antique golden buckle (yellow + touch brown). Olive stems (green + touch brown). Warm peach nose (white + little yellow + tiny red). Brown shoes and muted earth ground (brown + tiny black + white). Beard and mustache entirely warm white with subtle gray shadows (white + tiny black), fluid individual directional strokes. Black carved pumpkin eyes and smiles, black bats. Gently warmed restrained highlights, no glossy plastic shine.
+IMPORTANT mature painting treatment: paint OVER the broad comic black outlines, replacing them visually with narrow natural dark shadow edges while preserving their exact coordinates and all original closed shapes. No thick black sticker borders, bright violet, neon orange, baby-blue background or cartoon vector rendering. The gnome remains recognizable, personable and approachable; not photoreal human or horror. Intermediate-beginner achievable hand-painted acrylic, not impossibly ornate detail. No new shapes, props, foliage, cobwebs, text or scenery. Do not make the gnome tiny, squat or otherwise change proportions. FULL WHITE BEARD including side tufts, no purple hair.
+
+GUIDE
+Use case: infographic-diagram. Completely art-direct a sophisticated ONE-PAGE illustrated Halloween gnome acrylic-painting guide for ADULTS. Requested change: current guide looks kid-focused; preserve gnome/concept but make the aesthetic distinctly mature and artisan. Input 1 old sheet for content structure ONLY, NOT childish visual styling. Input 2 exact mature FINISHED PAINTING and color/mood target. Input 3 fixed PREPRINTED OUTLINE, source geometry for all stages. Input 4 original master River and Ridge logo to preserve faithfully. Output a flat printable sheet, white paper, US Letter portrait, preferably 2550x3300 high resolution with legible real print-size text and safe margins.
+
+ART DIRECTION: tasteful adult art-workshop handout. Editorial hierarchy, generous whitespace, warm restrained detail. Large graceful ink/handwritten "Halloween Gnome" title, small spaced uppercase "PAINT NIGHT" eyebrow and understated subtitle "Acrylic Painting Guide". Deep navy/charcoal type, elegant readable headings and clean serif or sans-serif body text (not comic/children's handwriting). Muted pale blue-gray watercolor accents, very thin blue-gray rules, quiet russet highlights. NO doodle pumpkins, hearts, starbursts, decorative bat icons, oversized bubbly lettering, emoji or classroom aesthetic. Mature, atmospheric PAINTED artwork, plum/russet/smoky-blue/ivory as input 2, visible acrylic texture and softer painted edges instead of thick cartoon borders. Not all-dark paper: keep WHITE printable page.
+Header: top left accurate small thumbnail of completed painting input 2, center title, top right COMPLETE master logo input 4, preserve exact ribbon silhouette, mountain/tree/river arrangement, wide aspect ratio and text "RIVER AND RIDGE" / "PAINT-YOUR-OWN". Harmonize logo with this page by deriving colors from title, pale watercolor accent, and input2 painting: dark readable lettering; light ribbon; subdued landscape hues. No snow. No distortion/cropping. Keep logo comfortably clear of title and materials.
+
+Compact materials band, exact words:
+"Materials"
+"Preprinted canvas • Acrylic paints • Large and small brushes"
+"Water cup • Paper towels • Palette or paper plate"
+"Paints: white, black, red, yellow, blue, green and brown"
+
+4 columns x 3 rows. Twelve illustrations with discreet numbered labels 01 through 12, short headings and exact captions BELOW. Caption size around 10 pt on Letter. No collisions. Put image sequence before captions; each caption matches the painted state. All stage illustrations follow PRECISE original image3 shapes and placement, not a redesign or squat cartoon gnome. Exact moon upper left, two bats upper right, crooked witch hat and brim, buckle, oval nose, whole white beard, two shoes, two pumpkins. Before a step introduces paint, that feature is WHITE with original black printed outline. All pumpkin eyes/smiles closed black outlines with WHITE interiors until 10; don't omit faces. All stems white until8; shoes white until6. These are teaching diagrams despite mature finishing.
+
+01 "Prepare the canvas"
+"Protect your table. Follow the printed lines. Work in thin coats; rinse and blot brushes between colors."
+Picture: exact unpainted input3, every shape white.
+
+02 "Set the atmosphere"
+"Mix blue, a speck of black and white for a smoky sky. Paint around every outline; leave the shapes white."
+Picture: ONLY smoky blue-gray background, ALL other areas white including BOTH bats, moon and ground.
+
+03 "Ground & moonlight"
+"Mix brown, a speck of black and a little white for the ground. Use white with a little yellow for the moon; paint bats black."
+Picture: adds brown ground, ivory moon, black bats only. Gnome and pumpkins white.
+
+04 "Block in the plum"
+"Mix red and blue with a touch of brown for plum. Paint the hat, brim and coat; keep the band and buckle white."
+Picture: adds plum hat/brim/coat only. Whole beard white, nose white, shoes white, pumpkins white, band/buckle white.
+
+05 "Add the autumn color"
+"Mix yellow, a little red and a touch of brown for russet orange. Paint pumpkins and band, including the buckle center. Leave faces and stems white."
+Picture: adds russet pumpkins and band, inside buckle center russet; buckle rim white, nose white, shoes white, pumpkin stems white, face interiors white.
+
+06 "Nose & leather shoes"
+"For peach, mix white, a little yellow and a tiny touch of red. Paint the nose peach and shoes brown."
+Picture: adds peach nose and brown shoes. Stems and buckle rim still white.
+
+07 "Shape the beard"
+"Paint the beard and mustache white. Mix white with a speck of black and brown for warm gray; pull curved strokes toward the tips."
+Picture: textured white/gray beard and moustache, ALL spiky outer beard tufts white, no plum beard. Stems still white, faces still white with outlines.
+
+08 "Finish the base colors"
+"Mix green with a touch of brown for the stems. Mix yellow with a touch of brown for the buckle rim. Let dry."
+Picture: adds olive stems and muted golden buckle. Faces still WHITE with exact printed shapes.
+
+09 "Build depth"
+"Mix red, blue, brown and a speck of black for hat shadows. Mix yellow, a little red and extra brown for pumpkin grooves. Blend edges softly."
+Picture: DISTINCT close-up of plum hat with brush blending shadow into a fold, small pumpkin groove inset showing stroke. No black pumpkin faces.
+
+10 "Define the lanterns"
+"Over dry paint, fill the pumpkins' printed eyes and mouths with black using the small brush. Keep the edges controlled."
+Picture: DISTINCT close-up of original pumpkin with brush adding black smiling mouth, black triangle eyes, olive stem, textured russet paint; shape exactly as outline.
+
+11 "Catch the light"
+"Mix white with a little yellow for ivory. Add sparing highlights to the hat, nose, shoes, buckle and pumpkin tops; finish with fine beard strands."
+Picture: DISTINCT lower-beard, shoe and pumpkin close-up, brush adds restrained ivory shoe highlight. Matches mature painted reference.
+
+12 "Dry & care for tools"
+"Let the canvas dry flat. Wash and reshape your brushes, wipe the palette and close the paint pots."
+Picture: overhead completed EXACT artwork input2 on canvas lying FLAT on tabletop, all faces BLACK, all stems olive, full completed painting. Closed paint pots and clean brushes alongside, no easel.
+
+Small understated footer: "Thin layers • Dry between stages • Build texture gradually"
+No new paint pots beyond seven listed. No missing mixing ingredients. No snow or children's decorations. Every text string verbatim, all 12 steps complete. Make the change from old sheet strikingly more grown-up, polished and painterly while retaining approachable gnome Halloween spirit.
+
+CORRECTIONS
+Make a limited final quality correction to image 1 adult Halloween Gnome guide. Preserve all typography, exact captions, layout, adult art direction, colors and artwork geometry except the below targeted corrections. Do not change any words.
+1. Top-left FINISHED preview: buckle rim must be muted golden yellow with brown shading, matching input 2, not WHITE. Both pumpkin faces black and stems olive. Preserve rest.
+2. Steps 04,05,06: beard and mustache must still be flat WHITE unpainted spaces with printed contours only. Remove the gray shading/white painted strand texture currently shown prematurely. Step 07 is where beard painting and gray strand shading appears. Leave beard painted/textured in steps07 and08 and in final images.
+3. Steps04 through08: show the hat and coat as a simple matte deep plum BASE COAT with only original printed fold contours. Remove fine drybrushed warm streaks and extensive modeled folds from these early panels. The shadows arrive in09 and ivory highlights in11. Keep all OTHER region fills at their existing correct stage; particularly white shoes until06, white stems until08, white pumpkin eyes/mouths through08.
+4. Upper-right River and Ridge LOGO: subtle palette adaptation from THIS current page. Use the title's deep navy for the lettering, tag line and outer outlines, the pale blue-gray watercolor accent for the light ribbon, and subdued russet/plum/olive hues already present in painting for the landscape/folds. Keep blue river. Preserve EXACT original ribbon silhouette, all wording, proportions and mountains/tree/river arrangement, no new graphics. No brown letters. Keep full logo visible with clear white gap to title. It should remain immediately recognizable as the supplied master logo image3, just harmonized to the adult page. No snow.
+No other changes. Full one-page printable portrait guide. Spellings and mixtures remain exact.
+
+LOCAL CORRECTIONS
+Edit only the tiny HATBAND AND BUCKLE fills in FOUR specified step thumbnails of this guide. All text, all other pixels, logo, header preview, headings, outlines, other panels and composition must remain unchanged.
+Panel 04 (first row, far right): ENTIRE HATBAND must be WHITE, and ENTIRE BUCKLE including rim AND center must be WHITE, preserving black printed contours. These parts have not yet been painted.
+Panel 05 (second row, far left): ONLY buckle RIM must be WHITE with black contours. Keep the band and buckle inner center orange.
+Panel 06 (second row, second column): ONLY buckle RIM must be WHITE with black contours. Keep band and buckle inner center orange.
+Panel 07 (second row, third column): ONLY buckle RIM must be WHITE with black contours. Keep band and buckle inner center orange.
+Panel 08 stays fully painted with golden buckle rim. Header, panel09, and panel12 stay fully painted with golden buckle rim. Do not propagate these changes to any other panel. Every other element of the page exactly unchanged. Four tiny local corrections only.

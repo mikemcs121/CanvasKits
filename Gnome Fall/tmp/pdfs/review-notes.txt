@@ -1,0 +1,12 @@
+Gnome Fall guide review
+PDF: one US Letter portrait page, 612 x 792 points.
+Minimum embedded-art margin: 18 points; side margins: 30.857 points.
+Rendered using Windows.Data.Pdf at 2550 x 3300 pixels and visually inspected.
+Matching final PNG is the PDF render, including its print margins.
+Source artwork raster: 1070 x 1470 pixels; rendering at 300 dpi does not add original image detail.
+Step numbers 01-12 complete and in reading order. Captions inspected for spelling, spacing and recipe completeness.
+Palette: white, black, red, yellow, teal, green, brown, orange. No blue pot is required.
+Mixtures: teal plus white; green plus brown; red plus brown rust; orange plus brown; yellow plus brown; white/yellow/red peach; white/yellow ivory; black/brown lantern frames; red/brown/black shadows; red/yellow highlights; orange/brown grooves; orange/yellow pumpkin highlights; white/teal/brown beard shadows.
+Steps 01-02 have white stems; stems painted in 03. Skin remains white until 07. Lanterns remain white until 08. Finishing images 09-11 show distinct hat, pumpkin/leaf and beard close-ups. Step 12 shows canvas flat with capped paints and clean brushes.
+Original composite and master logo preserved unchanged. Clean reference/outline and page illustrations are generated reconstructions; small line and rendering differences remain between generated views.
+Built-in image_gen used. Exact prompts are in generation-prompts.md.
