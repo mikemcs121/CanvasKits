@@ -4,6 +4,8 @@ Apply these preferences when creating or revising paint kit instruction sheets i
 
 ## Project layout
 
+- For requests to build a full canvas kit from a new subject folder, use the project skill at `.agents/skills/build-canvas/SKILL.md` (`$build-canvas`). It covers source inspection, missing companion artwork, illustrated instructions, export and visual review. Read this file for current preferences when running the skill.
+
 - This folder (`Canvas Kits`) is the project root. Project-wide notes and preference files (`.md`) live here.
 - Each canvas kit lives in its own subfolder named after the subject, for example `Gnome Christmas Tree/`. Put a kit's reference images, `assets/`, `output/` and `tmp/` inside its own folder.
 - Shared images used by every kit (the brand logo, any future common graphics) live in `assets/images/` at the project root. Load them from there rather than copying them into each kit.
@@ -136,5 +138,14 @@ Before delivering a guide, check all of the following:
 - The fall composition includes a curling rust hat, ivory beard, green sleeves, a held maple leaf, three pumpkins, autumn branches and two glowing lanterns against a teal sky.
 - This kit uses eight paints: white, black, red, yellow, teal, green, brown and orange. Dedicated teal and orange paints simplify the background and pumpkin steps. Recipes are written directly in each relevant step.
 - Generated artwork and prompts are retained in the kit's `assets/` and `tmp/pdfs/` folders. The source composite and project-wide master logo remain unchanged.
+
+## Current reference files and status (Fall View kit)
+
+- `Fall View/fall-view-source-composite.png`: unchanged copy of `Screenshot 2026-09-16 220212.png`, showing an autumn mountain sunset painting and partly hidden outline.
+- `Fall View/fall-view-finished-reference.png` and `Fall View/fall-view-outline.png`: generated clean companion reconstructions, not extracted original standalone production artwork.
+- Palette: white, black, red, yellow, blue, green, brown and orange. The painting features a sunset, layered blue ridges, dark conifer slopes, a right-side autumn tree and foreground rock ledges.
+- `Fall View/tmp/pdfs/fall-view-painting-guide-illustrated-draft.pdf` and matching PNG: reviewed one-page US Letter draft with twelve panels. Progression and text have been checked, but generated leaf clusters and some branch/forest contours differ from the canonical outline; exact registration remains unresolved. Do not treat this draft as production-approved or promote it to `output/pdf/` until corrected.
+- At the user's request, clearly labeled draft PDF and PNG copies are also available in `Fall View/output/pdf/` as `fall-view-painting-guide-illustrated-draft.pdf` and `.png`. This placement does not change their draft status or resolve the contour differences described above.
+- Editable steps, generation prompts, exporter, renderer and verification notes are retained under `Fall View/tmp/`. Source composite and shared master logo are unchanged.
 
 Update this file as the user provides more preferences. Record reusable preferences separately from details specific to one painting.
