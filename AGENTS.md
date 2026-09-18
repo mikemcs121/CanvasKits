@@ -1,4 +1,4 @@
-# Paint Kit Instruction Guide Preferences
+﻿# Paint Kit Instruction Guide Preferences
 
 Apply these preferences when creating or revising paint kit instruction sheets in this project. Carry them forward to new subjects unless the user requests a change. These preferences reflect the user's review of the Christmas gnome guide and the request to make the Halloween kit more adult-focused.
 
@@ -24,7 +24,7 @@ Rules that follow from this pipeline:
 - The outline and finished reference are the inputs. Never modify them; they define the design the customer already has on the canvas and the result they are aiming for.
 - Every step illustration in the instructions must match the outline's shapes and placement exactly, because those lines are already on the customer's canvas.
 - The final step of the instructions should arrive at the finished reference, and the reference is the image shown near the title as the finished-painting preview.
-- The `tmp/` folder holds intermediate generated images and drafts; only approved deliverables go in `output/`.
+- Always move exported draft guides (PDF plus matching image) into the kit's `output/pdf/` folder, even when review finds unresolved issues. Use clearly labeled `-draft` filenames and retain the draft status and review notes; output placement does not imply production approval. Keep intermediate artwork, generation attempts, scripts, prompts and review notes in `tmp/`. This preference overrides any skill instruction to leave unresolved draft deliverables in `tmp/`.
 - Kit source files often arrive with arbitrary numbered names (for example `46.png`, `47.png`). Open each image to confirm which one is the outline and which is the finished reference, then rename them to `<subject>-outline.png` and `<subject>-finished-reference.png` inside the kit folder before starting work.
 
 ## Purpose and deliverables
@@ -144,8 +144,18 @@ Before delivering a guide, check all of the following:
 - `Fall View/fall-view-source-composite.png`: unchanged copy of `Screenshot 2026-09-16 220212.png`, showing an autumn mountain sunset painting and partly hidden outline.
 - `Fall View/fall-view-finished-reference.png` and `Fall View/fall-view-outline.png`: generated clean companion reconstructions, not extracted original standalone production artwork.
 - Palette: white, black, red, yellow, blue, green, brown and orange. The painting features a sunset, layered blue ridges, dark conifer slopes, a right-side autumn tree and foreground rock ledges.
-- `Fall View/tmp/pdfs/fall-view-painting-guide-illustrated-draft.pdf` and matching PNG: reviewed one-page US Letter draft with twelve panels. Progression and text have been checked, but generated leaf clusters and some branch/forest contours differ from the canonical outline; exact registration remains unresolved. Do not treat this draft as production-approved or promote it to `output/pdf/` until corrected.
+- `Fall View/tmp/pdfs/fall-view-painting-guide-illustrated-draft.pdf` and matching PNG: reviewed one-page US Letter draft with twelve panels. Progression and text have been checked, but generated leaf clusters and some branch/forest contours differ from the canonical outline; exact registration remains unresolved. Keep this guide labeled as a draft in `output/pdf/` until the contour differences are corrected; its location does not imply production approval.
 - At the user's request, clearly labeled draft PDF and PNG copies are also available in `Fall View/output/pdf/` as `fall-view-painting-guide-illustrated-draft.pdf` and `.png`. This placement does not change their draft status or resolve the contour differences described above.
 - Editable steps, generation prompts, exporter, renderer and verification notes are retained under `Fall View/tmp/`. Source composite and shared master logo are unchanged.
 
+## Current reference files and status (Starry Night Sunflower kit)
+
+- `Starry night sunflower/starry-night-sunflower-source-composite.png`: unchanged copy of supplied `Screenshot 2026-09-16 223534.png`.
+- `Starry night sunflower/starry-night-sunflower-finished-reference.png` and `starry-night-sunflower-outline.png`: generated companion reconstructions, not extracted standalone original production artwork.
+- Composition: two nodding golden sunflowers, curling green stems and leaves, swirling blue night sky and pale yellow star lights.
+- Seven paints: white, black, blue, yellow, orange, green and brown.
+- `Starry night sunflower/output/pdf/starry-night-sunflower-painting-guide-illustrated-draft.pdf` and matching PNG: one-page US Letter twelve-panel draft, rendered and visually inspected. Caption recipes checked; seed-stippling sequence corrected. Exact petal, leaf and sky contour registration remains unresolved, and some foliage highlights appear early. The PDF and matching PNG are in `output/pdf/` at the user's request and remain drafts until corrected.
+- Editable plan, built-in imagegen prompts, corrections, export/render scripts and review notes remain under the kit's `tmp/`; generated guide artwork is in its `assets/`. Source screenshot and shared master logo remain unchanged.
+
 Update this file as the user provides more preferences. Record reusable preferences separately from details specific to one painting.
+
