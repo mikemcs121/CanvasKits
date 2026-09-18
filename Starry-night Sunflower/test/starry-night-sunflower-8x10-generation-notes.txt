@@ -1,0 +1,10 @@
+Tool: built-in ImageGen
+Source: ../starry-night-sunflower-outline.png
+Output: starry-night-sunflower-outline-8x10.png
+Print size: 8 x 10 inches portrait; 2400 x 3000 pixels at 300 DPI.
+Generated image normalized to final print dimensions using high-quality bicubic resampling.
+Original source unchanged.
+
+Prompt:
+Use case: precise-object-edit. Edit target: supplied original Starry-night Sunflower canvas kit outline. Create an 8 inch wide by 10 inch high portrait version, exact 4:5 aspect ratio, preferably 2400 x 3000 pixels. Preserve the same recognizable design: a dominant large tilted sunflower in the upper left and center with blank scalloped seed head and long pointed petals, a smaller downward-facing sunflower in the lower right, sweeping curved stems and large flowing leaves across the lower left and center, and the original spiral swirls in the upper and right background. Preserve the clean fine black outline style, relative placement, overlapping botanical forms and all main elements. Adapt layout carefully to the taller page with natural proportions and no stretching. Keep all major elements and avoid additional cropping of the principal subjects; retain the original edge-to-edge composition. Black line art on pure white for a preprinted painting canvas. No color, shading, gray fills, text, dimensions, border, mockup, extra flowers or extra objects. Return only the flat portrait artwork.
+
