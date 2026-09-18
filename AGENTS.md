@@ -34,6 +34,7 @@ Rules that follow from this pipeline:
 - Deliver a printable US Letter portrait PDF with safe print margins. Keep a matching image version in the project.
 - Keep original source artwork unchanged. The latest approved guide is the visual starting point for future guides.
 - Save final deliverables under the kit's `output/pdf/` folder using clear subject-based filenames.
+- Treat a full canvas-kit request as authorization to finish and promote the verified guide to `output/pdf/`; do not stop at draft quality for routine generated-art drift. Rebuild mismatched panels from the canonical outline/reference using masks, layers or crops. Use draft status only for a concrete unresolved source or tool blocker, and identify the failed production gate.
 
 ## Visual direction
 
