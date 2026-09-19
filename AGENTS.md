@@ -82,6 +82,8 @@ Rules that follow from this pipeline:
 
 ## Step illustrations
 
+- Keep clear petal separations in floral line drawings, but blend those transitions in the finished color painting. Use soft tonal shading rather than dark traced seams between painted petals.
+
 - Each image must teach the action described in its caption.
 - Keep the subject's shape, placement and recognizable details consistent with the supplied outline and finished reference.
 - Show a clear progression for the main painting stages. Unpainted regions remain white with printed outlines until their painting step.
@@ -157,6 +159,16 @@ Before delivering a guide, check all of the following:
 - Seven paints: white, black, blue, yellow, orange, green and brown.
 - `Starry night sunflower/output/pdf/starry-night-sunflower-painting-guide-illustrated-draft.pdf` and matching PNG: one-page US Letter twelve-panel draft, rendered and visually inspected. Caption recipes checked; seed-stippling sequence corrected. Exact petal, leaf and sky contour registration remains unresolved, and some foliage highlights appear early. The PDF and matching PNG are in `output/pdf/` at the user's request and remain drafts until corrected.
 - Editable plan, built-in imagegen prompts, corrections, export/render scripts and review notes remain under the kit's `tmp/`; generated guide artwork is in its `assets/`. Source screenshot and shared master logo remain unchanged.
+
+## Current reference files and direction (Flowers in Vase kit)
+
+- `Flowers in Vase/flowers-in-vase-source-photo.png`: unchanged copy of `Screenshot 2026-09-18 184331.png`, a photograph of a textured floral painting.
+- User requested smoother, more rounded and precise lines for this kit. The reconstructed design retains the bouquet, turquoise background, hanging berries and striped vase, with rounded petals and clean curved vase bands.
+- `Flowers in Vase/flowers-in-vase-outline.png`: canonical 1254 x 1254 outline. `Flowers in Vase/flowers-in-vase-finished-reference.png`: matching painted target. These are new companion reconstructions, not extracted original standalone production artwork. Generated paint textures were registered to the outline masks before final instruction panels were built; the unregistered generated treatment is retained in the kit's `assets/`.
+- Nine paints: white, black, turquoise, blue, green, rose red, yellow, orange and brown. Recipes are included in the relevant captions.
+- Current target: `Flowers in Vase/flowers-in-vase-finished-reference-blended.png`. At the user's request, petals have soft blended transitions instead of dark internal seams; the separate petal shapes in `flowers-in-vase-outline.png` remain unchanged. The earlier color reference is retained. The guide preview, finishing panel and final canvas now follow the blended reference, with wet-edge feathering instructions in step 9.
+- `Flowers in Vase/output/pdf/flowers-in-vase-painting-guide-illustrated.pdf` and `.png`: one-page US Letter twelve-panel guide; PNG rendered from the PDF. Full stages share the exact outline, final detail panels use mapped crops, and the completed canvas lies flat for drying.
+- Editable masks, stage plan, prompts, layout/export/render sources and review notes are retained in `Flowers in Vase/tmp/`; illustration stages and the page-colored logo are in `assets/`. Original photograph and project-wide master logo remain unchanged.
 
 Update this file as the user provides more preferences. Record reusable preferences separately from details specific to one painting.
 
