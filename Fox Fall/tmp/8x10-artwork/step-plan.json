@@ -1,0 +1,459 @@
+{
+  "folder": "Fox Fall",
+  "slug": "fox-fall",
+  "title": "Autumn Fox",
+  "source": "download.png",
+  "paints": [
+    "white",
+    "black",
+    "yellow",
+    "orange",
+    "green",
+    "brown"
+  ],
+  "groups": {
+    "orange": [
+      2,
+      4,
+      5,
+      19,
+      25,
+      28,
+      30,
+      32,
+      33
+    ],
+    "ivory": [
+      3,
+      6,
+      7,
+      10,
+      11,
+      13,
+      14,
+      24,
+      27
+    ],
+    "green": [
+      20,
+      23,
+      21,
+      29
+    ],
+    "gold": [
+      22,
+      18,
+      26,
+      31
+    ],
+    "leafOrange": [
+      9
+    ],
+    "leafGold": [
+      8
+    ],
+    "paws": [
+      34,
+      35,
+      36,
+      37
+    ]
+  },
+  "steps": [
+    {
+      "heading": "Start with the outline",
+      "caption": "Protect your table. Follow the preprinted lines. Keep the background white. Use thin coats; rinse and blot between colors.",
+      "paint": []
+    },
+    {
+      "heading": "Warm orange fur",
+      "caption": "Paint the head, outer ears, body and lower tail orange. Leave the face patches, chest, tail tip and scarf white.",
+      "paint": [
+        "orange"
+      ]
+    },
+    {
+      "heading": "Soft ivory markings",
+      "caption": "Mix white with a tiny touch of yellow and brown for ivory. Paint the face patches, inner ears, chest and tail tip.",
+      "paint": [
+        "ivory"
+      ]
+    },
+    {
+      "heading": "Forest-green stripes",
+      "caption": "Mix green with a little brown. Fill alternating printed scarf sections, starting with green at the left of the neck.",
+      "paint": [
+        "green"
+      ]
+    },
+    {
+      "heading": "Golden scarf stripes",
+      "caption": "Mix yellow with a little orange. Fill the remaining scarf sections, keeping the printed stripe divisions clear.",
+      "paint": [
+        "gold"
+      ]
+    },
+    {
+      "heading": "Two autumn leaves",
+      "caption": "Paint the left maple leaf orange. Mix yellow with a little brown for the right oak leaf. Follow each leaf from stem to tip.",
+      "paint": [
+        "leafOrange",
+        "leafGold"
+      ]
+    },
+    {
+      "heading": "Dark paws & features",
+      "caption": "Mix brown with a little black for the paws and ear tips. Touch up the eyes, nose and smile in black; keep white eye dots.",
+      "paint": [
+        "paws"
+      ]
+    },
+    {
+      "heading": "Layer the fur",
+      "caption": "Mix orange with a little brown for shadows. Pull short strokes along the cheeks, body and tail; keep lighter orange showing.",
+      "paint": [
+        "texture:orange"
+      ]
+    },
+    {
+      "heading": "Scarf light & shade",
+      "caption": "Mix green with yellow for light strokes on green stripes. Mix yellow with white for gold highlights. Let base coats dry first.",
+      "paint": [
+        "texture:green",
+        "texture:gold"
+      ],
+      "crop": [
+        480,
+        580,
+        1050,
+        980
+      ]
+    },
+    {
+      "heading": "Leaf veins & tips",
+      "caption": "Use brown for the printed leaf veins. Mix orange with yellow for maple highlights; add white to yellow for bright oak tips.",
+      "paint": [
+        "texture:leafOrange",
+        "texture:leafGold"
+      ],
+      "crop": [
+        40,
+        320,
+        310,
+        640
+      ]
+    },
+    {
+      "heading": "Gentle finishing light",
+      "caption": "Mix white with a touch of brown for soft fur shadows. Add fine white strokes to ivory areas and tiny white eye glints.",
+      "paint": [
+        "texture:ivory",
+        "texture:paws"
+      ],
+      "crop": [
+        380,
+        300,
+        985,
+        650
+      ]
+    },
+    {
+      "heading": "Dry & clean up",
+      "caption": "Lay the canvas flat until fully dry. Wash brushes, wipe the palette and close the paint pots.",
+      "paint": []
+    }
+  ],
+  "dimensions": [
+    1254,
+    1254
+  ],
+  "groupNames": [
+    "white",
+    "orange",
+    "ivory",
+    "green",
+    "gold",
+    "leafOrange",
+    "leafGold",
+    "paws"
+  ],
+  "materials": "Preprinted 8 x 10 canvas; acrylic paints; large and small brushes; water cup; paper towels; palette or paper plate.",
+  "stages": [
+    {
+      "number": 1,
+      "heading": "Start with the outline",
+      "caption": "Protect your table. Follow the preprinted lines. Keep the background white. Use thin coats; rinse and blot between colors.",
+      "fullCanvas": true,
+      "crop": null,
+      "paintedGroups": [],
+      "texturedGroups": [],
+      "whiteGroups": [
+        "orange",
+        "ivory",
+        "green",
+        "gold",
+        "leafOrange",
+        "leafGold",
+        "paws"
+      ],
+      "exactCanonicalLines": true
+    },
+    {
+      "number": 2,
+      "heading": "Warm orange fur",
+      "caption": "Paint the head, outer ears, body and lower tail orange. Leave the face patches, chest, tail tip and scarf white.",
+      "fullCanvas": true,
+      "crop": null,
+      "paintedGroups": [
+        "orange"
+      ],
+      "texturedGroups": [],
+      "whiteGroups": [
+        "ivory",
+        "green",
+        "gold",
+        "leafOrange",
+        "leafGold",
+        "paws"
+      ],
+      "exactCanonicalLines": true
+    },
+    {
+      "number": 3,
+      "heading": "Soft ivory markings",
+      "caption": "Mix white with a tiny touch of yellow and brown for ivory. Paint the face patches, inner ears, chest and tail tip.",
+      "fullCanvas": true,
+      "crop": null,
+      "paintedGroups": [
+        "orange",
+        "ivory"
+      ],
+      "texturedGroups": [],
+      "whiteGroups": [
+        "green",
+        "gold",
+        "leafOrange",
+        "leafGold",
+        "paws"
+      ],
+      "exactCanonicalLines": true
+    },
+    {
+      "number": 4,
+      "heading": "Forest-green stripes",
+      "caption": "Mix green with a little brown. Fill alternating printed scarf sections, starting with green at the left of the neck.",
+      "fullCanvas": true,
+      "crop": null,
+      "paintedGroups": [
+        "orange",
+        "ivory",
+        "green"
+      ],
+      "texturedGroups": [],
+      "whiteGroups": [
+        "gold",
+        "leafOrange",
+        "leafGold",
+        "paws"
+      ],
+      "exactCanonicalLines": true
+    },
+    {
+      "number": 5,
+      "heading": "Golden scarf stripes",
+      "caption": "Mix yellow with a little orange. Fill the remaining scarf sections, keeping the printed stripe divisions clear.",
+      "fullCanvas": true,
+      "crop": null,
+      "paintedGroups": [
+        "orange",
+        "ivory",
+        "green",
+        "gold"
+      ],
+      "texturedGroups": [],
+      "whiteGroups": [
+        "leafOrange",
+        "leafGold",
+        "paws"
+      ],
+      "exactCanonicalLines": true
+    },
+    {
+      "number": 6,
+      "heading": "Two autumn leaves",
+      "caption": "Paint the left maple leaf orange. Mix yellow with a little brown for the right oak leaf. Follow each leaf from stem to tip.",
+      "fullCanvas": true,
+      "crop": null,
+      "paintedGroups": [
+        "orange",
+        "ivory",
+        "green",
+        "gold",
+        "leafOrange",
+        "leafGold"
+      ],
+      "texturedGroups": [],
+      "whiteGroups": [
+        "paws"
+      ],
+      "exactCanonicalLines": true
+    },
+    {
+      "number": 7,
+      "heading": "Dark paws & features",
+      "caption": "Mix brown with a little black for the paws and ear tips. Touch up the eyes, nose and smile in black; keep white eye dots.",
+      "fullCanvas": true,
+      "crop": null,
+      "paintedGroups": [
+        "orange",
+        "ivory",
+        "green",
+        "gold",
+        "leafOrange",
+        "leafGold",
+        "paws"
+      ],
+      "texturedGroups": [],
+      "whiteGroups": [],
+      "exactCanonicalLines": true
+    },
+    {
+      "number": 8,
+      "heading": "Layer the fur",
+      "caption": "Mix orange with a little brown for shadows. Pull short strokes along the cheeks, body and tail; keep lighter orange showing.",
+      "fullCanvas": true,
+      "crop": null,
+      "paintedGroups": [
+        "orange",
+        "ivory",
+        "green",
+        "gold",
+        "leafOrange",
+        "leafGold",
+        "paws"
+      ],
+      "texturedGroups": [
+        "orange"
+      ],
+      "whiteGroups": [],
+      "exactCanonicalLines": true
+    },
+    {
+      "number": 9,
+      "heading": "Scarf light & shade",
+      "caption": "Mix green with yellow for light strokes on green stripes. Mix yellow with white for gold highlights. Let base coats dry first.",
+      "fullCanvas": false,
+      "crop": [
+        480,
+        580,
+        1050,
+        980
+      ],
+      "paintedGroups": [
+        "orange",
+        "ivory",
+        "green",
+        "gold",
+        "leafOrange",
+        "leafGold",
+        "paws"
+      ],
+      "texturedGroups": [
+        "orange",
+        "green",
+        "gold"
+      ],
+      "whiteGroups": [],
+      "exactCanonicalLines": true
+    },
+    {
+      "number": 10,
+      "heading": "Leaf veins & tips",
+      "caption": "Use brown for the printed leaf veins. Mix orange with yellow for maple highlights; add white to yellow for bright oak tips.",
+      "fullCanvas": false,
+      "crop": [
+        40,
+        320,
+        310,
+        640
+      ],
+      "paintedGroups": [
+        "orange",
+        "ivory",
+        "green",
+        "gold",
+        "leafOrange",
+        "leafGold",
+        "paws"
+      ],
+      "texturedGroups": [
+        "orange",
+        "green",
+        "gold",
+        "leafOrange",
+        "leafGold"
+      ],
+      "whiteGroups": [],
+      "exactCanonicalLines": true
+    },
+    {
+      "number": 11,
+      "heading": "Gentle finishing light",
+      "caption": "Mix white with a touch of brown for soft fur shadows. Add fine white strokes to ivory areas and tiny white eye glints.",
+      "fullCanvas": false,
+      "crop": [
+        380,
+        300,
+        985,
+        650
+      ],
+      "paintedGroups": [
+        "orange",
+        "ivory",
+        "green",
+        "gold",
+        "leafOrange",
+        "leafGold",
+        "paws"
+      ],
+      "texturedGroups": [
+        "orange",
+        "green",
+        "gold",
+        "leafOrange",
+        "leafGold",
+        "ivory",
+        "paws"
+      ],
+      "whiteGroups": [],
+      "exactCanonicalLines": true
+    },
+    {
+      "number": 12,
+      "heading": "Dry & clean up",
+      "caption": "Lay the canvas flat until fully dry. Wash brushes, wipe the palette and close the paint pots.",
+      "fullCanvas": true,
+      "crop": null,
+      "paintedGroups": [
+        "orange",
+        "ivory",
+        "green",
+        "gold",
+        "leafOrange",
+        "leafGold",
+        "paws"
+      ],
+      "texturedGroups": [
+        "orange",
+        "green",
+        "gold",
+        "leafOrange",
+        "leafGold",
+        "ivory",
+        "paws"
+      ],
+      "whiteGroups": [],
+      "exactCanonicalLines": true
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "kit": "Fox Fall",
+  "sourceSha256": "074c21f9e69ce0ffd05e999e82aaaf1dad1ba165698595c071e978ec23939ed7",
+  "trueVector": true,
+  "embeddedRasterImages": 0,
+  "background": "transparent",
+  "fill": "#000000",
+  "physicalInches": [
+    8,
+    10
+  ],
+  "viewBox": [
+    0,
+    0,
+    2400,
+    3000
+  ],
+  "nativePixels": [
+    1254,
+    1254
+  ],
+  "sourceInk": 167601,
+  "vectorInk": 168313,
+  "intersectionOverUnion": 0.9727155273666902,
+  "differencesBeyondOnePixel": 0,
+  "subpaths": 38,
+  "svgBytes": 49420
+}

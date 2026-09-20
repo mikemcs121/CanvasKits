@@ -1,0 +1,44 @@
+[
+    {
+        "placementPixels":  [
+                                60,
+                                360,
+                                2280,
+                                2280
+                            ],
+        "pixels":  [
+                       2400,
+                       3000
+                   ],
+        "source":  "C:\\Projects\\Canvas Kits\\Fox Fall\\tmp\\8x10-artwork\\canonical-outline.png",
+        "kind":  "outline",
+        "sourcePixels":  [
+                             1254,
+                             1254
+                         ],
+        "dpi":  300,
+        "output":  "fox-fall-outline-8x10.png",
+        "sourceHash":  "074C21F9E69CE0FFD05E999E82AAAF1DAD1BA165698595C071E978EC23939ED7"
+    },
+    {
+        "placementPixels":  [
+                                60,
+                                360,
+                                2280,
+                                2280
+                            ],
+        "pixels":  [
+                       2400,
+                       3000
+                   ],
+        "source":  "C:\\Projects\\Canvas Kits\\Fox Fall\\tmp\\8x10-artwork\\registered-reference.png",
+        "kind":  "finished-reference",
+        "sourcePixels":  [
+                             1254,
+                             1254
+                         ],
+        "dpi":  300,
+        "output":  "fox-fall-finished-reference-8x10.png",
+        "sourceHash":  "528DB3B4E5B2DE175C0E5BD861CEA4E1E3277FA87B5342C6A08F0B2588E4AACC"
+    }
+]

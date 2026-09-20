@@ -1,0 +1,52 @@
+[
+    {
+        "kit":  "Gnome Halloween",
+        "sha256":  "7FAB97C72BFF40A7B9E7EA4B1660614EB58920928E94E91A4AEA2AAB209F6E47",
+        "destination":  "C:\\Users\\mikem\\OneDrive\\Desktop\\Canvas Kit Vector Outlines\\gnome-halloween-outline-8x10.svg"
+    },
+    {
+        "kit":  "Gnome Christmas Tree",
+        "sha256":  "1E5925F4234591122C9FAF4A75E4DB908575C7821B025C943442F6F236323230",
+        "destination":  "C:\\Users\\mikem\\OneDrive\\Desktop\\Canvas Kit Vector Outlines\\gnome-christmas-tree-outline-8x10.svg"
+    },
+    {
+        "kit":  "Gnome Fall",
+        "sha256":  "E388D9CCDC78847EBB7D09EF55C6A9EC7B80CC4D2508D735296859A510E24DCC",
+        "destination":  "C:\\Users\\mikem\\OneDrive\\Desktop\\Canvas Kit Vector Outlines\\gnome-fall-outline-8x10.svg"
+    },
+    {
+        "kit":  "Flowers in Vase",
+        "sha256":  "B677DBC3F67D5DA3C3CF210A02E8011D04C6188EA3A64B8E07545A2A8D435A29",
+        "destination":  "C:\\Users\\mikem\\OneDrive\\Desktop\\Canvas Kit Vector Outlines\\flowers-in-vase-outline-8x10.svg"
+    },
+    {
+        "kit":  "Fall View",
+        "sha256":  "B678543E2B1BB2EE273638DD5F220B4EAA0CA9552AB361FC089E2FCD81CDE4E0",
+        "destination":  "C:\\Users\\mikem\\OneDrive\\Desktop\\Canvas Kit Vector Outlines\\fall-view-outline-8x10.svg"
+    },
+    {
+        "kit":  "Starry-night Sunflower",
+        "sha256":  "3F65D80F6F923EDCA589FA24065F06630C5A1246BF6EDBE4DEFE8C381045D932",
+        "destination":  "C:\\Users\\mikem\\OneDrive\\Desktop\\Canvas Kit Vector Outlines\\starry-night-sunflower-outline-8x10.svg"
+    },
+    {
+        "kit":  "Fox Fall",
+        "sha256":  "909C7F176A981427432F115EE9DDDA03FCCC1D36A18611489EBB228F0C27E3A3",
+        "destination":  "C:\\Users\\mikem\\OneDrive\\Desktop\\Canvas Kit Vector Outlines\\fox-fall-outline-8x10.svg"
+    },
+    {
+        "kit":  "Ghost Fall",
+        "sha256":  "1CC9BED1B1FA09B83312F08AD0E688C636D6A8FD03023F6BEDEFFA2D7E35AF62",
+        "destination":  "C:\\Users\\mikem\\OneDrive\\Desktop\\Canvas Kit Vector Outlines\\ghost-fall-outline-8x10.svg"
+    },
+    {
+        "kit":  "Kat In Pumpkin",
+        "sha256":  "666D60996C09F9B384F8CC069388408894139DAF429AEF168394C6FB66C2BEC2",
+        "destination":  "C:\\Users\\mikem\\OneDrive\\Desktop\\Canvas Kit Vector Outlines\\kat-in-pumpkin-outline-8x10.svg"
+    },
+    {
+        "kit":  "Pumkin",
+        "sha256":  "F71F7CD29741EBC90D9803C605132DAC20E3FE3DB189EFF59900B574C5714EDE",
+        "destination":  "C:\\Users\\mikem\\OneDrive\\Desktop\\Canvas Kit Vector Outlines\\pumpkin-outline-8x10.svg"
+    }
+]

@@ -1,0 +1,17 @@
+{
+  "kit": "Gnome Fall",
+  "physicalInches": [
+    8,
+    10
+  ],
+  "linePoints": 1.4,
+  "color": "#A6A6A6",
+  "kids": false,
+  "trueVector": true,
+  "transparentPixels": 6428331,
+  "opaqueLinePixels": 563126,
+  "wrongOpaqueColorPixels": 0,
+  "svgSha256": "e388d9ccdc78847ebb7d09ef55c6a9ec7b80cc4d2508d735296859a510e24dcc",
+  "originalSourceSha256": "c06d62debb11c1fc853ad0d9fbd7fb4d6720d2e1a0120a02ae4f2247a2f577d5",
+  "compositionChanged": false
+}

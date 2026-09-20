@@ -1,0 +1,118 @@
+[
+    {
+        "source":  "C:\\Projects\\Canvas Kits\\Fox Fall\\fox-fall-outline.png",
+        "pixels":  [
+                       4800,
+                       6000
+                   ],
+        "placementPixels":  [
+                                120,
+                                720,
+                                4560,
+                                4560
+                            ],
+        "bytes":  1671889,
+        "background":  "transparent",
+        "inches":  [
+                       8,
+                       10
+                   ],
+        "dpi":  600,
+        "lineRGB":  [
+                        0,
+                        0,
+                        0
+                    ],
+        "detail":  "Resampled directly from canonical outline; no new design detail",
+        "sourceSha256":  "F42AB446147B38FD654951EA9D842A8A109CEC1C48FA1B30CD75254F257C1ED6",
+        "kit":  "Fox Fall",
+        "file":  "C:\\Projects\\Canvas Kits\\Fox Fall\\output\\pdf\\8x10\\fox-fall-outline-8x10-600dpi.png"
+    },
+    {
+        "source":  "C:\\Projects\\Canvas Kits\\Ghost Fall\\ghost-fall-outline.png",
+        "pixels":  [
+                       4800,
+                       6000
+                   ],
+        "placementPixels":  [
+                                120,
+                                720,
+                                4560,
+                                4560
+                            ],
+        "bytes":  1208921,
+        "background":  "transparent",
+        "inches":  [
+                       8,
+                       10
+                   ],
+        "dpi":  600,
+        "lineRGB":  [
+                        0,
+                        0,
+                        0
+                    ],
+        "detail":  "Resampled directly from canonical outline; no new design detail",
+        "sourceSha256":  "3A705DDE5070D2E188831033765BD130D0D1E0CE77853468EFECEA89AB8DE7E1",
+        "kit":  "Ghost Fall",
+        "file":  "C:\\Projects\\Canvas Kits\\Ghost Fall\\output\\pdf\\8x10\\ghost-fall-outline-8x10-600dpi.png"
+    },
+    {
+        "source":  "C:\\Projects\\Canvas Kits\\Kat In Pumpkin\\kat-in-pumpkin-outline.png",
+        "pixels":  [
+                       4800,
+                       6000
+                   ],
+        "placementPixels":  [
+                                120,
+                                720,
+                                4560,
+                                4560
+                            ],
+        "bytes":  1824652,
+        "background":  "transparent",
+        "inches":  [
+                       8,
+                       10
+                   ],
+        "dpi":  600,
+        "lineRGB":  [
+                        0,
+                        0,
+                        0
+                    ],
+        "detail":  "Resampled directly from canonical outline; no new design detail",
+        "sourceSha256":  "F04138F9324C2E35CB8A7EA96CF60D345E7164F75E55F75C4C3F88D8C1990ACC",
+        "kit":  "Kat In Pumpkin",
+        "file":  "C:\\Projects\\Canvas Kits\\Kat In Pumpkin\\output\\pdf\\8x10\\kat-in-pumpkin-outline-8x10-600dpi.png"
+    },
+    {
+        "source":  "C:\\Projects\\Canvas Kits\\pumpkin\\pumpkin-outline.png",
+        "pixels":  [
+                       4800,
+                       6000
+                   ],
+        "placementPixels":  [
+                                120,
+                                720,
+                                4560,
+                                4560
+                            ],
+        "bytes":  1396233,
+        "background":  "transparent",
+        "inches":  [
+                       8,
+                       10
+                   ],
+        "dpi":  600,
+        "lineRGB":  [
+                        0,
+                        0,
+                        0
+                    ],
+        "detail":  "Resampled directly from canonical outline; no new design detail",
+        "sourceSha256":  "3FA6855CAFB5CC42674DF54AD0BB7725A4EA86E6B691DCFE8B319E5874A0891A",
+        "kit":  "pumpkin",
+        "file":  "C:\\Projects\\Canvas Kits\\pumpkin\\output\\pdf\\8x10\\pumpkin-outline-8x10-600dpi.png"
+    }
+]
