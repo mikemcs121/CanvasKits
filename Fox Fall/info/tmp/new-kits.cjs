@@ -41,7 +41,7 @@ module.exports=[
    step('Light along the rim','Mix orange with yellow and a little white. Trace a narrow highlight on the front rim and the upper edges of pumpkin ribs.',[],[235,485,1015,730]),
    step('Small paw highlights','Mix white with a little black and brown for warm gray. Add short strokes on the paw tops; keep the toe divisions darker.',[],[630,490,845,665]),
    step('Whiskers & eye shine','Let the face dry. Use black and a fine brush to tidy whiskers and the smile. Add a small white dot to each eye.',[],[310,285,870,525]),dry]},
- {folder:'Pumkin',slug:'pumpkin',title:'Autumn Pumpkin',source:'exec-dd3ad511-2377-40d8-bb15-dd9d9771fcbc.png',paints:['white','black','yellow','green','brown','orange'],
+ {folder:'Pumpkin',slug:'pumpkin',title:'Autumn Pumpkin',source:'exec-dd3ad511-2377-40d8-bb15-dd9d9771fcbc.png',paints:['white','black','yellow','green','brown','orange'],
   groups:{orange:[3,4,5,6,7,8,9,14,15,16],stem:[2],dark:[10,11,12,13]},
   steps:[start,
    step('An even orange base','Paint the pumpkin orange in two thin coats, drying between coats. Leave the stem and carved face white; keep both teeth orange.',['orange']),

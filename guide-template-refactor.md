@@ -11,7 +11,7 @@ The rebuilt layout uses a large brush-script title, painting preview at left, co
 | [Autumn Fox](<Fox Fall/fox-fall-painting-guide-8x10.pdf>) | Warm brown, cream gold, orange and moss green |
 | [Autumn Ghost](<Ghost Fall/ghost-fall-painting-guide-8x10.pdf>) | Plum, pale lavender, ivory and muted orange |
 | [Cat in Pumpkin](<Cat in Pumpkin/cat-in-pumpkin-painting-guide-8x10.pdf>) | Charcoal blue, pale peach, ivory and pumpkin gold |
-| [Autumn Pumpkin](<Pumkin/pumpkin-painting-guide-8x10.pdf>) | Dark brown, cream, russet orange and olive |
+| [Autumn Pumpkin](<Pumpkin/pumpkin-painting-guide-8x10.pdf>) | Dark brown, cream, russet orange and olive |
 | [Christmas Gnome](<Gnome Christmas Tree/gnome-christmas-tree-painting-guide-8x10.pdf>) | Evergreen, pale cool green, ivory, snowy blue and red accents |
 | [Gnome Fall](<Gnome Fall/gnome-fall-painting-guide-8x10.pdf>) | Deep teal, pale teal, green and autumn gold |
 | [Fall View](<Fall View/fall-view-painting-guide-8x10.pdf>) | Navy, pale blue, evergreen and autumn gold |

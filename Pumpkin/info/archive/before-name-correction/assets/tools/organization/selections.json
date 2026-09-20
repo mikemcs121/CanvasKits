@@ -1,0 +1,92 @@
+[
+  {
+    "folder": "Flowers in Vase",
+    "slug": "flowers-in-vase",
+    "review": "Existing full-portrait reference and guide reviewed; unchanged.",
+    "build": "assets/portrait-rebuild/ and tmp/portrait-rebuild/; tmp/8x10/ remains a builder dependency.",
+    "outline": "output/svg/8x10/flowers-in-vase-outline-8x10.svg",
+    "guide": "output/pdf/8x10/flowers-in-vase-painting-guide-8x10.pdf",
+    "reference": "output/pdf/8x10/flowers-in-vase-finished-reference-8x10.pdf"
+  },
+  {
+    "folder": "Gnome Halloween",
+    "slug": "gnome-halloween",
+    "review": "Existing corrected full-height reference and guide reviewed; unchanged.",
+    "build": "assets/full-portrait/ and tmp/full-portrait/; tmp/vector-8x10/ remains a dependency.",
+    "outline": "output/svg/8x10/gnome-halloween-outline-8x10.svg",
+    "guide": "output/pdf/8x10/gnome-halloween-painting-guide-8x10.pdf",
+    "reference": "output/pdf/8x10/gnome-halloween-finished-reference-8x10.pdf"
+  },
+  {
+    "folder": "Fox Fall",
+    "slug": "fox-fall",
+    "review": "Existing matching centered composition preserved; children’s transfer gray.",
+    "build": "assets/8x10/ and tmp/8x10-artwork/; shared autumn builders in Fox Fall/info/tmp/.",
+    "outline": "output/svg/8x10/fox-fall-outline-8x10.svg",
+    "guide": "output/pdf/8x10/fox-fall-painting-guide-8x10.pdf",
+    "reference": "output/pdf/8x10/fox-fall-finished-reference-8x10.pdf"
+  },
+  {
+    "folder": "Ghost Fall",
+    "slug": "ghost-fall",
+    "review": "Existing matching centered composition preserved.",
+    "build": "assets/8x10/ and tmp/8x10-artwork/; shared autumn builders in Fox Fall/info/tmp/.",
+    "outline": "output/svg/8x10/ghost-fall-outline-8x10.svg",
+    "guide": "output/pdf/8x10/ghost-fall-painting-guide-8x10.pdf",
+    "reference": "output/pdf/8x10/ghost-fall-finished-reference-8x10.pdf"
+  },
+  {
+    "folder": "Cat in Pumpkin",
+    "slug": "cat-in-pumpkin",
+    "review": "Existing matching centered composition preserved; children’s transfer gray.",
+    "build": "assets/8x10/ and tmp/8x10-artwork/; shared autumn builders in Fox Fall/info/tmp/.",
+    "outline": "output/svg/8x10/cat-in-pumpkin-outline-8x10.svg",
+    "guide": "output/pdf/8x10/cat-in-pumpkin-painting-guide-8x10.pdf",
+    "reference": "output/pdf/8x10/cat-in-pumpkin-finished-reference-8x10.pdf"
+  },
+  {
+    "folder": "Pumkin",
+    "slug": "pumpkin",
+    "review": "Guide repaired to restore clipped header, materials and step numbers; centered composition preserved.",
+    "build": "assets/8x10/ and tmp/8x10-artwork/; shared autumn builders in Fox Fall/info/tmp/.",
+    "outline": "output/svg/8x10/pumpkin-outline-8x10.svg",
+    "guide": "output/pdf/8x10/pumpkin-painting-guide-8x10.pdf",
+    "reference": "output/pdf/8x10/pumpkin-finished-reference-8x10.pdf"
+  },
+  {
+    "folder": "Gnome Christmas Tree",
+    "slug": "gnome-christmas-tree",
+    "review": "Portrait reference and guide rebuilt against existing SVG; see organization audit.",
+    "build": "tmp/organization/ (see project organization-audit-gnomes.md for entrypoints).",
+    "outline": "output/svg/8x10/gnome-christmas-tree-outline-8x10.svg",
+    "guide": "output/pdf/8x10/gnome-christmas-tree-painting-guide-8x10.pdf",
+    "reference": "output/pdf/8x10/gnome-christmas-tree-finished-reference-8x10.pdf"
+  },
+  {
+    "folder": "Gnome Fall",
+    "slug": "gnome-fall",
+    "review": "Portrait reference and guide rebuilt against existing SVG; see organization audit.",
+    "build": "tmp/organization/ (see project organization-audit-gnomes.md for entrypoints).",
+    "outline": "output/svg/8x10/gnome-fall-outline-8x10.svg",
+    "guide": "output/pdf/8x10/gnome-fall-painting-guide-8x10.pdf",
+    "reference": "output/pdf/8x10/gnome-fall-finished-reference-8x10.pdf"
+  },
+  {
+    "folder": "fall view",
+    "slug": "fall-view",
+    "review": "Portrait reference and guide rebuilt against existing SVG; see organization audit.",
+    "build": "tmp/organization-repair/ (see project organization-audit-landscape.md for entrypoints).",
+    "outline": "output/svg/8x10/fall-view-outline-8x10.svg",
+    "guide": "output/pdf/8x10/fall-view-painting-guide-8x10.pdf",
+    "reference": "output/pdf/8x10/fall-view-finished-reference-8x10.pdf"
+  },
+  {
+    "folder": "Starry-night Sunflower",
+    "slug": "starry-night-sunflower",
+    "review": "Portrait reference and guide rebuilt against existing SVG; original square kit archived intact.",
+    "build": "tmp/organization-repair/ (see project organization-audit-landscape.md for entrypoints).",
+    "outline": "output/svg/8x10/starry-night-sunflower-outline-8x10.svg",
+    "guide": "output/pdf/8x10/starry-night-sunflower-painting-guide-8x10.pdf",
+    "reference": "output/pdf/8x10/starry-night-sunflower-finished-reference-8x10.pdf"
+  }
+]

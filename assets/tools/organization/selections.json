@@ -45,7 +45,7 @@
     "reference": "output/pdf/8x10/cat-in-pumpkin-finished-reference-8x10.pdf"
   },
   {
-    "folder": "Pumkin",
+    "folder": "Pumpkin",
     "slug": "pumpkin",
     "review": "Guide repaired to restore clipped header, materials and step numbers; centered composition preserved.",
     "build": "assets/8x10/ and tmp/8x10-artwork/; shared autumn builders in Fox Fall/info/tmp/.",

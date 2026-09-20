@@ -6,7 +6,7 @@ const kits=[
  ['Fox Fall','fox-fall','Existing matching centered composition preserved; children’s transfer gray.','assets/8x10/ and tmp/8x10-artwork/; shared autumn builders in Fox Fall/info/tmp/.'],
  ['Ghost Fall','ghost-fall','Existing matching centered composition preserved.','assets/8x10/ and tmp/8x10-artwork/; shared autumn builders in Fox Fall/info/tmp/.'],
  ['Cat in Pumpkin','cat-in-pumpkin','Existing matching centered composition preserved; children’s transfer gray.','assets/8x10/ and tmp/8x10-artwork/; shared autumn builders in Fox Fall/info/tmp/.'],
- ['Pumkin','pumpkin','Guide repaired to restore clipped header, materials and step numbers; centered composition preserved.','assets/8x10/ and tmp/8x10-artwork/; shared autumn builders in Fox Fall/info/tmp/.'],
+ ['Pumpkin','pumpkin','Guide repaired to restore clipped header, materials and step numbers; centered composition preserved.','assets/8x10/ and tmp/8x10-artwork/; shared autumn builders in Fox Fall/info/tmp/.'],
  ['Gnome Christmas Tree','gnome-christmas-tree','Portrait reference and guide rebuilt against existing SVG; see organization audit.','tmp/organization/ (see project organization-audit-gnomes.md for entrypoints).'],
  ['Gnome Fall','gnome-fall','Portrait reference and guide rebuilt against existing SVG; see organization audit.','tmp/organization/ (see project organization-audit-gnomes.md for entrypoints).'],
  ['fall view','fall-view','Portrait reference and guide rebuilt against existing SVG; see organization audit.','tmp/organization-repair/ (see project organization-audit-landscape.md for entrypoints).'],

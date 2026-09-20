@@ -1,6 +1,6 @@
 Add-Type -AssemblyName System.Drawing
 $ErrorActionPreference='Stop'
-$kits=@(@('Fox Fall','fox-fall','download.png'),@('Ghost Fall','ghost-fall','exec-8b4604c1-f90d-4ddd-959b-56e4dd2b270f.png'),@('Cat in Pumpkin','cat-in-pumpkin','exec-01c35205-b359-4887-a7f9-a31e173a5e1f.png'),@('Pumkin','pumpkin','exec-dd3ad511-2377-40d8-bb15-dd9d9771fcbc.png'))
+$kits=@(@('Fox Fall','fox-fall','download.png'),@('Ghost Fall','ghost-fall','exec-8b4604c1-f90d-4ddd-959b-56e4dd2b270f.png'),@('Cat in Pumpkin','cat-in-pumpkin','exec-01c35205-b359-4887-a7f9-a31e173a5e1f.png'),@('Pumpkin','pumpkin','exec-dd3ad511-2377-40d8-bb15-dd9d9771fcbc.png'))
 function Get-KitWorkRoot([string]$KitFolder){
  $root=Join-Path (Get-Location) $KitFolder;$relocated=Join-Path $root 'info'
  if(Test-Path -LiteralPath $relocated){return $relocated};return $root

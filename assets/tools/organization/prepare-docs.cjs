@@ -29,7 +29,7 @@ Use the project build-canvas skill for full kits. Its output layout must follow 
 
 Preserve each current SVG's approved geometry. This organization request authorizes bringing references and guides into alignment with those SVGs, not redesigning the transfer. Specific future rejections of a composition authorize replacing it after archiving the rejected edition and updating all three production files together.
 
-For new designs or requested recompositions, the actual subject must read as a natural 4:5 portrait, with complete features and natural proportions. Extra background around a square design does not satisfy this. Existing centered Fox Fall, Ghost Fall, Cat in Pumpkin, and Pumkin arrangements remain preserved unless separately revised.
+For new designs or requested recompositions, the actual subject must read as a natural 4:5 portrait, with complete features and natural proportions. Extra background around a square design does not satisfy this. Existing centered Fox Fall, Ghost Fall, Cat in Pumpkin, and Pumpkin arrangements remain preserved unless separately revised.
 
 Current transfer standard is **2 pt (0.706 mm)** at 8 by 10 inches, round caps/joins, **#A6A6A6 for adults**, **#808080 for children's Fox Fall and Cat in Pumpkin**. SVGs contain true vector paths, no raster or background. Supporting outline PDFs remain vector. PNGs have transparent interiors and margins, 2400 by 3000 at 300 DPI; optional 600-DPI compatibility copies are 4800 by 6000. Artwork PDFs are 576 by 720 points; guides are 612 by 792 points. Print artwork at Actual size / 100%. These are file standards, not claims of physical press testing.
 

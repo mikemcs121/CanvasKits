@@ -6,7 +6,7 @@ Add-Type -AssemblyName System.Runtime.WindowsRuntime
 $asTask=[System.WindowsRuntimeSystemExtensions].GetMethods()|Where-Object {$_.Name -eq 'AsTask' -and $_.IsGenericMethod -and $_.GetParameters().Count -eq 1 -and $_.GetParameters()[0].ParameterType.Name -eq 'IAsyncOperation`1'}|Select-Object -First 1
 function Await-Result($op,$type){$t=$asTask.MakeGenericMethod($type).Invoke($null,@($op));$t.Wait();$t.Result}
 function Await-Action($op){$m=[System.WindowsRuntimeSystemExtensions].GetMethods()|Where-Object {$_.Name -eq 'AsTask' -and -not $_.IsGenericMethod -and $_.GetParameters().Count -eq 1}|Select-Object -First 1;$t=$m.Invoke($null,@($op));$t.Wait()}
-foreach($folder in @('Gnome Halloween','Gnome Christmas Tree','Gnome Fall','Flowers in Vase','Fall View','Starry-night Sunflower','Fox Fall','Ghost Fall','Cat in Pumpkin','Pumkin')){
+foreach($folder in @('Gnome Halloween','Gnome Christmas Tree','Gnome Fall','Flowers in Vase','Fall View','Starry-night Sunflower','Fox Fall','Ghost Fall','Cat in Pumpkin','Pumpkin')){
  $d=Join-Path (Get-Location) ($folder+'/tmp/darker-outline');$out=Join-Path (Get-Location) ($folder+'/tmp/darker-outline');$checks=@()
  $files=@(Get-ChildItem -LiteralPath $d -Filter '*painting-guide-8x10.pdf')+@(Get-ChildItem -LiteralPath $out -Filter '*.pdf'|Where-Object {$_.Name -notmatch 'painting-guide'})
  foreach($f in $files){

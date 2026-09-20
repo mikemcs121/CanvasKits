@@ -1,7 +1,7 @@
 param([string]$KitFolder = '')
 $ErrorActionPreference='Stop'
 Add-Type -AssemblyName System.Drawing
-$kits=@(@('Fox Fall','fox-fall'),@('Ghost Fall','ghost-fall'),@('Cat in Pumpkin','cat-in-pumpkin'),@('Pumkin','pumpkin'))
+$kits=@(@('Fox Fall','fox-fall'),@('Ghost Fall','ghost-fall'),@('Cat in Pumpkin','cat-in-pumpkin'),@('Pumpkin','pumpkin'))
 function Get-KitWorkRoot([string]$KitFolder){
  $root=Join-Path (Get-Location) $KitFolder;$relocated=Join-Path $root 'info'
  if(Test-Path -LiteralPath $relocated){return $relocated};return $root

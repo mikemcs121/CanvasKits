@@ -9,7 +9,7 @@ Use the root SVG files linked below for sublimation uploads. All ten are true 8 
 | Fox Fall | [SVG](<Fox Fall/fox-fall-outline-8x10.svg>) | #808080 (children) |
 | Ghost Fall | [SVG](<Ghost Fall/ghost-fall-outline-8x10.svg>) | #A6A6A6 (adult) |
 | Cat in Pumpkin | [SVG](<Cat in Pumpkin/cat-in-pumpkin-outline-8x10.svg>) | #808080 (children) |
-| Pumkin | [SVG](<Pumkin/pumpkin-outline-8x10.svg>) | #A6A6A6 (adult) |
+| Pumpkin | [SVG](<Pumpkin/pumpkin-outline-8x10.svg>) | #A6A6A6 (adult) |
 | Gnome Christmas Tree | [SVG](<Gnome Christmas Tree/gnome-christmas-tree-outline-8x10.svg>) | #A6A6A6 (adult) |
 | Gnome Fall | [SVG](<Gnome Fall/gnome-fall-outline-8x10.svg>) | #A6A6A6 (adult) |
 | fall view | [SVG](<fall view/fall-view-outline-8x10.svg>) | #A6A6A6 (adult) |

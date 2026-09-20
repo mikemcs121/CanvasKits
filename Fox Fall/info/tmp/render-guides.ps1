@@ -11,7 +11,7 @@ function Get-KitWorkRoot([string]$KitFolder){
  $root=Join-Path (Get-Location) $KitFolder;$relocated=Join-Path $root 'info'
  if(Test-Path -LiteralPath $relocated){return $relocated};return $root
 }
-foreach($folder in @('Fox Fall','Ghost Fall','Cat in Pumpkin','Pumkin')){
+foreach($folder in @('Fox Fall','Ghost Fall','Cat in Pumpkin','Pumpkin')){
  if($KitFolder -and $folder -ne $KitFolder){continue}
  $work=Get-KitWorkRoot $folder;$d=Join-Path $work 'tmp/8x10-artwork';$out=Join-Path $work 'output/pdf/8x10';$checks=@()
  $files=@(Get-ChildItem -LiteralPath $d -Filter '*painting-guide-8x10.pdf')+@(Get-ChildItem -LiteralPath $out -Filter '*.pdf'|Where-Object {$_.Name -notmatch 'painting-guide'})

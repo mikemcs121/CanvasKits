@@ -20,10 +20,10 @@ Existing matching centered composition preserved.
 
 Existing matching centered composition preserved; children’s transfer gray.
 
-## Pumkin
+## Pumpkin
 
-[SVG outline](<Pumkin/pumpkin-outline-8x10.svg>) · [Guide PDF](<Pumkin/pumpkin-painting-guide-8x10.pdf>) · [Reference PDF](<Pumkin/pumpkin-finished-reference-8x10.pdf>) · [Supporting files](<Pumkin/info/README.md>)
+[SVG outline](<Pumpkin/pumpkin-outline-8x10.svg>) · [Guide PDF](<Pumpkin/pumpkin-painting-guide-8x10.pdf>) · [Reference PDF](<Pumpkin/pumpkin-finished-reference-8x10.pdf>) · [Supporting files](<Pumpkin/info/README.md>)
 
 Guide repaired to restore clipped header, materials and step numbers; centered composition preserved.
 
-All use 2-point gray outlines: #808080 for Fox Fall and Cat in Pumpkin; #A6A6A6 for Ghost Fall and Pumkin. [Complete kit index](canvas-kits.md).
+All use 2-point gray outlines: #808080 for Fox Fall and Cat in Pumpkin; #A6A6A6 for Ghost Fall and Pumpkin. [Complete kit index](canvas-kits.md).
