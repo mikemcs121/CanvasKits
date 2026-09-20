@@ -1,0 +1,40 @@
+{
+  "trueVector": true,
+  "physicalInches": [
+    8,
+    10
+  ],
+  "pixels": [
+    2400,
+    3000
+  ],
+  "blackInkPixels": 780440,
+  "transparentPixels": 6419560,
+  "coloredLinePixels": 0,
+  "compositionBefore": {
+    "box": [
+      22,
+      351,
+      2368,
+      2820
+    ],
+    "widthFraction": 0.9779166666666667,
+    "heightFraction": 0.8233333333333334,
+    "subjectAspect": 0.9502024291497976
+  },
+  "compositionAfter": {
+    "box": [
+      22,
+      61,
+      2368,
+      2930
+    ],
+    "widthFraction": 0.9779166666666667,
+    "heightFraction": 0.9566666666666667,
+    "subjectAspect": 0.8177700348432055
+  },
+  "originalTestUnchanged": true,
+  "geometryMaster": "tmp/full-portrait/gnome-halloween-outline-8x10.svg",
+  "rasterPaintTexture": "Generated then registered to revised vector geometry; resampled for print.",
+  "outlinePdfIsVector": true
+}

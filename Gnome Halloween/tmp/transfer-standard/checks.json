@@ -1,0 +1,20 @@
+{
+  "kit": "Gnome Halloween",
+  "color": "#A6A6A6",
+  "linePoints": 1.4,
+  "pixels": [
+    2400,
+    3000
+  ],
+  "svgInches": [
+    8,
+    10
+  ],
+  "paths": 155,
+  "originalInk": 751696,
+  "skeletonPixels": 39259,
+  "thinningPasses": 17,
+  "source": "C:\\Projects\\Canvas Kits\\Gnome Halloween\\gnome-halloween-outline-8x10.png",
+  "sourceSha256": "0e2af985f7d8cf9cce6bc0d34a02af7b956e276c472a8e5421ee67fd1d2fed10",
+  "newVectorBytes": 20905
+}

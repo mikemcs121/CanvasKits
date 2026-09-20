@@ -1,0 +1,428 @@
+{
+  "changes": "Taller hat crown, longer beard, raised moon and bats, lower shoes/pumpkins; facial features retained.",
+  "parts": [
+    {
+      "box": [
+        10.4455,
+        175.4765,
+        1184.5,
+        1410.2415
+      ],
+      "transform": "hat/beard contour adjustment"
+    },
+    {
+      "box": [
+        403.981,
+        184.837,
+        865.5,
+        620.6175
+      ],
+      "transform": "hat/beard contour adjustment"
+    },
+    {
+      "box": [
+        63.9895,
+        205.0015,
+        368.5,
+        579.7385
+      ],
+      "transform": "moon up 150"
+    },
+    {
+      "box": [
+        74.75,
+        214.47,
+        346.556,
+        570.4625
+      ],
+      "transform": "moon up 150"
+    },
+    {
+      "box": [
+        846.025,
+        293.9835,
+        1164.5,
+        477.7395
+      ],
+      "transform": "bat up 145"
+    },
+    {
+      "box": [
+        863.4905,
+        303.2225,
+        1150.3245,
+        462.855
+      ],
+      "transform": "bat up 145"
+    },
+    {
+      "box": [
+        563,
+        371.5,
+        656.5,
+        434
+      ],
+      "transform": "hat/beard contour adjustment"
+    },
+    {
+      "box": [
+        924.1885,
+        559.725,
+        1151,
+        693
+      ],
+      "transform": "bat up 145"
+    },
+    {
+      "box": [
+        942.5,
+        569.044,
+        1136.5,
+        676.5
+      ],
+      "transform": "bat up 145"
+    },
+    {
+      "box": [
+        517.497,
+        571.833,
+        644.4435,
+        675.8615
+      ],
+      "transform": "hat/beard contour adjustment"
+    },
+    {
+      "box": [
+        536.4445,
+        587.386,
+        624.742,
+        660.75
+      ],
+      "transform": "hat/beard contour adjustment"
+    },
+    {
+      "box": [
+        546.5375,
+        597.195,
+        615.5835,
+        651.25
+      ],
+      "transform": "hat/beard contour adjustment"
+    },
+    {
+      "box": [
+        371.7155,
+        599.914,
+        510.2835,
+        702.3435
+      ],
+      "transform": "hat/beard contour adjustment"
+    },
+    {
+      "box": [
+        651.3865,
+        602,
+        797.9015,
+        710.1535
+      ],
+      "transform": "hat/beard contour adjustment"
+    },
+    {
+      "box": [
+        192.25,
+        669.3655,
+        956.5505,
+        888.641
+      ],
+      "transform": "hat/beard contour adjustment"
+    },
+    {
+      "box": [
+        505.5015,
+        739.8715,
+        657.2235,
+        844.533
+      ],
+      "transform": "hat/beard contour adjustment"
+    },
+    {
+      "box": [
+        639.1255,
+        744.336,
+        818,
+        874.6815
+      ],
+      "transform": "hat/beard contour adjustment"
+    },
+    {
+      "box": [
+        340.9435,
+        747.334,
+        522,
+        874.7265
+      ],
+      "transform": "hat/beard contour adjustment"
+    },
+    {
+      "box": [
+        797.5,
+        789.338,
+        973.6015,
+        892.554
+      ],
+      "transform": "hat/beard contour adjustment"
+    },
+    {
+      "box": [
+        313.504,
+        800.997,
+        846.1855,
+        937.2465
+      ],
+      "transform": "hat/beard contour adjustment"
+    },
+    {
+      "box": [
+        269.05,
+        879.359,
+        890,
+        1312.5
+      ],
+      "transform": "hat/beard contour adjustment"
+    },
+    {
+      "box": [
+        642,
+        972.5,
+        686.7495,
+        1183
+      ],
+      "transform": "hat/beard contour adjustment"
+    },
+    {
+      "box": [
+        493.2505,
+        987.882,
+        545.3465,
+        1195.386
+      ],
+      "transform": "hat/beard contour adjustment"
+    },
+    {
+      "box": [
+        985,
+        1026.4555,
+        1038.013,
+        1093.547
+      ],
+      "transform": "hat/beard contour adjustment"
+    },
+    {
+      "box": [
+        158.2095,
+        1026.986,
+        219.5,
+        1092.595
+      ],
+      "transform": "hat/beard contour adjustment"
+    },
+    {
+      "box": [
+        300.389,
+        1080.015,
+        875.247,
+        1336
+      ],
+      "transform": "hat/beard contour adjustment"
+    },
+    {
+      "box": [
+        39.5015,
+        1083.659,
+        322,
+        1325.009
+      ],
+      "transform": "hat/beard contour adjustment"
+    },
+    {
+      "box": [
+        858.5,
+        1084.0795,
+        1153.7525,
+        1324.714
+      ],
+      "transform": "hat/beard contour adjustment"
+    },
+    {
+      "box": [
+        877.561,
+        1096.7895,
+        892.5,
+        1105
+      ],
+      "transform": "hat/beard contour adjustment"
+    },
+    {
+      "box": [
+        65,
+        1131.412,
+        103.03,
+        1306.9995
+      ],
+      "transform": "hat/beard contour adjustment"
+    },
+    {
+      "box": [
+        1090.5,
+        1135,
+        1129.9915,
+        1306
+      ],
+      "transform": "hat/beard contour adjustment"
+    },
+    {
+      "box": [
+        201.5,
+        1146.5,
+        264.4585,
+        1206.1305
+      ],
+      "transform": "hat/beard contour adjustment"
+    },
+    {
+      "box": [
+        930.007,
+        1146.3785,
+        993.267,
+        1206.1445
+      ],
+      "transform": "hat/beard contour adjustment"
+    },
+    {
+      "box": [
+        100,
+        1151.7475,
+        159.5,
+        1208.646
+      ],
+      "transform": "hat/beard contour adjustment"
+    },
+    {
+      "box": [
+        1034.8335,
+        1151.8875,
+        1095,
+        1208.5
+      ],
+      "transform": "hat/beard contour adjustment"
+    },
+    {
+      "box": [
+        214.124,
+        1160.506,
+        251.5,
+        1195.697
+      ],
+      "transform": "hat/beard contour adjustment"
+    },
+    {
+      "box": [
+        942.5415,
+        1160.5615,
+        979.843,
+        1195.755
+      ],
+      "transform": "hat/beard contour adjustment"
+    },
+    {
+      "box": [
+        1048.002,
+        1166.5495,
+        1082.8225,
+        1199.098
+      ],
+      "transform": "hat/beard contour adjustment"
+    },
+    {
+      "box": [
+        112.244,
+        1167,
+        146.5,
+        1199.291
+      ],
+      "transform": "hat/beard contour adjustment"
+    },
+    {
+      "box": [
+        93.5685,
+        1211,
+        274.4885,
+        1297.5435
+      ],
+      "transform": "hat/beard contour adjustment"
+    },
+    {
+      "box": [
+        919.354,
+        1211.5005,
+        1100.4465,
+        1297.4455
+      ],
+      "transform": "hat/beard contour adjustment"
+    },
+    {
+      "box": [
+        104.371,
+        1225.6625,
+        263.172,
+        1289.2325
+      ],
+      "transform": "hat/beard contour adjustment"
+    },
+    {
+      "box": [
+        930,
+        1225.665,
+        1089.0955,
+        1287.7365
+      ],
+      "transform": "hat/beard contour adjustment"
+    },
+    {
+      "box": [
+        327.5015,
+        1281.1795,
+        563.992,
+        1400.707
+      ],
+      "transform": "hat/beard contour adjustment"
+    },
+    {
+      "box": [
+        607.3445,
+        1281.184,
+        850.2295,
+        1399.933
+      ],
+      "transform": "hat/beard contour adjustment"
+    },
+    {
+      "box": [
+        842.006,
+        1293.5,
+        865.5,
+        1312.9865
+      ],
+      "transform": "hat/beard contour adjustment"
+    },
+    {
+      "box": [
+        315.5,
+        1294.5155,
+        339.6945,
+        1313.107
+      ],
+      "transform": "hat/beard contour adjustment"
+    }
+  ]
+}

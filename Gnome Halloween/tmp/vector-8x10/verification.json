@@ -1,0 +1,18 @@
+{
+  "trueVector": true,
+  "physicalInches": [
+    8,
+    10
+  ],
+  "pixels": [
+    2400,
+    3000
+  ],
+  "blackInkPixels": 721458,
+  "transparentPixels": 6478542,
+  "coloredLinePixels": 0,
+  "traceIntersectionOverUnion": 0.9836916362379275,
+  "sourceSha256": "20496a9f8504dae762f2fef5a8bfb5dae4d6fbcb7fde58add7943bb8450bd1c5",
+  "rasterPaintTexture": "Generated then registered to fixed outline; resampled for 300 dpi printing.",
+  "outlinePdfIsVector": true
+}
