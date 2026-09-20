@@ -1,0 +1,17 @@
+{
+  "kit": "Cat in Pumpkin",
+  "physicalInches": [
+    8,
+    10
+  ],
+  "linePoints": 1.4,
+  "color": "#808080",
+  "kids": true,
+  "trueVector": true,
+  "transparentPixels": 7001511,
+  "opaqueLinePixels": 145045,
+  "wrongOpaqueColorPixels": 0,
+  "svgSha256": "666d60996c09f9b384f8cc069388408894139daf429aef168394c6fb66c2bec2",
+  "originalSourceSha256": "c52b45cd5f14ba8070826628470f1ff95de56b58dcf1edc9f042674e175b16c7",
+  "compositionChanged": false
+}

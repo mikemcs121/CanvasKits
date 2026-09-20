@@ -1,0 +1,912 @@
+﻿[
+    {
+        "kit":  {
+                    "folder":  "Flowers in Vase",
+                    "slug":  "flowers-in-vase",
+                    "review":  "Existing full-portrait reference and guide reviewed; unchanged.",
+                    "build":  "assets/portrait-rebuild/ and tmp/portrait-rebuild/; tmp/8x10/ remains a builder dependency.",
+                    "outline":  "output/svg/8x10/flowers-in-vase-outline-8x10.svg",
+                    "guide":  "output/pdf/8x10/flowers-in-vase-painting-guide-8x10.pdf",
+                    "reference":  "output/pdf/8x10/flowers-in-vase-finished-reference-8x10.pdf"
+                },
+        "root":  "C:\\Projects\\Canvas Kits\\Flowers in Vase",
+        "selected":  [
+                         {
+                             "role":  "outline",
+                             "source":  "C:\\Projects\\Canvas Kits\\Flowers in Vase\\output\\svg\\8x10\\flowers-in-vase-outline-8x10.svg",
+                             "destination":  "C:\\Projects\\Canvas Kits\\Flowers in Vase\\flowers-in-vase-outline-8x10.svg",
+                             "sha256":  "76BBDD0008ECAB67356FC3F46C0D8D91A8E07777D1F7A78CC8FC8896C555226F"
+                         },
+                         {
+                             "role":  "guide",
+                             "source":  "C:\\Projects\\Canvas Kits\\Flowers in Vase\\output\\pdf\\8x10\\flowers-in-vase-painting-guide-8x10.pdf",
+                             "destination":  "C:\\Projects\\Canvas Kits\\Flowers in Vase\\flowers-in-vase-painting-guide-8x10.pdf",
+                             "sha256":  "8CCACC19A639D91A2382D318F0BFC786D34391BA2DC4E6B9F579FCE7C40C160B"
+                         },
+                         {
+                             "role":  "reference",
+                             "source":  "C:\\Projects\\Canvas Kits\\Flowers in Vase\\output\\pdf\\8x10\\flowers-in-vase-finished-reference-8x10.pdf",
+                             "destination":  "C:\\Projects\\Canvas Kits\\Flowers in Vase\\flowers-in-vase-finished-reference-8x10.pdf",
+                             "sha256":  "8E5C1AAF0D54F6DD4687BAE28F3998BE19E4C33DDB1A5C2EA274249D93418FD1"
+                         }
+                     ],
+        "moves":  [
+                      {
+                          "from":  "C:\\Projects\\Canvas Kits\\Flowers in Vase\\assets",
+                          "to":  "C:\\Projects\\Canvas Kits\\Flowers in Vase\\info\\assets",
+                          "directory":  true
+                      },
+                      {
+                          "from":  "C:\\Projects\\Canvas Kits\\Flowers in Vase\\output",
+                          "to":  "C:\\Projects\\Canvas Kits\\Flowers in Vase\\info\\output",
+                          "directory":  true
+                      },
+                      {
+                          "from":  "C:\\Projects\\Canvas Kits\\Flowers in Vase\\tmp",
+                          "to":  "C:\\Projects\\Canvas Kits\\Flowers in Vase\\info\\tmp",
+                          "directory":  true
+                      },
+                      {
+                          "from":  "C:\\Projects\\Canvas Kits\\Flowers in Vase\\flowers-in-vase-finished-reference-8x10.png",
+                          "to":  "C:\\Projects\\Canvas Kits\\Flowers in Vase\\info\\archive\\previous-root-files\\flowers-in-vase-finished-reference-8x10.png",
+                          "directory":  false
+                      },
+                      {
+                          "from":  "C:\\Projects\\Canvas Kits\\Flowers in Vase\\flowers-in-vase-finished-reference-blended.png",
+                          "to":  "C:\\Projects\\Canvas Kits\\Flowers in Vase\\info\\archive\\previous-root-files\\flowers-in-vase-finished-reference-blended.png",
+                          "directory":  false
+                      },
+                      {
+                          "from":  "C:\\Projects\\Canvas Kits\\Flowers in Vase\\flowers-in-vase-finished-reference.png",
+                          "to":  "C:\\Projects\\Canvas Kits\\Flowers in Vase\\info\\archive\\previous-root-files\\flowers-in-vase-finished-reference.png",
+                          "directory":  false
+                      },
+                      {
+                          "from":  "C:\\Projects\\Canvas Kits\\Flowers in Vase\\flowers-in-vase-outline-8x10-600dpi.png",
+                          "to":  "C:\\Projects\\Canvas Kits\\Flowers in Vase\\info\\archive\\previous-root-files\\flowers-in-vase-outline-8x10-600dpi.png",
+                          "directory":  false
+                      },
+                      {
+                          "from":  "C:\\Projects\\Canvas Kits\\Flowers in Vase\\flowers-in-vase-outline-8x10.png",
+                          "to":  "C:\\Projects\\Canvas Kits\\Flowers in Vase\\info\\archive\\previous-root-files\\flowers-in-vase-outline-8x10.png",
+                          "directory":  false
+                      },
+                      {
+                          "from":  "C:\\Projects\\Canvas Kits\\Flowers in Vase\\flowers-in-vase-outline-8x10.svg",
+                          "to":  "C:\\Projects\\Canvas Kits\\Flowers in Vase\\info\\archive\\previous-root-files\\flowers-in-vase-outline-8x10.svg",
+                          "directory":  false
+                      },
+                      {
+                          "from":  "C:\\Projects\\Canvas Kits\\Flowers in Vase\\flowers-in-vase-outline.png",
+                          "to":  "C:\\Projects\\Canvas Kits\\Flowers in Vase\\info\\archive\\previous-root-files\\flowers-in-vase-outline.png",
+                          "directory":  false
+                      },
+                      {
+                          "from":  "C:\\Projects\\Canvas Kits\\Flowers in Vase\\flowers-in-vase-source-photo.png",
+                          "to":  "C:\\Projects\\Canvas Kits\\Flowers in Vase\\info\\archive\\previous-root-files\\flowers-in-vase-source-photo.png",
+                          "directory":  false
+                      },
+                      {
+                          "from":  "C:\\Projects\\Canvas Kits\\Flowers in Vase\\Screenshot 2026-09-18 184331.png",
+                          "to":  "C:\\Projects\\Canvas Kits\\Flowers in Vase\\info\\archive\\previous-root-files\\Screenshot 2026-09-18 184331.png",
+                          "directory":  false
+                      },
+                      {
+                          "from":  "C:\\Projects\\Canvas Kits\\Flowers in Vase\\START-HERE.md",
+                          "to":  "C:\\Projects\\Canvas Kits\\Flowers in Vase\\info\\archive\\previous-root-files\\START-HERE.md",
+                          "directory":  false
+                      },
+                      {
+                          "from":  "C:\\Projects\\Canvas Kits\\Flowers in Vase\\TRANSFER-OUTLINE.md",
+                          "to":  "C:\\Projects\\Canvas Kits\\Flowers in Vase\\info\\archive\\previous-root-files\\TRANSFER-OUTLINE.md",
+                          "directory":  false
+                      }
+                  ]
+    },
+    {
+        "kit":  {
+                    "folder":  "Gnome Halloween",
+                    "slug":  "gnome-halloween",
+                    "review":  "Existing corrected full-height reference and guide reviewed; unchanged.",
+                    "build":  "assets/full-portrait/ and tmp/full-portrait/; tmp/vector-8x10/ remains a dependency.",
+                    "outline":  "output/svg/8x10/gnome-halloween-outline-8x10.svg",
+                    "guide":  "output/pdf/8x10/gnome-halloween-painting-guide-8x10.pdf",
+                    "reference":  "output/pdf/8x10/gnome-halloween-finished-reference-8x10.pdf"
+                },
+        "root":  "C:\\Projects\\Canvas Kits\\Gnome Halloween",
+        "selected":  [
+                         {
+                             "role":  "outline",
+                             "source":  "C:\\Projects\\Canvas Kits\\Gnome Halloween\\output\\svg\\8x10\\gnome-halloween-outline-8x10.svg",
+                             "destination":  "C:\\Projects\\Canvas Kits\\Gnome Halloween\\gnome-halloween-outline-8x10.svg",
+                             "sha256":  "CB318AB40756101D1B3AB1682F7FA18D98C216FD331473AE43D9284A23DD6998"
+                         },
+                         {
+                             "role":  "guide",
+                             "source":  "C:\\Projects\\Canvas Kits\\Gnome Halloween\\output\\pdf\\8x10\\gnome-halloween-painting-guide-8x10.pdf",
+                             "destination":  "C:\\Projects\\Canvas Kits\\Gnome Halloween\\gnome-halloween-painting-guide-8x10.pdf",
+                             "sha256":  "0FB8BBFB7EC4AC1D3FB42245E75411FF12246C4686AEA44CF54BF8070D9E2377"
+                         },
+                         {
+                             "role":  "reference",
+                             "source":  "C:\\Projects\\Canvas Kits\\Gnome Halloween\\output\\pdf\\8x10\\gnome-halloween-finished-reference-8x10.pdf",
+                             "destination":  "C:\\Projects\\Canvas Kits\\Gnome Halloween\\gnome-halloween-finished-reference-8x10.pdf",
+                             "sha256":  "913F3C66E856A72EE8302F8FA3138577FEA1DFDC793E60EF35C8EEC1A33F7380"
+                         }
+                     ],
+        "moves":  [
+                      {
+                          "from":  "C:\\Projects\\Canvas Kits\\Gnome Halloween\\assets",
+                          "to":  "C:\\Projects\\Canvas Kits\\Gnome Halloween\\info\\assets",
+                          "directory":  true
+                      },
+                      {
+                          "from":  "C:\\Projects\\Canvas Kits\\Gnome Halloween\\output",
+                          "to":  "C:\\Projects\\Canvas Kits\\Gnome Halloween\\info\\output",
+                          "directory":  true
+                      },
+                      {
+                          "from":  "C:\\Projects\\Canvas Kits\\Gnome Halloween\\test",
+                          "to":  "C:\\Projects\\Canvas Kits\\Gnome Halloween\\info\\test",
+                          "directory":  true
+                      },
+                      {
+                          "from":  "C:\\Projects\\Canvas Kits\\Gnome Halloween\\tmp",
+                          "to":  "C:\\Projects\\Canvas Kits\\Gnome Halloween\\info\\tmp",
+                          "directory":  true
+                      },
+                      {
+                          "from":  "C:\\Projects\\Canvas Kits\\Gnome Halloween\\gnome-halloween-finished-reference-8x10.png",
+                          "to":  "C:\\Projects\\Canvas Kits\\Gnome Halloween\\info\\archive\\previous-root-files\\gnome-halloween-finished-reference-8x10.png",
+                          "directory":  false
+                      },
+                      {
+                          "from":  "C:\\Projects\\Canvas Kits\\Gnome Halloween\\gnome-halloween-finished-reference-adult.png",
+                          "to":  "C:\\Projects\\Canvas Kits\\Gnome Halloween\\info\\archive\\previous-root-files\\gnome-halloween-finished-reference-adult.png",
+                          "directory":  false
+                      },
+                      {
+                          "from":  "C:\\Projects\\Canvas Kits\\Gnome Halloween\\gnome-halloween-finished-reference.png",
+                          "to":  "C:\\Projects\\Canvas Kits\\Gnome Halloween\\info\\archive\\previous-root-files\\gnome-halloween-finished-reference.png",
+                          "directory":  false
+                      },
+                      {
+                          "from":  "C:\\Projects\\Canvas Kits\\Gnome Halloween\\gnome-halloween-outline-8x10-600dpi.png",
+                          "to":  "C:\\Projects\\Canvas Kits\\Gnome Halloween\\info\\archive\\previous-root-files\\gnome-halloween-outline-8x10-600dpi.png",
+                          "directory":  false
+                      },
+                      {
+                          "from":  "C:\\Projects\\Canvas Kits\\Gnome Halloween\\gnome-halloween-outline-8x10.png",
+                          "to":  "C:\\Projects\\Canvas Kits\\Gnome Halloween\\info\\archive\\previous-root-files\\gnome-halloween-outline-8x10.png",
+                          "directory":  false
+                      },
+                      {
+                          "from":  "C:\\Projects\\Canvas Kits\\Gnome Halloween\\gnome-halloween-outline-8x10.svg",
+                          "to":  "C:\\Projects\\Canvas Kits\\Gnome Halloween\\info\\archive\\previous-root-files\\gnome-halloween-outline-8x10.svg",
+                          "directory":  false
+                      },
+                      {
+                          "from":  "C:\\Projects\\Canvas Kits\\Gnome Halloween\\gnome-halloween-outline.png",
+                          "to":  "C:\\Projects\\Canvas Kits\\Gnome Halloween\\info\\archive\\previous-root-files\\gnome-halloween-outline.png",
+                          "directory":  false
+                      },
+                      {
+                          "from":  "C:\\Projects\\Canvas Kits\\Gnome Halloween\\START-HERE.md",
+                          "to":  "C:\\Projects\\Canvas Kits\\Gnome Halloween\\info\\archive\\previous-root-files\\START-HERE.md",
+                          "directory":  false
+                      },
+                      {
+                          "from":  "C:\\Projects\\Canvas Kits\\Gnome Halloween\\TRANSFER-OUTLINE.md",
+                          "to":  "C:\\Projects\\Canvas Kits\\Gnome Halloween\\info\\archive\\previous-root-files\\TRANSFER-OUTLINE.md",
+                          "directory":  false
+                      }
+                  ]
+    },
+    {
+        "kit":  {
+                    "folder":  "Fox Fall",
+                    "slug":  "fox-fall",
+                    "review":  "Existing matching centered composition preserved; childrenâ€™s transfer gray.",
+                    "build":  "assets/8x10/ and tmp/8x10-artwork/; shared autumn builders in Fox Fall/info/tmp/.",
+                    "outline":  "output/svg/8x10/fox-fall-outline-8x10.svg",
+                    "guide":  "output/pdf/8x10/fox-fall-painting-guide-8x10.pdf",
+                    "reference":  "output/pdf/8x10/fox-fall-finished-reference-8x10.pdf"
+                },
+        "root":  "C:\\Projects\\Canvas Kits\\Fox Fall",
+        "selected":  [
+                         {
+                             "role":  "outline",
+                             "source":  "C:\\Projects\\Canvas Kits\\Fox Fall\\output\\svg\\8x10\\fox-fall-outline-8x10.svg",
+                             "destination":  "C:\\Projects\\Canvas Kits\\Fox Fall\\fox-fall-outline-8x10.svg",
+                             "sha256":  "B00E01E6C48AAFE705FB421D7A66A175C8F6921FF480EF3F35287F507D74DB85"
+                         },
+                         {
+                             "role":  "guide",
+                             "source":  "C:\\Projects\\Canvas Kits\\Fox Fall\\output\\pdf\\8x10\\fox-fall-painting-guide-8x10.pdf",
+                             "destination":  "C:\\Projects\\Canvas Kits\\Fox Fall\\fox-fall-painting-guide-8x10.pdf",
+                             "sha256":  "D2D33E74C0A20711BFB115AEBE8707131F92BD39ACE1970B0F91C7D854DF5514"
+                         },
+                         {
+                             "role":  "reference",
+                             "source":  "C:\\Projects\\Canvas Kits\\Fox Fall\\output\\pdf\\8x10\\fox-fall-finished-reference-8x10.pdf",
+                             "destination":  "C:\\Projects\\Canvas Kits\\Fox Fall\\fox-fall-finished-reference-8x10.pdf",
+                             "sha256":  "AE4BF950EF8A02B48014D9D6FC68B773E172158B4F90DDDC407EA5C35F4B6607"
+                         }
+                     ],
+        "moves":  [
+                      {
+                          "from":  "C:\\Projects\\Canvas Kits\\Fox Fall\\assets",
+                          "to":  "C:\\Projects\\Canvas Kits\\Fox Fall\\info\\assets",
+                          "directory":  true
+                      },
+                      {
+                          "from":  "C:\\Projects\\Canvas Kits\\Fox Fall\\output",
+                          "to":  "C:\\Projects\\Canvas Kits\\Fox Fall\\info\\output",
+                          "directory":  true
+                      },
+                      {
+                          "from":  "C:\\Projects\\Canvas Kits\\Fox Fall\\tmp",
+                          "to":  "C:\\Projects\\Canvas Kits\\Fox Fall\\info\\tmp",
+                          "directory":  true
+                      },
+                      {
+                          "from":  "C:\\Projects\\Canvas Kits\\Fox Fall\\download.png",
+                          "to":  "C:\\Projects\\Canvas Kits\\Fox Fall\\info\\archive\\previous-root-files\\download.png",
+                          "directory":  false
+                      },
+                      {
+                          "from":  "C:\\Projects\\Canvas Kits\\Fox Fall\\fox-fall-finished-reference-8x10.png",
+                          "to":  "C:\\Projects\\Canvas Kits\\Fox Fall\\info\\archive\\previous-root-files\\fox-fall-finished-reference-8x10.png",
+                          "directory":  false
+                      },
+                      {
+                          "from":  "C:\\Projects\\Canvas Kits\\Fox Fall\\fox-fall-finished-reference.png",
+                          "to":  "C:\\Projects\\Canvas Kits\\Fox Fall\\info\\archive\\previous-root-files\\fox-fall-finished-reference.png",
+                          "directory":  false
+                      },
+                      {
+                          "from":  "C:\\Projects\\Canvas Kits\\Fox Fall\\fox-fall-outline-8x10-600dpi.png",
+                          "to":  "C:\\Projects\\Canvas Kits\\Fox Fall\\info\\archive\\previous-root-files\\fox-fall-outline-8x10-600dpi.png",
+                          "directory":  false
+                      },
+                      {
+                          "from":  "C:\\Projects\\Canvas Kits\\Fox Fall\\fox-fall-outline-8x10.png",
+                          "to":  "C:\\Projects\\Canvas Kits\\Fox Fall\\info\\archive\\previous-root-files\\fox-fall-outline-8x10.png",
+                          "directory":  false
+                      },
+                      {
+                          "from":  "C:\\Projects\\Canvas Kits\\Fox Fall\\fox-fall-outline-8x10.svg",
+                          "to":  "C:\\Projects\\Canvas Kits\\Fox Fall\\info\\archive\\previous-root-files\\fox-fall-outline-8x10.svg",
+                          "directory":  false
+                      },
+                      {
+                          "from":  "C:\\Projects\\Canvas Kits\\Fox Fall\\fox-fall-outline.png",
+                          "to":  "C:\\Projects\\Canvas Kits\\Fox Fall\\info\\archive\\previous-root-files\\fox-fall-outline.png",
+                          "directory":  false
+                      },
+                      {
+                          "from":  "C:\\Projects\\Canvas Kits\\Fox Fall\\TRANSFER-OUTLINE.md",
+                          "to":  "C:\\Projects\\Canvas Kits\\Fox Fall\\info\\archive\\previous-root-files\\TRANSFER-OUTLINE.md",
+                          "directory":  false
+                      }
+                  ]
+    },
+    {
+        "kit":  {
+                    "folder":  "Ghost Fall",
+                    "slug":  "ghost-fall",
+                    "review":  "Existing matching centered composition preserved.",
+                    "build":  "assets/8x10/ and tmp/8x10-artwork/; shared autumn builders in Fox Fall/info/tmp/.",
+                    "outline":  "output/svg/8x10/ghost-fall-outline-8x10.svg",
+                    "guide":  "output/pdf/8x10/ghost-fall-painting-guide-8x10.pdf",
+                    "reference":  "output/pdf/8x10/ghost-fall-finished-reference-8x10.pdf"
+                },
+        "root":  "C:\\Projects\\Canvas Kits\\Ghost Fall",
+        "selected":  [
+                         {
+                             "role":  "outline",
+                             "source":  "C:\\Projects\\Canvas Kits\\Ghost Fall\\output\\svg\\8x10\\ghost-fall-outline-8x10.svg",
+                             "destination":  "C:\\Projects\\Canvas Kits\\Ghost Fall\\ghost-fall-outline-8x10.svg",
+                             "sha256":  "6E38259204ADE00D3738A8C2E591A5CDE68770993D1BCF6C9B723A32021B64C9"
+                         },
+                         {
+                             "role":  "guide",
+                             "source":  "C:\\Projects\\Canvas Kits\\Ghost Fall\\output\\pdf\\8x10\\ghost-fall-painting-guide-8x10.pdf",
+                             "destination":  "C:\\Projects\\Canvas Kits\\Ghost Fall\\ghost-fall-painting-guide-8x10.pdf",
+                             "sha256":  "E5CC1D6DCAC2D5953E6430E80B940B6D8B1D6C80D8C83F079FC0F77EBD2BEE6E"
+                         },
+                         {
+                             "role":  "reference",
+                             "source":  "C:\\Projects\\Canvas Kits\\Ghost Fall\\output\\pdf\\8x10\\ghost-fall-finished-reference-8x10.pdf",
+                             "destination":  "C:\\Projects\\Canvas Kits\\Ghost Fall\\ghost-fall-finished-reference-8x10.pdf",
+                             "sha256":  "8FE169D97850C5DD2C5E85A041CD7236EB707BBD4E044A8A2633B6C3EA496C63"
+                         }
+                     ],
+        "moves":  [
+                      {
+                          "from":  "C:\\Projects\\Canvas Kits\\Ghost Fall\\assets",
+                          "to":  "C:\\Projects\\Canvas Kits\\Ghost Fall\\info\\assets",
+                          "directory":  true
+                      },
+                      {
+                          "from":  "C:\\Projects\\Canvas Kits\\Ghost Fall\\output",
+                          "to":  "C:\\Projects\\Canvas Kits\\Ghost Fall\\info\\output",
+                          "directory":  true
+                      },
+                      {
+                          "from":  "C:\\Projects\\Canvas Kits\\Ghost Fall\\tmp",
+                          "to":  "C:\\Projects\\Canvas Kits\\Ghost Fall\\info\\tmp",
+                          "directory":  true
+                      },
+                      {
+                          "from":  "C:\\Projects\\Canvas Kits\\Ghost Fall\\exec-8b4604c1-f90d-4ddd-959b-56e4dd2b270f.png",
+                          "to":  "C:\\Projects\\Canvas Kits\\Ghost Fall\\info\\archive\\previous-root-files\\exec-8b4604c1-f90d-4ddd-959b-56e4dd2b270f.png",
+                          "directory":  false
+                      },
+                      {
+                          "from":  "C:\\Projects\\Canvas Kits\\Ghost Fall\\ghost-fall-finished-reference-8x10.png",
+                          "to":  "C:\\Projects\\Canvas Kits\\Ghost Fall\\info\\archive\\previous-root-files\\ghost-fall-finished-reference-8x10.png",
+                          "directory":  false
+                      },
+                      {
+                          "from":  "C:\\Projects\\Canvas Kits\\Ghost Fall\\ghost-fall-finished-reference.png",
+                          "to":  "C:\\Projects\\Canvas Kits\\Ghost Fall\\info\\archive\\previous-root-files\\ghost-fall-finished-reference.png",
+                          "directory":  false
+                      },
+                      {
+                          "from":  "C:\\Projects\\Canvas Kits\\Ghost Fall\\ghost-fall-outline-8x10-600dpi.png",
+                          "to":  "C:\\Projects\\Canvas Kits\\Ghost Fall\\info\\archive\\previous-root-files\\ghost-fall-outline-8x10-600dpi.png",
+                          "directory":  false
+                      },
+                      {
+                          "from":  "C:\\Projects\\Canvas Kits\\Ghost Fall\\ghost-fall-outline-8x10.png",
+                          "to":  "C:\\Projects\\Canvas Kits\\Ghost Fall\\info\\archive\\previous-root-files\\ghost-fall-outline-8x10.png",
+                          "directory":  false
+                      },
+                      {
+                          "from":  "C:\\Projects\\Canvas Kits\\Ghost Fall\\ghost-fall-outline-8x10.svg",
+                          "to":  "C:\\Projects\\Canvas Kits\\Ghost Fall\\info\\archive\\previous-root-files\\ghost-fall-outline-8x10.svg",
+                          "directory":  false
+                      },
+                      {
+                          "from":  "C:\\Projects\\Canvas Kits\\Ghost Fall\\ghost-fall-outline.png",
+                          "to":  "C:\\Projects\\Canvas Kits\\Ghost Fall\\info\\archive\\previous-root-files\\ghost-fall-outline.png",
+                          "directory":  false
+                      },
+                      {
+                          "from":  "C:\\Projects\\Canvas Kits\\Ghost Fall\\TRANSFER-OUTLINE.md",
+                          "to":  "C:\\Projects\\Canvas Kits\\Ghost Fall\\info\\archive\\previous-root-files\\TRANSFER-OUTLINE.md",
+                          "directory":  false
+                      }
+                  ]
+    },
+    {
+        "kit":  {
+                    "folder":  "Cat in Pumpkin",
+                    "slug":  "cat-in-pumpkin",
+                    "review":  "Existing matching centered composition preserved; childrenâ€™s transfer gray.",
+                    "build":  "assets/8x10/ and tmp/8x10-artwork/; shared autumn builders in Fox Fall/info/tmp/.",
+                    "outline":  "output/svg/8x10/cat-in-pumpkin-outline-8x10.svg",
+                    "guide":  "output/pdf/8x10/cat-in-pumpkin-painting-guide-8x10.pdf",
+                    "reference":  "output/pdf/8x10/cat-in-pumpkin-finished-reference-8x10.pdf"
+                },
+        "root":  "C:\\Projects\\Canvas Kits\\Cat in Pumpkin",
+        "selected":  [
+                         {
+                             "role":  "outline",
+                             "source":  "C:\\Projects\\Canvas Kits\\Cat in Pumpkin\\output\\svg\\8x10\\cat-in-pumpkin-outline-8x10.svg",
+                             "destination":  "C:\\Projects\\Canvas Kits\\Cat in Pumpkin\\cat-in-pumpkin-outline-8x10.svg",
+                             "sha256":  "B3C0297F2C31B7B5FB67514109370EC07BFC0F7DDCFC4E52B6CCDC375AED587C"
+                         },
+                         {
+                             "role":  "guide",
+                             "source":  "C:\\Projects\\Canvas Kits\\Cat in Pumpkin\\output\\pdf\\8x10\\cat-in-pumpkin-painting-guide-8x10.pdf",
+                             "destination":  "C:\\Projects\\Canvas Kits\\Cat in Pumpkin\\cat-in-pumpkin-painting-guide-8x10.pdf",
+                             "sha256":  "113C1FE4F40384ECDE106794A724A892DACA74BA18C3556A0BBE7113B773537C"
+                         },
+                         {
+                             "role":  "reference",
+                             "source":  "C:\\Projects\\Canvas Kits\\Cat in Pumpkin\\output\\pdf\\8x10\\cat-in-pumpkin-finished-reference-8x10.pdf",
+                             "destination":  "C:\\Projects\\Canvas Kits\\Cat in Pumpkin\\cat-in-pumpkin-finished-reference-8x10.pdf",
+                             "sha256":  "651C95E4390133AE4AE0C33B1A10D0C3155DDC4B17750CCA72B7383EC30B089D"
+                         }
+                     ],
+        "moves":  [
+                      {
+                          "from":  "C:\\Projects\\Canvas Kits\\Cat in Pumpkin\\assets",
+                          "to":  "C:\\Projects\\Canvas Kits\\Cat in Pumpkin\\info\\assets",
+                          "directory":  true
+                      },
+                      {
+                          "from":  "C:\\Projects\\Canvas Kits\\Cat in Pumpkin\\output",
+                          "to":  "C:\\Projects\\Canvas Kits\\Cat in Pumpkin\\info\\output",
+                          "directory":  true
+                      },
+                      {
+                          "from":  "C:\\Projects\\Canvas Kits\\Cat in Pumpkin\\tmp",
+                          "to":  "C:\\Projects\\Canvas Kits\\Cat in Pumpkin\\info\\tmp",
+                          "directory":  true
+                      },
+                      {
+                          "from":  "C:\\Projects\\Canvas Kits\\Cat in Pumpkin\\exec-01c35205-b359-4887-a7f9-a31e173a5e1f.png",
+                          "to":  "C:\\Projects\\Canvas Kits\\Cat in Pumpkin\\info\\archive\\previous-root-files\\exec-01c35205-b359-4887-a7f9-a31e173a5e1f.png",
+                          "directory":  false
+                      },
+                      {
+                          "from":  "C:\\Projects\\Canvas Kits\\Cat in Pumpkin\\cat-in-pumpkin-finished-reference-8x10.png",
+                          "to":  "C:\\Projects\\Canvas Kits\\Cat in Pumpkin\\info\\archive\\previous-root-files\\cat-in-pumpkin-finished-reference-8x10.png",
+                          "directory":  false
+                      },
+                      {
+                          "from":  "C:\\Projects\\Canvas Kits\\Cat in Pumpkin\\cat-in-pumpkin-finished-reference.png",
+                          "to":  "C:\\Projects\\Canvas Kits\\Cat in Pumpkin\\info\\archive\\previous-root-files\\cat-in-pumpkin-finished-reference.png",
+                          "directory":  false
+                      },
+                      {
+                          "from":  "C:\\Projects\\Canvas Kits\\Cat in Pumpkin\\cat-in-pumpkin-outline-8x10-600dpi.png",
+                          "to":  "C:\\Projects\\Canvas Kits\\Cat in Pumpkin\\info\\archive\\previous-root-files\\cat-in-pumpkin-outline-8x10-600dpi.png",
+                          "directory":  false
+                      },
+                      {
+                          "from":  "C:\\Projects\\Canvas Kits\\Cat in Pumpkin\\cat-in-pumpkin-outline-8x10.png",
+                          "to":  "C:\\Projects\\Canvas Kits\\Cat in Pumpkin\\info\\archive\\previous-root-files\\cat-in-pumpkin-outline-8x10.png",
+                          "directory":  false
+                      },
+                      {
+                          "from":  "C:\\Projects\\Canvas Kits\\Cat in Pumpkin\\cat-in-pumpkin-outline-8x10.svg",
+                          "to":  "C:\\Projects\\Canvas Kits\\Cat in Pumpkin\\info\\archive\\previous-root-files\\cat-in-pumpkin-outline-8x10.svg",
+                          "directory":  false
+                      },
+                      {
+                          "from":  "C:\\Projects\\Canvas Kits\\Cat in Pumpkin\\cat-in-pumpkin-outline.png",
+                          "to":  "C:\\Projects\\Canvas Kits\\Cat in Pumpkin\\info\\archive\\previous-root-files\\cat-in-pumpkin-outline.png",
+                          "directory":  false
+                      },
+                      {
+                          "from":  "C:\\Projects\\Canvas Kits\\Cat in Pumpkin\\TRANSFER-OUTLINE.md",
+                          "to":  "C:\\Projects\\Canvas Kits\\Cat in Pumpkin\\info\\archive\\previous-root-files\\TRANSFER-OUTLINE.md",
+                          "directory":  false
+                      }
+                  ]
+    },
+    {
+        "kit":  {
+                    "folder":  "Pumkin",
+                    "slug":  "pumpkin",
+                    "review":  "Guide repaired to restore clipped header, materials and step numbers; centered composition preserved.",
+                    "build":  "assets/8x10/ and tmp/8x10-artwork/; shared autumn builders in Fox Fall/info/tmp/.",
+                    "outline":  "output/svg/8x10/pumpkin-outline-8x10.svg",
+                    "guide":  "output/pdf/8x10/pumpkin-painting-guide-8x10.pdf",
+                    "reference":  "output/pdf/8x10/pumpkin-finished-reference-8x10.pdf"
+                },
+        "root":  "C:\\Projects\\Canvas Kits\\Pumkin",
+        "selected":  [
+                         {
+                             "role":  "outline",
+                             "source":  "C:\\Projects\\Canvas Kits\\Pumkin\\output\\svg\\8x10\\pumpkin-outline-8x10.svg",
+                             "destination":  "C:\\Projects\\Canvas Kits\\Pumkin\\pumpkin-outline-8x10.svg",
+                             "sha256":  "73D4FADCACE1D4E9BAC071FA14667C31FE3084211429235B059A0321DC7485FC"
+                         },
+                         {
+                             "role":  "guide",
+                             "source":  "C:\\Projects\\Canvas Kits\\Pumkin\\output\\pdf\\8x10\\pumpkin-painting-guide-8x10.pdf",
+                             "destination":  "C:\\Projects\\Canvas Kits\\Pumkin\\pumpkin-painting-guide-8x10.pdf",
+                             "sha256":  "DC692D7291593E0C58C1D07542A21E269C34FAB19D7471E4F23513A37F55C804"
+                         },
+                         {
+                             "role":  "reference",
+                             "source":  "C:\\Projects\\Canvas Kits\\Pumkin\\output\\pdf\\8x10\\pumpkin-finished-reference-8x10.pdf",
+                             "destination":  "C:\\Projects\\Canvas Kits\\Pumkin\\pumpkin-finished-reference-8x10.pdf",
+                             "sha256":  "3A0F6122A9A94BECBC118E2789BEC747EDF12A2587D9DEE3806FCA504EBDA238"
+                         }
+                     ],
+        "moves":  [
+                      {
+                          "from":  "C:\\Projects\\Canvas Kits\\Pumkin\\assets",
+                          "to":  "C:\\Projects\\Canvas Kits\\Pumkin\\info\\assets",
+                          "directory":  true
+                      },
+                      {
+                          "from":  "C:\\Projects\\Canvas Kits\\Pumkin\\output",
+                          "to":  "C:\\Projects\\Canvas Kits\\Pumkin\\info\\output",
+                          "directory":  true
+                      },
+                      {
+                          "from":  "C:\\Projects\\Canvas Kits\\Pumkin\\tmp",
+                          "to":  "C:\\Projects\\Canvas Kits\\Pumkin\\info\\tmp",
+                          "directory":  true
+                      },
+                      {
+                          "from":  "C:\\Projects\\Canvas Kits\\Pumkin\\exec-dd3ad511-2377-40d8-bb15-dd9d9771fcbc.png",
+                          "to":  "C:\\Projects\\Canvas Kits\\Pumkin\\info\\archive\\previous-root-files\\exec-dd3ad511-2377-40d8-bb15-dd9d9771fcbc.png",
+                          "directory":  false
+                      },
+                      {
+                          "from":  "C:\\Projects\\Canvas Kits\\Pumkin\\pumpkin-finished-reference-8x10.png",
+                          "to":  "C:\\Projects\\Canvas Kits\\Pumkin\\info\\archive\\previous-root-files\\pumpkin-finished-reference-8x10.png",
+                          "directory":  false
+                      },
+                      {
+                          "from":  "C:\\Projects\\Canvas Kits\\Pumkin\\pumpkin-finished-reference.png",
+                          "to":  "C:\\Projects\\Canvas Kits\\Pumkin\\info\\archive\\previous-root-files\\pumpkin-finished-reference.png",
+                          "directory":  false
+                      },
+                      {
+                          "from":  "C:\\Projects\\Canvas Kits\\Pumkin\\pumpkin-outline-8x10-600dpi.png",
+                          "to":  "C:\\Projects\\Canvas Kits\\Pumkin\\info\\archive\\previous-root-files\\pumpkin-outline-8x10-600dpi.png",
+                          "directory":  false
+                      },
+                      {
+                          "from":  "C:\\Projects\\Canvas Kits\\Pumkin\\pumpkin-outline-8x10.png",
+                          "to":  "C:\\Projects\\Canvas Kits\\Pumkin\\info\\archive\\previous-root-files\\pumpkin-outline-8x10.png",
+                          "directory":  false
+                      },
+                      {
+                          "from":  "C:\\Projects\\Canvas Kits\\Pumkin\\pumpkin-outline-8x10.svg",
+                          "to":  "C:\\Projects\\Canvas Kits\\Pumkin\\info\\archive\\previous-root-files\\pumpkin-outline-8x10.svg",
+                          "directory":  false
+                      },
+                      {
+                          "from":  "C:\\Projects\\Canvas Kits\\Pumkin\\pumpkin-outline.png",
+                          "to":  "C:\\Projects\\Canvas Kits\\Pumkin\\info\\archive\\previous-root-files\\pumpkin-outline.png",
+                          "directory":  false
+                      },
+                      {
+                          "from":  "C:\\Projects\\Canvas Kits\\Pumkin\\TRANSFER-OUTLINE.md",
+                          "to":  "C:\\Projects\\Canvas Kits\\Pumkin\\info\\archive\\previous-root-files\\TRANSFER-OUTLINE.md",
+                          "directory":  false
+                      }
+                  ]
+    },
+    {
+        "kit":  {
+                    "folder":  "Gnome Christmas Tree",
+                    "slug":  "gnome-christmas-tree",
+                    "review":  "Portrait reference and guide rebuilt against existing SVG; see organization audit.",
+                    "build":  "tmp/organization/ (see project organization-audit-gnomes.md for entrypoints).",
+                    "outline":  "output/svg/8x10/gnome-christmas-tree-outline-8x10.svg",
+                    "guide":  "output/pdf/8x10/gnome-christmas-tree-painting-guide-8x10.pdf",
+                    "reference":  "output/pdf/8x10/gnome-christmas-tree-finished-reference-8x10.pdf"
+                },
+        "root":  "C:\\Projects\\Canvas Kits\\Gnome Christmas Tree",
+        "selected":  [
+                         {
+                             "role":  "outline",
+                             "source":  "C:\\Projects\\Canvas Kits\\Gnome Christmas Tree\\output\\svg\\8x10\\gnome-christmas-tree-outline-8x10.svg",
+                             "destination":  "C:\\Projects\\Canvas Kits\\Gnome Christmas Tree\\gnome-christmas-tree-outline-8x10.svg",
+                             "sha256":  "1C4B289F49A1B7CCF97B2C93049CBB961B64AFF67495B457615FB5B94F05A7F9"
+                         },
+                         {
+                             "role":  "guide",
+                             "source":  "C:\\Projects\\Canvas Kits\\Gnome Christmas Tree\\output\\pdf\\8x10\\gnome-christmas-tree-painting-guide-8x10.pdf",
+                             "destination":  "C:\\Projects\\Canvas Kits\\Gnome Christmas Tree\\gnome-christmas-tree-painting-guide-8x10.pdf",
+                             "sha256":  "6F2814F31FF13728B612E479FDE93AFDEA0052784E2C4AFD6B445247860DCF3A"
+                         },
+                         {
+                             "role":  "reference",
+                             "source":  "C:\\Projects\\Canvas Kits\\Gnome Christmas Tree\\output\\pdf\\8x10\\gnome-christmas-tree-finished-reference-8x10.pdf",
+                             "destination":  "C:\\Projects\\Canvas Kits\\Gnome Christmas Tree\\gnome-christmas-tree-finished-reference-8x10.pdf",
+                             "sha256":  "EEDC1187816E61B2A935474B4C74FCE65F90BDCF0EA21F8E38A7FA6F92AB2ABD"
+                         }
+                     ],
+        "moves":  [
+                      {
+                          "from":  "C:\\Projects\\Canvas Kits\\Gnome Christmas Tree\\assets",
+                          "to":  "C:\\Projects\\Canvas Kits\\Gnome Christmas Tree\\info\\assets",
+                          "directory":  true
+                      },
+                      {
+                          "from":  "C:\\Projects\\Canvas Kits\\Gnome Christmas Tree\\output",
+                          "to":  "C:\\Projects\\Canvas Kits\\Gnome Christmas Tree\\info\\output",
+                          "directory":  true
+                      },
+                      {
+                          "from":  "C:\\Projects\\Canvas Kits\\Gnome Christmas Tree\\test",
+                          "to":  "C:\\Projects\\Canvas Kits\\Gnome Christmas Tree\\info\\test",
+                          "directory":  true
+                      },
+                      {
+                          "from":  "C:\\Projects\\Canvas Kits\\Gnome Christmas Tree\\tmp",
+                          "to":  "C:\\Projects\\Canvas Kits\\Gnome Christmas Tree\\info\\tmp",
+                          "directory":  true
+                      },
+                      {
+                          "from":  "C:\\Projects\\Canvas Kits\\Gnome Christmas Tree\\gnome-christmas-tree-finished-reference.png",
+                          "to":  "C:\\Projects\\Canvas Kits\\Gnome Christmas Tree\\info\\archive\\previous-root-files\\gnome-christmas-tree-finished-reference.png",
+                          "directory":  false
+                      },
+                      {
+                          "from":  "C:\\Projects\\Canvas Kits\\Gnome Christmas Tree\\gnome-christmas-tree-outline-8x10-600dpi.png",
+                          "to":  "C:\\Projects\\Canvas Kits\\Gnome Christmas Tree\\info\\archive\\previous-root-files\\gnome-christmas-tree-outline-8x10-600dpi.png",
+                          "directory":  false
+                      },
+                      {
+                          "from":  "C:\\Projects\\Canvas Kits\\Gnome Christmas Tree\\gnome-christmas-tree-outline-8x10.png",
+                          "to":  "C:\\Projects\\Canvas Kits\\Gnome Christmas Tree\\info\\archive\\previous-root-files\\gnome-christmas-tree-outline-8x10.png",
+                          "directory":  false
+                      },
+                      {
+                          "from":  "C:\\Projects\\Canvas Kits\\Gnome Christmas Tree\\gnome-christmas-tree-outline-8x10.svg",
+                          "to":  "C:\\Projects\\Canvas Kits\\Gnome Christmas Tree\\info\\archive\\previous-root-files\\gnome-christmas-tree-outline-8x10.svg",
+                          "directory":  false
+                      },
+                      {
+                          "from":  "C:\\Projects\\Canvas Kits\\Gnome Christmas Tree\\gnome-christmas-tree-outline.png",
+                          "to":  "C:\\Projects\\Canvas Kits\\Gnome Christmas Tree\\info\\archive\\previous-root-files\\gnome-christmas-tree-outline.png",
+                          "directory":  false
+                      },
+                      {
+                          "from":  "C:\\Projects\\Canvas Kits\\Gnome Christmas Tree\\TRANSFER-OUTLINE.md",
+                          "to":  "C:\\Projects\\Canvas Kits\\Gnome Christmas Tree\\info\\archive\\previous-root-files\\TRANSFER-OUTLINE.md",
+                          "directory":  false
+                      }
+                  ]
+    },
+    {
+        "kit":  {
+                    "folder":  "Gnome Fall",
+                    "slug":  "gnome-fall",
+                    "review":  "Portrait reference and guide rebuilt against existing SVG; see organization audit.",
+                    "build":  "tmp/organization/ (see project organization-audit-gnomes.md for entrypoints).",
+                    "outline":  "output/svg/8x10/gnome-fall-outline-8x10.svg",
+                    "guide":  "output/pdf/8x10/gnome-fall-painting-guide-8x10.pdf",
+                    "reference":  "output/pdf/8x10/gnome-fall-finished-reference-8x10.pdf"
+                },
+        "root":  "C:\\Projects\\Canvas Kits\\Gnome Fall",
+        "selected":  [
+                         {
+                             "role":  "outline",
+                             "source":  "C:\\Projects\\Canvas Kits\\Gnome Fall\\output\\svg\\8x10\\gnome-fall-outline-8x10.svg",
+                             "destination":  "C:\\Projects\\Canvas Kits\\Gnome Fall\\gnome-fall-outline-8x10.svg",
+                             "sha256":  "3F8997A82189D2AB82DBAF9D68FB5A75F56091EF9EFEA654EBFE70A09228CDFD"
+                         },
+                         {
+                             "role":  "guide",
+                             "source":  "C:\\Projects\\Canvas Kits\\Gnome Fall\\output\\pdf\\8x10\\gnome-fall-painting-guide-8x10.pdf",
+                             "destination":  "C:\\Projects\\Canvas Kits\\Gnome Fall\\gnome-fall-painting-guide-8x10.pdf",
+                             "sha256":  "DE307EC364E248F069EE380CE560982F0AA04BFFC658E6D8620E3AF577CAAC37"
+                         },
+                         {
+                             "role":  "reference",
+                             "source":  "C:\\Projects\\Canvas Kits\\Gnome Fall\\output\\pdf\\8x10\\gnome-fall-finished-reference-8x10.pdf",
+                             "destination":  "C:\\Projects\\Canvas Kits\\Gnome Fall\\gnome-fall-finished-reference-8x10.pdf",
+                             "sha256":  "5A6C01B710E6329E292A8646439F2BA74E3FEC79A9360160DC7B17C9C8DEE5E0"
+                         }
+                     ],
+        "moves":  [
+                      {
+                          "from":  "C:\\Projects\\Canvas Kits\\Gnome Fall\\assets",
+                          "to":  "C:\\Projects\\Canvas Kits\\Gnome Fall\\info\\assets",
+                          "directory":  true
+                      },
+                      {
+                          "from":  "C:\\Projects\\Canvas Kits\\Gnome Fall\\output",
+                          "to":  "C:\\Projects\\Canvas Kits\\Gnome Fall\\info\\output",
+                          "directory":  true
+                      },
+                      {
+                          "from":  "C:\\Projects\\Canvas Kits\\Gnome Fall\\test",
+                          "to":  "C:\\Projects\\Canvas Kits\\Gnome Fall\\info\\test",
+                          "directory":  true
+                      },
+                      {
+                          "from":  "C:\\Projects\\Canvas Kits\\Gnome Fall\\tmp",
+                          "to":  "C:\\Projects\\Canvas Kits\\Gnome Fall\\info\\tmp",
+                          "directory":  true
+                      },
+                      {
+                          "from":  "C:\\Projects\\Canvas Kits\\Gnome Fall\\gnome-fall-finished-reference.png",
+                          "to":  "C:\\Projects\\Canvas Kits\\Gnome Fall\\info\\archive\\previous-root-files\\gnome-fall-finished-reference.png",
+                          "directory":  false
+                      },
+                      {
+                          "from":  "C:\\Projects\\Canvas Kits\\Gnome Fall\\gnome-fall-outline-8x10-600dpi.png",
+                          "to":  "C:\\Projects\\Canvas Kits\\Gnome Fall\\info\\archive\\previous-root-files\\gnome-fall-outline-8x10-600dpi.png",
+                          "directory":  false
+                      },
+                      {
+                          "from":  "C:\\Projects\\Canvas Kits\\Gnome Fall\\gnome-fall-outline-8x10.png",
+                          "to":  "C:\\Projects\\Canvas Kits\\Gnome Fall\\info\\archive\\previous-root-files\\gnome-fall-outline-8x10.png",
+                          "directory":  false
+                      },
+                      {
+                          "from":  "C:\\Projects\\Canvas Kits\\Gnome Fall\\gnome-fall-outline-8x10.svg",
+                          "to":  "C:\\Projects\\Canvas Kits\\Gnome Fall\\info\\archive\\previous-root-files\\gnome-fall-outline-8x10.svg",
+                          "directory":  false
+                      },
+                      {
+                          "from":  "C:\\Projects\\Canvas Kits\\Gnome Fall\\gnome-fall-outline.png",
+                          "to":  "C:\\Projects\\Canvas Kits\\Gnome Fall\\info\\archive\\previous-root-files\\gnome-fall-outline.png",
+                          "directory":  false
+                      },
+                      {
+                          "from":  "C:\\Projects\\Canvas Kits\\Gnome Fall\\gnome-fall-outline.svg",
+                          "to":  "C:\\Projects\\Canvas Kits\\Gnome Fall\\info\\archive\\previous-root-files\\gnome-fall-outline.svg",
+                          "directory":  false
+                      },
+                      {
+                          "from":  "C:\\Projects\\Canvas Kits\\Gnome Fall\\gnome-fall-source-composite.png",
+                          "to":  "C:\\Projects\\Canvas Kits\\Gnome Fall\\info\\archive\\previous-root-files\\gnome-fall-source-composite.png",
+                          "directory":  false
+                      },
+                      {
+                          "from":  "C:\\Projects\\Canvas Kits\\Gnome Fall\\TRANSFER-OUTLINE.md",
+                          "to":  "C:\\Projects\\Canvas Kits\\Gnome Fall\\info\\archive\\previous-root-files\\TRANSFER-OUTLINE.md",
+                          "directory":  false
+                      }
+                  ]
+    },
+    {
+        "kit":  {
+                    "folder":  "fall view",
+                    "slug":  "fall-view",
+                    "review":  "Portrait reference and guide rebuilt against existing SVG; see organization audit.",
+                    "build":  "tmp/organization-repair/ (see project organization-audit-landscape.md for entrypoints).",
+                    "outline":  "output/svg/8x10/fall-view-outline-8x10.svg",
+                    "guide":  "output/pdf/8x10/fall-view-painting-guide-8x10.pdf",
+                    "reference":  "output/pdf/8x10/fall-view-finished-reference-8x10.pdf"
+                },
+        "root":  "C:\\Projects\\Canvas Kits\\fall view",
+        "selected":  [
+                         {
+                             "role":  "outline",
+                             "source":  "C:\\Projects\\Canvas Kits\\fall view\\output\\svg\\8x10\\fall-view-outline-8x10.svg",
+                             "destination":  "C:\\Projects\\Canvas Kits\\fall view\\fall-view-outline-8x10.svg",
+                             "sha256":  "A10351797E8408D49CAB2512B702912E130B0506DEDA2A27024720DC82113460"
+                         },
+                         {
+                             "role":  "guide",
+                             "source":  "C:\\Projects\\Canvas Kits\\fall view\\output\\pdf\\8x10\\fall-view-painting-guide-8x10.pdf",
+                             "destination":  "C:\\Projects\\Canvas Kits\\fall view\\fall-view-painting-guide-8x10.pdf",
+                             "sha256":  "DA5BE495EB8E9D909ADBEDC2DE5FB5509900E468798B18CF17C5CD42FDB4F3D7"
+                         },
+                         {
+                             "role":  "reference",
+                             "source":  "C:\\Projects\\Canvas Kits\\fall view\\output\\pdf\\8x10\\fall-view-finished-reference-8x10.pdf",
+                             "destination":  "C:\\Projects\\Canvas Kits\\fall view\\fall-view-finished-reference-8x10.pdf",
+                             "sha256":  "1E85F13D4B4235D00D8E5E2AFF1ED69005CCD5148B15CE6D4BE72609507245E1"
+                         }
+                     ],
+        "moves":  [
+                      {
+                          "from":  "C:\\Projects\\Canvas Kits\\fall view\\assets",
+                          "to":  "C:\\Projects\\Canvas Kits\\fall view\\info\\assets",
+                          "directory":  true
+                      },
+                      {
+                          "from":  "C:\\Projects\\Canvas Kits\\fall view\\output",
+                          "to":  "C:\\Projects\\Canvas Kits\\fall view\\info\\output",
+                          "directory":  true
+                      },
+                      {
+                          "from":  "C:\\Projects\\Canvas Kits\\fall view\\test",
+                          "to":  "C:\\Projects\\Canvas Kits\\fall view\\info\\test",
+                          "directory":  true
+                      },
+                      {
+                          "from":  "C:\\Projects\\Canvas Kits\\fall view\\tmp",
+                          "to":  "C:\\Projects\\Canvas Kits\\fall view\\info\\tmp",
+                          "directory":  true
+                      },
+                      {
+                          "from":  "C:\\Projects\\Canvas Kits\\fall view\\fall-view-finished-reference.png",
+                          "to":  "C:\\Projects\\Canvas Kits\\fall view\\info\\archive\\previous-root-files\\fall-view-finished-reference.png",
+                          "directory":  false
+                      },
+                      {
+                          "from":  "C:\\Projects\\Canvas Kits\\fall view\\fall-view-outline-8x10-600dpi.png",
+                          "to":  "C:\\Projects\\Canvas Kits\\fall view\\info\\archive\\previous-root-files\\fall-view-outline-8x10-600dpi.png",
+                          "directory":  false
+                      },
+                      {
+                          "from":  "C:\\Projects\\Canvas Kits\\fall view\\fall-view-outline-8x10.png",
+                          "to":  "C:\\Projects\\Canvas Kits\\fall view\\info\\archive\\previous-root-files\\fall-view-outline-8x10.png",
+                          "directory":  false
+                      },
+                      {
+                          "from":  "C:\\Projects\\Canvas Kits\\fall view\\fall-view-outline-8x10.svg",
+                          "to":  "C:\\Projects\\Canvas Kits\\fall view\\info\\archive\\previous-root-files\\fall-view-outline-8x10.svg",
+                          "directory":  false
+                      },
+                      {
+                          "from":  "C:\\Projects\\Canvas Kits\\fall view\\fall-view-outline.png",
+                          "to":  "C:\\Projects\\Canvas Kits\\fall view\\info\\archive\\previous-root-files\\fall-view-outline.png",
+                          "directory":  false
+                      },
+                      {
+                          "from":  "C:\\Projects\\Canvas Kits\\fall view\\fall-view-source-composite.png",
+                          "to":  "C:\\Projects\\Canvas Kits\\fall view\\info\\archive\\previous-root-files\\fall-view-source-composite.png",
+                          "directory":  false
+                      },
+                      {
+                          "from":  "C:\\Projects\\Canvas Kits\\fall view\\Screenshot 2026-09-16 220212.png",
+                          "to":  "C:\\Projects\\Canvas Kits\\fall view\\info\\archive\\previous-root-files\\Screenshot 2026-09-16 220212.png",
+                          "directory":  false
+                      },
+                      {
+                          "from":  "C:\\Projects\\Canvas Kits\\fall view\\TRANSFER-OUTLINE.md",
+                          "to":  "C:\\Projects\\Canvas Kits\\fall view\\info\\archive\\previous-root-files\\TRANSFER-OUTLINE.md",
+                          "directory":  false
+                      }
+                  ]
+    },
+    {
+        "kit":  {
+                    "folder":  "Starry-night Sunflower",
+                    "slug":  "starry-night-sunflower",
+                    "review":  "Portrait reference and guide rebuilt against existing SVG; original square kit archived intact.",
+                    "build":  "tmp/organization-repair/ (see project organization-audit-landscape.md for entrypoints).",
+                    "outline":  "output/svg/8x10/starry-night-sunflower-outline-8x10.svg",
+                    "guide":  "output/pdf/8x10/starry-night-sunflower-painting-guide-8x10.pdf",
+                    "reference":  "output/pdf/8x10/starry-night-sunflower-finished-reference-8x10.pdf"
+                },
+        "root":  "C:\\Projects\\Canvas Kits\\Starry-night Sunflower",
+        "selected":  [
+                         {
+                             "role":  "outline",
+                             "source":  "C:\\Projects\\Canvas Kits\\Starry-night Sunflower\\output\\svg\\8x10\\starry-night-sunflower-outline-8x10.svg",
+                             "destination":  "C:\\Projects\\Canvas Kits\\Starry-night Sunflower\\starry-night-sunflower-outline-8x10.svg",
+                             "sha256":  "59C71E68A18B715A00662D03A800A353BADD3472A6E2BFF5FD9099E8D87D4299"
+                         },
+                         {
+                             "role":  "guide",
+                             "source":  "C:\\Projects\\Canvas Kits\\Starry-night Sunflower\\output\\pdf\\8x10\\starry-night-sunflower-painting-guide-8x10.pdf",
+                             "destination":  "C:\\Projects\\Canvas Kits\\Starry-night Sunflower\\starry-night-sunflower-painting-guide-8x10.pdf",
+                             "sha256":  "3A0D07A601EF298320183DC93BE593883AF6AA1B93CAC6A5387E6CC3B7D80517"
+                         },
+                         {
+                             "role":  "reference",
+                             "source":  "C:\\Projects\\Canvas Kits\\Starry-night Sunflower\\output\\pdf\\8x10\\starry-night-sunflower-finished-reference-8x10.pdf",
+                             "destination":  "C:\\Projects\\Canvas Kits\\Starry-night Sunflower\\starry-night-sunflower-finished-reference-8x10.pdf",
+                             "sha256":  "8B27D4463EDC2CDBED62A8E6B5FD6E927C5118A77B091208CF06069A9816F9D9"
+                         }
+                     ],
+        "moves":  [
+                      {
+                          "from":  "C:\\Projects\\Canvas Kits\\Starry-night Sunflower\\output",
+                          "to":  "C:\\Projects\\Canvas Kits\\Starry-night Sunflower\\info\\output",
+                          "directory":  true
+                      },
+                      {
+                          "from":  "C:\\Projects\\Canvas Kits\\Starry-night Sunflower\\test",
+                          "to":  "C:\\Projects\\Canvas Kits\\Starry-night Sunflower\\info\\test",
+                          "directory":  true
+                      },
+                      {
+                          "from":  "C:\\Projects\\Canvas Kits\\Starry-night Sunflower\\tmp",
+                          "to":  "C:\\Projects\\Canvas Kits\\Starry-night Sunflower\\info\\tmp",
+                          "directory":  true
+                      },
+                      {
+                          "from":  "C:\\Projects\\Canvas Kits\\Starry-night Sunflower\\starry-night-sunflower-finished-reference.png",
+                          "to":  "C:\\Projects\\Canvas Kits\\Starry-night Sunflower\\info\\archive\\previous-root-files\\starry-night-sunflower-finished-reference.png",
+                          "directory":  false
+                      },
+                      {
+                          "from":  "C:\\Projects\\Canvas Kits\\Starry-night Sunflower\\starry-night-sunflower-outline-8x10-600dpi.png",
+                          "to":  "C:\\Projects\\Canvas Kits\\Starry-night Sunflower\\info\\archive\\previous-root-files\\starry-night-sunflower-outline-8x10-600dpi.png",
+                          "directory":  false
+                      },
+                      {
+                          "from":  "C:\\Projects\\Canvas Kits\\Starry-night Sunflower\\starry-night-sunflower-outline-8x10.png",
+                          "to":  "C:\\Projects\\Canvas Kits\\Starry-night Sunflower\\info\\archive\\previous-root-files\\starry-night-sunflower-outline-8x10.png",
+                          "directory":  false
+                      },
+                      {
+                          "from":  "C:\\Projects\\Canvas Kits\\Starry-night Sunflower\\starry-night-sunflower-outline-8x10.svg",
+                          "to":  "C:\\Projects\\Canvas Kits\\Starry-night Sunflower\\info\\archive\\previous-root-files\\starry-night-sunflower-outline-8x10.svg",
+                          "directory":  false
+                      },
+                      {
+                          "from":  "C:\\Projects\\Canvas Kits\\Starry-night Sunflower\\starry-night-sunflower-outline.png",
+                          "to":  "C:\\Projects\\Canvas Kits\\Starry-night Sunflower\\info\\archive\\previous-root-files\\starry-night-sunflower-outline.png",
+                          "directory":  false
+                      },
+                      {
+                          "from":  "C:\\Projects\\Canvas Kits\\Starry-night Sunflower\\TRANSFER-OUTLINE.md",
+                          "to":  "C:\\Projects\\Canvas Kits\\Starry-night Sunflower\\info\\archive\\previous-root-files\\TRANSFER-OUTLINE.md",
+                          "directory":  false
+                      }
+                  ]
+    }
+]

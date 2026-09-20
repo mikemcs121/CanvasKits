@@ -1,0 +1,29 @@
+{
+  "kit": "Pumkin",
+  "slug": "pumpkin",
+  "steps": 8,
+  "guidePdf": "Pumkin/info/tmp/template-refactor/pumpkin-painting-guide-8x10.pdf",
+  "guidePng": "Pumkin/info/tmp/template-refactor/pumpkin-painting-guide-8x10.png",
+  "guideSha256": "97F4C5AB13A9DB4D41A5A860938508BB25402A571A7F523E394152802A602D2B",
+  "imageSha256": "CBA886CD15BE9B06C529F2A9F3D15B44CF8685E32145B1561D93E2EF650BEB6F",
+  "onePageLetter": true,
+  "rasterSize": [
+    2550,
+    3300
+  ],
+  "layoutPassed": true,
+  "logoTransparent": true,
+  "palette": {
+    "ink": "#513922",
+    "accent": "#c9813e",
+    "wash": "#f7ead8",
+    "second": "#7e7947",
+    "ribbon": "#f5e3c3"
+  },
+  "unchangedArtworkHashes": {
+    "Pumkin/pumpkin-outline-8x10.svg": "73d4fadcace1d4e9bac071fa14667c31fe3084211429235b059a0321dc7485fc",
+    "Pumkin/pumpkin-finished-reference-8x10.pdf": "3a0f6122a9a94becbc118e2789bec747edf12a2587d9dee3806fca504ebda238"
+  },
+  "visuallyReviewed": true,
+  "promoted": true
+}

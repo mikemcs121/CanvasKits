@@ -1,0 +1,461 @@
+{
+  "folder": "Cat in Pumpkin",
+  "renamedFiles": [
+    "Cat in Pumpkin\\info\\tmp\\transfer-standard\\before-transfer\\output\\pdf\\8x10\\cat-in-pumpkin-outline-8x10-600dpi.png",
+    "Cat in Pumpkin\\info\\tmp\\transfer-standard\\before-transfer\\output\\svg\\8x10\\cat-in-pumpkin-outline-8x10.svg",
+    "Cat in Pumpkin\\info\\tmp\\transfer-standard\\before-transfer\\output\\pdf\\8x10\\cat-in-pumpkin-outline-8x10.png",
+    "Cat in Pumpkin\\info\\tmp\\transfer-standard\\before-transfer\\output\\pdf\\8x10\\cat-in-pumpkin-outline-8x10.pdf",
+    "Cat in Pumpkin\\info\\tmp\\darker-outline\\before-2pt\\output\\pdf\\8x10\\cat-in-pumpkin-outline-8x10-600dpi.png",
+    "Cat in Pumpkin\\info\\tmp\\darker-outline\\before-2pt\\output\\svg\\8x10\\cat-in-pumpkin-outline-8x10.svg",
+    "Cat in Pumpkin\\info\\tmp\\darker-outline\\before-2pt\\output\\pdf\\8x10\\cat-in-pumpkin-outline-8x10.png",
+    "Cat in Pumpkin\\info\\tmp\\darker-outline\\before-2pt\\output\\pdf\\8x10\\cat-in-pumpkin-outline-8x10.pdf",
+    "Cat in Pumpkin\\info\\tmp\\transfer-standard\\before-transfer\\cat-in-pumpkin-outline-8x10-600dpi.png",
+    "Cat in Pumpkin\\info\\archive\\previous-root-files\\cat-in-pumpkin-finished-reference-8x10.png",
+    "Cat in Pumpkin\\info\\tmp\\transfer-standard\\before-transfer\\cat-in-pumpkin-outline-8x10.png",
+    "Cat in Pumpkin\\info\\tmp\\transfer-standard\\before-transfer\\cat-in-pumpkin-outline-8x10.svg",
+    "Cat in Pumpkin\\info\\tmp\\8x10-artwork\\before-transparency\\cat-in-pumpkin-outline-8x10.pdf",
+    "Cat in Pumpkin\\info\\tmp\\8x10-artwork\\before-transparency\\cat-in-pumpkin-outline-8x10.png",
+    "Cat in Pumpkin\\info\\tmp\\darker-outline\\before-2pt\\cat-in-pumpkin-outline-8x10-600dpi.png",
+    "Cat in Pumpkin\\info\\archive\\previous-root-files\\cat-in-pumpkin-outline-8x10-600dpi.png",
+    "Cat in Pumpkin\\info\\tmp\\8x10-artwork\\cat-in-pumpkin-finished-reference-8x10-render.png",
+    "Cat in Pumpkin\\info\\archive\\previous-root-files\\cat-in-pumpkin-finished-reference.png",
+    "Cat in Pumpkin\\info\\tmp\\transfer-standard\\before-transfer\\cat-in-pumpkin-outline.png",
+    "Cat in Pumpkin\\info\\tmp\\8x10-artwork\\before-transparency\\cat-in-pumpkin-outline.png",
+    "Cat in Pumpkin\\info\\tmp\\8x10-artwork\\cat-in-pumpkin-painting-guide-8x10-render.png",
+    "Cat in Pumpkin\\info\\tmp\\darker-outline\\before-2pt\\cat-in-pumpkin-outline-8x10.png",
+    "Cat in Pumpkin\\info\\tmp\\darker-outline\\before-2pt\\cat-in-pumpkin-outline-8x10.svg",
+    "Cat in Pumpkin\\info\\tmp\\transfer-standard\\cat-in-pumpkin-outline-8x10-600dpi.png",
+    "Cat in Pumpkin\\info\\tmp\\transfer-standard\\cat-in-pumpkin-outline-8x10-render.png",
+    "Cat in Pumpkin\\info\\archive\\previous-root-files\\cat-in-pumpkin-outline-8x10.png",
+    "Cat in Pumpkin\\info\\archive\\previous-root-files\\cat-in-pumpkin-outline-8x10.svg",
+    "Cat in Pumpkin\\info\\tmp\\8x10-artwork\\cat-in-pumpkin-finished-reference-8x10.bmp",
+    "Cat in Pumpkin\\info\\output\\pdf\\8x10\\cat-in-pumpkin-finished-reference-8x10.png",
+    "Cat in Pumpkin\\info\\output\\pdf\\8x10\\cat-in-pumpkin-finished-reference-8x10.pdf",
+    "Cat in Pumpkin\\info\\tmp\\darker-outline\\cat-in-pumpkin-outline-8x10-600dpi.png",
+    "Cat in Pumpkin\\info\\tmp\\darker-outline\\cat-in-pumpkin-outline-8x10-render.png",
+    "Cat in Pumpkin\\info\\tmp\\darker-outline\\before-2pt\\cat-in-pumpkin-outline.png",
+    "Cat in Pumpkin\\info\\tmp\\8x10-artwork\\cat-in-pumpkin-painting-guide-8x10.pdf",
+    "Cat in Pumpkin\\info\\tmp\\8x10-artwork\\cat-in-pumpkin-outline-8x10-render.png",
+    "Cat in Pumpkin\\info\\output\\pdf\\8x10\\cat-in-pumpkin-painting-guide-8x10.pdf",
+    "Cat in Pumpkin\\info\\output\\pdf\\8x10\\cat-in-pumpkin-painting-guide-8x10.png",
+    "Cat in Pumpkin\\info\\archive\\previous-root-files\\cat-in-pumpkin-outline.png",
+    "Cat in Pumpkin\\info\\output\\pdf\\8x10\\cat-in-pumpkin-outline-8x10-600dpi.png",
+    "Cat in Pumpkin\\info\\tmp\\transfer-standard\\cat-in-pumpkin-outline-8x10.pdf",
+    "Cat in Pumpkin\\info\\tmp\\transfer-standard\\cat-in-pumpkin-outline-8x10.svg",
+    "Cat in Pumpkin\\info\\tmp\\transfer-standard\\cat-in-pumpkin-outline-8x10.png",
+    "Cat in Pumpkin\\info\\tmp\\darker-outline\\cat-in-pumpkin-outline-8x10.pdf",
+    "Cat in Pumpkin\\info\\tmp\\darker-outline\\cat-in-pumpkin-outline-8x10.svg",
+    "Cat in Pumpkin\\info\\tmp\\darker-outline\\cat-in-pumpkin-outline-8x10.png",
+    "Cat in Pumpkin\\info\\tmp\\vector\\cat-in-pumpkin-outline-8x10-vector.pdf",
+    "Cat in Pumpkin\\info\\tmp\\vector\\cat-in-pumpkin-outline-8x10-600dpi.png",
+    "Cat in Pumpkin\\info\\tmp\\8x10-artwork\\cat-in-pumpkin-outline-8x10.bmp",
+    "Cat in Pumpkin\\info\\output\\pdf\\8x10\\cat-in-pumpkin-outline-8x10.png",
+    "Cat in Pumpkin\\info\\output\\svg\\8x10\\cat-in-pumpkin-outline-8x10.svg",
+    "Cat in Pumpkin\\info\\output\\pdf\\8x10\\cat-in-pumpkin-outline-8x10.pdf",
+    "Cat in Pumpkin\\info\\tmp\\vector\\cat-in-pumpkin-outline-8x10.svg",
+    "Cat in Pumpkin\\cat-in-pumpkin-finished-reference-8x10.pdf",
+    "Cat in Pumpkin\\cat-in-pumpkin-painting-guide-8x10.pdf",
+    "Cat in Pumpkin\\cat-in-pumpkin-outline-8x10.svg"
+  ],
+  "updatedText": [
+    {
+      "file": "AGENTS.md",
+      "beforeSha256": "3A14619ABF7D60ACC70A574A0811117CEAD9E9C5DDC2D1AEF4CC70A3C54B6125",
+      "afterSha256": "7328D8B248C0109CF77EDB6D57AE013BDB7CAA73997160B8E05E473942A69211"
+    },
+    {
+      "file": "canvas-kit-history.md",
+      "beforeSha256": "78190C83B75E5121320BF31DC162DC8C1A5F13E76932BAB61080468D7D448842",
+      "afterSha256": "F8EB4212D64E4F8F97F065CA25966A3699714A8ECD03CC7AEBFB3FA5A9A2B89B"
+    },
+    {
+      "file": "canvas-kits.md",
+      "beforeSha256": "1BF9DD0E98FB41DB067688B5968E872255E6E36C9F4169EF786BB0B32B86B8C3",
+      "afterSha256": "6649200010F406281A0B653CDC48A21972B6DD4CA00815C028A7E2A518D235BF"
+    },
+    {
+      "file": "canvas-transfer-outlines.md",
+      "beforeSha256": "2424904572288BAB97FF91108B5EDDD61BAA4C09AD9285A493403BE033FACC79",
+      "afterSha256": "51C246928E5F34B3BA8FED08BF88B41A5F2F4CC6BF7C125A2F7E2BC85A940456"
+    },
+    {
+      "file": "new-autumn-kits-8x10.md",
+      "beforeSha256": "18347423956B86F8320B2BC261C7D69F64008D1A514ACE3665FDC3113624EBE3",
+      "afterSha256": "B1285551996D7A92EC5B21822673F483658DE64862C00051FC4467C20EB00F4C"
+    },
+    {
+      "file": "organization-audit-recent.md",
+      "beforeSha256": "C9612F2797F59B408E14A0B0BB72C722202DF3DDF16536D9EB3EA37D37F63793",
+      "afterSha256": "8E15254AED63C41649D095A012821108165E9194B7CAE96148D24D5311885EB1"
+    },
+    {
+      "file": "assets\\tools\\organization\\build-canvas-SKILL.md",
+      "beforeSha256": "BABEF485D6DE66F810529B3D4EA9A50164B5C92EE693D8E3DDAB86BAF904C0B3",
+      "afterSha256": "9718A0C826B730E8D499E081750524C2F2D1F2DB1C0BE12CD00FF873FE100FCC"
+    },
+    {
+      "file": "assets\\tools\\organization\\final-checks.json",
+      "beforeSha256": "6E7D05B49582E662346C159CF4419DCC44E13BC4779CB7ED9E0ED822CA407CB6",
+      "afterSha256": "275B178F1C6CB47B64C2846587B86898024AD89708CB23709FE689D72FDE9249"
+    },
+    {
+      "file": "assets\\tools\\organization\\move-plan.json",
+      "beforeSha256": "875623C9776E325FBD47A18A1E07CA92D8E8D89B5DE2ABFAFEBD694B6E4D80B1",
+      "afterSha256": "DA331F4652D7553485C34B5C4F90663C0027C2BA267B38B3D84371D93A2571C0"
+    },
+    {
+      "file": "assets\\tools\\organization\\organization-result.json",
+      "beforeSha256": "31399891918F0C964850EB7FB4A83E3505215971C6E4DE904FA3EF6029BB9A69",
+      "afterSha256": "29C89EDEFDF315C3DBB7664B43FD32289357FE38E40DED8F485B8F400B87F505"
+    },
+    {
+      "file": "assets\\tools\\organization\\prepare-docs.cjs",
+      "beforeSha256": "4629246D65B2345DDBFFF6AB97327E09EF29E7315102DDD6070544A25C05CE6C",
+      "afterSha256": "837DC57C95AF8B7F9034BEBCBED2612A94FF5B1C8D78A3D06EBE5C90BDD937D3"
+    },
+    {
+      "file": "assets\\tools\\organization\\prepare-selections.cjs",
+      "beforeSha256": "29D004C5C931B411402D53D79C534745EF06A77BD9EB6B6C1C705BF12D3D37D9",
+      "afterSha256": "B8897F3D907BB262E56374BABF21D9482936FF91277C7CAD7FCBD46A7FFDF0A7"
+    },
+    {
+      "file": "assets\\tools\\organization\\selections.json",
+      "beforeSha256": "15A1B325D97D25FEAB72DC5CDEE9B165A79200DD1930D6558AD13CAD02DA99E5",
+      "afterSha256": "3037CC7F3A998CFB8AF76EB4BA5D69AC0FB0904F69DEAD67BC840630D0F2D321"
+    },
+    {
+      "file": "assets\\tools\\organization\\verify-final.cjs",
+      "beforeSha256": "B909B4C556B23D8D6045F6B4AB6FAE9FB6A598B4A26D9938E9CA96890F34F1EE",
+      "afterSha256": "3975E9848A59B66715FDBE442318412AB2A09F3280E4325293A36CA757096232"
+    },
+    {
+      "file": "assets\\tools\\organization\\write-indexes.cjs",
+      "beforeSha256": "06DEF73D99E58ED5651A5DE6DAD20F6805FF413C388E440D76064C50500BD6FE",
+      "afterSha256": "12CB7BAE362881FF6F6B0B81C0A7E4C195AA5DB0DC891D40BD72FAF2CC1384A1"
+    },
+    {
+      "file": "assets\\tools\\organization\\prior-project-notes\\canvas-transfer-outlines.md",
+      "beforeSha256": "91753D04DB2DD0099B0C84F07DA65DBC0C44867E76545CDD46B3FEDAE1B0841F",
+      "afterSha256": "21EB7660C972DA560AD0166CE58FB385C3DF3B791BF1CADC69B9573B86E4BF8C"
+    },
+    {
+      "file": "assets\\tools\\organization\\prior-project-notes\\new-autumn-kits-8x10.md",
+      "beforeSha256": "E8895BB24C49622AAFE8BE14B33149D5C37E90518BA14D48622DE9CDE355067F",
+      "afterSha256": "584E00AF12A020B69E932FC2EB78AE82971BC68B24F5A8BF31F414512E860956"
+    },
+    {
+      "file": "Cat in Pumpkin\\cat-in-pumpkin-outline-8x10.svg",
+      "beforeSha256": "B3C0297F2C31B7B5FB67514109370EC07BFC0F7DDCFC4E52B6CCDC375AED587C",
+      "afterSha256": "0518C2C1978CBC59E0B9E2D636E1731542CFA1979CB379E99FA6A3EFE54C481F"
+    },
+    {
+      "file": "Cat in Pumpkin\\info\\cache-archive-moves.json",
+      "beforeSha256": "6A270702964A786B0F080C15917C57AB9359D2D921616516FEF090657B68469F",
+      "afterSha256": "28D66387456565DA7DAEF9C6B577398AA4F1A397ADB7CE8EFFC3D436BB1650FF"
+    },
+    {
+      "file": "Cat in Pumpkin\\info\\organization-manifest.json",
+      "beforeSha256": "613F00F4F30BD90482507228731EA70EDD20A40BB2B9488C1358A4086514804D",
+      "afterSha256": "232CA8BF2ED713EB6ABB895A3FA8D7590679EF544F75600A1812B070856EBD3A"
+    },
+    {
+      "file": "Cat in Pumpkin\\info\\production-selection.json",
+      "beforeSha256": "01477E870F055726DFA797F29E91750FC112570377845CDBB35CE7F270F15FCE",
+      "afterSha256": "9D1C496AE644D5AB1357415F907589D5CB6DBC25F0D3951154903D6BBC2AD0E3"
+    },
+    {
+      "file": "Cat in Pumpkin\\info\\README.md",
+      "beforeSha256": "6345142422A01442FA4F0C3EFD0A655BB38717998507B8E11DF64404439073B8",
+      "afterSha256": "BCEFE024EA55DA18C1D204E703BFAA1B4E7F36A389E327B90BDB0CCE347CB437"
+    },
+    {
+      "file": "Cat in Pumpkin\\info\\archive\\previous-root-files\\cat-in-pumpkin-outline-8x10.svg",
+      "beforeSha256": "B3C0297F2C31B7B5FB67514109370EC07BFC0F7DDCFC4E52B6CCDC375AED587C",
+      "afterSha256": "0518C2C1978CBC59E0B9E2D636E1731542CFA1979CB379E99FA6A3EFE54C481F"
+    },
+    {
+      "file": "Cat in Pumpkin\\info\\archive\\previous-root-files\\TRANSFER-OUTLINE.md",
+      "beforeSha256": "0E5E198CEC17C14C77D11275CD9031BCE05B17DFD4B1DA3CC362BFB2E979683D",
+      "afterSha256": "136486F5D839D3A30343DE31914CEE743751FE4C0F6E2C8C2E8277FB206713F0"
+    },
+    {
+      "file": "Cat in Pumpkin\\info\\output\\svg\\8x10\\cat-in-pumpkin-outline-8x10.svg",
+      "beforeSha256": "B3C0297F2C31B7B5FB67514109370EC07BFC0F7DDCFC4E52B6CCDC375AED587C",
+      "afterSha256": "0518C2C1978CBC59E0B9E2D636E1731542CFA1979CB379E99FA6A3EFE54C481F"
+    },
+    {
+      "file": "Cat in Pumpkin\\info\\tmp\\8x10-artwork\\export-checks.json",
+      "beforeSha256": "9A97E1F85BA66C67DF65118A9E4C456B5B8C88713F9B5E0B62D98FD3F9D717FE",
+      "afterSha256": "843082349A7E692D3A870A8F6D2303E25AFA2FC242FCF387271404569CB64D0E"
+    },
+    {
+      "file": "Cat in Pumpkin\\info\\tmp\\8x10-artwork\\export-log.txt",
+      "beforeSha256": "2D74A3CCB9C4C9677DD0700BFCFD9DB2B27490F8A37B0A9DDA64D8B565281F5B",
+      "afterSha256": "228B5AF1D473CE17D1647E7D5A2F5411D82065A3CA44B151DD63CB1B619CF3C8"
+    },
+    {
+      "file": "Cat in Pumpkin\\info\\tmp\\8x10-artwork\\pdf-checks.json",
+      "beforeSha256": "4B759596AFA29C27A8F32B58A6C17683F48CA5AF8B476449056C3312FAE6F9F1",
+      "afterSha256": "0BA13EF7672A0B51B16D9C5C40D615944AD71BE18D0873D19C16F54D8E429FFC"
+    },
+    {
+      "file": "Cat in Pumpkin\\info\\tmp\\8x10-artwork\\step-plan.json",
+      "beforeSha256": "B409765BBAE3CD489A39AA9CBEC9394C5C834E59FC49E3150895D002A436A007",
+      "afterSha256": "211BF96E74E37D3025DF9115CD311E42BB17E296E8B483D7E591760B4CBEF740"
+    },
+    {
+      "file": "Cat in Pumpkin\\info\\tmp\\8x10-artwork\\verification.md",
+      "beforeSha256": "963ABB54B08FE1CF7E6FF3BB989B1746A2B677693AADC114BF1E102BA2895A6F",
+      "afterSha256": "03EE38509AD4B45B38A101340F3A6658A468EA6947465667C07B9BD243F1A0D0"
+    },
+    {
+      "file": "Cat in Pumpkin\\info\\tmp\\darker-outline\\cat-in-pumpkin-outline-8x10.svg",
+      "beforeSha256": "B3C0297F2C31B7B5FB67514109370EC07BFC0F7DDCFC4E52B6CCDC375AED587C",
+      "afterSha256": "0518C2C1978CBC59E0B9E2D636E1731542CFA1979CB379E99FA6A3EFE54C481F"
+    },
+    {
+      "file": "Cat in Pumpkin\\info\\tmp\\darker-outline\\pdf-checks.json",
+      "beforeSha256": "D9BFA45E17DAC6CFD98659CEBD14DA797C4EB94F352F6B5AFE5E87C0A746BA92",
+      "afterSha256": "CB8DCEA679686C61F02DA03A737F08F105AF72F6B30D76856D015DB1D1B4D0E5"
+    },
+    {
+      "file": "Cat in Pumpkin\\info\\tmp\\darker-outline\\before-2pt\\cat-in-pumpkin-outline-8x10.svg",
+      "beforeSha256": "666D60996C09F9B384F8CC069388408894139DAF429AEF168394C6FB66C2BEC2",
+      "afterSha256": "64D1A8D1C593D72C00740B6BE6CBB2CFCA7A503BD718D87008961E0B3BAD8798"
+    },
+    {
+      "file": "Cat in Pumpkin\\info\\tmp\\darker-outline\\before-2pt\\TRANSFER-OUTLINE.md",
+      "beforeSha256": "AE46FDC459264E2514D9D18517BCE7EC08E955498A44CEF5AD671F50EBAA8DDE",
+      "afterSha256": "EF5197C4A4AD2CEB9F82BCA659A963F5D3F29C1297DC197391A6BA4EC1DF106A"
+    },
+    {
+      "file": "Cat in Pumpkin\\info\\tmp\\darker-outline\\before-2pt\\output\\svg\\8x10\\cat-in-pumpkin-outline-8x10.svg",
+      "beforeSha256": "666D60996C09F9B384F8CC069388408894139DAF429AEF168394C6FB66C2BEC2",
+      "afterSha256": "64D1A8D1C593D72C00740B6BE6CBB2CFCA7A503BD718D87008961E0B3BAD8798"
+    },
+    {
+      "file": "Cat in Pumpkin\\info\\tmp\\transfer-standard\\cat-in-pumpkin-outline-8x10.svg",
+      "beforeSha256": "666D60996C09F9B384F8CC069388408894139DAF429AEF168394C6FB66C2BEC2",
+      "afterSha256": "64D1A8D1C593D72C00740B6BE6CBB2CFCA7A503BD718D87008961E0B3BAD8798"
+    },
+    {
+      "file": "Cat in Pumpkin\\info\\tmp\\transfer-standard\\checks.json",
+      "beforeSha256": "5F2C40DC862768B459DFC69D392E2242D080D54AFAA45AFD2D571F2CA235DE54",
+      "afterSha256": "1BBFE247162DC2C76787ACBD6AD1B7997E35C33E0F13A8B7DAAAFF0A8796B880"
+    },
+    {
+      "file": "Cat in Pumpkin\\info\\tmp\\transfer-standard\\pdf-checks.json",
+      "beforeSha256": "D99C84711AB62DC3CC10BE3D99592398F92728D1B790377415172E5496AA1806",
+      "afterSha256": "9C2267733A4B675045E420D385CA1A4599ED6E9ED6C442715F5AF302FECE625B"
+    },
+    {
+      "file": "Cat in Pumpkin\\info\\tmp\\transfer-standard\\verification.json",
+      "beforeSha256": "D832D6853E9A76E7FB5B405EA3B7440C5A1B1E09CFC4EA83D8A444140FA98454",
+      "afterSha256": "231640F15B758158FB1149B8D736C21A76C968CE48C5988B07654E4EE5609157"
+    },
+    {
+      "file": "Cat in Pumpkin\\info\\tmp\\transfer-standard\\before-transfer\\cat-in-pumpkin-outline-8x10.svg",
+      "beforeSha256": "B08146B4E6876E4E939936B6BF0E3FEA490D21F34D3FB6F77559A5FF407A434E",
+      "afterSha256": "E0D87E0E2B8DB9184AAAD8AF104FE7DBE7B529697D5ABF495C67511AEB22FF28"
+    },
+    {
+      "file": "Cat in Pumpkin\\info\\tmp\\transfer-standard\\before-transfer\\output\\svg\\8x10\\cat-in-pumpkin-outline-8x10.svg",
+      "beforeSha256": "B08146B4E6876E4E939936B6BF0E3FEA490D21F34D3FB6F77559A5FF407A434E",
+      "afterSha256": "E0D87E0E2B8DB9184AAAD8AF104FE7DBE7B529697D5ABF495C67511AEB22FF28"
+    },
+    {
+      "file": "Cat in Pumpkin\\info\\tmp\\vector\\cat-in-pumpkin-outline-8x10.svg",
+      "beforeSha256": "B08146B4E6876E4E939936B6BF0E3FEA490D21F34D3FB6F77559A5FF407A434E",
+      "afterSha256": "E0D87E0E2B8DB9184AAAD8AF104FE7DBE7B529697D5ABF495C67511AEB22FF28"
+    },
+    {
+      "file": "Cat in Pumpkin\\info\\tmp\\vector\\verification.json",
+      "beforeSha256": "C9C6A81F11672955D7D01431BD0DB9BD71853FB56E2387A72BCDB18C49BA2A28",
+      "afterSha256": "BDA974C952DF1A1E299B0BB25E60217368ED224B20917DF5871C7349883A3CAA"
+    },
+    {
+      "file": "Fall View\\info\\tmp\\organization-repair\\guide.cjs",
+      "beforeSha256": "6C7C16E38014F91F62C02E90D44A61C92D9DA84D4F1A97CA7EB4A9BBD9C43AFA",
+      "afterSha256": "0F0CED78859B86DC25044B60ED9390E1FEA457436A3BC9676367E5DF1BC75B80"
+    },
+    {
+      "file": "Flowers in Vase\\info\\tmp\\8x10\\prepare.cjs",
+      "beforeSha256": "DB6E1B835A083B4DB7716BBF7BCF7FD3C22DF53CB38B8A6A400950DB77A2CCED",
+      "afterSha256": "83BC86B3C4792D04BBBA89FB826EEE20D4AAE3E6A7DCCFB00184182F9B922EF8"
+    },
+    {
+      "file": "Fox Fall\\info\\tmp\\build-guides.cjs",
+      "beforeSha256": "70E8BCB22CD3C58C06312C4AA14E26F66024C8F0F3532C0C3F857F505758CE50",
+      "afterSha256": "A6BB0BA40D87ACF4E5E8FD00840E6F0FD8D2041C4C973A61D2DB37238516C0E3"
+    },
+    {
+      "file": "Fox Fall\\info\\tmp\\build-new-panels.cjs",
+      "beforeSha256": "0A5AA7E416D0207726B537FB7B796FC31864C8A425908A37CB4AB09ED95DD84C",
+      "afterSha256": "FE4E33195BA70625E8EA8234FB231209E8CAB110730965EA4046A54FFEC759F7"
+    },
+    {
+      "file": "Fox Fall\\info\\tmp\\export-new-artwork-8x10.cjs",
+      "beforeSha256": "152EE9FC30A7BC1CD6B48C557581EE14AEC38A2EC8BEA5F40AC8EB05A22E4581",
+      "afterSha256": "B1EF89254DA03C78694108EFC62244C9D951E0A1142432C09233A1F0F6A8F95E"
+    },
+    {
+      "file": "Fox Fall\\info\\tmp\\export-new-artwork-8x10.ps1",
+      "beforeSha256": "EF6CAC2CC86418EB7959932AE357FA1694BF8816936B9DE3F58B4E3176677895",
+      "afterSha256": "AAFCCBE61FC7E32CD1811F90E1C114277C65A373586A3178A6F5E1864DD32B70"
+    },
+    {
+      "file": "Fox Fall\\info\\tmp\\export-outlines-600dpi.ps1",
+      "beforeSha256": "8E21C94BEFB690606BB7DCE704053A773C2ADFB4CB36C22E680A8E9D9A7AF2DE",
+      "afterSha256": "6D7A541E929A8B88836A54BC7CC3AAAC184822BE03D63EB40B71DC277EAD2195"
+    },
+    {
+      "file": "Fox Fall\\info\\tmp\\inspect-new-regions.cjs",
+      "beforeSha256": "30D3D68AB04918EBB9440339EC054B6599D2DA7D7032D8C71257722E6B931291",
+      "afterSha256": "1C7E38FD301CE4789412BCF2302321AA9F5347B92EB32FD8BD5CB98B446DDA50"
+    },
+    {
+      "file": "Fox Fall\\info\\tmp\\new-kits.cjs",
+      "beforeSha256": "1C26C7DD7B8A5BE05915F9FEFC36A8C9B61B7E3193A7CAC016C2F7BDF7AFBE61",
+      "afterSha256": "D46F092555C5C81709FE56157A48CBD87E431670D122704C20C7721CC1F44853"
+    },
+    {
+      "file": "Fox Fall\\info\\tmp\\outline-600dpi-checks.json",
+      "beforeSha256": "F7094554050AEAF5E3B6405EE5D882D68790C12BFF351E5806FFD903A301B737",
+      "afterSha256": "D7C2974F487528389C98437B0D59E8EAF9C0607F8185FF38CACA8FFFD84BCBDE"
+    },
+    {
+      "file": "Fox Fall\\info\\tmp\\prepare-guides.ps1",
+      "beforeSha256": "47F3B3D9B38343618C3610CDB081B0EEA9DEA83D3D91CB142D11B37B865AA1A0",
+      "afterSha256": "F0E3C3A2A14F7F4D87E03F41780C1FC4A904DF3D5CFF79EE073D13ADC7047A9F"
+    },
+    {
+      "file": "Fox Fall\\info\\tmp\\promote-guides.ps1",
+      "beforeSha256": "E71913DF26B5133C461B7D7A2F9CB95F6D56CAD65572EA3EED9848712CBBAC65",
+      "afterSha256": "99C8603C5A4B4FC406A01612102B28E874F25AD35A0087647B01F24888E44EED"
+    },
+    {
+      "file": "Fox Fall\\info\\tmp\\recover-build-files.cjs",
+      "beforeSha256": "C96FA70328BBB1EFBE11A85A6BFFBF00CC61F219E7AF95D41B000E165A6B3472",
+      "afterSha256": "9EFAFA391E569529736AF67A46A82A6C16F9FE4228DFBB72FE75CD2A6F0CB6F1"
+    },
+    {
+      "file": "Fox Fall\\info\\tmp\\recover-session.cjs",
+      "beforeSha256": "F2B519591D54AA4241DE7E9E197772FE58E58ABF98AE171575E063FE981E2D97",
+      "afterSha256": "C9E22852D33A9146CF2DE03F0677F2E4B9566F292E228148170207332A92922F"
+    },
+    {
+      "file": "Fox Fall\\info\\tmp\\render-guides.ps1",
+      "beforeSha256": "5E0B2868BB4A951AE09F2F7881BAA60368582187B3BC3DBAC64FB00A5875A1CF",
+      "afterSha256": "8180D39C0E27178232ADD9AAC0C342ABEB1A534096B1AF5FE320D9AAAE069FB9"
+    },
+    {
+      "file": "Fox Fall\\info\\tmp\\transparent-outline-pdfs.cjs",
+      "beforeSha256": "51C4727602153A4F9D324D8324FADDD29E9548F6867B8060EB3BE9755D0F8673",
+      "afterSha256": "7B2DF9F22FD79BD0D8E43295FE3E5742BBF50CA3204163A0E1CF28AC8C3B1536"
+    },
+    {
+      "file": "Fox Fall\\info\\tmp\\transparent-outlines.ps1",
+      "beforeSha256": "00F12EEC66FBC6138D2C6158CFD72619BD9D93574CAA7B8B014ECE3586D04BE2",
+      "afterSha256": "E7FB5A9F98FC189EC9BEA025D1E3F9642393A2354D7FAB45F2AF0A1243AA3668"
+    },
+    {
+      "file": "Fox Fall\\info\\tmp\\verify-transparent-outlines.ps1",
+      "beforeSha256": "189CF6661237BADA8A582BB608E208DA559CC6B7FD34245FE5E3E0558162C5E2",
+      "afterSha256": "83980467CB75A0A50769A65F16B7EC22A03C3992793BABDE7A5C70547B284D91"
+    },
+    {
+      "file": "Fox Fall\\info\\tmp\\darker-outline\\copy-to-desktop.ps1",
+      "beforeSha256": "2139852867373B28C8B205BDC34260A7ED82528B076016D18C38F31973C81ACE",
+      "afterSha256": "0B80348F87187D1ECC51D3552878A1C4283A33BF531B19B6D433F0C4701CC44A"
+    },
+    {
+      "file": "Fox Fall\\info\\tmp\\darker-outline\\desktop-manifest.json",
+      "beforeSha256": "4A95CCCA65FAE44B085DFD3FE1183ACB026A5F7695A0D8B060DACFDE1112BBA2",
+      "afterSha256": "DA2E24DEF20D26F54E4BB847428F5E30FF028EA52CC4E290EF135FA722A3A9BE"
+    },
+    {
+      "file": "Fox Fall\\info\\tmp\\darker-outline\\geometry-checks.json",
+      "beforeSha256": "58F5F5202F114A77DA5F7DB73D664A5BFB0E0D38287D744256FE04DAB0944D95",
+      "afterSha256": "D9C8C628BC9759C1B94BCDB90992782B319152EF9D77E53DE4628357AB5E1160"
+    },
+    {
+      "file": "Fox Fall\\info\\tmp\\darker-outline\\kits.json",
+      "beforeSha256": "1C1CF3A5E59FDBEFBA7DB0F4652D3D44D1FF4A1811414E9CDACADAF02CB866AE",
+      "afterSha256": "B0404FC78FFFF4E42F15D981570A48C6FF91B8435F760E901AE58C798B541C5A"
+    },
+    {
+      "file": "Fox Fall\\info\\tmp\\darker-outline\\render.ps1",
+      "beforeSha256": "DDEF6283AEE369C8243DBAD43108F7599BD94F00B1DA452309B72E719C002CDA",
+      "afterSha256": "18C3AE436AE1B3C269E544F055E3A7AC592F95B66BD5868214628F62EB4FE7DA"
+    },
+    {
+      "file": "Fox Fall\\info\\tmp\\darker-outline\\verification.json",
+      "beforeSha256": "DF37A2660FC4372C0574D2CCF2F5FAA190F1ABD679F0A26D2F90CB5EAE9CBD42",
+      "afterSha256": "48868EB7ADF43F1E10419BF7BC4A4F6016DA5203282F6DE6FD1FA69E47F19F62"
+    },
+    {
+      "file": "Fox Fall\\info\\tmp\\transfer-standard\\build.cjs",
+      "beforeSha256": "E7CB6D178ACAD07F0818241F0EA7DC84399D29DD002A8CD12CA952F57F01BE0F",
+      "afterSha256": "98EBBF3D14240EE56C89381EF9E307246BAFA80C3C6F770A1E9C5AB74E222140"
+    },
+    {
+      "file": "Fox Fall\\info\\tmp\\transfer-standard\\components.cjs",
+      "beforeSha256": "5FA66267C35F40BA0DE472E181635F6A5548660E9D5089576891AAABC5E2B927",
+      "afterSha256": "D0568A8E722CE7A9CB766EDF6A38DC7C7F644F4604D3482A08DCC1D6188F4D6D"
+    },
+    {
+      "file": "Fox Fall\\info\\tmp\\transfer-standard\\desktop-manifest.json",
+      "beforeSha256": "50395F07B298869DCFD7129E9988316D11BC094B7DC22B87D7A1DFE6FF28F98C",
+      "afterSha256": "A85B49C646BEE5551B5688C8EB9979225D65B905499607BF774F8B2654FA2568"
+    },
+    {
+      "file": "Fox Fall\\info\\tmp\\transfer-standard\\kits.json",
+      "beforeSha256": "1C1CF3A5E59FDBEFBA7DB0F4652D3D44D1FF4A1811414E9CDACADAF02CB866AE",
+      "afterSha256": "B0404FC78FFFF4E42F15D981570A48C6FF91B8435F760E901AE58C798B541C5A"
+    },
+    {
+      "file": "Fox Fall\\info\\tmp\\transfer-standard\\render.ps1",
+      "beforeSha256": "71349D0FD57D45C229AB8AB6CCA6250D606CF4AFD5BC6AC285159518EB750890",
+      "afterSha256": "257062B8EEB8B7A1E1407A051FAFC5FFB83803130D3943C5785A157C454ED4D1"
+    },
+    {
+      "file": "Fox Fall\\info\\tmp\\transfer-standard\\verification.json",
+      "beforeSha256": "3364CF3514B283C60005AD52FD5C15F80DF4D70813147F6234CAA010DEC71728",
+      "afterSha256": "EED0250D02B7666303C1119E4C4785DB918305BFDF8E565C785245B80520245C"
+    },
+    {
+      "file": "Fox Fall\\info\\tmp\\vector-tools\\build-vectors.cjs",
+      "beforeSha256": "2343BF3F8CDBD0FD8E9DA3D0BC09C33E1308DEA1A753C306825114D987923360",
+      "afterSha256": "79A1DBEF1369AED6A49DD076DF7E4B382BDBF1E12B036242B84B454E6890DF27"
+    },
+    {
+      "file": "Fox Fall\\info\\tmp\\vector-tools\\deliverables.json",
+      "beforeSha256": "E5DE2CADA011BCB34F930B27F317F027B25785F61534BF9D8A0B31A491846A1D",
+      "afterSha256": "4E3573837180696DFADFF2142316E140B7229ADC60A95EF360B976161FCF5F75"
+    },
+    {
+      "file": "Fox Fall\\info\\tmp\\vector-tools\\promote-vectors.ps1",
+      "beforeSha256": "D07FBFE72EEF22C7AD77AFA3CFDE3FE5DB2F9130058F88ADAE924D19517B210C",
+      "afterSha256": "D9FED03BDEE63501C4C17F9DB9AAEDEE089AD99DBA25296B2773B6F3B8EFE38B"
+    },
+    {
+      "file": "Fox Fall\\info\\tmp\\vector-tools\\verification.json",
+      "beforeSha256": "A058ACCACD035817220FA22EA7B58CC2C1FEC3FF4BEAD4AFD015C9D716F9EACE",
+      "afterSha256": "D5DBD796802172CCA4660B70A84EEC7A2F99A2C785B0BF875180067AC8504348"
+    },
+    {
+      "file": "Gnome Halloween\\info\\tmp\\outline-comparison\\compare.cjs",
+      "beforeSha256": "2AFAAF40DFAC3B6214D55D01EDE4B525EF14F7592EB8CDEE0CAD5BDF78D74BDB",
+      "afterSha256": "1454F5D641B64C4470328343B352C6DD0D54B0B9417697FA1EF7145B3CA12B67"
+    },
+    {
+      "file": "Gnome Halloween\\info\\tmp\\outline-comparison\\comparison.json",
+      "beforeSha256": "57D58D6DC2D98428FFA53C7FBA4E9B56717A7E77C8972143D8BBD40370CB899A",
+      "afterSha256": "D5F69C5B50A0CC5D2B57BDC996B69FF8ABFBE2227B14B9A4AA6E0663C79A4398"
+    }
+  ],
+  "note": "Original text bytes retained as SHA-256-named gzip files. Artwork content unchanged.",
+  "guideTitle": "Cat in Pumpkin",
+  "guidePdfSha256": "B33ACD043E7DF995B1AEBF50AA85A1AC2AB178E0D4D89E07D8E5C88CCF76F525",
+  "guideVisuallyReviewed": true
+}

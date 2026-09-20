@@ -1,0 +1,9 @@
+{
+  "name": "canvas-kits-pdf-render",
+  "private": true,
+  "description": "Shared PDF->PNG rasterizer for Canvas Kits verification renders.",
+  "dependencies": {
+    "@hyzyla/pdfium": "^2.1.5",
+    "jimp": "^0.22.12"
+  }
+}

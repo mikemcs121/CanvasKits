@@ -1,0 +1,286 @@
+{
+  "palette": "white, black, red, yellow, teal, green, brown, orange",
+  "steps": [
+    [
+      "Begin with the outline",
+      "Protect your table. Follow the printed lines; use thin coats. Rinse and blot brushes between colors.",
+      []
+    ],
+    [
+      "Brush in the teal sky",
+      "Mix teal with a little white. Paint around the printed shapes with short strokes.",
+      [
+        "sky"
+      ]
+    ],
+    [
+      "Ground & branches",
+      "Paint branches and stems brown. Mix green with a little brown for the ground; leave leaves white.",
+      [
+        "brown",
+        "greenGround"
+      ]
+    ],
+    [
+      "Fill the curling hat",
+      "Mix red with a little brown for rust. Paint thin curved strokes that follow the folds.",
+      [
+        "red"
+      ]
+    ],
+    [
+      "Sleeves & leather",
+      "Mix green with a little brown for sleeves. Paint boots brown; add a speck of black along lower edges.",
+      [
+        "green",
+        "boots"
+      ]
+    ],
+    [
+      "Lay in autumn color",
+      "Mix orange with a touch of brown for pumpkins and the maple leaf. Alternate orange and yellow on other leaves.",
+      [
+        "orange",
+        "goldLeaves"
+      ]
+    ],
+    [
+      "Skin & soft beard",
+      "For peach, mix white, a little yellow and a tiny touch of red. Paint nose and hands. Mix white with a touch of yellow for the beard.",
+      [
+        "skin",
+        "ivory"
+      ]
+    ],
+    [
+      "Light the lanterns",
+      "Paint frames black with a little brown. Use yellow inside; add white to yellow for the flame and soft glow.",
+      [
+        "dark",
+        "gold"
+      ]
+    ],
+    [
+      "Shape the hat",
+      "Mix red, brown and a speck of black for fold shadows. Mix red with a little yellow for highlights. Blend along curves.",
+      null,
+      [
+        230,
+        140,
+        370,
+        340
+      ]
+    ],
+    [
+      "Round the pumpkins",
+      "Mix orange with brown for groove shadows. Mix orange with a little yellow for highlights; follow the ribs.",
+      null,
+      [
+        260,
+        700,
+        330,
+        265
+      ]
+    ],
+    [
+      "Pull fine beard strands",
+      "Mix white, a touch of teal and a speck of brown for shadows. Pull strokes toward the tips; add white and a little yellow highlights.",
+      null,
+      [
+        230,
+        420,
+        370,
+        300
+      ]
+    ],
+    [
+      "Dry & clean up",
+      "Let the canvas dry flat. Wash and reshape brushes, wipe the palette and close paint pots.",
+      null
+    ]
+  ],
+  "records": [
+    {
+      "step": 1,
+      "painted": [],
+      "crop": null,
+      "unpaintedColorErrors": 0
+    },
+    {
+      "step": 2,
+      "painted": [
+        "sky"
+      ],
+      "crop": null,
+      "unpaintedColorErrors": 0
+    },
+    {
+      "step": 3,
+      "painted": [
+        "sky",
+        "brown",
+        "greenGround"
+      ],
+      "crop": null,
+      "unpaintedColorErrors": 0
+    },
+    {
+      "step": 4,
+      "painted": [
+        "sky",
+        "brown",
+        "greenGround",
+        "red"
+      ],
+      "crop": null,
+      "unpaintedColorErrors": 0
+    },
+    {
+      "step": 5,
+      "painted": [
+        "sky",
+        "brown",
+        "greenGround",
+        "red",
+        "green",
+        "boots"
+      ],
+      "crop": null,
+      "unpaintedColorErrors": 0
+    },
+    {
+      "step": 6,
+      "painted": [
+        "sky",
+        "brown",
+        "greenGround",
+        "red",
+        "green",
+        "boots",
+        "orange",
+        "goldLeaves"
+      ],
+      "crop": null,
+      "unpaintedColorErrors": 0
+    },
+    {
+      "step": 7,
+      "painted": [
+        "sky",
+        "brown",
+        "greenGround",
+        "red",
+        "green",
+        "boots",
+        "orange",
+        "goldLeaves",
+        "skin",
+        "ivory"
+      ],
+      "crop": null,
+      "unpaintedColorErrors": 0
+    },
+    {
+      "step": 8,
+      "painted": [
+        "sky",
+        "brown",
+        "greenGround",
+        "red",
+        "green",
+        "boots",
+        "orange",
+        "goldLeaves",
+        "skin",
+        "ivory",
+        "dark",
+        "gold"
+      ],
+      "crop": null,
+      "unpaintedColorErrors": 0
+    },
+    {
+      "step": 9,
+      "painted": [
+        "sky",
+        "brown",
+        "greenGround",
+        "red",
+        "green",
+        "boots",
+        "orange",
+        "goldLeaves",
+        "skin",
+        "ivory",
+        "dark",
+        "gold",
+        "snow",
+        "blue",
+        "treeGold"
+      ],
+      "crop": [
+        230,
+        140,
+        370,
+        340
+      ],
+      "unpaintedColorErrors": 0
+    },
+    {
+      "step": 10,
+      "painted": [
+        "sky",
+        "brown",
+        "greenGround",
+        "red",
+        "green",
+        "boots",
+        "orange",
+        "goldLeaves",
+        "skin",
+        "ivory",
+        "dark",
+        "gold",
+        "snow",
+        "blue",
+        "treeGold"
+      ],
+      "crop": [
+        260,
+        700,
+        330,
+        265
+      ],
+      "unpaintedColorErrors": 0
+    },
+    {
+      "step": 11,
+      "painted": [
+        "sky",
+        "brown",
+        "greenGround",
+        "red",
+        "green",
+        "boots",
+        "orange",
+        "goldLeaves",
+        "skin",
+        "ivory",
+        "dark",
+        "gold",
+        "snow",
+        "blue",
+        "treeGold"
+      ],
+      "crop": [
+        230,
+        420,
+        370,
+        300
+      ],
+      "unpaintedColorErrors": 0
+    }
+  ],
+  "svgUnchanged": true,
+  "geometry": "Masks derived from original test geometry used by current SVG; exact current SVG overlay in full stages."
+}

@@ -1,0 +1,4 @@
+[15204:14056:0920/135430.726:ERROR:chrome\installer\util\google_update_settings_win.cc:270] Failed opening key Software\Google\Update\ClientStateMedium\{8A69D345-D564-463c-AFF1-A69D9E530F96} to set usagestats; result: 5
+[15204:1912:0920/135432.520:ERROR:services\device\public\cpp\geolocation\system_geolocation_source_win.cc:251] Failed to get location access status: The parameter is incorrect. (0x80070057)
+13221695 bytes written to file C:\Projects\Canvas Kits\Pumkin\tmp\8x10-artwork/pumpkin-painting-guide-8x10.pdf
+[15204:16200:0920/135433.877:ERROR:chrome\browser\web_applications\externally_managed_app_manager.cc:680] https://www.youtube.com/s/notifications/manifest/cr_install.html from install source 1 failed to install with reason 21

@@ -1,0 +1,330 @@
+[
+  {
+    "kit": "Flowers in Vase",
+    "preservedFiles": 255,
+    "productionFiles": [
+      "flowers-in-vase-finished-reference-8x10.pdf",
+      "flowers-in-vase-outline-8x10.svg",
+      "flowers-in-vase-painting-guide-8x10.pdf"
+    ],
+    "productionHashes": [
+      {
+        "role": "outline",
+        "source": "C:\\Projects\\Canvas Kits\\Flowers in Vase\\output\\svg\\8x10\\flowers-in-vase-outline-8x10.svg",
+        "destination": "C:\\Projects\\Canvas Kits\\Flowers in Vase\\flowers-in-vase-outline-8x10.svg",
+        "sha256": "76BBDD0008ECAB67356FC3F46C0D8D91A8E07777D1F7A78CC8FC8896C555226F"
+      },
+      {
+        "role": "guide",
+        "source": "C:\\Projects\\Canvas Kits\\Flowers in Vase\\info\\tmp\\template-refactor\\flowers-in-vase-painting-guide-8x10.pdf",
+        "destination": "C:\\Projects\\Canvas Kits\\Flowers in Vase\\flowers-in-vase-painting-guide-8x10.pdf",
+        "sha256": "00AE5D7F05739F5F6B1762A692EBA2853AF86B898121B1342D54F46A39D22E08",
+        "sha256BeforeTemplateRefactor": "8CCACC19A639D91A2382D318F0BFC786D34391BA2DC4E6B9F579FCE7C40C160B",
+        "revision": "Fall View template, painting-matched logo and page accents, September 20 2026"
+      },
+      {
+        "role": "reference",
+        "source": "C:\\Projects\\Canvas Kits\\Flowers in Vase\\output\\pdf\\8x10\\flowers-in-vase-finished-reference-8x10.pdf",
+        "destination": "C:\\Projects\\Canvas Kits\\Flowers in Vase\\flowers-in-vase-finished-reference-8x10.pdf",
+        "sha256": "8E5C1AAF0D54F6DD4687BAE28F3998BE19E4C33DDB1A5C2EA274249D93418FD1"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "kit": "Gnome Halloween",
+    "preservedFiles": 366,
+    "productionFiles": [
+      "gnome-halloween-finished-reference-8x10.pdf",
+      "gnome-halloween-outline-8x10.svg",
+      "gnome-halloween-painting-guide-8x10.pdf"
+    ],
+    "productionHashes": [
+      {
+        "role": "outline",
+        "source": "C:\\Projects\\Canvas Kits\\Gnome Halloween\\output\\svg\\8x10\\gnome-halloween-outline-8x10.svg",
+        "destination": "C:\\Projects\\Canvas Kits\\Gnome Halloween\\gnome-halloween-outline-8x10.svg",
+        "sha256": "CB318AB40756101D1B3AB1682F7FA18D98C216FD331473AE43D9284A23DD6998"
+      },
+      {
+        "role": "guide",
+        "source": "C:\\Projects\\Canvas Kits\\Gnome Halloween\\info\\tmp\\template-refactor\\gnome-halloween-painting-guide-8x10.pdf",
+        "destination": "C:\\Projects\\Canvas Kits\\Gnome Halloween\\gnome-halloween-painting-guide-8x10.pdf",
+        "sha256": "F0000C2819AC07D59432F565CCC451F4B220D2770EB4091C92116FA5973727D8",
+        "sha256BeforeTemplateRefactor": "0FB8BBFB7EC4AC1D3FB42245E75411FF12246C4686AEA44CF54BF8070D9E2377",
+        "revision": "Fall View template, painting-matched logo and page accents, September 20 2026"
+      },
+      {
+        "role": "reference",
+        "source": "C:\\Projects\\Canvas Kits\\Gnome Halloween\\output\\pdf\\8x10\\gnome-halloween-finished-reference-8x10.pdf",
+        "destination": "C:\\Projects\\Canvas Kits\\Gnome Halloween\\gnome-halloween-finished-reference-8x10.pdf",
+        "sha256": "913F3C66E856A72EE8302F8FA3138577FEA1DFDC793E60EF35C8EEC1A33F7380"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "kit": "Fox Fall",
+    "preservedFiles": 2922,
+    "productionFiles": [
+      "fox-fall-finished-reference-8x10.pdf",
+      "fox-fall-outline-8x10.svg",
+      "fox-fall-painting-guide-8x10.pdf"
+    ],
+    "productionHashes": [
+      {
+        "role": "outline",
+        "source": "C:\\Projects\\Canvas Kits\\Fox Fall\\output\\svg\\8x10\\fox-fall-outline-8x10.svg",
+        "destination": "C:\\Projects\\Canvas Kits\\Fox Fall\\fox-fall-outline-8x10.svg",
+        "sha256": "B00E01E6C48AAFE705FB421D7A66A175C8F6921FF480EF3F35287F507D74DB85"
+      },
+      {
+        "role": "guide",
+        "source": "C:\\Projects\\Canvas Kits\\Fox Fall\\info\\tmp\\template-refactor\\fox-fall-painting-guide-8x10.pdf",
+        "destination": "C:\\Projects\\Canvas Kits\\Fox Fall\\fox-fall-painting-guide-8x10.pdf",
+        "sha256": "F0AC4C5C1B2377B1045AC81317D3E8C1B7919C93C9F532F2735BC65C3F141D7C",
+        "sha256BeforeTemplateRefactor": "D2D33E74C0A20711BFB115AEBE8707131F92BD39ACE1970B0F91C7D854DF5514",
+        "revision": "Fall View template, painting-matched logo and page accents, September 20 2026"
+      },
+      {
+        "role": "reference",
+        "source": "C:\\Projects\\Canvas Kits\\Fox Fall\\output\\pdf\\8x10\\fox-fall-finished-reference-8x10.pdf",
+        "destination": "C:\\Projects\\Canvas Kits\\Fox Fall\\fox-fall-finished-reference-8x10.pdf",
+        "sha256": "AE4BF950EF8A02B48014D9D6FC68B773E172158B4F90DDDC407EA5C35F4B6607"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "kit": "Ghost Fall",
+    "preservedFiles": 1022,
+    "productionFiles": [
+      "ghost-fall-finished-reference-8x10.pdf",
+      "ghost-fall-outline-8x10.svg",
+      "ghost-fall-painting-guide-8x10.pdf"
+    ],
+    "productionHashes": [
+      {
+        "role": "outline",
+        "source": "C:\\Projects\\Canvas Kits\\Ghost Fall\\output\\svg\\8x10\\ghost-fall-outline-8x10.svg",
+        "destination": "C:\\Projects\\Canvas Kits\\Ghost Fall\\ghost-fall-outline-8x10.svg",
+        "sha256": "6E38259204ADE00D3738A8C2E591A5CDE68770993D1BCF6C9B723A32021B64C9"
+      },
+      {
+        "role": "guide",
+        "source": "C:\\Projects\\Canvas Kits\\Ghost Fall\\info\\tmp\\template-refactor\\ghost-fall-painting-guide-8x10.pdf",
+        "destination": "C:\\Projects\\Canvas Kits\\Ghost Fall\\ghost-fall-painting-guide-8x10.pdf",
+        "sha256": "BB7C67B08933F4DC814056560D8AFCADB8B8EDEAA7C173828E26327E5BE1F29B",
+        "sha256BeforeTemplateRefactor": "E5CC1D6DCAC2D5953E6430E80B940B6D8B1D6C80D8C83F079FC0F77EBD2BEE6E",
+        "revision": "Fall View template, painting-matched logo and page accents, September 20 2026"
+      },
+      {
+        "role": "reference",
+        "source": "C:\\Projects\\Canvas Kits\\Ghost Fall\\output\\pdf\\8x10\\ghost-fall-finished-reference-8x10.pdf",
+        "destination": "C:\\Projects\\Canvas Kits\\Ghost Fall\\ghost-fall-finished-reference-8x10.pdf",
+        "sha256": "8FE169D97850C5DD2C5E85A041CD7236EB707BBD4E044A8A2633B6C3EA496C63"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "kit": "Cat in Pumpkin",
+    "preservedFiles": 1022,
+    "productionFiles": [
+      "cat-in-pumpkin-finished-reference-8x10.pdf",
+      "cat-in-pumpkin-outline-8x10.svg",
+      "cat-in-pumpkin-painting-guide-8x10.pdf"
+    ],
+    "productionHashes": [
+      {
+        "role": "outline",
+        "source": "C:\\Projects\\Canvas Kits\\Cat in Pumpkin\\output\\svg\\8x10\\cat-in-pumpkin-outline-8x10.svg",
+        "destination": "C:\\Projects\\Canvas Kits\\Cat in Pumpkin\\cat-in-pumpkin-outline-8x10.svg",
+        "sha256": "0518C2C1978CBC59E0B9E2D636E1731542CFA1979CB379E99FA6A3EFE54C481F",
+        "sha256BeforeTitleUpdate": "B3C0297F2C31B7B5FB67514109370EC07BFC0F7DDCFC4E52B6CCDC375AED587C"
+      },
+      {
+        "role": "guide",
+        "source": "C:\\Projects\\Canvas Kits\\Cat in Pumpkin\\info\\tmp\\template-refactor\\cat-in-pumpkin-painting-guide-8x10.pdf",
+        "destination": "C:\\Projects\\Canvas Kits\\Cat in Pumpkin\\cat-in-pumpkin-painting-guide-8x10.pdf",
+        "sha256": "BE2C8C19C300F214655701C3BAE707CDF6CCE634080E9D1AF6524273D74D727D",
+        "sha256BeforeTitleUpdate": "113C1FE4F40384ECDE106794A724A892DACA74BA18C3556A0BBE7113B773537C",
+        "sha256BeforeTemplateRefactor": "B33ACD043E7DF995B1AEBF50AA85A1AC2AB178E0D4D89E07D8E5C88CCF76F525",
+        "revision": "Fall View template, painting-matched logo and page accents, September 20 2026"
+      },
+      {
+        "role": "reference",
+        "source": "C:\\Projects\\Canvas Kits\\Cat in Pumpkin\\output\\pdf\\8x10\\cat-in-pumpkin-finished-reference-8x10.pdf",
+        "destination": "C:\\Projects\\Canvas Kits\\Cat in Pumpkin\\cat-in-pumpkin-finished-reference-8x10.pdf",
+        "sha256": "651C95E4390133AE4AE0C33B1A10D0C3155DDC4B17750CCA72B7383EC30B089D"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "kit": "Pumkin",
+    "preservedFiles": 2184,
+    "productionFiles": [
+      "pumpkin-finished-reference-8x10.pdf",
+      "pumpkin-outline-8x10.svg",
+      "pumpkin-painting-guide-8x10.pdf"
+    ],
+    "productionHashes": [
+      {
+        "role": "outline",
+        "source": "C:\\Projects\\Canvas Kits\\Pumkin\\output\\svg\\8x10\\pumpkin-outline-8x10.svg",
+        "destination": "C:\\Projects\\Canvas Kits\\Pumkin\\pumpkin-outline-8x10.svg",
+        "sha256": "73D4FADCACE1D4E9BAC071FA14667C31FE3084211429235B059A0321DC7485FC"
+      },
+      {
+        "role": "guide",
+        "source": "C:\\Projects\\Canvas Kits\\Pumkin\\info\\tmp\\template-refactor\\pumpkin-painting-guide-8x10.pdf",
+        "destination": "C:\\Projects\\Canvas Kits\\Pumkin\\pumpkin-painting-guide-8x10.pdf",
+        "sha256": "97F4C5AB13A9DB4D41A5A860938508BB25402A571A7F523E394152802A602D2B",
+        "sha256BeforeTemplateRefactor": "DC692D7291593E0C58C1D07542A21E269C34FAB19D7471E4F23513A37F55C804",
+        "revision": "Fall View template, painting-matched logo and page accents, September 20 2026"
+      },
+      {
+        "role": "reference",
+        "source": "C:\\Projects\\Canvas Kits\\Pumkin\\output\\pdf\\8x10\\pumpkin-finished-reference-8x10.pdf",
+        "destination": "C:\\Projects\\Canvas Kits\\Pumkin\\pumpkin-finished-reference-8x10.pdf",
+        "sha256": "3A0F6122A9A94BECBC118E2789BEC747EDF12A2587D9DEE3806FCA504EBDA238"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "kit": "Gnome Christmas Tree",
+    "preservedFiles": 652,
+    "productionFiles": [
+      "gnome-christmas-tree-finished-reference-8x10.pdf",
+      "gnome-christmas-tree-outline-8x10.svg",
+      "gnome-christmas-tree-painting-guide-8x10.pdf"
+    ],
+    "productionHashes": [
+      {
+        "role": "outline",
+        "source": "C:\\Projects\\Canvas Kits\\Gnome Christmas Tree\\output\\svg\\8x10\\gnome-christmas-tree-outline-8x10.svg",
+        "destination": "C:\\Projects\\Canvas Kits\\Gnome Christmas Tree\\gnome-christmas-tree-outline-8x10.svg",
+        "sha256": "1C4B289F49A1B7CCF97B2C93049CBB961B64AFF67495B457615FB5B94F05A7F9"
+      },
+      {
+        "role": "guide",
+        "source": "C:\\Projects\\Canvas Kits\\Gnome Christmas Tree\\info\\tmp\\template-refactor\\gnome-christmas-tree-painting-guide-8x10.pdf",
+        "destination": "C:\\Projects\\Canvas Kits\\Gnome Christmas Tree\\gnome-christmas-tree-painting-guide-8x10.pdf",
+        "sha256": "95746637BC8056D5656744A95B3932682ED8572EECE456C1070EF86DC3A7BAEF",
+        "sha256BeforeSkyRepair": "6F2814F31FF13728B612E479FDE93AFDEA0052784E2C4AFD6B445247860DCF3A",
+        "revision": "Fall View template, painting-matched logo and page accents, September 20 2026",
+        "sha256BeforeTemplateRefactor": "15544681077CE7045DD447DB070945B3DD9429D4B3A1410064D9ED9C284BA5FA"
+      },
+      {
+        "role": "reference",
+        "source": "C:\\Projects\\Canvas Kits\\Gnome Christmas Tree\\output\\pdf\\8x10\\gnome-christmas-tree-finished-reference-8x10.pdf",
+        "destination": "C:\\Projects\\Canvas Kits\\Gnome Christmas Tree\\gnome-christmas-tree-finished-reference-8x10.pdf",
+        "sha256": "2CCA8F5BA1A0B7010091A4BA2AF0FC220B2C542877C9ACD18F37DF6C5437649F",
+        "sha256BeforeSkyRepair": "EEDC1187816E61B2A935474B4C74FCE65F90BDCF0EA21F8E38A7FA6F92AB2ABD",
+        "revision": "Continuous sky texture; foreground geometry unchanged."
+      }
+    ],
+    "verified": true
+  },
+  {
+    "kit": "Gnome Fall",
+    "preservedFiles": 415,
+    "productionFiles": [
+      "gnome-fall-finished-reference-8x10.pdf",
+      "gnome-fall-outline-8x10.svg",
+      "gnome-fall-painting-guide-8x10.pdf"
+    ],
+    "productionHashes": [
+      {
+        "role": "outline",
+        "source": "C:\\Projects\\Canvas Kits\\Gnome Fall\\output\\svg\\8x10\\gnome-fall-outline-8x10.svg",
+        "destination": "C:\\Projects\\Canvas Kits\\Gnome Fall\\gnome-fall-outline-8x10.svg",
+        "sha256": "3F8997A82189D2AB82DBAF9D68FB5A75F56091EF9EFEA654EBFE70A09228CDFD"
+      },
+      {
+        "role": "guide",
+        "source": "C:\\Projects\\Canvas Kits\\Gnome Fall\\info\\tmp\\template-refactor\\gnome-fall-painting-guide-8x10.pdf",
+        "destination": "C:\\Projects\\Canvas Kits\\Gnome Fall\\gnome-fall-painting-guide-8x10.pdf",
+        "sha256": "2CAAE79463039C3D9C50BDE1B54648DB4C23932C9A13DC2AF57A24770094078F",
+        "sha256BeforeSkyRepair": "DE307EC364E248F069EE380CE560982F0AA04BFFC658E6D8620E3AF577CAAC37",
+        "revision": "Fall View template, painting-matched logo and page accents, September 20 2026",
+        "sha256BeforeTemplateRefactor": "A5D9AC58177EB103C49956911E446699C6156B86FAF01492711C4E0473362D41"
+      },
+      {
+        "role": "reference",
+        "source": "C:\\Projects\\Canvas Kits\\Gnome Fall\\output\\pdf\\8x10\\gnome-fall-finished-reference-8x10.pdf",
+        "destination": "C:\\Projects\\Canvas Kits\\Gnome Fall\\gnome-fall-finished-reference-8x10.pdf",
+        "sha256": "38CE6C5C86C965014CAD08CCCC5B9D3BA546BCDDB7B297DD67028A7859A667E6",
+        "sha256BeforeSkyRepair": "5A6C01B710E6329E292A8646439F2BA74E3FEC79A9360160DC7B17C9C8DEE5E0",
+        "revision": "Continuous sky texture; foreground geometry unchanged."
+      }
+    ],
+    "verified": true
+  },
+  {
+    "kit": "fall view",
+    "preservedFiles": 2561,
+    "productionFiles": [
+      "fall-view-finished-reference-8x10.pdf",
+      "fall-view-outline-8x10.svg",
+      "fall-view-painting-guide-8x10.pdf"
+    ],
+    "productionHashes": [
+      {
+        "role": "outline",
+        "source": "C:\\Projects\\Canvas Kits\\fall view\\output\\svg\\8x10\\fall-view-outline-8x10.svg",
+        "destination": "C:\\Projects\\Canvas Kits\\fall view\\fall-view-outline-8x10.svg",
+        "sha256": "A10351797E8408D49CAB2512B702912E130B0506DEDA2A27024720DC82113460"
+      },
+      {
+        "role": "guide",
+        "source": "C:\\Projects\\Canvas Kits\\fall view\\info\\tmp\\template-refactor\\fall-view-painting-guide-8x10.pdf",
+        "destination": "C:\\Projects\\Canvas Kits\\fall view\\fall-view-painting-guide-8x10.pdf",
+        "sha256": "0C3C9F80B7E04CA96467C57F2ABF10523F8B57ECA3F1879C474C72EC5A44A92A",
+        "sha256BeforeTemplateRefactor": "DA5BE495EB8E9D909ADBEDC2DE5FB5509900E468798B18CF17C5CD42FDB4F3D7",
+        "revision": "Fall View template, painting-matched logo and page accents, September 20 2026"
+      },
+      {
+        "role": "reference",
+        "source": "C:\\Projects\\Canvas Kits\\fall view\\output\\pdf\\8x10\\fall-view-finished-reference-8x10.pdf",
+        "destination": "C:\\Projects\\Canvas Kits\\fall view\\fall-view-finished-reference-8x10.pdf",
+        "sha256": "1E85F13D4B4235D00D8E5E2AFF1ED69005CCD5148B15CE6D4BE72609507245E1"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "kit": "Starry-night Sunflower",
+    "preservedFiles": 2280,
+    "productionFiles": [
+      "starry-night-sunflower-finished-reference-8x10.pdf",
+      "starry-night-sunflower-outline-8x10.svg",
+      "starry-night-sunflower-painting-guide-8x10.pdf"
+    ],
+    "productionHashes": [
+      {
+        "role": "outline",
+        "source": "C:\\Projects\\Canvas Kits\\Starry-night Sunflower\\output\\svg\\8x10\\starry-night-sunflower-outline-8x10.svg",
+        "destination": "C:\\Projects\\Canvas Kits\\Starry-night Sunflower\\starry-night-sunflower-outline-8x10.svg",
+        "sha256": "59C71E68A18B715A00662D03A800A353BADD3472A6E2BFF5FD9099E8D87D4299"
+      },
+      {
+        "role": "guide",
+        "source": "C:\\Projects\\Canvas Kits\\Starry-night Sunflower\\info\\tmp\\template-refactor\\starry-night-sunflower-painting-guide-8x10.pdf",
+        "destination": "C:\\Projects\\Canvas Kits\\Starry-night Sunflower\\starry-night-sunflower-painting-guide-8x10.pdf",
+        "sha256": "0C8A5780C0DE8EDD85ED9017874479040C57D2A15070995933F1556210315DC4",
+        "sha256BeforeTemplateRefactor": "3A0D07A601EF298320183DC93BE593883AF6AA1B93CAC6A5387E6CC3B7D80517",
+        "revision": "Fall View template, painting-matched logo and page accents, September 20 2026"
+      },
+      {
+        "role": "reference",
+        "source": "C:\\Projects\\Canvas Kits\\Starry-night Sunflower\\output\\pdf\\8x10\\starry-night-sunflower-finished-reference-8x10.pdf",
+        "destination": "C:\\Projects\\Canvas Kits\\Starry-night Sunflower\\starry-night-sunflower-finished-reference-8x10.pdf",
+        "sha256": "8B27D4463EDC2CDBED62A8E6B5FD6E927C5118A77B091208CF06069A9816F9D9"
+      }
+    ],
+    "verified": true
+  }
+]

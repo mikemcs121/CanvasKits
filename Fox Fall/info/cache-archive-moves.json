@@ -1,0 +1,18 @@
+﻿[
+    {
+        "from":  "Fox Fall\\info\\tmp\\8x10-artwork\\chrome-profile",
+        "to":  "Fox Fall\\info\\archive\\build-caches\\8x10-artwork\\chrome-profile"
+    },
+    {
+        "from":  "Fox Fall\\info\\tmp\\8x10-artwork\\chrome-profile-1789849950366",
+        "to":  "Fox Fall\\info\\archive\\build-caches\\8x10-artwork\\chrome-profile-1789849950366"
+    },
+    {
+        "from":  "Fox Fall\\info\\tmp\\8x10-artwork\\chrome-profile-1789849950366-pdf",
+        "to":  "Fox Fall\\info\\archive\\build-caches\\8x10-artwork\\chrome-profile-1789849950366-pdf"
+    },
+    {
+        "from":  "Fox Fall\\info\\tmp\\vector-tools\\npm-cache",
+        "to":  "Fox Fall\\info\\archive\\build-caches\\vector-tools\\npm-cache"
+    }
+]

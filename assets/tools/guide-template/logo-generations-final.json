@@ -1,0 +1,52 @@
+[
+  {
+    "slug": "fall-view",
+    "source": "C:\\Users\\mikem\\.codex\\generated_images\\01a0bfeb-78e0-71a1-98fc-d153b1f2a795\\exec-734b2e40-5537-4ba1-852b-e5efe5c11b76.png",
+    "prompt": "Recolor the original River and Ridge logo from the corresponding painting guide; preserve lettering, full ribbon silhouette, landscape arrangement, transparent background and wide aspect ratio. Built-in imagegen edit; original master plus page supplied."
+  },
+  {
+    "slug": "flowers-in-vase",
+    "source": "C:\\Users\\mikem\\.codex\\generated_images\\01a0bfeb-78e0-71a1-98fc-d153b1f2a795\\exec-83359e9c-e5a8-4ace-92bb-f3f561ef0e94.png",
+    "prompt": "Recolor the original River and Ridge logo from the corresponding painting guide; preserve lettering, full ribbon silhouette, landscape arrangement, transparent background and wide aspect ratio. Built-in imagegen edit; original master plus page supplied."
+  },
+  {
+    "slug": "gnome-halloween",
+    "source": "C:\\Users\\mikem\\.codex\\generated_images\\01a0bfeb-78e0-71a1-98fc-d153b1f2a795\\exec-af1a5b48-756c-461b-96b4-074608b7019f.png",
+    "prompt": "Recolor the original River and Ridge logo from the corresponding painting guide; preserve lettering, full ribbon silhouette, landscape arrangement, transparent background and wide aspect ratio. Built-in imagegen edit; original master plus page supplied."
+  },
+  {
+    "slug": "fox-fall",
+    "source": "C:\\Users\\mikem\\.codex\\generated_images\\01a0bfeb-78e0-71a1-98fc-d153b1f2a795\\exec-b9a7c0c9-55b4-4194-b25f-debb44928399.png",
+    "prompt": "Recolor the original River and Ridge logo from the corresponding painting guide; preserve lettering, full ribbon silhouette, landscape arrangement, transparent background and wide aspect ratio. Built-in imagegen edit; original master plus page supplied."
+  },
+  {
+    "slug": "ghost-fall",
+    "source": "C:\\Users\\mikem\\.codex\\generated_images\\01a0bfeb-78e0-71a1-98fc-d153b1f2a795\\exec-a4423dbe-0e0b-43b5-8f49-98b30f6be5d0.png",
+    "prompt": "Use case: precise-object-edit. Image1 is the EDIT TARGET logo. Image2 is ONLY a painting-guide palette reference. Return just the complete wide River and Ridge logo on genuinely transparent background. Recolor from the painting and page: deep plum lettering, pale lavender ivory ribbon, muted green trees, plum/slate mountains and subtle pumpkin ochre accents. Preserve original exact lettering RIVER AND RIDGE and PAINT-YOUR-OWN, same letterforms, full ribbon silhouette, river/mountains/trees arrangement, fine details and wide proportions. Change ONLY colors. No cropping, added words, redesign or new icons. Keep original watercolor texture. Do not output the guide. Leave safe transparent margin around the complete logo."
+  },
+  {
+    "slug": "cat-in-pumpkin",
+    "source": "C:\\Users\\mikem\\.codex\\generated_images\\01a0bfeb-78e0-71a1-98fc-d153b1f2a795\\exec-07d38be3-c6b0-479b-97ca-dfded514ee50.png",
+    "prompt": "Use case: precise-object-edit. Image1 is the EDIT TARGET logo. Image2 is ONLY a painting-guide palette reference. Return just the complete wide River and Ridge logo on genuinely transparent background. Recolor from the painting and page: charcoal blue lettering, pale peach ivory ribbon, slate-blue mountains, warm orange gold land and subdued green trees. Preserve original exact lettering RIVER AND RIDGE and PAINT-YOUR-OWN, same letterforms, full ribbon silhouette, river/mountains/trees arrangement, fine details and wide proportions. Change ONLY colors. No cropping, added words, redesign or new icons. Keep original watercolor texture. Do not output the guide. Leave safe transparent margin around the complete logo."
+  },
+  {
+    "slug": "pumpkin",
+    "source": "C:\\Users\\mikem\\.codex\\generated_images\\01a0bfeb-78e0-71a1-98fc-d153b1f2a795\\exec-74ce8ecd-8b54-47ae-80f5-499c30c08cc7.png",
+    "prompt": "Use case: precise-object-edit. Image1 is the EDIT TARGET logo. Image2 is ONLY a painting-guide palette reference. Return just the complete wide River and Ridge logo on genuinely transparent background. Recolor from the painting and page: dark brown lettering, light cream gold ribbon, olive green trees, russet orange/ochre mountains and earth tones. Preserve original exact lettering RIVER AND RIDGE and PAINT-YOUR-OWN, same letterforms, full ribbon silhouette, river/mountains/trees arrangement, fine details and wide proportions. Change ONLY colors. No cropping, added words, redesign or new icons. Keep original watercolor texture. Do not output the guide. Leave safe transparent margin around the complete logo."
+  },
+  {
+    "slug": "gnome-christmas-tree",
+    "source": "C:\\Users\\mikem\\.codex\\generated_images\\01a0bfeb-78e0-71a1-98fc-d153b1f2a795\\exec-ac915c92-52ed-444e-b429-678c991d4898.png",
+    "prompt": "Use case: precise-object-edit. Image1 is the EDIT TARGET logo. Image2 is ONLY a painting-guide palette reference. Return just the complete wide River and Ridge logo on genuinely transparent background. Recolor from the painting and page: dark forest green lettering, pale cool ivory ribbon, evergreen trees with very light snow on branch tips while foliage stays visible, icy blue river/mountains, restrained warm red accents. Preserve original exact lettering RIVER AND RIDGE and PAINT-YOUR-OWN, same letterforms, full ribbon silhouette, river/mountains/trees arrangement, fine details and wide proportions. Change ONLY colors and specified subtle seasonal treatment. No cropping, added words, redesign or new icons. Keep original watercolor texture. Do not output the guide. Leave safe transparent margin around the complete logo."
+  },
+  {
+    "slug": "gnome-fall",
+    "source": "C:\\Users\\mikem\\.codex\\generated_images\\01a0bfeb-78e0-71a1-98fc-d153b1f2a795\\exec-d43b357b-f998-46ba-a291-65a9ce894d57.png",
+    "prompt": "Use case: precise-object-edit. Image1 is the EDIT TARGET logo. Image2 is ONLY a painting-guide palette reference. Return just the complete wide River and Ridge logo on genuinely transparent background. Recolor from the painting and page: dark teal lettering, pale teal ivory ribbon, teal-blue river, green trees, warm russet ochre mountains and autumn golden land. Preserve original exact lettering RIVER AND RIDGE and PAINT-YOUR-OWN, same letterforms, full ribbon silhouette, river/mountains/trees arrangement, fine details and wide proportions. Change ONLY colors and specified subtle seasonal treatment. No cropping, added words, redesign or new icons. Keep original watercolor texture. Do not output the guide. Leave safe transparent margin around the complete logo."
+  },
+  {
+    "slug": "starry-night-sunflower",
+    "source": "C:\\Users\\mikem\\.codex\\generated_images\\01a0bfeb-78e0-71a1-98fc-d153b1f2a795\\exec-376eef15-4601-4897-ac9c-d039f934b72b.png",
+    "prompt": "Use case: precise-object-edit. Image1 is the EDIT TARGET logo. Image2 is ONLY a painting-guide palette reference. Return just the complete wide River and Ridge logo on genuinely transparent background. Recolor from the painting and page: deep navy blue lettering, pale warm ivory gold ribbon, blue mountains and river, leafy green trees, golden yellow land accents. Preserve original exact lettering RIVER AND RIDGE and PAINT-YOUR-OWN, same letterforms, full ribbon silhouette, river/mountains/trees arrangement, fine details and wide proportions. Change ONLY colors and specified subtle seasonal treatment. No cropping, added words, redesign or new icons. Keep original watercolor texture. Do not output the guide. Leave safe transparent margin around the complete logo."
+  }
+]

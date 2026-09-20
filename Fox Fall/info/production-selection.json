@@ -1,0 +1,22 @@
+[
+  {
+    "role": "outline",
+    "source": "C:\\Projects\\Canvas Kits\\Fox Fall\\output\\svg\\8x10\\fox-fall-outline-8x10.svg",
+    "destination": "C:\\Projects\\Canvas Kits\\Fox Fall\\fox-fall-outline-8x10.svg",
+    "sha256": "B00E01E6C48AAFE705FB421D7A66A175C8F6921FF480EF3F35287F507D74DB85"
+  },
+  {
+    "role": "guide",
+    "source": "C:\\Projects\\Canvas Kits\\Fox Fall\\info\\tmp\\template-refactor\\fox-fall-painting-guide-8x10.pdf",
+    "destination": "C:\\Projects\\Canvas Kits\\Fox Fall\\fox-fall-painting-guide-8x10.pdf",
+    "sha256": "F0AC4C5C1B2377B1045AC81317D3E8C1B7919C93C9F532F2735BC65C3F141D7C",
+    "sha256BeforeTemplateRefactor": "D2D33E74C0A20711BFB115AEBE8707131F92BD39ACE1970B0F91C7D854DF5514",
+    "revision": "Fall View template, painting-matched logo and page accents, September 20 2026"
+  },
+  {
+    "role": "reference",
+    "source": "C:\\Projects\\Canvas Kits\\Fox Fall\\output\\pdf\\8x10\\fox-fall-finished-reference-8x10.pdf",
+    "destination": "C:\\Projects\\Canvas Kits\\Fox Fall\\fox-fall-finished-reference-8x10.pdf",
+    "sha256": "AE4BF950EF8A02B48014D9D6FC68B773E172158B4F90DDDC407EA5C35F4B6607"
+  }
+]

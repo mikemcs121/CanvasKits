@@ -1,0 +1,29 @@
+{
+  "kit": "Starry-night Sunflower",
+  "slug": "starry-night-sunflower",
+  "steps": 12,
+  "guidePdf": "Starry-night Sunflower/info/tmp/template-refactor/starry-night-sunflower-painting-guide-8x10.pdf",
+  "guidePng": "Starry-night Sunflower/info/tmp/template-refactor/starry-night-sunflower-painting-guide-8x10.png",
+  "guideSha256": "0C8A5780C0DE8EDD85ED9017874479040C57D2A15070995933F1556210315DC4",
+  "imageSha256": "DCE9A7210B1A595FF91F3BF7599140CC95F53A28BFB28821A8ED44657F3FBB0D",
+  "onePageLetter": true,
+  "rasterSize": [
+    2550,
+    3300
+  ],
+  "layoutPassed": true,
+  "logoTransparent": true,
+  "palette": {
+    "ink": "#193e62",
+    "accent": "#4e83b0",
+    "wash": "#e4eef7",
+    "second": "#cc9e38",
+    "ribbon": "#f2e8ba"
+  },
+  "unchangedArtworkHashes": {
+    "Starry-night Sunflower/starry-night-sunflower-outline-8x10.svg": "59c71e68a18b715a00662d03a800a353badd3472a6e2bff5fd9099e8d87d4299",
+    "Starry-night Sunflower/starry-night-sunflower-finished-reference-8x10.pdf": "8b27d4463edc2cdbed62a8e6b5fd6e927c5118a77b091208cf06069a9816f9d9"
+  },
+  "visuallyReviewed": true,
+  "promoted": true
+}

@@ -1,0 +1,116 @@
+{
+  "folder": "Cat in Pumpkin",
+  "slug": "cat-in-pumpkin",
+  "palette": {
+    "ink": "#343e4a",
+    "accent": "#c77b47",
+    "wash": "#faecdc",
+    "second": "#798595",
+    "ribbon": "#f4e4d0"
+  },
+  "reference": "Cat in Pumpkin/info/output/pdf/8x10/cat-in-pumpkin-finished-reference-8x10.png",
+  "title": "Cat in Pumpkin",
+  "paints": [
+    "white",
+    "black",
+    "red",
+    "yellow",
+    "blue",
+    "brown",
+    "orange"
+  ],
+  "steps": [
+    {
+      "heading": "Start with the outline",
+      "caption": "Protect your table. Follow the preprinted lines. Keep the background white. Use thin coats; rinse and blot between colors.",
+      "image": "Cat in Pumpkin/info/tmp/8x10-artwork/step-1.png",
+      "detail": false,
+      "cue": false
+    },
+    {
+      "heading": "Orange pumpkin base",
+      "caption": "Paint the pumpkin shell and rim orange in thin coats. Leave the carved face, opening and kitten white.",
+      "image": "Cat in Pumpkin/info/tmp/8x10-artwork/step-2.png",
+      "detail": false,
+      "cue": false
+    },
+    {
+      "heading": "Charcoal kitten",
+      "caption": "Mix black with white and a touch of blue for charcoal gray. Paint the head, paws and curled tail; leave inner ears and nose clear.",
+      "image": "Cat in Pumpkin/info/tmp/8x10-artwork/step-3.png",
+      "detail": false,
+      "cue": false
+    },
+    {
+      "heading": "Rose ears & nose",
+      "caption": "Mix white with a little red and a tiny touch of brown for dusty rose. Paint the inner ears, nose and tongue.",
+      "image": "Cat in Pumpkin/info/tmp/8x10-artwork/step-4.png",
+      "detail": false,
+      "cue": false
+    },
+    {
+      "heading": "Golden eyes",
+      "caption": "Mix yellow with a little brown for gold. Fill the small curved eye rims; keep the black pupils and white glints distinct.",
+      "image": "Cat in Pumpkin/info/tmp/8x10-artwork/step-5.png",
+      "detail": false,
+      "cue": false
+    },
+    {
+      "heading": "Deep carved shapes",
+      "caption": "Mix black with a little brown. Fill the pumpkin eyes, nose and mouth, plus the opening behind the cat. Keep the teeth orange.",
+      "image": "Cat in Pumpkin/info/tmp/8x10-artwork/step-6.png",
+      "detail": false,
+      "cue": false
+    },
+    {
+      "heading": "Round the pumpkin",
+      "caption": "Mix orange with brown for the grooves. Mix orange with yellow for rib highlights. Curve each stroke down the pumpkin.",
+      "image": "Cat in Pumpkin/info/tmp/8x10-artwork/step-7.png",
+      "detail": false,
+      "cue": false
+    },
+    {
+      "heading": "Soft directional fur",
+      "caption": "Mix white, black and a touch of blue for lighter gray. Pull short strokes over the dry charcoal, following cheeks and tail.",
+      "image": "Cat in Pumpkin/info/tmp/8x10-artwork/step-8.png",
+      "detail": false,
+      "cue": false
+    },
+    {
+      "heading": "Light along the rim",
+      "caption": "Mix orange with yellow and a little white. Trace a narrow highlight on the front rim and the upper edges of pumpkin ribs.",
+      "image": "Cat in Pumpkin/info/tmp/8x10-artwork/step-9.png",
+      "detail": true,
+      "cue": true
+    },
+    {
+      "heading": "Small paw highlights",
+      "caption": "Mix white with a little black and brown for warm gray. Add short strokes on the paw tops; keep the toe divisions darker.",
+      "image": "Cat in Pumpkin/info/tmp/8x10-artwork/step-10.png",
+      "detail": true,
+      "cue": true
+    },
+    {
+      "heading": "Whiskers & eye shine",
+      "caption": "Let the face dry. Use black and a fine brush to tidy whiskers and the smile. Add a small white dot to each eye.",
+      "image": "Cat in Pumpkin/info/tmp/8x10-artwork/step-11.png",
+      "detail": true,
+      "cue": true
+    },
+    {
+      "heading": "Dry & clean up",
+      "caption": "Lay the canvas flat until fully dry. Wash brushes, wipe the palette and close the paint pots.",
+      "image": null,
+      "detail": false,
+      "cue": false,
+      "dry": true
+    }
+  ],
+  "work": "Cat in Pumpkin/info/tmp/template-refactor",
+  "assets": "Cat in Pumpkin/info/assets/template-refactor",
+  "logo": "Cat in Pumpkin/info/assets/template-refactor/river-and-ridge-logo.png",
+  "unchanged": {
+    "Cat in Pumpkin/cat-in-pumpkin-outline-8x10.svg": "0518c2c1978cbc59e0b9e2d636e1731542cfa1979cb379e99fa6a3efe54c481f",
+    "Cat in Pumpkin/cat-in-pumpkin-finished-reference-8x10.pdf": "651c95e4390133ae4ae0c33b1a10d0c3155ddc4b17750cca72b7383ec30b089d"
+  }
+}

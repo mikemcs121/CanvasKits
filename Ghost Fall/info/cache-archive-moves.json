@@ -1,0 +1,14 @@
+﻿[
+    {
+        "from":  "Ghost Fall\\info\\tmp\\8x10-artwork\\chrome-profile",
+        "to":  "Ghost Fall\\info\\archive\\build-caches\\8x10-artwork\\chrome-profile"
+    },
+    {
+        "from":  "Ghost Fall\\info\\tmp\\8x10-artwork\\chrome-profile-1789849958621",
+        "to":  "Ghost Fall\\info\\archive\\build-caches\\8x10-artwork\\chrome-profile-1789849958621"
+    },
+    {
+        "from":  "Ghost Fall\\info\\tmp\\8x10-artwork\\chrome-profile-1789849958621-pdf",
+        "to":  "Ghost Fall\\info\\archive\\build-caches\\8x10-artwork\\chrome-profile-1789849958621-pdf"
+    }
+]

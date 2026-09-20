@@ -1,0 +1,272 @@
+[
+  {
+    "kit": "Flowers in Vase",
+    "slug": "flowers-in-vase",
+    "steps": 12,
+    "guidePdf": "Flowers in Vase/info/tmp/template-refactor/flowers-in-vase-painting-guide-8x10.pdf",
+    "guidePng": "Flowers in Vase/info/tmp/template-refactor/flowers-in-vase-painting-guide-8x10.png",
+    "guideSha256": "00AE5D7F05739F5F6B1762A692EBA2853AF86B898121B1342D54F46A39D22E08",
+    "imageSha256": "52A91AA925FF0DF79F4652DCE0CAD8116C1794F568171E90828B69D869FA2B16",
+    "onePageLetter": true,
+    "rasterSize": [
+      2550,
+      3300
+    ],
+    "layoutPassed": true,
+    "logoTransparent": true,
+    "palette": {
+      "ink": "#19484b",
+      "accent": "#3c9895",
+      "wash": "#e1f1ed",
+      "second": "#cf7590",
+      "ribbon": "#f3e8dd"
+    },
+    "unchangedArtworkHashes": {
+      "Flowers in Vase/flowers-in-vase-outline-8x10.svg": "76bbdd0008ecab67356fc3f46c0d8d91a8e07777d1f7a78cc8fc8896c555226f",
+      "Flowers in Vase/flowers-in-vase-finished-reference-8x10.pdf": "8e5c1aaf0d54f6dd4687bae28f3998be19e4c33ddb1a5c2ea274249d93418fd1"
+    }
+  },
+  {
+    "kit": "Gnome Halloween",
+    "slug": "gnome-halloween",
+    "steps": 12,
+    "guidePdf": "Gnome Halloween/info/tmp/template-refactor/gnome-halloween-painting-guide-8x10.pdf",
+    "guidePng": "Gnome Halloween/info/tmp/template-refactor/gnome-halloween-painting-guide-8x10.png",
+    "guideSha256": "F0000C2819AC07D59432F565CCC451F4B220D2770EB4091C92116FA5973727D8",
+    "imageSha256": "C51725C3454DB82B319C8DE386ADC1E11FFD5E938A02B135827B1D0751BBA35B",
+    "onePageLetter": true,
+    "rasterSize": [
+      2550,
+      3300
+    ],
+    "layoutPassed": true,
+    "logoTransparent": true,
+    "palette": {
+      "ink": "#422b42",
+      "accent": "#78576e",
+      "wash": "#eee6ed",
+      "second": "#bd783f",
+      "ribbon": "#eadfea"
+    },
+    "unchangedArtworkHashes": {
+      "Gnome Halloween/gnome-halloween-outline-8x10.svg": "cb318ab40756101d1b3ab1682f7fa18d98c216fd331473ae43d9284a23dd6998",
+      "Gnome Halloween/gnome-halloween-finished-reference-8x10.pdf": "913f3c66e856a72ee8302f8fa3138577fea1dfdc793e60ef35c8eec1a33f7380"
+    }
+  },
+  {
+    "kit": "Fox Fall",
+    "slug": "fox-fall",
+    "steps": 12,
+    "guidePdf": "Fox Fall/info/tmp/template-refactor/fox-fall-painting-guide-8x10.pdf",
+    "guidePng": "Fox Fall/info/tmp/template-refactor/fox-fall-painting-guide-8x10.png",
+    "guideSha256": "F0AC4C5C1B2377B1045AC81317D3E8C1B7919C93C9F532F2735BC65C3F141D7C",
+    "imageSha256": "BBE185B543F2CF3159677C7F909C5670F56EE8E972654399AC679A13DFCDCFE3",
+    "onePageLetter": true,
+    "rasterSize": [
+      2550,
+      3300
+    ],
+    "layoutPassed": true,
+    "logoTransparent": true,
+    "palette": {
+      "ink": "#4f3b26",
+      "accent": "#ba773a",
+      "wash": "#f6ebd6",
+      "second": "#738748",
+      "ribbon": "#f7e4bd"
+    },
+    "unchangedArtworkHashes": {
+      "Fox Fall/fox-fall-outline-8x10.svg": "b00e01e6c48aafe705fb421d7a66a175c8f6921ff480ef3f35287f507d74db85",
+      "Fox Fall/fox-fall-finished-reference-8x10.pdf": "ae4bf950ef8a02b48014d9d6fc68b773e172158b4f90dddc407ea5c35f4b6607"
+    }
+  },
+  {
+    "kit": "Ghost Fall",
+    "slug": "ghost-fall",
+    "steps": 12,
+    "guidePdf": "Ghost Fall/info/tmp/template-refactor/ghost-fall-painting-guide-8x10.pdf",
+    "guidePng": "Ghost Fall/info/tmp/template-refactor/ghost-fall-painting-guide-8x10.png",
+    "guideSha256": "BB7C67B08933F4DC814056560D8AFCADB8B8EDEAA7C173828E26327E5BE1F29B",
+    "imageSha256": "B7AB3529FA3C1AE92DB5A661767BF639994FFB8631D0CAF5480F39156BCA7B2C",
+    "onePageLetter": true,
+    "rasterSize": [
+      2550,
+      3300
+    ],
+    "layoutPassed": true,
+    "logoTransparent": true,
+    "palette": {
+      "ink": "#4f3b53",
+      "accent": "#8b7088",
+      "wash": "#f0e9ef",
+      "second": "#c4824c",
+      "ribbon": "#eee4ee"
+    },
+    "unchangedArtworkHashes": {
+      "Ghost Fall/ghost-fall-outline-8x10.svg": "6e38259204ade00d3738a8c2e591a5cde68770993d1bcf6c9b723a32021b64c9",
+      "Ghost Fall/ghost-fall-finished-reference-8x10.pdf": "8fe169d97850c5dd2c5e85a041cd7236eb707bbd4e044a8a2633b6c3ea496c63"
+    }
+  },
+  {
+    "kit": "Cat in Pumpkin",
+    "slug": "cat-in-pumpkin",
+    "steps": 12,
+    "guidePdf": "Cat in Pumpkin/info/tmp/template-refactor/cat-in-pumpkin-painting-guide-8x10.pdf",
+    "guidePng": "Cat in Pumpkin/info/tmp/template-refactor/cat-in-pumpkin-painting-guide-8x10.png",
+    "guideSha256": "BE2C8C19C300F214655701C3BAE707CDF6CCE634080E9D1AF6524273D74D727D",
+    "imageSha256": "D5183D31E1C68C997F1AD74DC0346DE80DB221D9E3D55E1E61F5415D7575F7FD",
+    "onePageLetter": true,
+    "rasterSize": [
+      2550,
+      3300
+    ],
+    "layoutPassed": true,
+    "logoTransparent": true,
+    "palette": {
+      "ink": "#343e4a",
+      "accent": "#c77b47",
+      "wash": "#faecdc",
+      "second": "#798595",
+      "ribbon": "#f4e4d0"
+    },
+    "unchangedArtworkHashes": {
+      "Cat in Pumpkin/cat-in-pumpkin-outline-8x10.svg": "0518c2c1978cbc59e0b9e2d636e1731542cfa1979cb379e99fa6a3efe54c481f",
+      "Cat in Pumpkin/cat-in-pumpkin-finished-reference-8x10.pdf": "651c95e4390133ae4ae0c33b1a10d0c3155ddc4b17750cca72b7383ec30b089d"
+    }
+  },
+  {
+    "kit": "Pumkin",
+    "slug": "pumpkin",
+    "steps": 8,
+    "guidePdf": "Pumkin/info/tmp/template-refactor/pumpkin-painting-guide-8x10.pdf",
+    "guidePng": "Pumkin/info/tmp/template-refactor/pumpkin-painting-guide-8x10.png",
+    "guideSha256": "97F4C5AB13A9DB4D41A5A860938508BB25402A571A7F523E394152802A602D2B",
+    "imageSha256": "CBA886CD15BE9B06C529F2A9F3D15B44CF8685E32145B1561D93E2EF650BEB6F",
+    "onePageLetter": true,
+    "rasterSize": [
+      2550,
+      3300
+    ],
+    "layoutPassed": true,
+    "logoTransparent": true,
+    "palette": {
+      "ink": "#513922",
+      "accent": "#c9813e",
+      "wash": "#f7ead8",
+      "second": "#7e7947",
+      "ribbon": "#f5e3c3"
+    },
+    "unchangedArtworkHashes": {
+      "Pumkin/pumpkin-outline-8x10.svg": "73d4fadcace1d4e9bac071fa14667c31fe3084211429235b059a0321dc7485fc",
+      "Pumkin/pumpkin-finished-reference-8x10.pdf": "3a0f6122a9a94becbc118e2789bec747edf12a2587d9dee3806fca504ebda238"
+    }
+  },
+  {
+    "kit": "Gnome Christmas Tree",
+    "slug": "gnome-christmas-tree",
+    "steps": 12,
+    "guidePdf": "Gnome Christmas Tree/info/tmp/template-refactor/gnome-christmas-tree-painting-guide-8x10.pdf",
+    "guidePng": "Gnome Christmas Tree/info/tmp/template-refactor/gnome-christmas-tree-painting-guide-8x10.png",
+    "guideSha256": "95746637BC8056D5656744A95B3932682ED8572EECE456C1070EF86DC3A7BAEF",
+    "imageSha256": "1105E2085FB4B5E8A769962FDBA5EE832B2B3A80BC10706001A4BECCD07EC934",
+    "onePageLetter": true,
+    "rasterSize": [
+      2550,
+      3300
+    ],
+    "layoutPassed": true,
+    "logoTransparent": true,
+    "palette": {
+      "ink": "#21493e",
+      "accent": "#729691",
+      "wash": "#e8f1ee",
+      "second": "#b34336",
+      "ribbon": "#e7f0e8"
+    },
+    "unchangedArtworkHashes": {
+      "Gnome Christmas Tree/gnome-christmas-tree-outline-8x10.svg": "1c4b289f49a1b7ccf97b2c93049cbb961b64aff67495b457615fb5b94f05a7f9",
+      "Gnome Christmas Tree/gnome-christmas-tree-finished-reference-8x10.pdf": "2cca8f5ba1a0b7010091a4ba2af0fc220b2c542877c9acd18f37df6c5437649f"
+    }
+  },
+  {
+    "kit": "Gnome Fall",
+    "slug": "gnome-fall",
+    "steps": 12,
+    "guidePdf": "Gnome Fall/info/tmp/template-refactor/gnome-fall-painting-guide-8x10.pdf",
+    "guidePng": "Gnome Fall/info/tmp/template-refactor/gnome-fall-painting-guide-8x10.png",
+    "guideSha256": "2CAAE79463039C3D9C50BDE1B54648DB4C23932C9A13DC2AF57A24770094078F",
+    "imageSha256": "4A5116227F43CC6E2CC3488C529F25696B2A58959DAE235E0DAD2127E0584433",
+    "onePageLetter": true,
+    "rasterSize": [
+      2550,
+      3300
+    ],
+    "layoutPassed": true,
+    "logoTransparent": true,
+    "palette": {
+      "ink": "#154b50",
+      "accent": "#45989c",
+      "wash": "#e4f1ed",
+      "second": "#c88338",
+      "ribbon": "#e3f0e9"
+    },
+    "unchangedArtworkHashes": {
+      "Gnome Fall/gnome-fall-outline-8x10.svg": "3f8997a82189d2ab82dbaf9d68fb5a75f56091ef9efea654ebfe70a09228cdfd",
+      "Gnome Fall/gnome-fall-finished-reference-8x10.pdf": "38ce6c5c86c965014cad08cccc5b9d3ba546bcddb7b297dd67028a7859a667e6"
+    }
+  },
+  {
+    "kit": "fall view",
+    "slug": "fall-view",
+    "steps": 12,
+    "guidePdf": "fall view/info/tmp/template-refactor/fall-view-painting-guide-8x10.pdf",
+    "guidePng": "fall view/info/tmp/template-refactor/fall-view-painting-guide-8x10.png",
+    "guideSha256": "0C3C9F80B7E04CA96467C57F2ABF10523F8B57ECA3F1879C474C72EC5A44A92A",
+    "imageSha256": "2F1EC2577A1B9332B525DDAF1B62343C9042BA8F1ECCDEDD317C244195505CFC",
+    "onePageLetter": true,
+    "rasterSize": [
+      2550,
+      3300
+    ],
+    "layoutPassed": true,
+    "logoTransparent": true,
+    "palette": {
+      "ink": "#193f60",
+      "accent": "#669abd",
+      "wash": "#e4f0f7",
+      "second": "#d79340",
+      "ribbon": "#e2eff6"
+    },
+    "unchangedArtworkHashes": {
+      "fall view/fall-view-outline-8x10.svg": "a10351797e8408d49cab2512b702912e130b0506deda2a27024720dc82113460",
+      "fall view/fall-view-finished-reference-8x10.pdf": "1e85f13d4b4235d00d8e5e2aff1ed69005ccd5148b15ce6d4be72609507245e1"
+    }
+  },
+  {
+    "kit": "Starry-night Sunflower",
+    "slug": "starry-night-sunflower",
+    "steps": 12,
+    "guidePdf": "Starry-night Sunflower/info/tmp/template-refactor/starry-night-sunflower-painting-guide-8x10.pdf",
+    "guidePng": "Starry-night Sunflower/info/tmp/template-refactor/starry-night-sunflower-painting-guide-8x10.png",
+    "guideSha256": "0C8A5780C0DE8EDD85ED9017874479040C57D2A15070995933F1556210315DC4",
+    "imageSha256": "DCE9A7210B1A595FF91F3BF7599140CC95F53A28BFB28821A8ED44657F3FBB0D",
+    "onePageLetter": true,
+    "rasterSize": [
+      2550,
+      3300
+    ],
+    "layoutPassed": true,
+    "logoTransparent": true,
+    "palette": {
+      "ink": "#193e62",
+      "accent": "#4e83b0",
+      "wash": "#e4eef7",
+      "second": "#cc9e38",
+      "ribbon": "#f2e8ba"
+    },
+    "unchangedArtworkHashes": {
+      "Starry-night Sunflower/starry-night-sunflower-outline-8x10.svg": "59c71e68a18b715a00662d03a800a353badd3472a6e2bff5fd9099e8d87d4299",
+      "Starry-night Sunflower/starry-night-sunflower-finished-reference-8x10.pdf": "8b27d4463edc2cdbed62a8e6b5fd6e927c5118a77b091208cf06069a9816f9d9"
+    }
+  }
+]

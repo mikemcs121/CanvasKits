@@ -1,0 +1,29 @@
+{
+  "kit": "fall view",
+  "slug": "fall-view",
+  "steps": 12,
+  "guidePdf": "fall view/info/tmp/template-refactor/fall-view-painting-guide-8x10.pdf",
+  "guidePng": "fall view/info/tmp/template-refactor/fall-view-painting-guide-8x10.png",
+  "guideSha256": "0C3C9F80B7E04CA96467C57F2ABF10523F8B57ECA3F1879C474C72EC5A44A92A",
+  "imageSha256": "2F1EC2577A1B9332B525DDAF1B62343C9042BA8F1ECCDEDD317C244195505CFC",
+  "onePageLetter": true,
+  "rasterSize": [
+    2550,
+    3300
+  ],
+  "layoutPassed": true,
+  "logoTransparent": true,
+  "palette": {
+    "ink": "#193f60",
+    "accent": "#669abd",
+    "wash": "#e4f0f7",
+    "second": "#d79340",
+    "ribbon": "#e2eff6"
+  },
+  "unchangedArtworkHashes": {
+    "fall view/fall-view-outline-8x10.svg": "a10351797e8408d49cab2512b702912e130b0506deda2a27024720dc82113460",
+    "fall view/fall-view-finished-reference-8x10.pdf": "1e85f13d4b4235d00d8e5e2aff1ed69005ccd5148b15ce6d4be72609507245e1"
+  },
+  "visuallyReviewed": true,
+  "promoted": true
+}

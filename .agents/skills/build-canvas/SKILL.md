@@ -5,7 +5,7 @@ description: Build a complete River and Ridge canvas paint kit with 8 x 10 outli
 
 # Build Canvas
 
-Turn the user's subject folder into a complete paint kit: an 8 x 10-inch outline for the preprinted canvas, a matching 8 x 10-inch finished painting reference, and a one-page illustrated US Letter portrait guide. Deliver each as a PDF and matching PNG. Use 8 x 10 portrait artwork by default unless the user specifies another size. Complete the work, including visual review, rather than stopping with a plan. Do not add packaging, sales copy, or other products unless requested.
+Turn the user's subject folder into a complete paint kit: an 8 x 10-inch outline for the preprinted canvas, a matching 8 x 10-inch finished painting reference, and a one-page illustrated US Letter portrait guide. Keep exactly three production files at the kit root: the SVG transfer, the guide PDF, and the reference PDF. Store matching PNGs and compatibility exports under info/. Use 8 x 10 portrait artwork by default unless the user specifies another size. Complete the work, including visual review, rather than stopping with a plan. Do not add packaging, sales copy, or other products unless requested.
 
 ## Locate the kit and its instructions
 
@@ -17,17 +17,11 @@ Inspect every candidate source image visually; arbitrary filenames do not identi
 
 ## Organize the kit files
 
-Keep all kit-specific work inside the subject folder. Use a readable subject slug for filenames:
+Each subject root holds exactly three production files: `<slug>-outline-8x10.svg`, `<slug>-painting-guide-8x10.pdf` and `<slug>-finished-reference-8x10.pdf`. The guide is US Letter; the SVG and reference are 8 by 10 inches. Put all other kit files inside `info/`.
 
-- `<subject>-outline.png`
-- `<subject>-finished-reference.png`
-- `assets/` for generated illustration assets and seasonal logo variants
-- `tmp/` for drafts, prompts, generation records, exports, and review notes
-- `output/pdf/8x10/<subject>-painting-guide-8x10.pdf` and `.png` for the finished US Letter guide
-- `output/pdf/8x10/<subject>-outline-8x10.pdf` and `.png` for the 8 x 10 transfer outline
-- `output/pdf/8x10/<subject>-finished-reference-8x10.pdf` and `.png` for the 8 x 10 painting target
+Use `info/assets/` for canonical images, stages and logo variants; `info/tmp/` for editable plans, masks, prompts, builders and reviews; `info/output/pdf/8x10/` for matching PNGs and compatibility PDFs; and `info/archive/` for obsolete editions and preserved sources. Keep an `info/README.md` pointing to the active source and builder. Preserve prior dependency trees when moving files, and record a path/hash manifest. Treat project-root production indexes as the entrypoint instead of leaving extra notes in each kit root.
 
-These six files are the default deliverable set. Keep convenient `<subject>-outline-8x10.png` and `<subject>-finished-reference-8x10.png` companion copies in the subject folder. Existing source artwork and earlier editions remain unchanged.
+In the workflow below, kit-relative assets/, tmp/ and output/ mean directories beneath info/. The shared logo remains at the project root's assets/images/. Resolve these locations explicitly; do not rely on old absolute paths or folder depth. Existing approved SVGs govern guide/reference repairs and must not be regenerated just to reorganize files. Preserve supplied originals and old editions.
 
 ## Set the artwork size
 
@@ -43,17 +37,17 @@ Export artwork PNGs at 2400 x 3000 pixels with 300-DPI metadata, and artwork PDF
 
 ### Transfer line weight and audience
 
-The current transfer standard supersedes the earlier black-line export preference. Use fine lines comparable to the approved Flowers in Vase outline: approximately **1.4 pt at the final 8 x 10-inch print size**. Use **medium-light neutral gray #A6A6A6** for adult kits. Fox Fall and Kat In Pumpkin (Cat in a Pumpkin) are children's kits and use **slightly darker neutral gray #808080**, at the same line weight. Do not silently turn either into an adult kit. Future children's kits should use this darker transfer treatment unless the user chooses otherwise.
+The current transfer standard supersedes the earlier black-line export preference. Use fine lines comparable to the approved Flowers in Vase outline: approximately **2 pt (0.706 mm) at the final 8 x 10-inch print size**. Use **medium-light neutral gray #A6A6A6** for adult kits. Fox Fall and Cat in Pumpkin (Cat in a Pumpkin) are children's kits and use **slightly darker neutral gray #808080**, at the same line weight. Do not silently turn either into an adult kit. Future children's kits should use this darker transfer treatment unless the user chooses otherwise.
 
 These are starting production file settings, not a verified heat-transfer result. Do not claim they were physically press-tested. Keep small details readable; inspect endpoints, intersections, closed shapes, faces, leaves and ornaments after thinning. Prefer clean centerline vector paths with rounded joins/caps; simply changing a heavy line's color does not satisfy the thickness request. Preserve original bold sources and previous exports in each kit's archive. A linework-only revision keeps source geometry and existing references aligned unless recomposition is separately requested.
 
 Export transfer-outline PNGs with the same gray lines on a transparent background, including transparent interiors and margins. Use alpha for antialiased edges; do not add a white or black background. Outline PDFs retain the same gray linework and placement on an unpainted page. White canvas previews in the guide are appropriate. Verify actual color, opacity and transparency from pixel data and on a checkerboard preview rather than trusting the viewer's background.
 
-Provide each production transfer outline as a true SVG containing gray vector paths with no background shape or embedded raster image. Set its physical size to 8 x 10 inches and its viewBox to the actual 4:5 composition. Save it under `output/svg/8x10/`, keep a convenient root copy, and keep the matching outline PDF as vector paths. Matching PNGs are compatibility exports, not substitutes for the SVG. Update current outline aliases together after archiving previous versions. When requested, copy every current SVG into the user's Desktop `Canvas Kit Vector Outlines` folder and verify its hash; use the system's actual Desktop location, including OneDrive redirection.
+Provide each production transfer outline as a true SVG containing gray vector paths with no background shape or embedded raster image. Set its physical size to 8 x 10 inches and its viewBox to the actual 4:5 composition. Save the production SVG at the kit root, keep any supporting copy under `info/output/svg/8x10/`, and keep the matching outline PDF as vector paths. Matching PNGs are compatibility exports, not substitutes for the SVG. Update current outline aliases together after archiving previous versions. When requested, copy every current SVG into the user's Desktop `Canvas Kit Vector Outlines` folder and verify its hash; use the system's actual Desktop location, including OneDrive redirection.
 
 The instruction sheet remains US Letter (612 x 792 points), even though its filename and folder identify the 8 x 10 kit. Use the exact 8 x 10 reference in its preview and flat-drying illustration, and show the matching canvas proportions in full-canvas stages. Tell the user to print artwork at Actual size / 100%. Record when paint texture has been resampled instead of generated at native print resolution.
 
-When adapting an existing kit, retain its established title, lettering style, materials banner, numbering, caption treatment, decorations and footer. Change only the artwork placement, size references and instructions needed for that edition.
+Follow the current guide template named in AGENTS.md. The September 20 shared template is assets/templates/fall-view-guide/reference.pdf, rebuilt in assets/tools/guide-template/build.cjs: large brush-script title, preview left, logo right, centered materials strip, four-column illustrated grid, numbered serif headings below images, short captions, fine dividers and a pale footer wash. Use twelve useful steps, or fewer when appropriate. This explicit user choice supersedes older instructions to retain separate per-kit layouts. Match each guide background wash, banner, dividers and logo to its own painting; never copy the template palette automatically. Keep current artwork, useful stages and paint recipes.
 
 ## Establish the source artwork
 
@@ -71,7 +65,7 @@ Creating missing companion assets is part of a full-kit request. Do not pause fo
 
 Before building any guide panels, establish one **canonical geometry master** and lock its pixel dimensions. When both an outline and painting exist, align them once and record any unavoidable differences. When reconstructing from a painting or composite, create the finished reference and outline as a matched pair from the same master composition; do not generate them independently and then ask later panels to reconcile their differences. After the pair is accepted for the build, do not regenerate either one while making the instructions.
 
-Use the available imagegen skill and image-generation tool when creating or editing raster artwork. Inspect references before edits and provide the actual outline and painting as image references. Use the PDF skill for PDF creation and verification. Read these skills when entering the relevant phase; do not assume their paths or tool interfaces remain unchanged.
+Use the available imagegen skill and image-generation tool when creating or editing raster artwork. Inspect references before edits and provide the actual outline and painting as image references. Rasterize PDFs for verification with the shared renderer, `node assets/tools/pdf-render/render-pdf.cjs <pdf> <png> --expect-pages 1 --expect-points 612x792 --checks <checks.json>` from the project root; never drive the WinRT `Windows.Data.Pdf` APIs from PowerShell, which crashes the shell mid-loop. See the project AGENTS.md for the full rule. Read the imagegen skill when image generation is needed; do not assume tool interfaces remain unchanged.
 
 ## Plan the painting progression
 
@@ -124,10 +118,10 @@ For item 4, save a geometry-check contact sheet or difference overlay in `tmp/`.
 
 Correct problems and rerender before delivery. Apply the project's complete final-review checklist as well. Record checks actually performed and any remaining limitations in `tmp/`; do not copy a previous kit's verification claims.
 
-For a full-kit request, the expected result is all six production files in `output/pdf/8x10/`, not a draft awaiting routine approval. Do not stop after the first generated-art mismatch: repair the affected panels, rebuild them from canonical layers/crops, and rerun verification. Once checks pass, place the guide, outline and reference PDFs/PNGs under the canonical filenames in `output/pdf/8x10/`; no extra approval step is needed.
+For a full-kit request, finish and verify the SVG outline, guide PDF and reference PDF, then promote exactly these three files to the kit root. Put matching PNGs and compatibility PDFs under info/output/pdf/8x10/. No extra approval is needed. Repair routine stage mismatches using canonical masks/layers and rerun checks.
 
-Use draft status only for a concrete unresolved blocker such as incompatible supplied source geometry, missing essential source artwork, or a tool failure that prevents a deterministic rebuild. Aesthetic variation alone is not a blocker. Keep blocked drafts in `tmp/` by default. Put a clearly suffixed `-draft` copy in `output/pdf/` only when the user explicitly asks for a printable draft, and state the exact failed production gate and the next corrective action.
+Use draft status only for a concrete unresolved source or tool blocker. Keep clearly labeled printable draft PDFs and matching PNGs in info/output/pdf/, report the exact failed gate, and do not replace current production files with unverified drafts.
 
 Update the project `AGENTS.md` with a concise kit-specific section identifying sources, the current target, palette, and final paths. Add reusable preferences only when the user has expressed them; do not elevate one kit's design choices into project-wide rules.
 
-Finish with links to the guide PDF, matching image, and newly created companion references. Briefly state the palette, verification outcome, and any reconstruction or fidelity limitations.
+Finish with links to the three production files and the kit index; include supporting image links only when useful. Briefly state the palette, verification outcome, and any reconstruction or fidelity limitations.

@@ -1,0 +1,142 @@
+[
+  {
+    "kit": "Gnome Halloween",
+    "file": "Gnome Halloween/gnome-halloween-outline-8x10.png",
+    "sourcePixels": [
+      2400,
+      3000
+    ],
+    "lineCoreGray": 0,
+    "estimatedMedianLinePoints": 4.552320098876953,
+    "estimatedMiddleHalfLinePoints": [
+      4.32,
+      4.717440032958985
+    ]
+  },
+  {
+    "kit": "Gnome Christmas",
+    "file": "Gnome Christmas Tree/test/gnome-christmas-tree-outline-8x10.png",
+    "sourcePixels": [
+      2400,
+      3000
+    ],
+    "lineCoreGray": 3,
+    "estimatedMedianLinePoints": 4.949760131835937,
+    "estimatedMiddleHalfLinePoints": [
+      4.552320098876953,
+      5.28
+    ]
+  },
+  {
+    "kit": "Gnome Fall",
+    "file": "Gnome Fall/test/gnome-fall-outline-8x10.png",
+    "sourcePixels": [
+      2400,
+      3000
+    ],
+    "lineCoreGray": 6,
+    "estimatedMedianLinePoints": 1.44,
+    "estimatedMiddleHalfLinePoints": [
+      1.44,
+      1.8374400329589844
+    ]
+  },
+  {
+    "kit": "Flowers in Vase",
+    "file": "Flowers in Vase/flowers-in-vase-outline-8x10.png",
+    "sourcePixels": [
+      2400,
+      3000
+    ],
+    "lineCoreGray": 0,
+    "estimatedMedianLinePoints": 1.44,
+    "estimatedMiddleHalfLinePoints": [
+      1.44,
+      1.8374400329589844
+    ]
+  },
+  {
+    "kit": "Fall View",
+    "file": "Fall View/test/fall-view-outline-8x10.png",
+    "sourcePixels": [
+      2400,
+      3000
+    ],
+    "lineCoreGray": 18,
+    "estimatedMedianLinePoints": 0.8774400329589844,
+    "estimatedMiddleHalfLinePoints": [
+      0.8774400329589844,
+      1.44
+    ]
+  },
+  {
+    "kit": "Starry-night Sunflower",
+    "file": "Starry-night Sunflower/test/starry-night-sunflower-outline-8x10.png",
+    "sourcePixels": [
+      2400,
+      3000
+    ],
+    "lineCoreGray": 8,
+    "estimatedMedianLinePoints": 1.44,
+    "estimatedMiddleHalfLinePoints": [
+      0.8774400329589844,
+      1.44
+    ]
+  },
+  {
+    "kit": "Fox Fall",
+    "file": "Fox Fall/fox-fall-outline-8x10.png",
+    "sourcePixels": [
+      2400,
+      3000
+    ],
+    "lineCoreGray": 0,
+    "estimatedMedianLinePoints": 4.552320098876953,
+    "estimatedMiddleHalfLinePoints": [
+      4.32,
+      4.949760131835937
+    ]
+  },
+  {
+    "kit": "Ghost Fall",
+    "file": "Ghost Fall/ghost-fall-outline-8x10.png",
+    "sourcePixels": [
+      2400,
+      3000
+    ],
+    "lineCoreGray": 0,
+    "estimatedMedianLinePoints": 4.949760131835937,
+    "estimatedMiddleHalfLinePoints": [
+      3.5923200988769532,
+      5.28
+    ]
+  },
+  {
+    "kit": "Cat in a Pumpkin",
+    "file": "Cat in Pumpkin/cat-in-pumpkin-outline-8x10.png",
+    "sourcePixels": [
+      2400,
+      3000
+    ],
+    "lineCoreGray": 0,
+    "estimatedMedianLinePoints": 4.32,
+    "estimatedMiddleHalfLinePoints": [
+      3.194880065917969,
+      4.552320098876953
+    ]
+  },
+  {
+    "kit": "Pumpkin",
+    "file": "Pumkin/pumpkin-outline-8x10.png",
+    "sourcePixels": [
+      2400,
+      3000
+    ],
+    "lineCoreGray": 0,
+    "estimatedMedianLinePoints": 5.512320098876953,
+    "estimatedMiddleHalfLinePoints": [
+      5.28,
+      6.074880065917969
+    ]
+  }
+]

@@ -1,0 +1,12 @@
+Add-Type -AssemblyName System.Runtime.WindowsRuntime
+[Windows.Data.Pdf.PdfDocument, Windows.Data.Pdf, ContentType=WindowsRuntime] | Out-Null
+[Windows.Storage.StorageFile, Windows.Storage, ContentType=WindowsRuntime] | Out-Null
+[Windows.Storage.Streams.InMemoryRandomAccessStream, Windows.Storage.Streams, ContentType=WindowsRuntime] | Out-Null
+$asTask=[System.WindowsRuntimeSystemExtensions].GetMethods() | Where-Object { $_.Name -eq 'AsTask' -and $_.IsGenericMethod -and $_.GetParameters().Count -eq 1 -and $_.GetParameters()[0].ParameterType.Name -eq 'IAsyncOperation`1' } | Select-Object -First 1
+function Await-Result($operation,$type){$t=$asTask.MakeGenericMethod($type).Invoke($null,@($operation));$t.Wait();$t.Result}
+function Await-Action($operation){$m=[System.WindowsRuntimeSystemExtensions].GetMethods() | Where-Object {$_.Name -eq 'AsTask' -and -not $_.IsGenericMethod -and $_.GetParameters().Count -eq 1} | Select-Object -First 1;$t=$m.Invoke($null,@($operation));$t.Wait()}
+$checks=@()
+foreach($kit in @(@('Gnome Fall','gnome-fall'),@('Gnome Christmas Tree','gnome-christmas-tree'))){$base=Join-Path (Get-Location) $kit[0];if(Test-Path "$base/info/tmp"){$base="$base/info"};foreach($kind in @('painting-guide','finished-reference')){$pdf="$base/output/pdf/8x10/$($kit[1])-$kind-8x10.pdf";$f=Await-Result ([Windows.Storage.StorageFile]::GetFileFromPathAsync((Resolve-Path $pdf).Path)) ([Windows.Storage.StorageFile]);$doc=Await-Result ([Windows.Data.Pdf.PdfDocument]::LoadFromFileAsync($f)) ([Windows.Data.Pdf.PdfDocument]);if($doc.PageCount -ne 1){throw 'Wrong page count'};$p=$doc.GetPage(0);$w=$p.Size.Width;$h=$p.Size.Height;$guide=$kind -eq 'painting-guide';if($guide -and ($w -ne 816 -or $h -ne 1056)){throw "Wrong guide size $w $h"};if(-not $guide -and ($w -ne 768 -or $h -ne 960)){throw "Wrong artwork size $w $h"};$m=New-Object Windows.Storage.Streams.InMemoryRandomAccessStream;$opt=New-Object Windows.Data.Pdf.PdfPageRenderOptions;$opt.DestinationWidth=if($guide){2550}else{2400};$opt.DestinationHeight=if($guide){3300}else{3000};Await-Action ($p.RenderToStreamAsync($m,$opt));$s=[System.IO.WindowsRuntimeStreamExtensions]::AsStreamForRead($m);$dest=if($guide){$pdf.Replace('.pdf','.png')}else{"$base/tmp/organization/reference-pdf-render.png"};$o=[System.IO.File]::Create($dest);$s.CopyTo($o);$o.Dispose();$s.Dispose();$p.Dispose();$checks+=@{file=$pdf;pages=1;widthPoints=$w*.75;heightPoints=$h*.75;rendered=$dest}}
+}
+$checks | ConvertTo-Json | Set-Content -LiteralPath (Join-Path $PSScriptRoot 'pdf-checks.json')
+[Environment]::Exit(0)

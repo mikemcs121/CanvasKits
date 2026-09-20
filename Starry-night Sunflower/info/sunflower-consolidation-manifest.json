@@ -1,0 +1,116 @@
+﻿[
+    {
+        "old":  "Starry Night Sunflower\\Screenshot 2026-09-16 223534.png",
+        "new":  "Starry-night Sunflower\\info\\archive\\original-square-kit\\Screenshot 2026-09-16 223534.png",
+        "sha256":  "FEE79D1EAF99F09CA5EB51CFA5B15A0336FFA3FD895C40239086407F3FCB907A",
+        "bytes":  707220
+    },
+    {
+        "old":  "Starry Night Sunflower\\starry-night-sunflower-finished-reference.png",
+        "new":  "Starry-night Sunflower\\info\\archive\\original-square-kit\\starry-night-sunflower-finished-reference.png",
+        "sha256":  "1080927358C920F739555C5B47F712DB5CBF97DA45ADCE1A1E2E1FEE35CECA4F",
+        "bytes":  3028013
+    },
+    {
+        "old":  "Starry Night Sunflower\\starry-night-sunflower-outline.png",
+        "new":  "Starry-night Sunflower\\info\\archive\\original-square-kit\\starry-night-sunflower-outline.png",
+        "sha256":  "4DDDAAC389B4D056AE0A1BC95306D90952CB42234515877C3E675E2705A4CCC0",
+        "bytes":  1560575
+    },
+    {
+        "old":  "Starry Night Sunflower\\starry-night-sunflower-source-composite.png",
+        "new":  "Starry-night Sunflower\\info\\archive\\original-square-kit\\starry-night-sunflower-source-composite.png",
+        "sha256":  "FEE79D1EAF99F09CA5EB51CFA5B15A0336FFA3FD895C40239086407F3FCB907A",
+        "bytes":  707220
+    },
+    {
+        "old":  "Starry Night Sunflower\\assets\\starry-night-sunflower-guide-artwork-draft.png",
+        "new":  "Starry-night Sunflower\\info\\archive\\original-square-kit\\assets\\starry-night-sunflower-guide-artwork-draft.png",
+        "sha256":  "1F745632FC2C17B5C5C079B519C4E504D0757DAF311C2A92C4E64ED75DDA90C4",
+        "bytes":  2582036
+    },
+    {
+        "old":  "Starry Night Sunflower\\output\\pdf\\starry-night-sunflower-painting-guide-illustrated-draft.pdf",
+        "new":  "Starry-night Sunflower\\info\\archive\\original-square-kit\\output\\pdf\\starry-night-sunflower-painting-guide-illustrated-draft.pdf",
+        "sha256":  "AC5DAAE300777F3D78361EC637B8BEFBF012EA42FBB56556107C4DDEC4E9D10D",
+        "bytes":  3109395
+    },
+    {
+        "old":  "Starry Night Sunflower\\output\\pdf\\starry-night-sunflower-painting-guide-illustrated-draft.png",
+        "new":  "Starry-night Sunflower\\info\\archive\\original-square-kit\\output\\pdf\\starry-night-sunflower-painting-guide-illustrated-draft.png",
+        "sha256":  "C57995DD2E824429C18B12AACD246758A2AD4864B83673269D5AB841816A6266",
+        "bytes":  5486963
+    },
+    {
+        "old":  "Starry Night Sunflower\\tmp\\correction-prompt.md",
+        "new":  "Starry-night Sunflower\\info\\archive\\original-square-kit\\tmp\\correction-prompt.md",
+        "sha256":  "2854C4D81C0C204F30A74D64179D3DE3B64F61274CD0D59BC59C1B9237AFF73F",
+        "bytes":  1193
+    },
+    {
+        "old":  "Starry Night Sunflower\\tmp\\final-preview-correction-prompt.md",
+        "new":  "Starry-night Sunflower\\info\\archive\\original-square-kit\\tmp\\final-preview-correction-prompt.md",
+        "sha256":  "6CD8F43C3B341DEEC54D932A4CB913C378F8F5B5531B685E11B01BC2DCB0C324",
+        "bytes":  734
+    },
+    {
+        "old":  "Starry Night Sunflower\\tmp\\generation-prompts.md",
+        "new":  "Starry-night Sunflower\\info\\archive\\original-square-kit\\tmp\\generation-prompts.md",
+        "sha256":  "D2BDF5A2CC0BB47BC32386CD1E796A03B3880140F05376C56DE0029B3CC94DD5",
+        "bytes":  6250
+    },
+    {
+        "old":  "Starry Night Sunflower\\tmp\\review-notes.md",
+        "new":  "Starry-night Sunflower\\info\\archive\\original-square-kit\\tmp\\review-notes.md",
+        "sha256":  "5D1314C944E9EA821EDFC04A2292DD5D04FF864B44794811C2DEBCEC05F9E09E",
+        "bytes":  2174
+    },
+    {
+        "old":  "Starry Night Sunflower\\tmp\\step-plan.md",
+        "new":  "Starry-night Sunflower\\info\\archive\\original-square-kit\\tmp\\step-plan.md",
+        "sha256":  "5CE8D5B6456D7676D1A75C75432AE1A00F7D5677C2DE6D2A577451BE6019D629",
+        "bytes":  3168
+    },
+    {
+        "old":  "Starry Night Sunflower\\tmp\\style-reference.png",
+        "new":  "Starry-night Sunflower\\info\\archive\\original-square-kit\\tmp\\style-reference.png",
+        "sha256":  "6CB92CC88C71752AB8A67FCB7CC2FEE3A32C15C3335B4166809C871BBFC2A171",
+        "bytes":  1851652
+    },
+    {
+        "old":  "Starry Night Sunflower\\tmp\\pdfs\\export-pdf.cjs",
+        "new":  "Starry-night Sunflower\\info\\archive\\original-square-kit\\tmp\\pdfs\\export-pdf.cjs",
+        "sha256":  "ADA67A42AC52A657D2CA2DE870081013E0C97C33A43E30C27EA4024ADE5929D7",
+        "bytes":  3261
+    },
+    {
+        "old":  "Starry Night Sunflower\\tmp\\pdfs\\guide-draft-01.png",
+        "new":  "Starry-night Sunflower\\info\\archive\\original-square-kit\\tmp\\pdfs\\guide-draft-01.png",
+        "sha256":  "86B0B5042232005BC9D04E6924A831138371F097D3F86380DF922582BD754E0D",
+        "bytes":  2708669
+    },
+    {
+        "old":  "Starry Night Sunflower\\tmp\\pdfs\\guide-draft-02.png",
+        "new":  "Starry-night Sunflower\\info\\archive\\original-square-kit\\tmp\\pdfs\\guide-draft-02.png",
+        "sha256":  "44016C76F997EDE5C50B5F20325A88E678D3FD7B487A5CD36691E3747A9268A3",
+        "bytes":  2670672
+    },
+    {
+        "old":  "Starry Night Sunflower\\tmp\\pdfs\\page-1.png",
+        "new":  "Starry-night Sunflower\\info\\archive\\original-square-kit\\tmp\\pdfs\\page-1.png",
+        "sha256":  "E1BEB6720EA555B58FB576C84B2F9E88C8409A9C2740594037CEB9CFFCA281CC",
+        "bytes":  4668969
+    },
+    {
+        "old":  "Starry Night Sunflower\\tmp\\pdfs\\render-pdf.ps1",
+        "new":  "Starry-night Sunflower\\info\\archive\\original-square-kit\\tmp\\pdfs\\render-pdf.ps1",
+        "sha256":  "5E7D40E67385F49E52DD9E89ABAAC4CD985F58155F846B2340EBC62C46FFBE9E",
+        "bytes":  2213
+    },
+    {
+        "old":  "Starry Night Sunflower\\tmp\\pdfs\\review-page.png",
+        "new":  "Starry-night Sunflower\\info\\archive\\original-square-kit\\tmp\\pdfs\\review-page.png",
+        "sha256":  "9B0DCE67F8A3D18D1737607AF4676E314BF0DC9A4030307EFE4A59D2AE67320A",
+        "bytes":  3119605
+    }
+]

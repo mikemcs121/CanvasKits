@@ -1,0 +1,136 @@
+{
+  "kits": [
+    {
+      "kit": "Flowers in Vase",
+      "rootFiles": [
+        "flowers-in-vase-finished-reference-8x10.pdf",
+        "flowers-in-vase-outline-8x10.svg",
+        "flowers-in-vase-painting-guide-8x10.pdf"
+      ],
+      "svgGray": "#A6A6A6",
+      "linePoints": 2,
+      "pdfChecks": true,
+      "preservedFiles": 255,
+      "productionHashesVerified": true
+    },
+    {
+      "kit": "Gnome Halloween",
+      "rootFiles": [
+        "gnome-halloween-finished-reference-8x10.pdf",
+        "gnome-halloween-outline-8x10.svg",
+        "gnome-halloween-painting-guide-8x10.pdf"
+      ],
+      "svgGray": "#A6A6A6",
+      "linePoints": 2,
+      "pdfChecks": true,
+      "preservedFiles": 366,
+      "productionHashesVerified": true
+    },
+    {
+      "kit": "Fox Fall",
+      "rootFiles": [
+        "fox-fall-finished-reference-8x10.pdf",
+        "fox-fall-outline-8x10.svg",
+        "fox-fall-painting-guide-8x10.pdf"
+      ],
+      "svgGray": "#808080",
+      "linePoints": 2,
+      "pdfChecks": true,
+      "preservedFiles": 2922,
+      "productionHashesVerified": true
+    },
+    {
+      "kit": "Ghost Fall",
+      "rootFiles": [
+        "ghost-fall-finished-reference-8x10.pdf",
+        "ghost-fall-outline-8x10.svg",
+        "ghost-fall-painting-guide-8x10.pdf"
+      ],
+      "svgGray": "#A6A6A6",
+      "linePoints": 2,
+      "pdfChecks": true,
+      "preservedFiles": 1022,
+      "productionHashesVerified": true
+    },
+    {
+      "kit": "Cat in Pumpkin",
+      "rootFiles": [
+        "cat-in-pumpkin-finished-reference-8x10.pdf",
+        "cat-in-pumpkin-outline-8x10.svg",
+        "cat-in-pumpkin-painting-guide-8x10.pdf"
+      ],
+      "svgGray": "#808080",
+      "linePoints": 2,
+      "pdfChecks": true,
+      "preservedFiles": 1022,
+      "productionHashesVerified": true
+    },
+    {
+      "kit": "Pumkin",
+      "rootFiles": [
+        "pumpkin-finished-reference-8x10.pdf",
+        "pumpkin-outline-8x10.svg",
+        "pumpkin-painting-guide-8x10.pdf"
+      ],
+      "svgGray": "#A6A6A6",
+      "linePoints": 2,
+      "pdfChecks": true,
+      "preservedFiles": 2184,
+      "productionHashesVerified": true
+    },
+    {
+      "kit": "Gnome Christmas Tree",
+      "rootFiles": [
+        "gnome-christmas-tree-finished-reference-8x10.pdf",
+        "gnome-christmas-tree-outline-8x10.svg",
+        "gnome-christmas-tree-painting-guide-8x10.pdf"
+      ],
+      "svgGray": "#A6A6A6",
+      "linePoints": 2,
+      "pdfChecks": true,
+      "preservedFiles": 652,
+      "productionHashesVerified": true
+    },
+    {
+      "kit": "Gnome Fall",
+      "rootFiles": [
+        "gnome-fall-finished-reference-8x10.pdf",
+        "gnome-fall-outline-8x10.svg",
+        "gnome-fall-painting-guide-8x10.pdf"
+      ],
+      "svgGray": "#A6A6A6",
+      "linePoints": 2,
+      "pdfChecks": true,
+      "preservedFiles": 415,
+      "productionHashesVerified": true
+    },
+    {
+      "kit": "fall view",
+      "rootFiles": [
+        "fall-view-finished-reference-8x10.pdf",
+        "fall-view-outline-8x10.svg",
+        "fall-view-painting-guide-8x10.pdf"
+      ],
+      "svgGray": "#A6A6A6",
+      "linePoints": 2,
+      "pdfChecks": true,
+      "preservedFiles": 2561,
+      "productionHashesVerified": true
+    },
+    {
+      "kit": "Starry-night Sunflower",
+      "rootFiles": [
+        "starry-night-sunflower-finished-reference-8x10.pdf",
+        "starry-night-sunflower-outline-8x10.svg",
+        "starry-night-sunflower-painting-guide-8x10.pdf"
+      ],
+      "svgGray": "#A6A6A6",
+      "linePoints": 2,
+      "pdfChecks": true,
+      "preservedFiles": 2280,
+      "productionHashesVerified": true
+    }
+  ],
+  "sunflowerArchivedFiles": 19,
+  "localIndexLinksValid": true
+}

@@ -1,0 +1,29 @@
+{
+  "kit": "Ghost Fall",
+  "slug": "ghost-fall",
+  "steps": 12,
+  "guidePdf": "Ghost Fall/info/tmp/template-refactor/ghost-fall-painting-guide-8x10.pdf",
+  "guidePng": "Ghost Fall/info/tmp/template-refactor/ghost-fall-painting-guide-8x10.png",
+  "guideSha256": "BB7C67B08933F4DC814056560D8AFCADB8B8EDEAA7C173828E26327E5BE1F29B",
+  "imageSha256": "B7AB3529FA3C1AE92DB5A661767BF639994FFB8631D0CAF5480F39156BCA7B2C",
+  "onePageLetter": true,
+  "rasterSize": [
+    2550,
+    3300
+  ],
+  "layoutPassed": true,
+  "logoTransparent": true,
+  "palette": {
+    "ink": "#4f3b53",
+    "accent": "#8b7088",
+    "wash": "#f0e9ef",
+    "second": "#c4824c",
+    "ribbon": "#eee4ee"
+  },
+  "unchangedArtworkHashes": {
+    "Ghost Fall/ghost-fall-outline-8x10.svg": "6e38259204ade00d3738a8c2e591a5cde68770993d1bcf6c9b723a32021b64c9",
+    "Ghost Fall/ghost-fall-finished-reference-8x10.pdf": "8fe169d97850c5dd2c5e85a041cd7236eb707bbd4e044a8a2633b6c3ea496c63"
+  },
+  "visuallyReviewed": true,
+  "promoted": true
+}

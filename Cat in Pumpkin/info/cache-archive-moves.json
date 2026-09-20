@@ -1,0 +1,14 @@
+﻿[
+    {
+        "from":  "Cat in Pumpkin\\info\\tmp\\8x10-artwork\\chrome-profile",
+        "to":  "Cat in Pumpkin\\info\\archive\\build-caches\\8x10-artwork\\chrome-profile"
+    },
+    {
+        "from":  "Cat in Pumpkin\\info\\tmp\\8x10-artwork\\chrome-profile-1789849968409",
+        "to":  "Cat in Pumpkin\\info\\archive\\build-caches\\8x10-artwork\\chrome-profile-1789849968409"
+    },
+    {
+        "from":  "Cat in Pumpkin\\info\\tmp\\8x10-artwork\\chrome-profile-1789849968409-pdf",
+        "to":  "Cat in Pumpkin\\info\\archive\\build-caches\\8x10-artwork\\chrome-profile-1789849968409-pdf"
+    }
+]

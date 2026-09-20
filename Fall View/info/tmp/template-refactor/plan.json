@@ -1,0 +1,117 @@
+{
+  "folder": "fall view",
+  "slug": "fall-view",
+  "palette": {
+    "ink": "#193f60",
+    "accent": "#669abd",
+    "wash": "#e4f0f7",
+    "second": "#d79340",
+    "ribbon": "#e2eff6"
+  },
+  "reference": "fall view/info/output/pdf/8x10/fall-view-finished-reference-8x10.png",
+  "title": "Fall View",
+  "paints": [
+    "white",
+    "black",
+    "red",
+    "yellow",
+    "blue",
+    "green",
+    "brown",
+    "orange"
+  ],
+  "steps": [
+    {
+      "heading": "Set up",
+      "caption": "Cover the table. Start with the printed outline. Use thin coats; rinse and blot brushes between colors.",
+      "image": "fall view/info/tmp/organization-repair/step-1.png",
+      "detail": false,
+      "cue": false
+    },
+    {
+      "heading": "Blend the sky",
+      "caption": "Mix white with blue for the upper sky. Below, blend yellow into orange, then red plus white. Work horizontally around the outlines.",
+      "image": "fall view/info/tmp/organization-repair/step-2.png",
+      "detail": false,
+      "cue": false
+    },
+    {
+      "heading": "Light the sunset",
+      "caption": "Mix white with yellow for the sun and bright cloud streaks. Mix white with red for softer streaks. Let the sky dry.",
+      "image": "fall view/info/tmp/organization-repair/step-3.png",
+      "detail": false,
+      "cue": false
+    },
+    {
+      "heading": "Layer distant ridges",
+      "caption": "Mix blue with white for the far ridges. Use less white in each nearer ridge. Follow the printed curves; let adjoining bands dry.",
+      "image": "fall view/info/tmp/organization-repair/step-4.png",
+      "detail": false,
+      "cue": false
+    },
+    {
+      "heading": "Deepen the valley",
+      "caption": "Mix blue with green and a little black. Fill the nearest forest slopes. Tap upward with the small brush for pointed treetops.",
+      "image": "fall view/info/tmp/organization-repair/step-5.png",
+      "detail": false,
+      "cue": false
+    },
+    {
+      "heading": "Block in the rocks",
+      "caption": "Mix black, brown and a little white. Brush this gray-brown base across the rock slabs. Leave the printed fallen leaves white.",
+      "image": "fall view/info/tmp/organization-repair/step-6.png",
+      "detail": false,
+      "cue": false
+    },
+    {
+      "heading": "Paint the tree",
+      "caption": "Mix brown with a little black. Fill the trunk and branches with lengthwise strokes. Keep the foliage white. Let the base dry.",
+      "image": "fall view/info/tmp/organization-repair/step-7.png",
+      "detail": false,
+      "cue": false
+    },
+    {
+      "heading": "Build autumn color",
+      "caption": "Mix red with a little brown. Dab into the canopy and shrubs. Add orange over most areas, leaving darker pockets visible.",
+      "image": "fall view/info/tmp/organization-repair/step-8.png",
+      "detail": false,
+      "cue": false
+    },
+    {
+      "heading": "Lift the leaves",
+      "caption": "Mix orange with yellow. Tap small clusters along the lit foliage edges, leaving gaps. Use red, orange and yellow on fallen leaves.",
+      "image": "fall view/info/tmp/organization-repair/step-9.png",
+      "detail": true,
+      "cue": true
+    },
+    {
+      "heading": "Catch the bark light",
+      "caption": "Mix brown with yellow and a little white. Drag a nearly dry small brush along the trunk's left edge and branch tops.",
+      "image": "fall view/info/tmp/organization-repair/step-10.png",
+      "detail": true,
+      "cue": true
+    },
+    {
+      "heading": "Define the ledges",
+      "caption": "Mix white with a little black and brown. Skim the upper rock edges with a nearly dry brush. Keep the dark cracks visible.",
+      "image": "fall view/info/tmp/organization-repair/step-11.png",
+      "detail": true,
+      "cue": true
+    },
+    {
+      "heading": "Dry and clean up",
+      "caption": "Lay the canvas flat until fully dry. Wash and reshape brushes, wipe the palette and close the paint pots.",
+      "image": null,
+      "detail": false,
+      "cue": false,
+      "dry": true
+    }
+  ],
+  "work": "fall view/info/tmp/template-refactor",
+  "assets": "fall view/info/assets/template-refactor",
+  "logo": "fall view/info/assets/template-refactor/river-and-ridge-logo.png",
+  "unchanged": {
+    "fall view/fall-view-outline-8x10.svg": "a10351797e8408d49cab2512b702912e130b0506deda2a27024720dc82113460",
+    "fall view/fall-view-finished-reference-8x10.pdf": "1e85f13d4b4235d00d8e5e2aff1ed69005ccd5148b15ce6d4be72609507245e1"
+  }
+}

@@ -1,0 +1,28 @@
+[
+  {
+    "kit": "Gnome Fall",
+    "foregroundPixels": 477878,
+    "foregroundChanges": 0,
+    "skyChanges": 322122,
+    "svgUnchanged": true,
+    "printPng": [
+      2400,
+      3000
+    ],
+    "identicalAdjacentSkyPixelsBefore": 0.8661786568519909,
+    "identicalAdjacentSkyPixelsAfter": 0.007857607578505357
+  },
+  {
+    "kit": "Gnome Christmas Tree",
+    "foregroundPixels": 500674,
+    "foregroundChanges": 0,
+    "skyChanges": 299322,
+    "svgUnchanged": true,
+    "printPng": [
+      2400,
+      3000
+    ],
+    "identicalAdjacentSkyPixelsBefore": 0.8080638047880524,
+    "identicalAdjacentSkyPixelsAfter": 0.01927744915513869
+  }
+]

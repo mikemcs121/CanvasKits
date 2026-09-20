@@ -1,0 +1,22 @@
+[
+  {
+    "role": "outline",
+    "source": "C:\\Projects\\Canvas Kits\\Pumkin\\output\\svg\\8x10\\pumpkin-outline-8x10.svg",
+    "destination": "C:\\Projects\\Canvas Kits\\Pumkin\\pumpkin-outline-8x10.svg",
+    "sha256": "73D4FADCACE1D4E9BAC071FA14667C31FE3084211429235B059A0321DC7485FC"
+  },
+  {
+    "role": "guide",
+    "source": "C:\\Projects\\Canvas Kits\\Pumkin\\info\\tmp\\template-refactor\\pumpkin-painting-guide-8x10.pdf",
+    "destination": "C:\\Projects\\Canvas Kits\\Pumkin\\pumpkin-painting-guide-8x10.pdf",
+    "sha256": "97F4C5AB13A9DB4D41A5A860938508BB25402A571A7F523E394152802A602D2B",
+    "sha256BeforeTemplateRefactor": "DC692D7291593E0C58C1D07542A21E269C34FAB19D7471E4F23513A37F55C804",
+    "revision": "Fall View template, painting-matched logo and page accents, September 20 2026"
+  },
+  {
+    "role": "reference",
+    "source": "C:\\Projects\\Canvas Kits\\Pumkin\\output\\pdf\\8x10\\pumpkin-finished-reference-8x10.pdf",
+    "destination": "C:\\Projects\\Canvas Kits\\Pumkin\\pumpkin-finished-reference-8x10.pdf",
+    "sha256": "3A0F6122A9A94BECBC118E2789BEC747EDF12A2587D9DEE3806FCA504EBDA238"
+  }
+]

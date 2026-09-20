@@ -1,0 +1,1534 @@
+[
+  {
+    "old": "Flowers in Vase\\assets\\flowers-in-vase-blended-generated.png",
+    "new": "Flowers in Vase\\info\\assets\\flowers-in-vase-blended-generated.png",
+    "bytes": 2322019,
+    "sha256": "6D123066638C2BCD2C10AD64B82EE75CB5E0746BBF134B2AF49F7305A58752C1"
+  },
+  {
+    "old": "Flowers in Vase\\assets\\flowers-in-vase-generated-color.png",
+    "new": "Flowers in Vase\\info\\assets\\flowers-in-vase-generated-color.png",
+    "bytes": 3077200,
+    "sha256": "607C38735585DE47E9261ABAB6C3AADBF444BBDA87FB5526D2F489CAA4E1EE02"
+  },
+  {
+    "old": "Flowers in Vase\\assets\\panel-10.png",
+    "new": "Flowers in Vase\\info\\assets\\panel-10.png",
+    "bytes": 1384740,
+    "sha256": "4CECE49C4AD890D5F9F0471FD870704367E2924A14B917E9A0918D0E154545AA"
+  },
+  {
+    "old": "Flowers in Vase\\assets\\panel-11.png",
+    "new": "Flowers in Vase\\info\\assets\\panel-11.png",
+    "bytes": 360500,
+    "sha256": "7C830E68785B3518AA632DCF969B17CA5642C232FAB8FC8B271467E81F667457"
+  },
+  {
+    "old": "Flowers in Vase\\assets\\panel-12.png",
+    "new": "Flowers in Vase\\info\\assets\\panel-12.png",
+    "bytes": 419534,
+    "sha256": "4C17FEE9C71F8E98AC42F2FBB57B8597FEDD8B1DA8065828AA338D0591513C99"
+  },
+  {
+    "old": "Flowers in Vase\\assets\\panel-9.png",
+    "new": "Flowers in Vase\\info\\assets\\panel-9.png",
+    "bytes": 304250,
+    "sha256": "4A466476794BCE9A04D528D31235336AACBCEA0117CFA04120299F4305BEF2E5"
+  },
+  {
+    "old": "Flowers in Vase\\assets\\river-and-ridge-logo-page.png",
+    "new": "Flowers in Vase\\info\\assets\\river-and-ridge-logo-page.png",
+    "bytes": 1833099,
+    "sha256": "D3F28E68E19E8C7AE69B708794F5E5049ADDA2594CAD00CA98CCF1B36E0FB7F1"
+  },
+  {
+    "old": "Flowers in Vase\\assets\\stage-01.png",
+    "new": "Flowers in Vase\\info\\assets\\stage-01.png",
+    "bytes": 421290,
+    "sha256": "6CA7F72F5156AEB2A6A78C47A8646AB64C36C6094982EC661E9781F3460D94BC"
+  },
+  {
+    "old": "Flowers in Vase\\assets\\stage-02.png",
+    "new": "Flowers in Vase\\info\\assets\\stage-02.png",
+    "bytes": 1433631,
+    "sha256": "F062D072FE003D69E3C047267033A94F4EEA54F699F95FB22D0320895941B5B2"
+  },
+  {
+    "old": "Flowers in Vase\\assets\\stage-03.png",
+    "new": "Flowers in Vase\\info\\assets\\stage-03.png",
+    "bytes": 1439806,
+    "sha256": "9225AD4B261F22A0C45178FF102EADC758EC1055860415AE0BEA14A150527DBA"
+  },
+  {
+    "old": "Flowers in Vase\\assets\\stage-04.png",
+    "new": "Flowers in Vase\\info\\assets\\stage-04.png",
+    "bytes": 1439633,
+    "sha256": "49E6B7FD46C9F131300E5B1CCF7EE760B72165070172AA3BF1E314E11DB3622F"
+  },
+  {
+    "old": "Flowers in Vase\\assets\\stage-05.png",
+    "new": "Flowers in Vase\\info\\assets\\stage-05.png",
+    "bytes": 1441611,
+    "sha256": "AB51659AF50522A22B0E4D794C2239FF39F3B776BA909EDEAC80A8D2A9FB743A"
+  },
+  {
+    "old": "Flowers in Vase\\assets\\stage-06.png",
+    "new": "Flowers in Vase\\info\\assets\\stage-06.png",
+    "bytes": 1442208,
+    "sha256": "ADAD8E158A4B1B549A803398B591D1C4C215DBA3808E5DD7D9DE2D360F855705"
+  },
+  {
+    "old": "Flowers in Vase\\assets\\stage-07.png",
+    "new": "Flowers in Vase\\info\\assets\\stage-07.png",
+    "bytes": 1442073,
+    "sha256": "22659B6358A99F7A3718EBFA66BFDDA9B2072A079AD98B3506A5F24295228F69"
+  },
+  {
+    "old": "Flowers in Vase\\assets\\stage-08.png",
+    "new": "Flowers in Vase\\info\\assets\\stage-08.png",
+    "bytes": 1441265,
+    "sha256": "45C2243EBFD2375951B19484B2DC05ABC9DE16D15DB585DB849F267E25B0990C"
+  },
+  {
+    "old": "Flowers in Vase\\assets\\stage-09.png",
+    "new": "Flowers in Vase\\info\\assets\\stage-09.png",
+    "bytes": 2588765,
+    "sha256": "705F7D2D261FD7E7C275217E341D0FB36C57DD65718A0D0D9AA030A65DF6E3E7"
+  },
+  {
+    "old": "Flowers in Vase\\assets\\stage-10.png",
+    "new": "Flowers in Vase\\info\\assets\\stage-10.png",
+    "bytes": 4055565,
+    "sha256": "41C5BD62C674F7F12732B9B9AA608F12DC042D681A43EB5348FCF822684E2CAF"
+  },
+  {
+    "old": "Flowers in Vase\\assets\\stage-11.png",
+    "new": "Flowers in Vase\\info\\assets\\stage-11.png",
+    "bytes": 4278080,
+    "sha256": "89B75488A523A8F48CD43810AE8CDCCF3B341F0DAEC1B00FB7C92773CEF31CF4"
+  },
+  {
+    "old": "Flowers in Vase\\assets\\8x10\\flowers-in-vase-registered-reference.png",
+    "new": "Flowers in Vase\\info\\assets\\8x10\\flowers-in-vase-registered-reference.png",
+    "bytes": 4196468,
+    "sha256": "42CA2C9E24E07D9A5EB7759F2829097990FD9748BFC939CAF73BF3467873D057"
+  },
+  {
+    "old": "Flowers in Vase\\assets\\8x10\\flowers-in-vase-repaired-generated.png",
+    "new": "Flowers in Vase\\info\\assets\\8x10\\flowers-in-vase-repaired-generated.png",
+    "bytes": 2537627,
+    "sha256": "8A95096189455C761FBAA9CA09502226A25BD6702C26535E356A814C3D8F0612"
+  },
+  {
+    "old": "Flowers in Vase\\assets\\8x10\\panel-10.png",
+    "new": "Flowers in Vase\\info\\assets\\8x10\\panel-10.png",
+    "bytes": 1316712,
+    "sha256": "592328957A66D184A0CC03D931E85BB08309D7143030FDE8AF06F90ADC3CB415"
+  },
+  {
+    "old": "Flowers in Vase\\assets\\8x10\\panel-11.png",
+    "new": "Flowers in Vase\\info\\assets\\8x10\\panel-11.png",
+    "bytes": 344810,
+    "sha256": "6B6C9A40211E56BA511881A2845807A4BF6CF87C5DA6E76A384732FE55FA4F27"
+  },
+  {
+    "old": "Flowers in Vase\\assets\\8x10\\panel-12.png",
+    "new": "Flowers in Vase\\info\\assets\\8x10\\panel-12.png",
+    "bytes": 260976,
+    "sha256": "3E5E5BBC978F38A93891FF5204C49496412F25E49AC9CAB724CDFC8324D49C70"
+  },
+  {
+    "old": "Flowers in Vase\\assets\\8x10\\panel-9.png",
+    "new": "Flowers in Vase\\info\\assets\\8x10\\panel-9.png",
+    "bytes": 302620,
+    "sha256": "58F5C94DEA092ED94F04C0DB9D51C77CC2137E1A02C8409AE202866147AB9383"
+  },
+  {
+    "old": "Flowers in Vase\\assets\\8x10\\stage-01.png",
+    "new": "Flowers in Vase\\info\\assets\\8x10\\stage-01.png",
+    "bytes": 421290,
+    "sha256": "6CA7F72F5156AEB2A6A78C47A8646AB64C36C6094982EC661E9781F3460D94BC"
+  },
+  {
+    "old": "Flowers in Vase\\assets\\8x10\\stage-02.png",
+    "new": "Flowers in Vase\\info\\assets\\8x10\\stage-02.png",
+    "bytes": 1374245,
+    "sha256": "F3419F8B125299A97B042CA798904F296AE7D3E709A6ECDFB2501555CFDC2C55"
+  },
+  {
+    "old": "Flowers in Vase\\assets\\8x10\\stage-03.png",
+    "new": "Flowers in Vase\\info\\assets\\8x10\\stage-03.png",
+    "bytes": 1379946,
+    "sha256": "20E509D43C865566ACD6724F2D8B23FAF8EABF8990E1655145BF953FFADD6CD1"
+  },
+  {
+    "old": "Flowers in Vase\\assets\\8x10\\stage-04.png",
+    "new": "Flowers in Vase\\info\\assets\\8x10\\stage-04.png",
+    "bytes": 1379497,
+    "sha256": "32B17987DAD2DCA17E3EFFE4E68EDA7C6B542D39F5615DE301C0AD40ABCDD81D"
+  },
+  {
+    "old": "Flowers in Vase\\assets\\8x10\\stage-05.png",
+    "new": "Flowers in Vase\\info\\assets\\8x10\\stage-05.png",
+    "bytes": 1381452,
+    "sha256": "72AD12AB1AB5B089F1F821DEEEDC00083A18845805CE980D66C284F6BFE892EF"
+  },
+  {
+    "old": "Flowers in Vase\\assets\\8x10\\stage-06.png",
+    "new": "Flowers in Vase\\info\\assets\\8x10\\stage-06.png",
+    "bytes": 1382108,
+    "sha256": "E3876DA36276018CB77F47EFD35946FB896D311FEB85F449DED2F476DD9053C6"
+  },
+  {
+    "old": "Flowers in Vase\\assets\\8x10\\stage-07.png",
+    "new": "Flowers in Vase\\info\\assets\\8x10\\stage-07.png",
+    "bytes": 1381935,
+    "sha256": "5CB09D2CF2420302570F4F04BB682560C0E9FF5646BFD7E978AAEBC73CAA1A50"
+  },
+  {
+    "old": "Flowers in Vase\\assets\\8x10\\stage-08.png",
+    "new": "Flowers in Vase\\info\\assets\\8x10\\stage-08.png",
+    "bytes": 1381098,
+    "sha256": "E46606C4361D819ED333D6432F581E78EF8B3229D995F068C2497D7F66C22D91"
+  },
+  {
+    "old": "Flowers in Vase\\assets\\8x10\\stage-09.png",
+    "new": "Flowers in Vase\\info\\assets\\8x10\\stage-09.png",
+    "bytes": 2526578,
+    "sha256": "4F2DB2D5792923163FECFE79A381AA8807855D3EA4CF3E0D8D174F08BACE6531"
+  },
+  {
+    "old": "Flowers in Vase\\assets\\8x10\\stage-10.png",
+    "new": "Flowers in Vase\\info\\assets\\8x10\\stage-10.png",
+    "bytes": 3964490,
+    "sha256": "17FC6C6104A67B48D564C9AA97884146B71BB0C18B02F82859C210680C11A951"
+  },
+  {
+    "old": "Flowers in Vase\\assets\\8x10\\stage-11.png",
+    "new": "Flowers in Vase\\info\\assets\\8x10\\stage-11.png",
+    "bytes": 4181297,
+    "sha256": "426844A6E45F59BAD4E758C04DEB20D2E5BB70E3865CDBC4B0F8ACF07D418E14"
+  },
+  {
+    "old": "Flowers in Vase\\assets\\original-square\\flowers-in-vase-finished-reference-blended.png",
+    "new": "Flowers in Vase\\info\\assets\\original-square\\flowers-in-vase-finished-reference-blended.png",
+    "bytes": 4355433,
+    "sha256": "A070548DA4C523D501EEE078A81E0B9DE12991D764203652F2108AFE7665DC92"
+  },
+  {
+    "old": "Flowers in Vase\\assets\\original-square\\flowers-in-vase-outline.png",
+    "new": "Flowers in Vase\\info\\assets\\original-square\\flowers-in-vase-outline.png",
+    "bytes": 1331390,
+    "sha256": "40547B6BEC5FBDC82F2F59F174AB63CE017AA5310E25800CCDE64220622668E6"
+  },
+  {
+    "old": "Flowers in Vase\\assets\\portrait-rebuild\\finished-reference-canonical.png",
+    "new": "Flowers in Vase\\info\\assets\\portrait-rebuild\\finished-reference-canonical.png",
+    "bytes": 3130172,
+    "sha256": "733E336A1BF31C13406568EFA8DEE35046D87B6A90A0F07D6E588415D53F0893"
+  },
+  {
+    "old": "Flowers in Vase\\assets\\portrait-rebuild\\flowers-in-vase-portrait-outline-generated.png",
+    "new": "Flowers in Vase\\info\\assets\\portrait-rebuild\\flowers-in-vase-portrait-outline-generated.png",
+    "bytes": 1376905,
+    "sha256": "5CB5518C7A47089C7A362D0D0497835B339927B7931167946B215229E8A4BE50"
+  },
+  {
+    "old": "Flowers in Vase\\assets\\portrait-rebuild\\flowers-in-vase-portrait-painting-generated.png",
+    "new": "Flowers in Vase\\info\\assets\\portrait-rebuild\\flowers-in-vase-portrait-painting-generated.png",
+    "bytes": 2776411,
+    "sha256": "554530157C9871B6EB7C8FB0293F0A59D9B9B172281BB22A658F052DCE018E3A"
+  },
+  {
+    "old": "Flowers in Vase\\assets\\portrait-rebuild\\outline-canonical-white.png",
+    "new": "Flowers in Vase\\info\\assets\\portrait-rebuild\\outline-canonical-white.png",
+    "bytes": 326556,
+    "sha256": "270AA66CEA912D48A90AE8EB95D07FDFCD7095C002E0C4B0C0542C70CF3394AD"
+  },
+  {
+    "old": "Flowers in Vase\\assets\\portrait-rebuild\\painting-normalized.png",
+    "new": "Flowers in Vase\\info\\assets\\portrait-rebuild\\painting-normalized.png",
+    "bytes": 3171127,
+    "sha256": "FD03D4D8DEA73219A39B8AC5108B1C69AF1BA27C8EDAAEB05C2D0E21F758E71E"
+  },
+  {
+    "old": "Flowers in Vase\\assets\\portrait-rebuild\\panel-10.png",
+    "new": "Flowers in Vase\\info\\assets\\portrait-rebuild\\panel-10.png",
+    "bytes": 1485963,
+    "sha256": "A967AC6CE248ADC7CD8CAE9A4EAEADB1FF1D29D0CF04743B33360BEF2E5BD39C"
+  },
+  {
+    "old": "Flowers in Vase\\assets\\portrait-rebuild\\panel-11.png",
+    "new": "Flowers in Vase\\info\\assets\\portrait-rebuild\\panel-11.png",
+    "bytes": 411981,
+    "sha256": "5C1E85E6FDD9F919E0D5888CEFE7465DC48E3298B4F4BAE8FABBBC828E207579"
+  },
+  {
+    "old": "Flowers in Vase\\assets\\portrait-rebuild\\panel-12.png",
+    "new": "Flowers in Vase\\info\\assets\\portrait-rebuild\\panel-12.png",
+    "bytes": 345408,
+    "sha256": "0B89E3C3F9C39FA001634E842E68A3524D4559D4612DF130C4EF226A0119180E"
+  },
+  {
+    "old": "Flowers in Vase\\assets\\portrait-rebuild\\panel-9.png",
+    "new": "Flowers in Vase\\info\\assets\\portrait-rebuild\\panel-9.png",
+    "bytes": 261665,
+    "sha256": "DAA24CB92C7D7FAFA24A62D59E8719BDE2D9EF0259B2B74E393A53FCDCCE848B"
+  },
+  {
+    "old": "Flowers in Vase\\assets\\portrait-rebuild\\stage-01.png",
+    "new": "Flowers in Vase\\info\\assets\\portrait-rebuild\\stage-01.png",
+    "bytes": 270717,
+    "sha256": "790ADB236376258CA8482CBBE113D94766890392C518D7AFC02E192F99230104"
+  },
+  {
+    "old": "Flowers in Vase\\assets\\portrait-rebuild\\stage-02.png",
+    "new": "Flowers in Vase\\info\\assets\\portrait-rebuild\\stage-02.png",
+    "bytes": 1166860,
+    "sha256": "324BBD1174812FF6D85F1C434D96DF7767DB1B4EE66E2478B5EA5644D2D4AB3D"
+  },
+  {
+    "old": "Flowers in Vase\\assets\\portrait-rebuild\\stage-03.png",
+    "new": "Flowers in Vase\\info\\assets\\portrait-rebuild\\stage-03.png",
+    "bytes": 1188976,
+    "sha256": "500BF0BBF0640FF907C194A8B1714DD7211C5DB840691E16874097B461ACD30F"
+  },
+  {
+    "old": "Flowers in Vase\\assets\\portrait-rebuild\\stage-04.png",
+    "new": "Flowers in Vase\\info\\assets\\portrait-rebuild\\stage-04.png",
+    "bytes": 1193555,
+    "sha256": "F01818C6CCA57D7C56B62CAFD0C7F1D93A3D0C6A9BB8119B000FFD2F42125AA5"
+  },
+  {
+    "old": "Flowers in Vase\\assets\\portrait-rebuild\\stage-05.png",
+    "new": "Flowers in Vase\\info\\assets\\portrait-rebuild\\stage-05.png",
+    "bytes": 1200974,
+    "sha256": "D7FC4F9A4CAB92121FAC17BE962263F9DE80B8F7AB77E19F73FA307ED7FD8777"
+  },
+  {
+    "old": "Flowers in Vase\\assets\\portrait-rebuild\\stage-06.png",
+    "new": "Flowers in Vase\\info\\assets\\portrait-rebuild\\stage-06.png",
+    "bytes": 1204265,
+    "sha256": "EED8F441D3287EEA1588F982B4322980C573970AF56570817BA2FFCFDC4A4D26"
+  },
+  {
+    "old": "Flowers in Vase\\assets\\portrait-rebuild\\stage-07.png",
+    "new": "Flowers in Vase\\info\\assets\\portrait-rebuild\\stage-07.png",
+    "bytes": 1205259,
+    "sha256": "93BA3232A8EA7F6EA0E3D86392B77CCA42D856ED134C4A21F8982CC888FAC284"
+  },
+  {
+    "old": "Flowers in Vase\\assets\\portrait-rebuild\\stage-08.png",
+    "new": "Flowers in Vase\\info\\assets\\portrait-rebuild\\stage-08.png",
+    "bytes": 1208573,
+    "sha256": "D582090CC573F177C146445018DEE37752F753DB861D1E656A2F9B85CC2797ED"
+  },
+  {
+    "old": "Flowers in Vase\\assets\\portrait-rebuild\\stage-09.png",
+    "new": "Flowers in Vase\\info\\assets\\portrait-rebuild\\stage-09.png",
+    "bytes": 1992222,
+    "sha256": "791C5E951CF7DF8986CA7D2265B4239BC561EE26239AB6A87FA315C6B70F97DB"
+  },
+  {
+    "old": "Flowers in Vase\\assets\\portrait-rebuild\\stage-10.png",
+    "new": "Flowers in Vase\\info\\assets\\portrait-rebuild\\stage-10.png",
+    "bytes": 3040908,
+    "sha256": "E51256A778C72DC86DA4A89E80D8B0B0E07A8DBC4BA802B39CF7A2FE578C0227"
+  },
+  {
+    "old": "Flowers in Vase\\assets\\portrait-rebuild\\stage-11.png",
+    "new": "Flowers in Vase\\info\\assets\\portrait-rebuild\\stage-11.png",
+    "bytes": 3172879,
+    "sha256": "E743DB7EBDFC78EAB291CE87860595A82192C507175AC06F49BC4CAC06EBBF67"
+  },
+  {
+    "old": "Flowers in Vase\\output\\pdf\\flowers-in-vase-painting-guide-illustrated.pdf",
+    "new": "Flowers in Vase\\info\\output\\pdf\\flowers-in-vase-painting-guide-illustrated.pdf",
+    "bytes": 3138632,
+    "sha256": "8CCACC19A639D91A2382D318F0BFC786D34391BA2DC4E6B9F579FCE7C40C160B"
+  },
+  {
+    "old": "Flowers in Vase\\output\\pdf\\flowers-in-vase-painting-guide-illustrated.png",
+    "new": "Flowers in Vase\\info\\output\\pdf\\flowers-in-vase-painting-guide-illustrated.png",
+    "bytes": 7484517,
+    "sha256": "1EF5A9A2F9FD82C52D9A91EFCF2BC734771C4BF30F67DBA9B75E5D4C15B489BE"
+  },
+  {
+    "old": "Flowers in Vase\\output\\pdf\\8x10\\flowers-in-vase-finished-reference-8x10.pdf",
+    "new": "Flowers in Vase\\info\\output\\pdf\\8x10\\flowers-in-vase-finished-reference-8x10.pdf",
+    "bytes": 17873016,
+    "sha256": "8E5C1AAF0D54F6DD4687BAE28F3998BE19E4C33DDB1A5C2EA274249D93418FD1"
+  },
+  {
+    "old": "Flowers in Vase\\output\\pdf\\8x10\\flowers-in-vase-finished-reference-8x10.png",
+    "new": "Flowers in Vase\\info\\output\\pdf\\8x10\\flowers-in-vase-finished-reference-8x10.png",
+    "bytes": 10841303,
+    "sha256": "B14781B8E06C1A48E2627667DD598B9290B028C44AF1CA15C5E068645429C3A7"
+  },
+  {
+    "old": "Flowers in Vase\\output\\pdf\\8x10\\flowers-in-vase-outline-8x10-600dpi.png",
+    "new": "Flowers in Vase\\info\\output\\pdf\\8x10\\flowers-in-vase-outline-8x10-600dpi.png",
+    "bytes": 1548872,
+    "sha256": "8BC4C15B813A1CC9F8B07B2F59B2180CDBAAAB857252197792BA92EBE77F449E"
+  },
+  {
+    "old": "Flowers in Vase\\output\\pdf\\8x10\\flowers-in-vase-outline-8x10.pdf",
+    "new": "Flowers in Vase\\info\\output\\pdf\\8x10\\flowers-in-vase-outline-8x10.pdf",
+    "bytes": 15519,
+    "sha256": "8501BB415DCF4F0B5408886D61210F59883FC90760FE8D299922FBE8D190D6B9"
+  },
+  {
+    "old": "Flowers in Vase\\output\\pdf\\8x10\\flowers-in-vase-outline-8x10.png",
+    "new": "Flowers in Vase\\info\\output\\pdf\\8x10\\flowers-in-vase-outline-8x10.png",
+    "bytes": 701942,
+    "sha256": "93A32B1FEEA7E1EBC25845921E00A5BFE534454BF1AF5E0AB06D340BB027919C"
+  },
+  {
+    "old": "Flowers in Vase\\output\\pdf\\8x10\\flowers-in-vase-painting-guide-8x10.pdf",
+    "new": "Flowers in Vase\\info\\output\\pdf\\8x10\\flowers-in-vase-painting-guide-8x10.pdf",
+    "bytes": 3138632,
+    "sha256": "8CCACC19A639D91A2382D318F0BFC786D34391BA2DC4E6B9F579FCE7C40C160B"
+  },
+  {
+    "old": "Flowers in Vase\\output\\pdf\\8x10\\flowers-in-vase-painting-guide-8x10.png",
+    "new": "Flowers in Vase\\info\\output\\pdf\\8x10\\flowers-in-vase-painting-guide-8x10.png",
+    "bytes": 7484517,
+    "sha256": "1EF5A9A2F9FD82C52D9A91EFCF2BC734771C4BF30F67DBA9B75E5D4C15B489BE"
+  },
+  {
+    "old": "Flowers in Vase\\output\\svg\\8x10\\flowers-in-vase-outline-8x10.svg",
+    "new": "Flowers in Vase\\info\\output\\svg\\8x10\\flowers-in-vase-outline-8x10.svg",
+    "bytes": 48050,
+    "sha256": "76BBDD0008ECAB67356FC3F46C0D8D91A8E07777D1F7A78CC8FC8896C555226F"
+  },
+  {
+    "old": "Flowers in Vase\\tmp\\blend-petals.ps1",
+    "new": "Flowers in Vase\\info\\tmp\\blend-petals.ps1",
+    "bytes": 1951,
+    "sha256": "5AC7B31323DF84AA4EBB4EA5BD64D830DBC3A39E9EE1984908486C448EB2482A"
+  },
+  {
+    "old": "Flowers in Vase\\tmp\\blended-guide-review.png",
+    "new": "Flowers in Vase\\info\\tmp\\blended-guide-review.png",
+    "bytes": 989502,
+    "sha256": "6D54A6BE4E1CBFFD4887328F57D31C006D13724CEE76485D2A60F6AFFBAAEA0F"
+  },
+  {
+    "old": "Flowers in Vase\\tmp\\blended-reference-preview.png",
+    "new": "Flowers in Vase\\info\\tmp\\blended-reference-preview.png",
+    "bytes": 2018246,
+    "sha256": "825E054D517AF1D15BAC4CA2D4CD0045A181595426275E5C9FA1F65DF1A79933"
+  },
+  {
+    "old": "Flowers in Vase\\tmp\\build.cs",
+    "new": "Flowers in Vase\\info\\tmp\\build.cs",
+    "bytes": 9985,
+    "sha256": "F7112D666589BDAFDFC015B2AE150EB14DA041C2E9A5B7358C7409FAEA929D07"
+  },
+  {
+    "old": "Flowers in Vase\\tmp\\build.ps1",
+    "new": "Flowers in Vase\\info\\tmp\\build.ps1",
+    "bytes": 203,
+    "sha256": "91760E838B44DB36D449B56A14A43902C314EC66AA851FA350B66438F3BD3E2F"
+  },
+  {
+    "old": "Flowers in Vase\\tmp\\captions.txt",
+    "new": "Flowers in Vase\\info\\tmp\\captions.txt",
+    "bytes": 1465,
+    "sha256": "367DED7D43E788D2F241E98A2EE789BB8D208FEA6A6570A1F6963037D77B73A6"
+  },
+  {
+    "old": "Flowers in Vase\\tmp\\export-pdf.cjs",
+    "new": "Flowers in Vase\\info\\tmp\\export-pdf.cjs",
+    "bytes": 3190,
+    "sha256": "DF888D4F2D7ED571FB033D04CF0163EB636EEC2D41AC734D487C01E7CB3A9D10"
+  },
+  {
+    "old": "Flowers in Vase\\tmp\\final-pdf-review.png",
+    "new": "Flowers in Vase\\info\\tmp\\final-pdf-review.png",
+    "bytes": 996175,
+    "sha256": "67F28729567637379398EAD3960BBBBAD9127C66C0D08F61B691BBC5A1D6DC56"
+  },
+  {
+    "old": "Flowers in Vase\\tmp\\flowers-in-vase-painting-guide-illustrated.pdf",
+    "new": "Flowers in Vase\\info\\tmp\\flowers-in-vase-painting-guide-illustrated.pdf",
+    "bytes": 3452539,
+    "sha256": "E7A58FDC1B477CE1C364192912345BAFA647EC6692E10FB6D2923C107B759C69"
+  },
+  {
+    "old": "Flowers in Vase\\tmp\\generation-prompts.md",
+    "new": "Flowers in Vase\\info\\tmp\\generation-prompts.md",
+    "bytes": 3714,
+    "sha256": "1BCFABEF7CCDEEC8F1FBA7890113E3ED572A839085CA83FC3422B05AA85E728B"
+  },
+  {
+    "old": "Flowers in Vase\\tmp\\geometry-check.png",
+    "new": "Flowers in Vase\\info\\tmp\\geometry-check.png",
+    "bytes": 2708470,
+    "sha256": "C67AB3B57CFFB6D812E2D4B19B76107F8D531BB951EAB5675C017A0F5B0EFC47"
+  },
+  {
+    "old": "Flowers in Vase\\tmp\\geometry-result.txt",
+    "new": "Flowers in Vase\\info\\tmp\\geometry-result.txt",
+    "bytes": 230,
+    "sha256": "146607C1158886DD9F602945A9B1D666E90130A7619241635A3DAFE995E22B4B"
+  },
+  {
+    "old": "Flowers in Vase\\tmp\\groups.csv",
+    "new": "Flowers in Vase\\info\\tmp\\groups.csv",
+    "bytes": 924,
+    "sha256": "4249D509A8C63F86F23ECD6D388588AEE8B8354EFA67D1E10D58B095D2890955"
+  },
+  {
+    "old": "Flowers in Vase\\tmp\\guide-page.png",
+    "new": "Flowers in Vase\\info\\tmp\\guide-page.png",
+    "bytes": 3823661,
+    "sha256": "1A2CAFC2A3690B85B4FC5E1A8DC363280065D4C38776B36441CA7C8D110ABBC9"
+  },
+  {
+    "old": "Flowers in Vase\\tmp\\guide-preview.png",
+    "new": "Flowers in Vase\\info\\tmp\\guide-preview.png",
+    "bytes": 625694,
+    "sha256": "6DBCAAC6E1CB78E7B27D4A1B1568A1CD0280FD446188434C688D58E402ABC3BE"
+  },
+  {
+    "old": "Flowers in Vase\\tmp\\page-1.png",
+    "new": "Flowers in Vase\\info\\tmp\\page-1.png",
+    "bytes": 8663992,
+    "sha256": "D6DD55D7681641B167FCF02237676925EE427BDBA4C06F2676AA77F57576747C"
+  },
+  {
+    "old": "Flowers in Vase\\tmp\\petal-blend-mask.bin",
+    "new": "Flowers in Vase\\info\\tmp\\petal-blend-mask.bin",
+    "bytes": 1572516,
+    "sha256": "A38A78DD7C4E75FD8FC34F66C0767109F395900C64FECA60484FD11A6F2709E7"
+  },
+  {
+    "old": "Flowers in Vase\\tmp\\petal-blending-prompt.md",
+    "new": "Flowers in Vase\\info\\tmp\\petal-blending-prompt.md",
+    "bytes": 1388,
+    "sha256": "2318B5F2053806CE74DBE6BCB0B648AD4806F403BA4772D6A5044DB7B688465B"
+  },
+  {
+    "old": "Flowers in Vase\\tmp\\regions.bin",
+    "new": "Flowers in Vase\\info\\tmp\\regions.bin",
+    "bytes": 6290072,
+    "sha256": "CF1E199936745E50DB310F1CA0F91B741FEC3B7EFD11EF21E43139AB34DBAADA"
+  },
+  {
+    "old": "Flowers in Vase\\tmp\\regions.csv",
+    "new": "Flowers in Vase\\info\\tmp\\regions.csv",
+    "bytes": 4873,
+    "sha256": "DF4234148169A40F1F3FC94C7FE9CB6A661B719CD642096FB30CBFE8B2184D70"
+  },
+  {
+    "old": "Flowers in Vase\\tmp\\regions.png",
+    "new": "Flowers in Vase\\info\\tmp\\regions.png",
+    "bytes": 456008,
+    "sha256": "EEDFE39EA042507B08AFE31B96D9B8CC63AEB690BEE14A09E6DF066AA4DB15A8"
+  },
+  {
+    "old": "Flowers in Vase\\tmp\\register.cs",
+    "new": "Flowers in Vase\\info\\tmp\\register.cs",
+    "bytes": 2314,
+    "sha256": "61B05C6AA15D075AD47A6F5A278DB846DAF19E3151B6E7C883783F32A2FDA6B2"
+  },
+  {
+    "old": "Flowers in Vase\\tmp\\register.ps1",
+    "new": "Flowers in Vase\\info\\tmp\\register.ps1",
+    "bytes": 211,
+    "sha256": "BE97BE09FD2BB2B897ACE4C4797400B788A5EEB33B09EF966FBCEA04F3706467"
+  },
+  {
+    "old": "Flowers in Vase\\tmp\\registered-preview-final.png",
+    "new": "Flowers in Vase\\info\\tmp\\registered-preview-final.png",
+    "bytes": 1860967,
+    "sha256": "2373149C07B6DBBEBADD612C47B8F43A2D2B71CB66CBB25F3FDAAA1790FEBCBB"
+  },
+  {
+    "old": "Flowers in Vase\\tmp\\registered-preview.png",
+    "new": "Flowers in Vase\\info\\tmp\\registered-preview.png",
+    "bytes": 1851742,
+    "sha256": "1C949A0F95D3ABAC7AECEF2538CBB7E73277FF2BC9C02CF2C151A9B0CAA2EA87"
+  },
+  {
+    "old": "Flowers in Vase\\tmp\\render-pdf.ps1",
+    "new": "Flowers in Vase\\info\\tmp\\render-pdf.ps1",
+    "bytes": 2162,
+    "sha256": "64F5A13F9820D11A9B4B470A3754DD5DA7105B291B65B7AA9C5588602C704EEC"
+  },
+  {
+    "old": "Flowers in Vase\\tmp\\review-notes.md",
+    "new": "Flowers in Vase\\info\\tmp\\review-notes.md",
+    "bytes": 3269,
+    "sha256": "A4D016DAFAA1695C7435ACAAAB236F3D0FDABC9240839A049A432C4D19E282FD"
+  },
+  {
+    "old": "Flowers in Vase\\tmp\\segment.ps1",
+    "new": "Flowers in Vase\\info\\tmp\\segment.ps1",
+    "bytes": 1957,
+    "sha256": "D19A2ADEEB94CD6CE8BB780BF6CC78DE065506A59FE5BB0888F526C1D80AD873"
+  },
+  {
+    "old": "Flowers in Vase\\tmp\\step-plan.md",
+    "new": "Flowers in Vase\\info\\tmp\\step-plan.md",
+    "bytes": 2457,
+    "sha256": "0ED1B0A40E1A44C89193BEF16BA7872ED9047A54BED130037725567E84AD5B4F"
+  },
+  {
+    "old": "Flowers in Vase\\tmp\\8x10\\build-guide.ps1",
+    "new": "Flowers in Vase\\info\\tmp\\8x10\\build-guide.ps1",
+    "bytes": 238,
+    "sha256": "2BBBC81D870298211629D00ADA6C9EDE0C59227D92915B4A59EE8BF2127C2D91"
+  },
+  {
+    "old": "Flowers in Vase\\tmp\\8x10\\build.cs",
+    "new": "Flowers in Vase\\info\\tmp\\8x10\\build.cs",
+    "bytes": 10645,
+    "sha256": "62D9E6CAD33F9B1C820E2F7FE6A7C86AA36DDC9892457958660E40F041A4E8AA"
+  },
+  {
+    "old": "Flowers in Vase\\tmp\\8x10\\build.ps1",
+    "new": "Flowers in Vase\\info\\tmp\\8x10\\build.ps1",
+    "bytes": 414,
+    "sha256": "2476A810F21C77B1537ADFAA8DA660FE6AA1D295B3FEFBB4A2683668DD871D83"
+  },
+  {
+    "old": "Flowers in Vase\\tmp\\8x10\\captions.txt",
+    "new": "Flowers in Vase\\info\\tmp\\8x10\\captions.txt",
+    "bytes": 1480,
+    "sha256": "49F4B77C58D016119AECACAEB2D45CB44ED97A009884C977005EB8F51E1E2977"
+  },
+  {
+    "old": "Flowers in Vase\\tmp\\8x10\\export-art.cjs",
+    "new": "Flowers in Vase\\info\\tmp\\8x10\\export-art.cjs",
+    "bytes": 1800,
+    "sha256": "C4C9B515D933C8497AD1E51118FB6FD1C2F3E1F4579886CA1780F71F1F3EA7DD"
+  },
+  {
+    "old": "Flowers in Vase\\tmp\\8x10\\export-guide.cjs",
+    "new": "Flowers in Vase\\info\\tmp\\8x10\\export-guide.cjs",
+    "bytes": 3191,
+    "sha256": "BB3173EB8EC4C16740DE6DB4D245E8C82EC8B297249337F80D9E12DB6D839AE0"
+  },
+  {
+    "old": "Flowers in Vase\\tmp\\8x10\\finalize.ps1",
+    "new": "Flowers in Vase\\info\\tmp\\8x10\\finalize.ps1",
+    "bytes": 1718,
+    "sha256": "D23B0B45FD19680ECCD71ACF5E654FE549DBB25970EA22E6DBD6E33903A677A7"
+  },
+  {
+    "old": "Flowers in Vase\\tmp\\8x10\\flowers-in-vase-finished-reference-8x10-render.png",
+    "new": "Flowers in Vase\\info\\tmp\\8x10\\flowers-in-vase-finished-reference-8x10-render.png",
+    "bytes": 3308267,
+    "sha256": "494DA9278FA15A92C7510C9F8C72D2DA2A2B19638DAAB1D19228F05BB7D1E6DC"
+  },
+  {
+    "old": "Flowers in Vase\\tmp\\8x10\\flowers-in-vase-finished-reference-8x10-review.png",
+    "new": "Flowers in Vase\\info\\tmp\\8x10\\flowers-in-vase-finished-reference-8x10-review.png",
+    "bytes": 1044843,
+    "sha256": "D9789C105F29A26F092485646EB81FF311B5DAA0AB7F5DBA4C7213A59F3F8D47"
+  },
+  {
+    "old": "Flowers in Vase\\tmp\\8x10\\flowers-in-vase-finished-reference-8x10.bmp",
+    "new": "Flowers in Vase\\info\\tmp\\8x10\\flowers-in-vase-finished-reference-8x10.bmp",
+    "bytes": 21600054,
+    "sha256": "3E4038A1A5327D7164A6688E75504D45403DB4A111CBC76BBA699A6294B19F60"
+  },
+  {
+    "old": "Flowers in Vase\\tmp\\8x10\\flowers-in-vase-finished-reference-8x10.pdf",
+    "new": "Flowers in Vase\\info\\tmp\\8x10\\flowers-in-vase-finished-reference-8x10.pdf",
+    "bytes": 12149669,
+    "sha256": "F5C39C795EE0797ADF541DC96215D2C29FC1EF57AAE4C4D5EECE8941EA09C84F"
+  },
+  {
+    "old": "Flowers in Vase\\tmp\\8x10\\flowers-in-vase-finished-reference-8x10.png",
+    "new": "Flowers in Vase\\info\\tmp\\8x10\\flowers-in-vase-finished-reference-8x10.png",
+    "bytes": 12165959,
+    "sha256": "4E849B37E317B5729B3C1CB265BBFF8FA3AE499BDD47596DFA31332720B3D4CC"
+  },
+  {
+    "old": "Flowers in Vase\\tmp\\8x10\\flowers-in-vase-outline-8x10-render.png",
+    "new": "Flowers in Vase\\info\\tmp\\8x10\\flowers-in-vase-outline-8x10-render.png",
+    "bytes": 1884087,
+    "sha256": "6336B3D96270206A7DA62938E8811188EE3A65D2B6ACE448475EC95159A6F2F8"
+  },
+  {
+    "old": "Flowers in Vase\\tmp\\8x10\\flowers-in-vase-outline-8x10-review.png",
+    "new": "Flowers in Vase\\info\\tmp\\8x10\\flowers-in-vase-outline-8x10-review.png",
+    "bytes": 386008,
+    "sha256": "5E9503FE90A7AF3F51297B704C58C0CB0E078C2AEEA7605A65D331077AE18074"
+  },
+  {
+    "old": "Flowers in Vase\\tmp\\8x10\\flowers-in-vase-outline-8x10.bmp",
+    "new": "Flowers in Vase\\info\\tmp\\8x10\\flowers-in-vase-outline-8x10.bmp",
+    "bytes": 21600054,
+    "sha256": "950E9A1A4FAB1892B7C50E2781F9F1EFB8B8EB132F0B1C0DC2F3ED02BEF4992E"
+  },
+  {
+    "old": "Flowers in Vase\\tmp\\8x10\\flowers-in-vase-outline-8x10.pdf",
+    "new": "Flowers in Vase\\info\\tmp\\8x10\\flowers-in-vase-outline-8x10.pdf",
+    "bytes": 3060364,
+    "sha256": "05EDCBB5F7EB087FE6C77EE525AF054593E5F38C969E7633036C623F4567DB9A"
+  },
+  {
+    "old": "Flowers in Vase\\tmp\\8x10\\flowers-in-vase-outline-8x10.png",
+    "new": "Flowers in Vase\\info\\tmp\\8x10\\flowers-in-vase-outline-8x10.png",
+    "bytes": 3524922,
+    "sha256": "6B4F88B0CF5B1A1ECB8339E43F889653BEB578C372E89879F32D1DEE49863A73"
+  },
+  {
+    "old": "Flowers in Vase\\tmp\\8x10\\flowers-in-vase-painting-guide-8x10-render.png",
+    "new": "Flowers in Vase\\info\\tmp\\8x10\\flowers-in-vase-painting-guide-8x10-render.png",
+    "bytes": 5607933,
+    "sha256": "0A82024046456908AF5946EC78CF9A1471ED004924C1CE000204CDE6A8C09439"
+  },
+  {
+    "old": "Flowers in Vase\\tmp\\8x10\\flowers-in-vase-painting-guide-8x10-review.png",
+    "new": "Flowers in Vase\\info\\tmp\\8x10\\flowers-in-vase-painting-guide-8x10-review.png",
+    "bytes": 842703,
+    "sha256": "4A583C0048A4AC136F75515DCA7AB19680C4130AE8B96F4548E884327197FFDD"
+  },
+  {
+    "old": "Flowers in Vase\\tmp\\8x10\\flowers-in-vase-painting-guide-8x10.pdf",
+    "new": "Flowers in Vase\\info\\tmp\\8x10\\flowers-in-vase-painting-guide-8x10.pdf",
+    "bytes": 2815688,
+    "sha256": "F49B16606BF070FB27105A476A71DB88EBB13712D9EBDCC0C240A13FC6227DB8"
+  },
+  {
+    "old": "Flowers in Vase\\tmp\\8x10\\geometry-check.png",
+    "new": "Flowers in Vase\\info\\tmp\\8x10\\geometry-check.png",
+    "bytes": 2650883,
+    "sha256": "0BF3DDF35CC24C331141C24984440F11E75F8BF28593EE4E1CDB74493ED6F10F"
+  },
+  {
+    "old": "Flowers in Vase\\tmp\\8x10\\geometry-result.txt",
+    "new": "Flowers in Vase\\info\\tmp\\8x10\\geometry-result.txt",
+    "bytes": 230,
+    "sha256": "146607C1158886DD9F602945A9B1D666E90130A7619241635A3DAFE995E22B4B"
+  },
+  {
+    "old": "Flowers in Vase\\tmp\\8x10\\guide-page.png",
+    "new": "Flowers in Vase\\info\\tmp\\8x10\\guide-page.png",
+    "bytes": 3129386,
+    "sha256": "DECD65848B791195265A4129791B77DD95863F15181CF4DF216655A58A489B6A"
+  },
+  {
+    "old": "Flowers in Vase\\tmp\\8x10\\guide-preview.png",
+    "new": "Flowers in Vase\\info\\tmp\\8x10\\guide-preview.png",
+    "bytes": 519529,
+    "sha256": "BA255D34A1850D176D57AB2A0CE4023233AD84E888AA7B9D9D5C2424D5DBD51C"
+  },
+  {
+    "old": "Flowers in Vase\\tmp\\8x10\\imagegen-prompt.txt",
+    "new": "Flowers in Vase\\info\\tmp\\8x10\\imagegen-prompt.txt",
+    "bytes": 1308,
+    "sha256": "37369E44CF74F5BFA82196FE54ECA6C396A207E3308F9646138C65902668DDAC"
+  },
+  {
+    "old": "Flowers in Vase\\tmp\\8x10\\pdf-checks.json",
+    "new": "Flowers in Vase\\info\\tmp\\8x10\\pdf-checks.json",
+    "bytes": 848,
+    "sha256": "9A4B6FCB4F7384D9B06B6641434EB877AEF2E4767304A224A0AFF196FFA15D77"
+  },
+  {
+    "old": "Flowers in Vase\\tmp\\8x10\\prepare.cjs",
+    "new": "Flowers in Vase\\info\\tmp\\8x10\\prepare.cjs",
+    "bytes": 6108,
+    "sha256": "DB6E1B835A083B4DB7716BBF7BCF7FD3C22DF53CB38B8A6A400950DB77A2CCED",
+    "sha256AfterNameCorrection": "83BC86B3C4792D04BBBA89FB826EEE20D4AAE3E6A7DCCFB00184182F9B922EF8",
+    "note": "sha256 records the organization-time bytes; the name correction/revised guide is recorded separately."
+  },
+  {
+    "old": "Flowers in Vase\\tmp\\8x10\\register.cs",
+    "new": "Flowers in Vase\\info\\tmp\\8x10\\register.cs",
+    "bytes": 2823,
+    "sha256": "265DB41D67B84366C151BC98CF2F1B2AA9F8F55595AA9934360F1C413D0940BA"
+  },
+  {
+    "old": "Flowers in Vase\\tmp\\8x10\\registered-preview.png",
+    "new": "Flowers in Vase\\info\\tmp\\8x10\\registered-preview.png",
+    "bytes": 1557644,
+    "sha256": "733B8369A3D512AA435600014585B7E890CB43A028F17459618CFC607D1EB267"
+  },
+  {
+    "old": "Flowers in Vase\\tmp\\8x10\\render.ps1",
+    "new": "Flowers in Vase\\info\\tmp\\8x10\\render.ps1",
+    "bytes": 2693,
+    "sha256": "B64F5CB7C5F2C6EB414FA3902EAE0C4299C68CAE34D49DEC06F2EFD5F2CD543A"
+  },
+  {
+    "old": "Flowers in Vase\\tmp\\8x10\\repaired-preview.png",
+    "new": "Flowers in Vase\\info\\tmp\\8x10\\repaired-preview.png",
+    "bytes": 1559209,
+    "sha256": "58FB229C684EB39877AE0A9ED17A38F61A849E045BE567F180CAF03D8DFC285E"
+  },
+  {
+    "old": "Flowers in Vase\\tmp\\8x10\\source-hashes.json",
+    "new": "Flowers in Vase\\info\\tmp\\8x10\\source-hashes.json",
+    "bytes": 992,
+    "sha256": "A7C1DBF8D51B444B70048DBD5364C4DE1FA4825F9E23E9554C5B0F45C9D44B01"
+  },
+  {
+    "old": "Flowers in Vase\\tmp\\8x10\\step-plan.md",
+    "new": "Flowers in Vase\\info\\tmp\\8x10\\step-plan.md",
+    "bytes": 2964,
+    "sha256": "3E0AD054A84C21EDD752022B50309C4B16F4D13EDD112EED2DFFB9695BAA8822"
+  },
+  {
+    "old": "Flowers in Vase\\tmp\\8x10\\validate-skill.cjs",
+    "new": "Flowers in Vase\\info\\tmp\\8x10\\validate-skill.cjs",
+    "bytes": 935,
+    "sha256": "DCC0207EF35902235272B57D04889D83DAFB684B32ED8E040D7AF4037B13F291"
+  },
+  {
+    "old": "Flowers in Vase\\tmp\\8x10\\verification-notes.md",
+    "new": "Flowers in Vase\\info\\tmp\\8x10\\verification-notes.md",
+    "bytes": 1533,
+    "sha256": "696485D613269784C5FD675E0E78A3A9BD32613095AAC2BA07C97A8537EA0092"
+  },
+  {
+    "old": "Flowers in Vase\\tmp\\darker-outline\\flowers-in-vase-outline-8x10-600dpi.png",
+    "new": "Flowers in Vase\\info\\tmp\\darker-outline\\flowers-in-vase-outline-8x10-600dpi.png",
+    "bytes": 1548872,
+    "sha256": "8BC4C15B813A1CC9F8B07B2F59B2180CDBAAAB857252197792BA92EBE77F449E"
+  },
+  {
+    "old": "Flowers in Vase\\tmp\\darker-outline\\flowers-in-vase-outline-8x10-render.png",
+    "new": "Flowers in Vase\\info\\tmp\\darker-outline\\flowers-in-vase-outline-8x10-render.png",
+    "bytes": 495815,
+    "sha256": "234E0BBA77037BB87467955708717930D4CA5789993DED7A34E5DD92A0FAC0B7"
+  },
+  {
+    "old": "Flowers in Vase\\tmp\\darker-outline\\flowers-in-vase-outline-8x10.pdf",
+    "new": "Flowers in Vase\\info\\tmp\\darker-outline\\flowers-in-vase-outline-8x10.pdf",
+    "bytes": 15519,
+    "sha256": "8501BB415DCF4F0B5408886D61210F59883FC90760FE8D299922FBE8D190D6B9"
+  },
+  {
+    "old": "Flowers in Vase\\tmp\\darker-outline\\flowers-in-vase-outline-8x10.png",
+    "new": "Flowers in Vase\\info\\tmp\\darker-outline\\flowers-in-vase-outline-8x10.png",
+    "bytes": 701942,
+    "sha256": "93A32B1FEEA7E1EBC25845921E00A5BFE534454BF1AF5E0AB06D340BB027919C"
+  },
+  {
+    "old": "Flowers in Vase\\tmp\\darker-outline\\flowers-in-vase-outline-8x10.svg",
+    "new": "Flowers in Vase\\info\\tmp\\darker-outline\\flowers-in-vase-outline-8x10.svg",
+    "bytes": 48050,
+    "sha256": "76BBDD0008ECAB67356FC3F46C0D8D91A8E07777D1F7A78CC8FC8896C555226F"
+  },
+  {
+    "old": "Flowers in Vase\\tmp\\darker-outline\\paths.json",
+    "new": "Flowers in Vase\\info\\tmp\\darker-outline\\paths.json",
+    "bytes": 42030,
+    "sha256": "B30B971F7E9159AE3773033F2F939539CB7FA46CF4CD5E2E8F8646679A8380F0"
+  },
+  {
+    "old": "Flowers in Vase\\tmp\\darker-outline\\pdf-checks.json",
+    "new": "Flowers in Vase\\info\\tmp\\darker-outline\\pdf-checks.json",
+    "bytes": 250,
+    "sha256": "B5C28793C6649E8BED643B2401895A7FA5966EFC14744CBB00B80FD83063BAD7"
+  },
+  {
+    "old": "Flowers in Vase\\tmp\\darker-outline\\review-white.png",
+    "new": "Flowers in Vase\\info\\tmp\\darker-outline\\review-white.png",
+    "bytes": 146494,
+    "sha256": "21931C1C0FB36504D671267100BDFC49951CFCC2C6ACF88569E030B14DDF223F"
+  },
+  {
+    "old": "Flowers in Vase\\tmp\\darker-outline\\transparency-review.png",
+    "new": "Flowers in Vase\\info\\tmp\\darker-outline\\transparency-review.png",
+    "bytes": 109729,
+    "sha256": "43A5C7F5FCCE58CEE09E9096B00896288F8A18B9BA0AFC575A1055C1B77C45B8"
+  },
+  {
+    "old": "Flowers in Vase\\tmp\\darker-outline\\before-2pt\\flowers-in-vase-outline-8x10-600dpi.png",
+    "new": "Flowers in Vase\\info\\tmp\\darker-outline\\before-2pt\\flowers-in-vase-outline-8x10-600dpi.png",
+    "bytes": 1554409,
+    "sha256": "D439F046D43F500188EBC19F7452BC541A6C3955A350B0A784246F65D4D4EBBD"
+  },
+  {
+    "old": "Flowers in Vase\\tmp\\darker-outline\\before-2pt\\flowers-in-vase-outline-8x10.png",
+    "new": "Flowers in Vase\\info\\tmp\\darker-outline\\before-2pt\\flowers-in-vase-outline-8x10.png",
+    "bytes": 700076,
+    "sha256": "F267C4535C4736663BE77091BDCD522F1AEC08930E32999523384C67697FF83F"
+  },
+  {
+    "old": "Flowers in Vase\\tmp\\darker-outline\\before-2pt\\flowers-in-vase-outline-8x10.svg",
+    "new": "Flowers in Vase\\info\\tmp\\darker-outline\\before-2pt\\flowers-in-vase-outline-8x10.svg",
+    "bytes": 48052,
+    "sha256": "B677DBC3F67D5DA3C3CF210A02E8011D04C6188EA3A64B8E07545A2A8D435A29"
+  },
+  {
+    "old": "Flowers in Vase\\tmp\\darker-outline\\before-2pt\\flowers-in-vase-outline.png",
+    "new": "Flowers in Vase\\info\\tmp\\darker-outline\\before-2pt\\flowers-in-vase-outline.png",
+    "bytes": 700076,
+    "sha256": "F267C4535C4736663BE77091BDCD522F1AEC08930E32999523384C67697FF83F"
+  },
+  {
+    "old": "Flowers in Vase\\tmp\\darker-outline\\before-2pt\\TRANSFER-OUTLINE.md",
+    "new": "Flowers in Vase\\info\\tmp\\darker-outline\\before-2pt\\TRANSFER-OUTLINE.md",
+    "bytes": 989,
+    "sha256": "BB31B240AF6A527E53E12780BC6EB940A8D1DF8D7BA27775672C19F5E41C8FC6"
+  },
+  {
+    "old": "Flowers in Vase\\tmp\\darker-outline\\before-2pt\\output\\pdf\\8x10\\flowers-in-vase-outline-8x10-600dpi.png",
+    "new": "Flowers in Vase\\info\\tmp\\darker-outline\\before-2pt\\output\\pdf\\8x10\\flowers-in-vase-outline-8x10-600dpi.png",
+    "bytes": 1554409,
+    "sha256": "D439F046D43F500188EBC19F7452BC541A6C3955A350B0A784246F65D4D4EBBD"
+  },
+  {
+    "old": "Flowers in Vase\\tmp\\darker-outline\\before-2pt\\output\\pdf\\8x10\\flowers-in-vase-outline-8x10.pdf",
+    "new": "Flowers in Vase\\info\\tmp\\darker-outline\\before-2pt\\output\\pdf\\8x10\\flowers-in-vase-outline-8x10.pdf",
+    "bytes": 15521,
+    "sha256": "93891861A44C9066F94309B1F4D0FEC1B814D58EF993BEE7A3457B4E3CCAA563"
+  },
+  {
+    "old": "Flowers in Vase\\tmp\\darker-outline\\before-2pt\\output\\pdf\\8x10\\flowers-in-vase-outline-8x10.png",
+    "new": "Flowers in Vase\\info\\tmp\\darker-outline\\before-2pt\\output\\pdf\\8x10\\flowers-in-vase-outline-8x10.png",
+    "bytes": 700076,
+    "sha256": "F267C4535C4736663BE77091BDCD522F1AEC08930E32999523384C67697FF83F"
+  },
+  {
+    "old": "Flowers in Vase\\tmp\\darker-outline\\before-2pt\\output\\svg\\8x10\\flowers-in-vase-outline-8x10.svg",
+    "new": "Flowers in Vase\\info\\tmp\\darker-outline\\before-2pt\\output\\svg\\8x10\\flowers-in-vase-outline-8x10.svg",
+    "bytes": 48052,
+    "sha256": "B677DBC3F67D5DA3C3CF210A02E8011D04C6188EA3A64B8E07545A2A8D435A29"
+  },
+  {
+    "old": "Flowers in Vase\\tmp\\portrait-rebuild\\build-guide.cs",
+    "new": "Flowers in Vase\\info\\tmp\\portrait-rebuild\\build-guide.cs",
+    "bytes": 7303,
+    "sha256": "EC03F89FA7BF7BF87933F1CC8DC0606FD70A2DC206D839B36DC864AC6EAAF360"
+  },
+  {
+    "old": "Flowers in Vase\\tmp\\portrait-rebuild\\build-guide.ps1",
+    "new": "Flowers in Vase\\info\\tmp\\portrait-rebuild\\build-guide.ps1",
+    "bytes": 248,
+    "sha256": "FB186C2629E17A5CC6D8AB57EEFD701176C6CE82450C8B25313F169831F4808F"
+  },
+  {
+    "old": "Flowers in Vase\\tmp\\portrait-rebuild\\build-stages.cjs",
+    "new": "Flowers in Vase\\info\\tmp\\portrait-rebuild\\build-stages.cjs",
+    "bytes": 4859,
+    "sha256": "517201EBC990FA02741C2D9C292F6CD033810301CB5F0B8ECD4681332C9F6DA4"
+  },
+  {
+    "old": "Flowers in Vase\\tmp\\portrait-rebuild\\captions.txt",
+    "new": "Flowers in Vase\\info\\tmp\\portrait-rebuild\\captions.txt",
+    "bytes": 1480,
+    "sha256": "49F4B77C58D016119AECACAEB2D45CB44ED97A009884C977005EB8F51E1E2977"
+  },
+  {
+    "old": "Flowers in Vase\\tmp\\portrait-rebuild\\desktop-copy.json",
+    "new": "Flowers in Vase\\info\\tmp\\portrait-rebuild\\desktop-copy.json",
+    "bytes": 288,
+    "sha256": "869EA3B91BB98A3425744D448E016633DB94EE03B5D16AE4A109649D126360ED"
+  },
+  {
+    "old": "Flowers in Vase\\tmp\\portrait-rebuild\\export-art.cjs",
+    "new": "Flowers in Vase\\info\\tmp\\portrait-rebuild\\export-art.cjs",
+    "bytes": 3093,
+    "sha256": "FD540E45318F43AA9CE09B74B8B232258052CD7581E42777C1EA1568D5F5CCAF"
+  },
+  {
+    "old": "Flowers in Vase\\tmp\\portrait-rebuild\\export-guide.cjs",
+    "new": "Flowers in Vase\\info\\tmp\\portrait-rebuild\\export-guide.cjs",
+    "bytes": 3203,
+    "sha256": "1AA41643B0CBF12DE41F95D8C3931B8ED10237001AE8C7ECD63689B2AA1863F2"
+  },
+  {
+    "old": "Flowers in Vase\\tmp\\portrait-rebuild\\final-checks.json",
+    "new": "Flowers in Vase\\info\\tmp\\portrait-rebuild\\final-checks.json",
+    "bytes": 465,
+    "sha256": "2B880B9394510E2EDA4F49B18714727F24BC9C5E6113D94A6A7C3F272AB3810E"
+  },
+  {
+    "old": "Flowers in Vase\\tmp\\portrait-rebuild\\flowers-in-vase-finished-reference-8x10-final-review.png",
+    "new": "Flowers in Vase\\info\\tmp\\portrait-rebuild\\flowers-in-vase-finished-reference-8x10-final-review.png",
+    "bytes": 1827541,
+    "sha256": "AA7D93E0A10E6638405552518A7F27A200F0291838D54AF57A922192A201BCF7"
+  },
+  {
+    "old": "Flowers in Vase\\tmp\\portrait-rebuild\\flowers-in-vase-finished-reference-8x10-render.png",
+    "new": "Flowers in Vase\\info\\tmp\\portrait-rebuild\\flowers-in-vase-finished-reference-8x10-render.png",
+    "bytes": 4901797,
+    "sha256": "268B1EBD92979DF21F0005AA425E06CB8C4AC2150515B14693E33291855D5C25"
+  },
+  {
+    "old": "Flowers in Vase\\tmp\\portrait-rebuild\\flowers-in-vase-finished-reference-8x10.pdf",
+    "new": "Flowers in Vase\\info\\tmp\\portrait-rebuild\\flowers-in-vase-finished-reference-8x10.pdf",
+    "bytes": 17873016,
+    "sha256": "8E5C1AAF0D54F6DD4687BAE28F3998BE19E4C33DDB1A5C2EA274249D93418FD1"
+  },
+  {
+    "old": "Flowers in Vase\\tmp\\portrait-rebuild\\flowers-in-vase-finished-reference-8x10.png",
+    "new": "Flowers in Vase\\info\\tmp\\portrait-rebuild\\flowers-in-vase-finished-reference-8x10.png",
+    "bytes": 10841303,
+    "sha256": "B14781B8E06C1A48E2627667DD598B9290B028C44AF1CA15C5E068645429C3A7"
+  },
+  {
+    "old": "Flowers in Vase\\tmp\\portrait-rebuild\\flowers-in-vase-outline-8x10-600dpi.png",
+    "new": "Flowers in Vase\\info\\tmp\\portrait-rebuild\\flowers-in-vase-outline-8x10-600dpi.png",
+    "bytes": 1161082,
+    "sha256": "1B86004DABAD7987F5D230459F87722C28C99F36E63134135A6F991BEA3D54EE"
+  },
+  {
+    "old": "Flowers in Vase\\tmp\\portrait-rebuild\\flowers-in-vase-outline-8x10-final-review.png",
+    "new": "Flowers in Vase\\info\\tmp\\portrait-rebuild\\flowers-in-vase-outline-8x10-final-review.png",
+    "bytes": 190066,
+    "sha256": "283CF1B60266146670F91764CEC50B7A245E2E431F7449708C04BDE749578D06"
+  },
+  {
+    "old": "Flowers in Vase\\tmp\\portrait-rebuild\\flowers-in-vase-outline-8x10-render.png",
+    "new": "Flowers in Vase\\info\\tmp\\portrait-rebuild\\flowers-in-vase-outline-8x10-render.png",
+    "bytes": 286355,
+    "sha256": "A802CBC3D0629EC8C473E28D193F766F02A51178865882A4C33CACB20AD52F07"
+  },
+  {
+    "old": "Flowers in Vase\\tmp\\portrait-rebuild\\flowers-in-vase-outline-8x10.pdf",
+    "new": "Flowers in Vase\\info\\tmp\\portrait-rebuild\\flowers-in-vase-outline-8x10.pdf",
+    "bytes": 59369,
+    "sha256": "542E21D9B642D6F73B4A232F712D5312C452B34AAB574F497537101B6072DD01"
+  },
+  {
+    "old": "Flowers in Vase\\tmp\\portrait-rebuild\\flowers-in-vase-outline-8x10.png",
+    "new": "Flowers in Vase\\info\\tmp\\portrait-rebuild\\flowers-in-vase-outline-8x10.png",
+    "bytes": 527944,
+    "sha256": "38912AFB50C872A76D7DD9AFBCEF095C70F357FE0E9BDCE517FF80A90F17D9BE"
+  },
+  {
+    "old": "Flowers in Vase\\tmp\\portrait-rebuild\\flowers-in-vase-outline-8x10.svg",
+    "new": "Flowers in Vase\\info\\tmp\\portrait-rebuild\\flowers-in-vase-outline-8x10.svg",
+    "bytes": 140112,
+    "sha256": "BE230ED3777F474B95F9B231AE84524E73DA8A7913A02C14C087E9005E810E08"
+  },
+  {
+    "old": "Flowers in Vase\\tmp\\portrait-rebuild\\flowers-in-vase-painting-guide-8x10-final-review.png",
+    "new": "Flowers in Vase\\info\\tmp\\portrait-rebuild\\flowers-in-vase-painting-guide-8x10-final-review.png",
+    "bytes": 943712,
+    "sha256": "60B2B82606CCE7CD3C4E70C7AC0585970BBD4812C0972E03E355C0BBAA08B71A"
+  },
+  {
+    "old": "Flowers in Vase\\tmp\\portrait-rebuild\\flowers-in-vase-painting-guide-8x10-render.png",
+    "new": "Flowers in Vase\\info\\tmp\\portrait-rebuild\\flowers-in-vase-painting-guide-8x10-render.png",
+    "bytes": 6405157,
+    "sha256": "95E1435607CF4497B7E0F199BAF889A889689EC7A004FD0EF1D893752F579182"
+  },
+  {
+    "old": "Flowers in Vase\\tmp\\portrait-rebuild\\flowers-in-vase-painting-guide-8x10.pdf",
+    "new": "Flowers in Vase\\info\\tmp\\portrait-rebuild\\flowers-in-vase-painting-guide-8x10.pdf",
+    "bytes": 3138632,
+    "sha256": "8CCACC19A639D91A2382D318F0BFC786D34391BA2DC4E6B9F579FCE7C40C160B"
+  },
+  {
+    "old": "Flowers in Vase\\tmp\\portrait-rebuild\\geometry-review.png",
+    "new": "Flowers in Vase\\info\\tmp\\portrait-rebuild\\geometry-review.png",
+    "bytes": 620796,
+    "sha256": "93CC58A698809589AB46D2145D649D1B710D9B6D43F10287327ABF7EF2A0D083"
+  },
+  {
+    "old": "Flowers in Vase\\tmp\\portrait-rebuild\\group-mask.bin",
+    "new": "Flowers in Vase\\info\\tmp\\portrait-rebuild\\group-mask.bin",
+    "bytes": 1568000,
+    "sha256": "862125A719E840AD11AB248311C14E90CF8B0514AD41E06EAE20138D54C2CA38"
+  },
+  {
+    "old": "Flowers in Vase\\tmp\\portrait-rebuild\\groups.csv",
+    "new": "Flowers in Vase\\info\\tmp\\portrait-rebuild\\groups.csv",
+    "bytes": 1514,
+    "sha256": "6A485BFB5947B28BC5826466E584E3CDDAFA4D9FFF0B410A1199B3B5DEA8BB67"
+  },
+  {
+    "old": "Flowers in Vase\\tmp\\portrait-rebuild\\guide-page.png",
+    "new": "Flowers in Vase\\info\\tmp\\portrait-rebuild\\guide-page.png",
+    "bytes": 3497944,
+    "sha256": "B14E06B31B06F045B909D09CC4FE65861334A90922C94D56858CED7EF9D29534"
+  },
+  {
+    "old": "Flowers in Vase\\tmp\\portrait-rebuild\\guide-preview.png",
+    "new": "Flowers in Vase\\info\\tmp\\portrait-rebuild\\guide-preview.png",
+    "bytes": 586229,
+    "sha256": "B0632BD6AF3A064C85C29C10C5018F3A6A2D6EF3277A2A3F45EF53B021553CD9"
+  },
+  {
+    "old": "Flowers in Vase\\tmp\\portrait-rebuild\\outline-preview.png",
+    "new": "Flowers in Vase\\info\\tmp\\portrait-rebuild\\outline-preview.png",
+    "bytes": 673521,
+    "sha256": "5FBAD9928FB84C6E981522FA263418FD053C2594EB25E6523C0ECE1D82B2D600"
+  },
+  {
+    "old": "Flowers in Vase\\tmp\\portrait-rebuild\\outline-prompt.txt",
+    "new": "Flowers in Vase\\info\\tmp\\portrait-rebuild\\outline-prompt.txt",
+    "bytes": 1270,
+    "sha256": "A17E09E1DBE2F206387CE6FED51D823EDD55788E6E8F6C6137D4447279EE7857"
+  },
+  {
+    "old": "Flowers in Vase\\tmp\\portrait-rebuild\\painting-preview.png",
+    "new": "Flowers in Vase\\info\\tmp\\portrait-rebuild\\painting-preview.png",
+    "bytes": 1832260,
+    "sha256": "B1C9280FAB960911FD9977AD06C488681470EF52182C92C055E328C0B3804A2F"
+  },
+  {
+    "old": "Flowers in Vase\\tmp\\portrait-rebuild\\painting-prompt.txt",
+    "new": "Flowers in Vase\\info\\tmp\\portrait-rebuild\\painting-prompt.txt",
+    "bytes": 1601,
+    "sha256": "8FDAD3BF4F13117E86C3B0BE1A80DDCF2C0FA5E664B0302E31C6FA9D178391A9"
+  },
+  {
+    "old": "Flowers in Vase\\tmp\\portrait-rebuild\\pdf-checks.json",
+    "new": "Flowers in Vase\\info\\tmp\\portrait-rebuild\\pdf-checks.json",
+    "bytes": 884,
+    "sha256": "C3CE7451D2745A7B14B6640AC8F140E0EB91F35C6C7CE89B79E1BEF59F57046C"
+  },
+  {
+    "old": "Flowers in Vase\\tmp\\portrait-rebuild\\prepare-art.cjs",
+    "new": "Flowers in Vase\\info\\tmp\\portrait-rebuild\\prepare-art.cjs",
+    "bytes": 4150,
+    "sha256": "6ADA0F183EAEA0B6DCB8A2300B8CD1258B0202B8F5557EE03EABFEFF05558539"
+  },
+  {
+    "old": "Flowers in Vase\\tmp\\portrait-rebuild\\prepare-guide.cjs",
+    "new": "Flowers in Vase\\info\\tmp\\portrait-rebuild\\prepare-guide.cjs",
+    "bytes": 4186,
+    "sha256": "E2DCD5D72D066E9816EC4A0F1E59AD86A1D276E7F26F41C716C493E65D3A7C7B"
+  },
+  {
+    "old": "Flowers in Vase\\tmp\\portrait-rebuild\\promote.ps1",
+    "new": "Flowers in Vase\\info\\tmp\\portrait-rebuild\\promote.ps1",
+    "bytes": 4413,
+    "sha256": "264530BDBFB29AE5BB520ECE0E79F1C5B82EB9348CCA2CFC6022E7AF56DDF472"
+  },
+  {
+    "old": "Flowers in Vase\\tmp\\portrait-rebuild\\region-color-review.png",
+    "new": "Flowers in Vase\\info\\tmp\\portrait-rebuild\\region-color-review.png",
+    "bytes": 124112,
+    "sha256": "81F5504A315160B2266AFF919C8B7677271742BE87767F8363275A5CF9CF1FC2"
+  },
+  {
+    "old": "Flowers in Vase\\tmp\\portrait-rebuild\\region-label-review.png",
+    "new": "Flowers in Vase\\info\\tmp\\portrait-rebuild\\region-label-review.png",
+    "bytes": 220822,
+    "sha256": "24A326486535D76CFA30B060E4B4C9F91B86233E76246B1D5C29CEFAC348476A"
+  },
+  {
+    "old": "Flowers in Vase\\tmp\\portrait-rebuild\\region-overrides.json",
+    "new": "Flowers in Vase\\info\\tmp\\portrait-rebuild\\region-overrides.json",
+    "bytes": 94,
+    "sha256": "8AD39CC0D18279A711F34606F0694971EE9202B2EB4925764169FA8AC0EAD335"
+  },
+  {
+    "old": "Flowers in Vase\\tmp\\portrait-rebuild\\regions.bin",
+    "new": "Flowers in Vase\\info\\tmp\\portrait-rebuild\\regions.bin",
+    "bytes": 6272008,
+    "sha256": "0C7A89E4F422067354348AFE11D8E87A5E19DF59E687177491A580A87E81EDB3"
+  },
+  {
+    "old": "Flowers in Vase\\tmp\\portrait-rebuild\\regions.json",
+    "new": "Flowers in Vase\\info\\tmp\\portrait-rebuild\\regions.json",
+    "bytes": 64545,
+    "sha256": "BDC36900526984077711C849294549A0BB031E32AE6C482A6E13D669DB262CDC"
+  },
+  {
+    "old": "Flowers in Vase\\tmp\\portrait-rebuild\\registered-painting-review.png",
+    "new": "Flowers in Vase\\info\\tmp\\portrait-rebuild\\registered-painting-review.png",
+    "bytes": 1318634,
+    "sha256": "B5B77A20CBE28A6DECCD764D22179E62FBFFF9D8E7E1E47015BA527CB6B57F96"
+  },
+  {
+    "old": "Flowers in Vase\\tmp\\portrait-rebuild\\render.ps1",
+    "new": "Flowers in Vase\\info\\tmp\\portrait-rebuild\\render.ps1",
+    "bytes": 2625,
+    "sha256": "251C46D1757AE4CD73D0BD54D4A2B49E1DE058243A11C1443C43B438F43FB64D"
+  },
+  {
+    "old": "Flowers in Vase\\tmp\\portrait-rebuild\\review-notes.md",
+    "new": "Flowers in Vase\\info\\tmp\\portrait-rebuild\\review-notes.md",
+    "bytes": 3053,
+    "sha256": "9B58B8C3006A2D3986F8D5DA90C7CBF0478F18BE4D52E2DEEB8CA49F7AFE0C59"
+  },
+  {
+    "old": "Flowers in Vase\\tmp\\portrait-rebuild\\stage-checks.json",
+    "new": "Flowers in Vase\\info\\tmp\\portrait-rebuild\\stage-checks.json",
+    "bytes": 775,
+    "sha256": "240700EA451BB867C3352EB595E65CE3C9AB98B4E87AD3C46487ABFB621A6EC3"
+  },
+  {
+    "old": "Flowers in Vase\\tmp\\portrait-rebuild\\verify-final.cjs",
+    "new": "Flowers in Vase\\info\\tmp\\portrait-rebuild\\verify-final.cjs",
+    "bytes": 3314,
+    "sha256": "5B21808961AAA628A2E6E5333F5B3C43ACA9C3AB6AA5C2538ADF941E7C8F2F25"
+  },
+  {
+    "old": "Flowers in Vase\\tmp\\portrait-rebuild\\previous-edition\\flowers-in-vase-finished-reference-8x10.png",
+    "new": "Flowers in Vase\\info\\tmp\\portrait-rebuild\\previous-edition\\flowers-in-vase-finished-reference-8x10.png",
+    "bytes": 12165946,
+    "sha256": "6F38F2408CAA56241924F492D171190343022B8C94F0BFCB4881BB50E377CDE8"
+  },
+  {
+    "old": "Flowers in Vase\\tmp\\portrait-rebuild\\previous-edition\\flowers-in-vase-finished-reference-blended-source.png",
+    "new": "Flowers in Vase\\info\\tmp\\portrait-rebuild\\previous-edition\\flowers-in-vase-finished-reference-blended-source.png",
+    "bytes": 4355433,
+    "sha256": "A070548DA4C523D501EEE078A81E0B9DE12991D764203652F2108AFE7665DC92"
+  },
+  {
+    "old": "Flowers in Vase\\tmp\\portrait-rebuild\\previous-edition\\flowers-in-vase-finished-reference-blended.png",
+    "new": "Flowers in Vase\\info\\tmp\\portrait-rebuild\\previous-edition\\flowers-in-vase-finished-reference-blended.png",
+    "bytes": 4355433,
+    "sha256": "A070548DA4C523D501EEE078A81E0B9DE12991D764203652F2108AFE7665DC92"
+  },
+  {
+    "old": "Flowers in Vase\\tmp\\portrait-rebuild\\previous-edition\\flowers-in-vase-outline-8x10-600dpi.png",
+    "new": "Flowers in Vase\\info\\tmp\\portrait-rebuild\\previous-edition\\flowers-in-vase-outline-8x10-600dpi.png",
+    "bytes": 909095,
+    "sha256": "CE6D3F21B7A91EB60BFCD1D528D2CFC6D41FB3A06DFB579A9F189C99832522A7"
+  },
+  {
+    "old": "Flowers in Vase\\tmp\\portrait-rebuild\\previous-edition\\flowers-in-vase-outline-8x10.png",
+    "new": "Flowers in Vase\\info\\tmp\\portrait-rebuild\\previous-edition\\flowers-in-vase-outline-8x10.png",
+    "bytes": 3524909,
+    "sha256": "416015087A08481D48CC68B54EC65FA8D2C8A6BD21AD814DAF3E68F3633062CE"
+  },
+  {
+    "old": "Flowers in Vase\\tmp\\portrait-rebuild\\previous-edition\\flowers-in-vase-outline-8x10.svg",
+    "new": "Flowers in Vase\\info\\tmp\\portrait-rebuild\\previous-edition\\flowers-in-vase-outline-8x10.svg",
+    "bytes": 109781,
+    "sha256": "D2FAEAE8B38D1350812B2481AA2D1BB5B59CF16D53CA90F71EFD4DB1747F3E72"
+  },
+  {
+    "old": "Flowers in Vase\\tmp\\portrait-rebuild\\previous-edition\\flowers-in-vase-outline.png",
+    "new": "Flowers in Vase\\info\\tmp\\portrait-rebuild\\previous-edition\\flowers-in-vase-outline.png",
+    "bytes": 1331390,
+    "sha256": "40547B6BEC5FBDC82F2F59F174AB63CE017AA5310E25800CCDE64220622668E6"
+  },
+  {
+    "old": "Flowers in Vase\\tmp\\portrait-rebuild\\previous-edition\\flowers-in-vase-painting-guide-illustrated.pdf",
+    "new": "Flowers in Vase\\info\\tmp\\portrait-rebuild\\previous-edition\\flowers-in-vase-painting-guide-illustrated.pdf",
+    "bytes": 3452539,
+    "sha256": "E7A58FDC1B477CE1C364192912345BAFA647EC6692E10FB6D2923C107B759C69"
+  },
+  {
+    "old": "Flowers in Vase\\tmp\\portrait-rebuild\\previous-edition\\flowers-in-vase-painting-guide-illustrated.png",
+    "new": "Flowers in Vase\\info\\tmp\\portrait-rebuild\\previous-edition\\flowers-in-vase-painting-guide-illustrated.png",
+    "bytes": 10807958,
+    "sha256": "0C9C54032C1B1B61EA1D17CE110BF28770E133C58C2320BDB84F23E66DAC1BE0"
+  },
+  {
+    "old": "Flowers in Vase\\tmp\\portrait-rebuild\\previous-edition\\output\\pdf\\8x10\\flowers-in-vase-finished-reference-8x10.pdf",
+    "new": "Flowers in Vase\\info\\tmp\\portrait-rebuild\\previous-edition\\output\\pdf\\8x10\\flowers-in-vase-finished-reference-8x10.pdf",
+    "bytes": 12149669,
+    "sha256": "F5C39C795EE0797ADF541DC96215D2C29FC1EF57AAE4C4D5EECE8941EA09C84F"
+  },
+  {
+    "old": "Flowers in Vase\\tmp\\portrait-rebuild\\previous-edition\\output\\pdf\\8x10\\flowers-in-vase-finished-reference-8x10.png",
+    "new": "Flowers in Vase\\info\\tmp\\portrait-rebuild\\previous-edition\\output\\pdf\\8x10\\flowers-in-vase-finished-reference-8x10.png",
+    "bytes": 12165946,
+    "sha256": "6F38F2408CAA56241924F492D171190343022B8C94F0BFCB4881BB50E377CDE8"
+  },
+  {
+    "old": "Flowers in Vase\\tmp\\portrait-rebuild\\previous-edition\\output\\pdf\\8x10\\flowers-in-vase-outline-8x10-600dpi.png",
+    "new": "Flowers in Vase\\info\\tmp\\portrait-rebuild\\previous-edition\\output\\pdf\\8x10\\flowers-in-vase-outline-8x10-600dpi.png",
+    "bytes": 909095,
+    "sha256": "CE6D3F21B7A91EB60BFCD1D528D2CFC6D41FB3A06DFB579A9F189C99832522A7"
+  },
+  {
+    "old": "Flowers in Vase\\tmp\\portrait-rebuild\\previous-edition\\output\\pdf\\8x10\\flowers-in-vase-outline-8x10.pdf",
+    "new": "Flowers in Vase\\info\\tmp\\portrait-rebuild\\previous-edition\\output\\pdf\\8x10\\flowers-in-vase-outline-8x10.pdf",
+    "bytes": 3060364,
+    "sha256": "05EDCBB5F7EB087FE6C77EE525AF054593E5F38C969E7633036C623F4567DB9A"
+  },
+  {
+    "old": "Flowers in Vase\\tmp\\portrait-rebuild\\previous-edition\\output\\pdf\\8x10\\flowers-in-vase-outline-8x10.png",
+    "new": "Flowers in Vase\\info\\tmp\\portrait-rebuild\\previous-edition\\output\\pdf\\8x10\\flowers-in-vase-outline-8x10.png",
+    "bytes": 3524909,
+    "sha256": "416015087A08481D48CC68B54EC65FA8D2C8A6BD21AD814DAF3E68F3633062CE"
+  },
+  {
+    "old": "Flowers in Vase\\tmp\\portrait-rebuild\\previous-edition\\output\\pdf\\8x10\\flowers-in-vase-painting-guide-8x10.pdf",
+    "new": "Flowers in Vase\\info\\tmp\\portrait-rebuild\\previous-edition\\output\\pdf\\8x10\\flowers-in-vase-painting-guide-8x10.pdf",
+    "bytes": 2815688,
+    "sha256": "F49B16606BF070FB27105A476A71DB88EBB13712D9EBDCC0C240A13FC6227DB8"
+  },
+  {
+    "old": "Flowers in Vase\\tmp\\portrait-rebuild\\previous-edition\\output\\pdf\\8x10\\flowers-in-vase-painting-guide-8x10.png",
+    "new": "Flowers in Vase\\info\\tmp\\portrait-rebuild\\previous-edition\\output\\pdf\\8x10\\flowers-in-vase-painting-guide-8x10.png",
+    "bytes": 6549452,
+    "sha256": "92702C94DB23488A6BA34ECA94A70E1908B62B8A35FBC7B2B79C19C3C87C98ED"
+  },
+  {
+    "old": "Flowers in Vase\\tmp\\portrait-rebuild\\previous-edition\\output\\svg\\8x10\\flowers-in-vase-outline-8x10.svg",
+    "new": "Flowers in Vase\\info\\tmp\\portrait-rebuild\\previous-edition\\output\\svg\\8x10\\flowers-in-vase-outline-8x10.svg",
+    "bytes": 109781,
+    "sha256": "D2FAEAE8B38D1350812B2481AA2D1BB5B59CF16D53CA90F71EFD4DB1747F3E72"
+  },
+  {
+    "old": "Flowers in Vase\\tmp\\prior-guide\\flowers-in-vase-painting-guide-illustrated.pdf",
+    "new": "Flowers in Vase\\info\\tmp\\prior-guide\\flowers-in-vase-painting-guide-illustrated.pdf",
+    "bytes": 3495303,
+    "sha256": "B02DEFDCB45C82EC1F6E90F273AECC6D499892D9724ED518FFB6952748C62FCB"
+  },
+  {
+    "old": "Flowers in Vase\\tmp\\prior-guide\\flowers-in-vase-painting-guide-illustrated.png",
+    "new": "Flowers in Vase\\info\\tmp\\prior-guide\\flowers-in-vase-painting-guide-illustrated.png",
+    "bytes": 11005763,
+    "sha256": "7918B505EF6065652FF78FEDD5BE40E270237DDEEE622E72F932A2F8724BD60B"
+  },
+  {
+    "old": "Flowers in Vase\\tmp\\transfer-standard\\checks.json",
+    "new": "Flowers in Vase\\info\\tmp\\transfer-standard\\checks.json",
+    "bytes": 463,
+    "sha256": "4E1FD4C2FE0CC3C6936A6973DC5CA8E5C94E5AF84EA867527210F35B63D9CB21"
+  },
+  {
+    "old": "Flowers in Vase\\tmp\\transfer-standard\\flowers-in-vase-outline-8x10-600dpi.png",
+    "new": "Flowers in Vase\\info\\tmp\\transfer-standard\\flowers-in-vase-outline-8x10-600dpi.png",
+    "bytes": 1554409,
+    "sha256": "D439F046D43F500188EBC19F7452BC541A6C3955A350B0A784246F65D4D4EBBD"
+  },
+  {
+    "old": "Flowers in Vase\\tmp\\transfer-standard\\flowers-in-vase-outline-8x10-render.png",
+    "new": "Flowers in Vase\\info\\tmp\\transfer-standard\\flowers-in-vase-outline-8x10-render.png",
+    "bytes": 489048,
+    "sha256": "3542CD7739821C422FA7AC288810E23F49225FFFD14EAA7EC4F58D3940B97664"
+  },
+  {
+    "old": "Flowers in Vase\\tmp\\transfer-standard\\flowers-in-vase-outline-8x10.pdf",
+    "new": "Flowers in Vase\\info\\tmp\\transfer-standard\\flowers-in-vase-outline-8x10.pdf",
+    "bytes": 15521,
+    "sha256": "93891861A44C9066F94309B1F4D0FEC1B814D58EF993BEE7A3457B4E3CCAA563"
+  },
+  {
+    "old": "Flowers in Vase\\tmp\\transfer-standard\\flowers-in-vase-outline-8x10.png",
+    "new": "Flowers in Vase\\info\\tmp\\transfer-standard\\flowers-in-vase-outline-8x10.png",
+    "bytes": 700076,
+    "sha256": "F267C4535C4736663BE77091BDCD522F1AEC08930E32999523384C67697FF83F"
+  },
+  {
+    "old": "Flowers in Vase\\tmp\\transfer-standard\\flowers-in-vase-outline-8x10.svg",
+    "new": "Flowers in Vase\\info\\tmp\\transfer-standard\\flowers-in-vase-outline-8x10.svg",
+    "bytes": 48052,
+    "sha256": "B677DBC3F67D5DA3C3CF210A02E8011D04C6188EA3A64B8E07545A2A8D435A29"
+  },
+  {
+    "old": "Flowers in Vase\\tmp\\transfer-standard\\paths.json",
+    "new": "Flowers in Vase\\info\\tmp\\transfer-standard\\paths.json",
+    "bytes": 42030,
+    "sha256": "B30B971F7E9159AE3773033F2F939539CB7FA46CF4CD5E2E8F8646679A8380F0"
+  },
+  {
+    "old": "Flowers in Vase\\tmp\\transfer-standard\\pdf-checks.json",
+    "new": "Flowers in Vase\\info\\tmp\\transfer-standard\\pdf-checks.json",
+    "bytes": 253,
+    "sha256": "C449201CBC2931C0B8877FB82469D78E70563CB50920429558CEE1039775D871"
+  },
+  {
+    "old": "Flowers in Vase\\tmp\\transfer-standard\\review-white.png",
+    "new": "Flowers in Vase\\info\\tmp\\transfer-standard\\review-white.png",
+    "bytes": 142723,
+    "sha256": "A8EEED2C5CAA4930859F178D98C7F72CD4E2E9F6589620C4A2D831E35A56D14E"
+  },
+  {
+    "old": "Flowers in Vase\\tmp\\transfer-standard\\transparency-review.png",
+    "new": "Flowers in Vase\\info\\tmp\\transfer-standard\\transparency-review.png",
+    "bytes": 110011,
+    "sha256": "65A60BD32D0B41FBFFD05E9837883141A05AFAD5C59C7CC972F035E19917A9FA"
+  },
+  {
+    "old": "Flowers in Vase\\tmp\\transfer-standard\\verification.json",
+    "new": "Flowers in Vase\\info\\tmp\\transfer-standard\\verification.json",
+    "bytes": 470,
+    "sha256": "C6B2B40BB8365DB53B2A86140EE0A3C5E78154CB4F1E51CF2BCC7640BFD74CB0"
+  },
+  {
+    "old": "Flowers in Vase\\tmp\\transfer-standard\\before-transfer\\flowers-in-vase-outline-8x10-600dpi.png",
+    "new": "Flowers in Vase\\info\\tmp\\transfer-standard\\before-transfer\\flowers-in-vase-outline-8x10-600dpi.png",
+    "bytes": 1161082,
+    "sha256": "1B86004DABAD7987F5D230459F87722C28C99F36E63134135A6F991BEA3D54EE"
+  },
+  {
+    "old": "Flowers in Vase\\tmp\\transfer-standard\\before-transfer\\flowers-in-vase-outline-8x10.png",
+    "new": "Flowers in Vase\\info\\tmp\\transfer-standard\\before-transfer\\flowers-in-vase-outline-8x10.png",
+    "bytes": 527944,
+    "sha256": "38912AFB50C872A76D7DD9AFBCEF095C70F357FE0E9BDCE517FF80A90F17D9BE"
+  },
+  {
+    "old": "Flowers in Vase\\tmp\\transfer-standard\\before-transfer\\flowers-in-vase-outline-8x10.svg",
+    "new": "Flowers in Vase\\info\\tmp\\transfer-standard\\before-transfer\\flowers-in-vase-outline-8x10.svg",
+    "bytes": 140112,
+    "sha256": "BE230ED3777F474B95F9B231AE84524E73DA8A7913A02C14C087E9005E810E08"
+  },
+  {
+    "old": "Flowers in Vase\\tmp\\transfer-standard\\before-transfer\\flowers-in-vase-outline.png",
+    "new": "Flowers in Vase\\info\\tmp\\transfer-standard\\before-transfer\\flowers-in-vase-outline.png",
+    "bytes": 527944,
+    "sha256": "38912AFB50C872A76D7DD9AFBCEF095C70F357FE0E9BDCE517FF80A90F17D9BE"
+  },
+  {
+    "old": "Flowers in Vase\\tmp\\transfer-standard\\before-transfer\\geometry-source.png",
+    "new": "Flowers in Vase\\info\\tmp\\transfer-standard\\before-transfer\\geometry-source.png",
+    "bytes": 527944,
+    "sha256": "38912AFB50C872A76D7DD9AFBCEF095C70F357FE0E9BDCE517FF80A90F17D9BE"
+  },
+  {
+    "old": "Flowers in Vase\\tmp\\transfer-standard\\before-transfer\\output\\pdf\\8x10\\flowers-in-vase-outline-8x10-600dpi.png",
+    "new": "Flowers in Vase\\info\\tmp\\transfer-standard\\before-transfer\\output\\pdf\\8x10\\flowers-in-vase-outline-8x10-600dpi.png",
+    "bytes": 1161082,
+    "sha256": "1B86004DABAD7987F5D230459F87722C28C99F36E63134135A6F991BEA3D54EE"
+  },
+  {
+    "old": "Flowers in Vase\\tmp\\transfer-standard\\before-transfer\\output\\pdf\\8x10\\flowers-in-vase-outline-8x10.pdf",
+    "new": "Flowers in Vase\\info\\tmp\\transfer-standard\\before-transfer\\output\\pdf\\8x10\\flowers-in-vase-outline-8x10.pdf",
+    "bytes": 59369,
+    "sha256": "542E21D9B642D6F73B4A232F712D5312C452B34AAB574F497537101B6072DD01"
+  },
+  {
+    "old": "Flowers in Vase\\tmp\\transfer-standard\\before-transfer\\output\\pdf\\8x10\\flowers-in-vase-outline-8x10.png",
+    "new": "Flowers in Vase\\info\\tmp\\transfer-standard\\before-transfer\\output\\pdf\\8x10\\flowers-in-vase-outline-8x10.png",
+    "bytes": 527944,
+    "sha256": "38912AFB50C872A76D7DD9AFBCEF095C70F357FE0E9BDCE517FF80A90F17D9BE"
+  },
+  {
+    "old": "Flowers in Vase\\tmp\\transfer-standard\\before-transfer\\output\\svg\\8x10\\flowers-in-vase-outline-8x10.svg",
+    "new": "Flowers in Vase\\info\\tmp\\transfer-standard\\before-transfer\\output\\svg\\8x10\\flowers-in-vase-outline-8x10.svg",
+    "bytes": 140112,
+    "sha256": "BE230ED3777F474B95F9B231AE84524E73DA8A7913A02C14C087E9005E810E08"
+  },
+  {
+    "old": "Flowers in Vase\\tmp\\vector\\build-vector.cjs",
+    "new": "Flowers in Vase\\info\\tmp\\vector\\build-vector.cjs",
+    "bytes": 6780,
+    "sha256": "F2BD104E43AFD4E7FC5BE693EFB3BB00DBBA918DE11107ABAC730B4E3B5B20FB"
+  },
+  {
+    "old": "Flowers in Vase\\tmp\\vector\\deliverable.json",
+    "new": "Flowers in Vase\\info\\tmp\\vector\\deliverable.json",
+    "bytes": 194,
+    "sha256": "A6DF5BC6758BF95FA202B81E8BAD2CA4409E28B56CD75B64FF8AE70659A7707B"
+  },
+  {
+    "old": "Flowers in Vase\\tmp\\vector\\flowers-in-vase-outline-8x10-600dpi.png",
+    "new": "Flowers in Vase\\info\\tmp\\vector\\flowers-in-vase-outline-8x10-600dpi.png",
+    "bytes": 909095,
+    "sha256": "CE6D3F21B7A91EB60BFCD1D528D2CFC6D41FB3A06DFB579A9F189C99832522A7"
+  },
+  {
+    "old": "Flowers in Vase\\tmp\\vector\\flowers-in-vase-outline-8x10.svg",
+    "new": "Flowers in Vase\\info\\tmp\\vector\\flowers-in-vase-outline-8x10.svg",
+    "bytes": 109781,
+    "sha256": "D2FAEAE8B38D1350812B2481AA2D1BB5B59CF16D53CA90F71EFD4DB1747F3E72"
+  },
+  {
+    "old": "Flowers in Vase\\tmp\\vector\\review-and-promote.cjs",
+    "new": "Flowers in Vase\\info\\tmp\\vector\\review-and-promote.cjs",
+    "bytes": 1823,
+    "sha256": "2FEB8344125F228DBC61BEFFB80105042BC5AE014892877F5539E5A46C9DE66B"
+  },
+  {
+    "old": "Flowers in Vase\\tmp\\vector\\review-notes.md",
+    "new": "Flowers in Vase\\info\\tmp\\vector\\review-notes.md",
+    "bytes": 1251,
+    "sha256": "6C0BD2057C2C0793FF8B43A33FC22C9B20A2A438429179F15F78B994EDE59207"
+  },
+  {
+    "old": "Flowers in Vase\\tmp\\vector\\source-vector-comparison.png",
+    "new": "Flowers in Vase\\info\\tmp\\vector\\source-vector-comparison.png",
+    "bytes": 729887,
+    "sha256": "442B4089749AE11F4460CF3179728D01E0DD30CC3FE0E8083F9008E90F3A9242"
+  },
+  {
+    "old": "Flowers in Vase\\tmp\\vector\\vector-native-review.png",
+    "new": "Flowers in Vase\\info\\tmp\\vector\\vector-native-review.png",
+    "bytes": 193604,
+    "sha256": "5B8D7A3B24F7FB830EB3804147C9AE27E73CB9E1F75D948E72D634DA0661B300"
+  },
+  {
+    "old": "Flowers in Vase\\tmp\\vector\\vector-review-contact.png",
+    "new": "Flowers in Vase\\info\\tmp\\vector\\vector-review-contact.png",
+    "bytes": 83911,
+    "sha256": "0F8B8AFAEB7E11B9C43CDD794EA2A05C08B58FAC914FE9D916DC44A0A836E597"
+  },
+  {
+    "old": "Flowers in Vase\\tmp\\vector\\vector-review.png",
+    "new": "Flowers in Vase\\info\\tmp\\vector\\vector-review.png",
+    "bytes": 78746,
+    "sha256": "B03B38924BE2AC3D8BB39532233CF0982AEE02468A60124BDABF557EB90B4752"
+  },
+  {
+    "old": "Flowers in Vase\\tmp\\vector\\vector-white-review.png",
+    "new": "Flowers in Vase\\info\\tmp\\vector\\vector-white-review.png",
+    "bytes": 123852,
+    "sha256": "1995E143E1EEF6551CF6456C4FF39633D997DCA00FDD995D451C3085371CF2DB"
+  },
+  {
+    "old": "Flowers in Vase\\tmp\\vector\\verification.json",
+    "new": "Flowers in Vase\\info\\tmp\\vector\\verification.json",
+    "bytes": 614,
+    "sha256": "D5F3C4127CE2DB889C1293CAECA7E33828334B36BDB9C12E404EA36A7A291A53"
+  },
+  {
+    "old": "Flowers in Vase\\flowers-in-vase-finished-reference-8x10.png",
+    "new": "Flowers in Vase\\info\\archive\\previous-root-files\\flowers-in-vase-finished-reference-8x10.png",
+    "bytes": 10841303,
+    "sha256": "B14781B8E06C1A48E2627667DD598B9290B028C44AF1CA15C5E068645429C3A7"
+  },
+  {
+    "old": "Flowers in Vase\\flowers-in-vase-finished-reference-blended.png",
+    "new": "Flowers in Vase\\info\\archive\\previous-root-files\\flowers-in-vase-finished-reference-blended.png",
+    "bytes": 4355433,
+    "sha256": "A070548DA4C523D501EEE078A81E0B9DE12991D764203652F2108AFE7665DC92"
+  },
+  {
+    "old": "Flowers in Vase\\flowers-in-vase-finished-reference.png",
+    "new": "Flowers in Vase\\info\\archive\\previous-root-files\\flowers-in-vase-finished-reference.png",
+    "bytes": 10841303,
+    "sha256": "B14781B8E06C1A48E2627667DD598B9290B028C44AF1CA15C5E068645429C3A7"
+  },
+  {
+    "old": "Flowers in Vase\\flowers-in-vase-outline-8x10-600dpi.png",
+    "new": "Flowers in Vase\\info\\archive\\previous-root-files\\flowers-in-vase-outline-8x10-600dpi.png",
+    "bytes": 1548872,
+    "sha256": "8BC4C15B813A1CC9F8B07B2F59B2180CDBAAAB857252197792BA92EBE77F449E"
+  },
+  {
+    "old": "Flowers in Vase\\flowers-in-vase-outline-8x10.png",
+    "new": "Flowers in Vase\\info\\archive\\previous-root-files\\flowers-in-vase-outline-8x10.png",
+    "bytes": 701942,
+    "sha256": "93A32B1FEEA7E1EBC25845921E00A5BFE534454BF1AF5E0AB06D340BB027919C"
+  },
+  {
+    "old": "Flowers in Vase\\flowers-in-vase-outline-8x10.svg",
+    "new": "Flowers in Vase\\info\\archive\\previous-root-files\\flowers-in-vase-outline-8x10.svg",
+    "bytes": 48050,
+    "sha256": "76BBDD0008ECAB67356FC3F46C0D8D91A8E07777D1F7A78CC8FC8896C555226F"
+  },
+  {
+    "old": "Flowers in Vase\\flowers-in-vase-outline.png",
+    "new": "Flowers in Vase\\info\\archive\\previous-root-files\\flowers-in-vase-outline.png",
+    "bytes": 701942,
+    "sha256": "93A32B1FEEA7E1EBC25845921E00A5BFE534454BF1AF5E0AB06D340BB027919C"
+  },
+  {
+    "old": "Flowers in Vase\\flowers-in-vase-source-photo.png",
+    "new": "Flowers in Vase\\info\\archive\\previous-root-files\\flowers-in-vase-source-photo.png",
+    "bytes": 832970,
+    "sha256": "6B2971E4A63121450A52B09FFAD219BF2DED10CC62F98B0D056EDE2CFB9C28B7"
+  },
+  {
+    "old": "Flowers in Vase\\Screenshot 2026-09-18 184331.png",
+    "new": "Flowers in Vase\\info\\archive\\previous-root-files\\Screenshot 2026-09-18 184331.png",
+    "bytes": 832970,
+    "sha256": "6B2971E4A63121450A52B09FFAD219BF2DED10CC62F98B0D056EDE2CFB9C28B7"
+  },
+  {
+    "old": "Flowers in Vase\\START-HERE.md",
+    "new": "Flowers in Vase\\info\\archive\\previous-root-files\\START-HERE.md",
+    "bytes": 1617,
+    "sha256": "4C31D829BB08B58CAD86EDA53F2848228235B3870C572AE26EC1AF9A276DE4C5"
+  },
+  {
+    "old": "Flowers in Vase\\TRANSFER-OUTLINE.md",
+    "new": "Flowers in Vase\\info\\archive\\previous-root-files\\TRANSFER-OUTLINE.md",
+    "bytes": 904,
+    "sha256": "34FEC5367E63048F2B9DC6C30FDB0C49417FAB89AF9CE6B58E2B2E13F510ED7F"
+  }
+]

@@ -1,0 +1,297 @@
+{
+  "palette": "white, black, red, yellow, blue, green, brown",
+  "steps": [
+    [
+      "Set up your canvas",
+      "Cover your table. Follow the printed outlines. Rinse and blot your brush between colors.",
+      []
+    ],
+    [
+      "Paint the background",
+      "Mix white with a touch of blue for the sky. Paint snow white. Work around printed shapes.",
+      [
+        "sky",
+        "snow"
+      ]
+    ],
+    [
+      "Paint the trees",
+      "Paint trees green; keep lights white. Use downward strokes. Mix green and a little yellow for highlights.",
+      [
+        "green"
+      ]
+    ],
+    [
+      "Paint hat and coat",
+      "Use red in thin layers. Leave the nose, beard, pom-pom and light circles white.",
+      [
+        "red"
+      ]
+    ],
+    [
+      "Add nose and shoes",
+      "For peach, mix white, a little yellow and a tiny touch of red. Paint the nose peach and the shoes brown.",
+      [
+        "skin",
+        "brown"
+      ]
+    ],
+    [
+      "Paint the fluffy whites",
+      "Paint beard and pom-pom white. For shadows, mix white, a touch of blue and a speck of black.",
+      [
+        "ivory"
+      ]
+    ],
+    [
+      "Shape the hat folds",
+      "Mix red with a little brown for shadows. Blend along the hat folds. Add red with a touch of yellow for highlights. Let dry.",
+      [
+        "detail"
+      ],
+      [
+        280,
+        85,
+        270,
+        350
+      ]
+    ],
+    [
+      "Light up the hat",
+      "Paint bulbs yellow over a dry white base. Add white shine dots. Use green and a speck of black for the cord.",
+      [
+        "gold",
+        "dark"
+      ]
+    ],
+    [
+      "Paint the tree lights",
+      "Use blue and yellow. Let dry, then add tiny white dots to make the ornaments shine.",
+      [
+        "blue",
+        "treeGold"
+      ],
+      [
+        15,
+        440,
+        210,
+        320
+      ]
+    ],
+    [
+      "Brighten the snow",
+      "Mix white with a touch of blue for snow shadows. Add white highlights to snow and beard.",
+      null,
+      [
+        160,
+        660,
+        470,
+        300
+      ]
+    ],
+    [
+      "Add finishing touches",
+      "Let paint dry before fixing edges. Add a few white snow dots to the hat if you like.",
+      null,
+      [
+        245,
+        65,
+        300,
+        355
+      ]
+    ],
+    [
+      "Let it dry",
+      "Lay your canvas flat until dry. Wash brushes, close paint pots and clean your palette.",
+      null
+    ]
+  ],
+  "records": [
+    {
+      "step": 1,
+      "painted": [],
+      "crop": null,
+      "unpaintedColorErrors": 0
+    },
+    {
+      "step": 2,
+      "painted": [
+        "sky",
+        "snow"
+      ],
+      "crop": null,
+      "unpaintedColorErrors": 0
+    },
+    {
+      "step": 3,
+      "painted": [
+        "sky",
+        "snow",
+        "green"
+      ],
+      "crop": null,
+      "unpaintedColorErrors": 0
+    },
+    {
+      "step": 4,
+      "painted": [
+        "sky",
+        "snow",
+        "green",
+        "red"
+      ],
+      "crop": null,
+      "unpaintedColorErrors": 0
+    },
+    {
+      "step": 5,
+      "painted": [
+        "sky",
+        "snow",
+        "green",
+        "red",
+        "skin",
+        "brown"
+      ],
+      "crop": null,
+      "unpaintedColorErrors": 0
+    },
+    {
+      "step": 6,
+      "painted": [
+        "sky",
+        "snow",
+        "green",
+        "red",
+        "skin",
+        "brown",
+        "ivory"
+      ],
+      "crop": null,
+      "unpaintedColorErrors": 0
+    },
+    {
+      "step": 7,
+      "painted": [
+        "sky",
+        "snow",
+        "green",
+        "red",
+        "skin",
+        "brown",
+        "ivory",
+        "detail"
+      ],
+      "crop": [
+        280,
+        85,
+        270,
+        350
+      ],
+      "unpaintedColorErrors": 0
+    },
+    {
+      "step": 8,
+      "painted": [
+        "sky",
+        "snow",
+        "green",
+        "red",
+        "skin",
+        "brown",
+        "ivory",
+        "detail",
+        "gold",
+        "dark"
+      ],
+      "crop": null,
+      "unpaintedColorErrors": 0
+    },
+    {
+      "step": 9,
+      "painted": [
+        "sky",
+        "snow",
+        "green",
+        "red",
+        "skin",
+        "brown",
+        "ivory",
+        "detail",
+        "gold",
+        "dark",
+        "blue",
+        "treeGold",
+        "orange",
+        "boots",
+        "goldLeaves",
+        "greenGround"
+      ],
+      "crop": [
+        15,
+        440,
+        210,
+        320
+      ],
+      "unpaintedColorErrors": 0
+    },
+    {
+      "step": 10,
+      "painted": [
+        "sky",
+        "snow",
+        "green",
+        "red",
+        "skin",
+        "brown",
+        "ivory",
+        "detail",
+        "gold",
+        "dark",
+        "blue",
+        "treeGold",
+        "orange",
+        "boots",
+        "goldLeaves",
+        "greenGround"
+      ],
+      "crop": [
+        160,
+        660,
+        470,
+        300
+      ],
+      "unpaintedColorErrors": 0
+    },
+    {
+      "step": 11,
+      "painted": [
+        "sky",
+        "snow",
+        "green",
+        "red",
+        "skin",
+        "brown",
+        "ivory",
+        "detail",
+        "gold",
+        "dark",
+        "blue",
+        "treeGold",
+        "orange",
+        "boots",
+        "goldLeaves",
+        "greenGround"
+      ],
+      "crop": [
+        245,
+        65,
+        300,
+        355
+      ],
+      "unpaintedColorErrors": 0
+    }
+  ],
+  "svgUnchanged": true,
+  "geometry": "Masks derived from original test geometry used by current SVG; exact current SVG overlay in full stages."
+}

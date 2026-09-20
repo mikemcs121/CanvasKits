@@ -1,0 +1,30 @@
+[
+    {
+        "pages":  1,
+        "widthPoints":  612,
+        "file":  "C:\\Projects\\Canvas Kits\\Gnome Fall/output/pdf/8x10/gnome-fall-painting-guide-8x10.pdf",
+        "heightPoints":  792,
+        "rendered":  "C:\\Projects\\Canvas Kits\\Gnome Fall/output/pdf/8x10/gnome-fall-painting-guide-8x10.png"
+    },
+    {
+        "pages":  1,
+        "widthPoints":  576,
+        "file":  "C:\\Projects\\Canvas Kits\\Gnome Fall/output/pdf/8x10/gnome-fall-finished-reference-8x10.pdf",
+        "heightPoints":  720,
+        "rendered":  "C:\\Projects\\Canvas Kits\\Gnome Fall/tmp/organization/reference-pdf-render.png"
+    },
+    {
+        "pages":  1,
+        "widthPoints":  612,
+        "file":  "C:\\Projects\\Canvas Kits\\Gnome Christmas Tree/output/pdf/8x10/gnome-christmas-tree-painting-guide-8x10.pdf",
+        "heightPoints":  792,
+        "rendered":  "C:\\Projects\\Canvas Kits\\Gnome Christmas Tree/output/pdf/8x10/gnome-christmas-tree-painting-guide-8x10.png"
+    },
+    {
+        "pages":  1,
+        "widthPoints":  576,
+        "file":  "C:\\Projects\\Canvas Kits\\Gnome Christmas Tree/output/pdf/8x10/gnome-christmas-tree-finished-reference-8x10.pdf",
+        "heightPoints":  720,
+        "rendered":  "C:\\Projects\\Canvas Kits\\Gnome Christmas Tree/tmp/organization/reference-pdf-render.png"
+    }
+]
