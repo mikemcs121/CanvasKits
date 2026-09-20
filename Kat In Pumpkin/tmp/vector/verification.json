@@ -1,0 +1,28 @@
+{
+  "kit": "Kat In Pumpkin",
+  "sourceSha256": "45c97a8ef2bc5191d5177c67c8dfea294782981400dd080b54941d2c779b62af",
+  "trueVector": true,
+  "embeddedRasterImages": 0,
+  "background": "transparent",
+  "fill": "#000000",
+  "physicalInches": [
+    8,
+    10
+  ],
+  "viewBox": [
+    0,
+    0,
+    2400,
+    3000
+  ],
+  "nativePixels": [
+    1254,
+    1254
+  ],
+  "sourceInk": 156190,
+  "vectorInk": 156970,
+  "intersectionOverUnion": 0.9672707855639665,
+  "differencesBeyondOnePixel": 3,
+  "subpaths": 39,
+  "svgBytes": 53235
+}

@@ -1,0 +1,20 @@
+{
+  "kit": "Pumkin",
+  "color": "#A6A6A6",
+  "linePoints": 1.4,
+  "pixels": [
+    2400,
+    3000
+  ],
+  "svgInches": [
+    8,
+    10
+  ],
+  "paths": 44,
+  "originalInk": 533374,
+  "skeletonPixels": 22629,
+  "thinningPasses": 17,
+  "source": "C:\\Projects\\Canvas Kits\\Pumkin\\pumpkin-outline-8x10.png",
+  "sourceSha256": "19116aca387f2aea1cfd0e49195629b566fd0b06bd238a45e94d10fc2ec5476d",
+  "newVectorBytes": 7709
+}

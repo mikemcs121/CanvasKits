@@ -1,0 +1,65 @@
+{
+  "originalRecoveredByteForByte": true,
+  "sourceSha256": "9145ea5e5dd21347feb775d0e89d0cffce4cf82010c2333b2ccfba7551f73167",
+  "stages": [
+    {
+      "step": 1,
+      "canonicalLinesPass": true,
+      "noPrematureColor": true,
+      "crop": null
+    },
+    {
+      "step": 2,
+      "canonicalLinesPass": true,
+      "noPrematureColor": true,
+      "crop": null
+    },
+    {
+      "step": 3,
+      "canonicalLinesPass": true,
+      "noPrematureColor": true,
+      "crop": null
+    },
+    {
+      "step": 4,
+      "canonicalLinesPass": true,
+      "noPrematureColor": true,
+      "crop": null
+    },
+    {
+      "step": 5,
+      "canonicalLinesPass": true,
+      "noPrematureColor": true,
+      "crop": null
+    },
+    {
+      "step": 6,
+      "canonicalLinesPass": true,
+      "noPrematureColor": true,
+      "crop": [
+        290,
+        305,
+        790,
+        825
+      ]
+    },
+    {
+      "step": 7,
+      "canonicalLinesPass": true,
+      "noPrematureColor": true,
+      "crop": [
+        425,
+        25,
+        830,
+        365
+      ]
+    },
+    {
+      "step": 8,
+      "canonicalLinesPass": true,
+      "noPrematureColor": true,
+      "crop": null
+    }
+  ],
+  "finalStageExactlyMatchesReference": true
+}

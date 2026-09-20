@@ -1,0 +1,263 @@
+{
+  "folder": "pumpkin",
+  "slug": "pumpkin",
+  "title": "Autumn Pumpkin",
+  "source": "exec-dd3ad511-2377-40d8-bb15-dd9d9771fcbc.png",
+  "paints": [
+    "white",
+    "black",
+    "yellow",
+    "green",
+    "brown",
+    "orange"
+  ],
+  "groups": {
+    "orange": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      14,
+      15,
+      16
+    ],
+    "stem": [
+      2
+    ],
+    "dark": [
+      10,
+      11,
+      12,
+      13
+    ]
+  },
+  "steps": [
+    {
+      "heading": "Start with the outline",
+      "caption": "Protect your table. Follow the preprinted lines. Keep the background white. Use thin coats; rinse and blot between colors.",
+      "paint": []
+    },
+    {
+      "heading": "An even orange base",
+      "caption": "Paint the pumpkin orange in two thin coats, drying between coats. Leave the stem and carved face white; keep both teeth orange.",
+      "paint": [
+        "orange"
+      ]
+    },
+    {
+      "heading": "Olive-green stem",
+      "caption": "Mix green with brown for olive. Paint the stem, following its bend. Keep the outer printed contour clear.",
+      "paint": [
+        "stem"
+      ]
+    },
+    {
+      "heading": "The carved smile",
+      "caption": "Mix black with a little brown. Fill the eyes, nose and mouth carefully around the orange teeth. Let these dark shapes dry.",
+      "paint": [
+        "dark",
+        "texture:dark"
+      ]
+    },
+    {
+      "heading": "Shape the grooves",
+      "caption": "Mix orange with brown for russet shadows. Pull narrow curved strokes beside the printed grooves and around the pumpkin base.",
+      "paint": [
+        "texture:orange"
+      ]
+    },
+    {
+      "heading": "Golden rib highlights",
+      "caption": "Mix orange with yellow and a little white. Pull lighter strokes down the raised ribs, leaving the shaded grooves visible.",
+      "paint": [],
+      "crop": [
+        290,
+        305,
+        790,
+        825
+      ]
+    },
+    {
+      "heading": "Stem & finishing edges",
+      "caption": "Mix yellow with brown and a little white for stem highlights. Pull strokes along the bend; tidy carved edges with black and brown.",
+      "paint": [
+        "texture:stem"
+      ],
+      "crop": [
+        425,
+        25,
+        830,
+        365
+      ]
+    },
+    {
+      "heading": "Dry & clean up",
+      "caption": "Lay the canvas flat until fully dry. Wash brushes, wipe the palette and close the paint pots.",
+      "paint": []
+    }
+  ],
+  "dimensions": [
+    1254,
+    1254
+  ],
+  "groupNames": [
+    "white",
+    "orange",
+    "stem",
+    "dark"
+  ],
+  "materials": "Preprinted 8 x 10 canvas; acrylic paints; large and small brushes; water cup; paper towels; palette or paper plate.",
+  "stages": [
+    {
+      "number": 1,
+      "heading": "Start with the outline",
+      "caption": "Protect your table. Follow the preprinted lines. Keep the background white. Use thin coats; rinse and blot between colors.",
+      "fullCanvas": true,
+      "crop": null,
+      "paintedGroups": [],
+      "texturedGroups": [],
+      "whiteGroups": [
+        "orange",
+        "stem",
+        "dark"
+      ],
+      "exactCanonicalLines": true
+    },
+    {
+      "number": 2,
+      "heading": "An even orange base",
+      "caption": "Paint the pumpkin orange in two thin coats, drying between coats. Leave the stem and carved face white; keep both teeth orange.",
+      "fullCanvas": true,
+      "crop": null,
+      "paintedGroups": [
+        "orange"
+      ],
+      "texturedGroups": [],
+      "whiteGroups": [
+        "stem",
+        "dark"
+      ],
+      "exactCanonicalLines": true
+    },
+    {
+      "number": 3,
+      "heading": "Olive-green stem",
+      "caption": "Mix green with brown for olive. Paint the stem, following its bend. Keep the outer printed contour clear.",
+      "fullCanvas": true,
+      "crop": null,
+      "paintedGroups": [
+        "orange",
+        "stem"
+      ],
+      "texturedGroups": [],
+      "whiteGroups": [
+        "dark"
+      ],
+      "exactCanonicalLines": true
+    },
+    {
+      "number": 4,
+      "heading": "The carved smile",
+      "caption": "Mix black with a little brown. Fill the eyes, nose and mouth carefully around the orange teeth. Let these dark shapes dry.",
+      "fullCanvas": true,
+      "crop": null,
+      "paintedGroups": [
+        "orange",
+        "stem",
+        "dark"
+      ],
+      "texturedGroups": [
+        "dark"
+      ],
+      "whiteGroups": [],
+      "exactCanonicalLines": true
+    },
+    {
+      "number": 5,
+      "heading": "Shape the grooves",
+      "caption": "Mix orange with brown for russet shadows. Pull narrow curved strokes beside the printed grooves and around the pumpkin base.",
+      "fullCanvas": true,
+      "crop": null,
+      "paintedGroups": [
+        "orange",
+        "stem",
+        "dark"
+      ],
+      "texturedGroups": [
+        "dark",
+        "orange"
+      ],
+      "whiteGroups": [],
+      "exactCanonicalLines": true
+    },
+    {
+      "number": 6,
+      "heading": "Golden rib highlights",
+      "caption": "Mix orange with yellow and a little white. Pull lighter strokes down the raised ribs, leaving the shaded grooves visible.",
+      "fullCanvas": false,
+      "crop": [
+        290,
+        305,
+        790,
+        825
+      ],
+      "paintedGroups": [
+        "orange",
+        "stem",
+        "dark"
+      ],
+      "texturedGroups": [
+        "dark",
+        "orange"
+      ],
+      "whiteGroups": [],
+      "exactCanonicalLines": true
+    },
+    {
+      "number": 7,
+      "heading": "Stem & finishing edges",
+      "caption": "Mix yellow with brown and a little white for stem highlights. Pull strokes along the bend; tidy carved edges with black and brown.",
+      "fullCanvas": false,
+      "crop": [
+        425,
+        25,
+        830,
+        365
+      ],
+      "paintedGroups": [
+        "orange",
+        "stem",
+        "dark"
+      ],
+      "texturedGroups": [
+        "dark",
+        "orange",
+        "stem"
+      ],
+      "whiteGroups": [],
+      "exactCanonicalLines": true
+    },
+    {
+      "number": 8,
+      "heading": "Dry & clean up",
+      "caption": "Lay the canvas flat until fully dry. Wash brushes, wipe the palette and close the paint pots.",
+      "fullCanvas": true,
+      "crop": null,
+      "paintedGroups": [
+        "orange",
+        "stem",
+        "dark"
+      ],
+      "texturedGroups": [
+        "dark",
+        "orange",
+        "stem"
+      ],
+      "whiteGroups": [],
+      "exactCanonicalLines": true
+    }
+  ]
+}

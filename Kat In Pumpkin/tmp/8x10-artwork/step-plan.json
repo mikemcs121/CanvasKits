@@ -1,0 +1,430 @@
+{
+  "folder": "Kat In Pumpkin",
+  "slug": "kat-in-pumpkin",
+  "title": "Cat in a Pumpkin",
+  "source": "exec-01c35205-b359-4887-a7f9-a31e173a5e1f.png",
+  "paints": [
+    "white",
+    "black",
+    "red",
+    "yellow",
+    "blue",
+    "brown",
+    "orange"
+  ],
+  "groups": {
+    "orange": [
+      17,
+      20,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      33
+    ],
+    "cat": [
+      2,
+      3,
+      12,
+      16,
+      18
+    ],
+    "dark": [
+      14,
+      15,
+      29,
+      30,
+      31,
+      32
+    ],
+    "pink": [
+      10,
+      11
+    ],
+    "gold": [
+      4,
+      7
+    ]
+  },
+  "steps": [
+    {
+      "heading": "Start with the outline",
+      "caption": "Protect your table. Follow the preprinted lines. Keep the background white. Use thin coats; rinse and blot between colors.",
+      "paint": []
+    },
+    {
+      "heading": "Orange pumpkin base",
+      "caption": "Paint the pumpkin shell and rim orange in thin coats. Leave the carved face, opening and kitten white.",
+      "paint": [
+        "orange"
+      ]
+    },
+    {
+      "heading": "Charcoal kitten",
+      "caption": "Mix black with white and a touch of blue for charcoal gray. Paint the head, paws and curled tail; leave inner ears and nose clear.",
+      "paint": [
+        "cat"
+      ]
+    },
+    {
+      "heading": "Rose ears & nose",
+      "caption": "Mix white with a little red and a tiny touch of brown for dusty rose. Paint the inner ears, nose and tongue.",
+      "paint": [
+        "pink",
+        "texture:pink"
+      ]
+    },
+    {
+      "heading": "Golden eyes",
+      "caption": "Mix yellow with a little brown for gold. Fill the small curved eye rims; keep the black pupils and white glints distinct.",
+      "paint": [
+        "gold",
+        "texture:gold"
+      ]
+    },
+    {
+      "heading": "Deep carved shapes",
+      "caption": "Mix black with a little brown. Fill the pumpkin eyes, nose and mouth, plus the opening behind the cat. Keep the teeth orange.",
+      "paint": [
+        "dark",
+        "texture:dark"
+      ]
+    },
+    {
+      "heading": "Round the pumpkin",
+      "caption": "Mix orange with brown for the grooves. Mix orange with yellow for rib highlights. Curve each stroke down the pumpkin.",
+      "paint": [
+        "texture:orange"
+      ]
+    },
+    {
+      "heading": "Soft directional fur",
+      "caption": "Mix white, black and a touch of blue for lighter gray. Pull short strokes over the dry charcoal, following cheeks and tail.",
+      "paint": [
+        "texture:cat"
+      ]
+    },
+    {
+      "heading": "Light along the rim",
+      "caption": "Mix orange with yellow and a little white. Trace a narrow highlight on the front rim and the upper edges of pumpkin ribs.",
+      "paint": [],
+      "crop": [
+        235,
+        485,
+        1015,
+        730
+      ]
+    },
+    {
+      "heading": "Small paw highlights",
+      "caption": "Mix white with a little black and brown for warm gray. Add short strokes on the paw tops; keep the toe divisions darker.",
+      "paint": [],
+      "crop": [
+        630,
+        490,
+        845,
+        665
+      ]
+    },
+    {
+      "heading": "Whiskers & eye shine",
+      "caption": "Let the face dry. Use black and a fine brush to tidy whiskers and the smile. Add a small white dot to each eye.",
+      "paint": [],
+      "crop": [
+        310,
+        285,
+        870,
+        525
+      ]
+    },
+    {
+      "heading": "Dry & clean up",
+      "caption": "Lay the canvas flat until fully dry. Wash brushes, wipe the palette and close the paint pots.",
+      "paint": []
+    }
+  ],
+  "dimensions": [
+    1254,
+    1254
+  ],
+  "groupNames": [
+    "white",
+    "orange",
+    "cat",
+    "dark",
+    "pink",
+    "gold"
+  ],
+  "materials": "Preprinted 8 x 10 canvas; acrylic paints; large and small brushes; water cup; paper towels; palette or paper plate.",
+  "stages": [
+    {
+      "number": 1,
+      "heading": "Start with the outline",
+      "caption": "Protect your table. Follow the preprinted lines. Keep the background white. Use thin coats; rinse and blot between colors.",
+      "fullCanvas": true,
+      "crop": null,
+      "paintedGroups": [],
+      "texturedGroups": [],
+      "whiteGroups": [
+        "orange",
+        "cat",
+        "dark",
+        "pink",
+        "gold"
+      ],
+      "exactCanonicalLines": true
+    },
+    {
+      "number": 2,
+      "heading": "Orange pumpkin base",
+      "caption": "Paint the pumpkin shell and rim orange in thin coats. Leave the carved face, opening and kitten white.",
+      "fullCanvas": true,
+      "crop": null,
+      "paintedGroups": [
+        "orange"
+      ],
+      "texturedGroups": [],
+      "whiteGroups": [
+        "cat",
+        "dark",
+        "pink",
+        "gold"
+      ],
+      "exactCanonicalLines": true
+    },
+    {
+      "number": 3,
+      "heading": "Charcoal kitten",
+      "caption": "Mix black with white and a touch of blue for charcoal gray. Paint the head, paws and curled tail; leave inner ears and nose clear.",
+      "fullCanvas": true,
+      "crop": null,
+      "paintedGroups": [
+        "orange",
+        "cat"
+      ],
+      "texturedGroups": [],
+      "whiteGroups": [
+        "dark",
+        "pink",
+        "gold"
+      ],
+      "exactCanonicalLines": true
+    },
+    {
+      "number": 4,
+      "heading": "Rose ears & nose",
+      "caption": "Mix white with a little red and a tiny touch of brown for dusty rose. Paint the inner ears, nose and tongue.",
+      "fullCanvas": true,
+      "crop": null,
+      "paintedGroups": [
+        "orange",
+        "cat",
+        "pink"
+      ],
+      "texturedGroups": [
+        "pink"
+      ],
+      "whiteGroups": [
+        "dark",
+        "gold"
+      ],
+      "exactCanonicalLines": true
+    },
+    {
+      "number": 5,
+      "heading": "Golden eyes",
+      "caption": "Mix yellow with a little brown for gold. Fill the small curved eye rims; keep the black pupils and white glints distinct.",
+      "fullCanvas": true,
+      "crop": null,
+      "paintedGroups": [
+        "orange",
+        "cat",
+        "pink",
+        "gold"
+      ],
+      "texturedGroups": [
+        "pink",
+        "gold"
+      ],
+      "whiteGroups": [
+        "dark"
+      ],
+      "exactCanonicalLines": true
+    },
+    {
+      "number": 6,
+      "heading": "Deep carved shapes",
+      "caption": "Mix black with a little brown. Fill the pumpkin eyes, nose and mouth, plus the opening behind the cat. Keep the teeth orange.",
+      "fullCanvas": true,
+      "crop": null,
+      "paintedGroups": [
+        "orange",
+        "cat",
+        "pink",
+        "gold",
+        "dark"
+      ],
+      "texturedGroups": [
+        "pink",
+        "gold",
+        "dark"
+      ],
+      "whiteGroups": [],
+      "exactCanonicalLines": true
+    },
+    {
+      "number": 7,
+      "heading": "Round the pumpkin",
+      "caption": "Mix orange with brown for the grooves. Mix orange with yellow for rib highlights. Curve each stroke down the pumpkin.",
+      "fullCanvas": true,
+      "crop": null,
+      "paintedGroups": [
+        "orange",
+        "cat",
+        "pink",
+        "gold",
+        "dark"
+      ],
+      "texturedGroups": [
+        "pink",
+        "gold",
+        "dark",
+        "orange"
+      ],
+      "whiteGroups": [],
+      "exactCanonicalLines": true
+    },
+    {
+      "number": 8,
+      "heading": "Soft directional fur",
+      "caption": "Mix white, black and a touch of blue for lighter gray. Pull short strokes over the dry charcoal, following cheeks and tail.",
+      "fullCanvas": true,
+      "crop": null,
+      "paintedGroups": [
+        "orange",
+        "cat",
+        "pink",
+        "gold",
+        "dark"
+      ],
+      "texturedGroups": [
+        "pink",
+        "gold",
+        "dark",
+        "orange",
+        "cat"
+      ],
+      "whiteGroups": [],
+      "exactCanonicalLines": true
+    },
+    {
+      "number": 9,
+      "heading": "Light along the rim",
+      "caption": "Mix orange with yellow and a little white. Trace a narrow highlight on the front rim and the upper edges of pumpkin ribs.",
+      "fullCanvas": false,
+      "crop": [
+        235,
+        485,
+        1015,
+        730
+      ],
+      "paintedGroups": [
+        "orange",
+        "cat",
+        "pink",
+        "gold",
+        "dark"
+      ],
+      "texturedGroups": [
+        "pink",
+        "gold",
+        "dark",
+        "orange",
+        "cat"
+      ],
+      "whiteGroups": [],
+      "exactCanonicalLines": true
+    },
+    {
+      "number": 10,
+      "heading": "Small paw highlights",
+      "caption": "Mix white with a little black and brown for warm gray. Add short strokes on the paw tops; keep the toe divisions darker.",
+      "fullCanvas": false,
+      "crop": [
+        630,
+        490,
+        845,
+        665
+      ],
+      "paintedGroups": [
+        "orange",
+        "cat",
+        "pink",
+        "gold",
+        "dark"
+      ],
+      "texturedGroups": [
+        "pink",
+        "gold",
+        "dark",
+        "orange",
+        "cat"
+      ],
+      "whiteGroups": [],
+      "exactCanonicalLines": true
+    },
+    {
+      "number": 11,
+      "heading": "Whiskers & eye shine",
+      "caption": "Let the face dry. Use black and a fine brush to tidy whiskers and the smile. Add a small white dot to each eye.",
+      "fullCanvas": false,
+      "crop": [
+        310,
+        285,
+        870,
+        525
+      ],
+      "paintedGroups": [
+        "orange",
+        "cat",
+        "pink",
+        "gold",
+        "dark"
+      ],
+      "texturedGroups": [
+        "pink",
+        "gold",
+        "dark",
+        "orange",
+        "cat"
+      ],
+      "whiteGroups": [],
+      "exactCanonicalLines": true
+    },
+    {
+      "number": 12,
+      "heading": "Dry & clean up",
+      "caption": "Lay the canvas flat until fully dry. Wash brushes, wipe the palette and close the paint pots.",
+      "fullCanvas": true,
+      "crop": null,
+      "paintedGroups": [
+        "orange",
+        "cat",
+        "pink",
+        "gold",
+        "dark"
+      ],
+      "texturedGroups": [
+        "pink",
+        "gold",
+        "dark",
+        "orange",
+        "cat"
+      ],
+      "whiteGroups": [],
+      "exactCanonicalLines": true
+    }
+  ]
+}

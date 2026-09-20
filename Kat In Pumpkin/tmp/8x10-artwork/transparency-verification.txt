@@ -1,0 +1,1 @@
+2400 x 3000, 300 DPI; black RGB only; 6589996 transparent pixels; white-composite maximum difference 0/255
