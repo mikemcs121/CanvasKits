@@ -1,0 +1,20 @@
+{
+  "kit": "Flowers in Vase",
+  "color": "#A6A6A6",
+  "linePoints": 1.4,
+  "pixels": [
+    2400,
+    3000
+  ],
+  "svgInches": [
+    8,
+    10
+  ],
+  "paths": 629,
+  "originalInk": 633078,
+  "skeletonPixels": 81778,
+  "thinningPasses": 10,
+  "source": "C:\\Projects\\Canvas Kits\\Flowers in Vase\\flowers-in-vase-outline-8x10.png",
+  "sourceSha256": "38912afb50c872a76d7dd9afbcef095c70f357fe0e9bdce517ff80a90f17d9be",
+  "newVectorBytes": 48052
+}

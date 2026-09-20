@@ -1,0 +1,30 @@
+[
+  {
+    "kit": "Flowers in Vase",
+    "sourceSha256": "40547b6bec5fbdc82f2f59f174ab63ce017aa5310e25800ccde64220622668e6",
+    "trueVector": true,
+    "embeddedRasterImages": 0,
+    "background": "transparent",
+    "fill": "#000000",
+    "physicalInches": [
+      8,
+      10
+    ],
+    "viewBox": [
+      0,
+      0,
+      2400,
+      3000
+    ],
+    "nativePixels": [
+      1254,
+      1254
+    ],
+    "sourceInk": 144669,
+    "vectorInk": 147891,
+    "intersectionOverUnion": 0.9334117553760953,
+    "differencesBeyondOnePixel": 0,
+    "subpaths": 150,
+    "svgBytes": 109780
+  }
+]

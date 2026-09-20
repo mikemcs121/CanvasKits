@@ -1,0 +1,17 @@
+{
+  "kit": "Flowers in Vase",
+  "physicalInches": [
+    8,
+    10
+  ],
+  "linePoints": 1.4,
+  "color": "#A6A6A6",
+  "kids": false,
+  "trueVector": true,
+  "transparentPixels": 6672965,
+  "opaqueLinePixels": 386031,
+  "wrongOpaqueColorPixels": 0,
+  "svgSha256": "b677dbc3f67d5da3c3cf210a02e8011d04c6188ea3a64b8e07545a2a8d435a29",
+  "originalSourceSha256": "38912afb50c872a76d7dd9afbcef095c70f357fe0e9bdce517ff80a90f17d9be",
+  "compositionChanged": false
+}

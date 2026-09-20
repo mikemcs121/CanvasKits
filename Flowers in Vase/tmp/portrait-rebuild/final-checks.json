@@ -1,0 +1,23 @@
+{
+  "trueVector": true,
+  "outlineBounds": [
+    0,
+    0,
+    1119,
+    1399
+  ],
+  "nativeCanvas": [
+    1120,
+    1400
+  ],
+  "transparentPixels": 1399441,
+  "paintingOpaquePixels": 7200000,
+  "whiteEdgePixels": 0,
+  "checkedPNGs": [
+    "flowers-in-vase-outline-8x10.png",
+    "flowers-in-vase-finished-reference-8x10.png",
+    "flowers-in-vase-outline-8x10-600dpi.png"
+  ],
+  "originalSourcePreserved": true,
+  "stageChecksPassed": true
+}

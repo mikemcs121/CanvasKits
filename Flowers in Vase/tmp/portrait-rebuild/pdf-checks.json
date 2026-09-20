@@ -1,0 +1,23 @@
+[
+    {
+        "pages":  1,
+        "widthPoints":  612,
+        "file":  "flowers-in-vase-painting-guide-8x10.pdf",
+        "heightPoints":  792,
+        "render":  "C:\\Projects\\Canvas Kits\\Flowers in Vase\\tmp\\portrait-rebuild\\flowers-in-vase-painting-guide-8x10-render.png"
+    },
+    {
+        "pages":  1,
+        "widthPoints":  576,
+        "file":  "flowers-in-vase-finished-reference-8x10.pdf",
+        "heightPoints":  720,
+        "render":  "C:\\Projects\\Canvas Kits\\Flowers in Vase\\tmp\\portrait-rebuild\\flowers-in-vase-finished-reference-8x10-render.png"
+    },
+    {
+        "pages":  1,
+        "widthPoints":  576,
+        "file":  "flowers-in-vase-outline-8x10.pdf",
+        "heightPoints":  720,
+        "render":  "C:\\Projects\\Canvas Kits\\Flowers in Vase\\tmp\\portrait-rebuild\\flowers-in-vase-outline-8x10-render.png"
+    }
+]
