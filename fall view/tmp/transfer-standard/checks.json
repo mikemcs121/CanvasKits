@@ -1,0 +1,20 @@
+{
+  "kit": "Fall View",
+  "color": "#A6A6A6",
+  "linePoints": 1.4,
+  "pixels": [
+    2400,
+    3000
+  ],
+  "svgInches": [
+    8,
+    10
+  ],
+  "paths": 837,
+  "originalInk": 711143,
+  "skeletonPixels": 121348,
+  "thinningPasses": 16,
+  "source": "C:\\Projects\\Canvas Kits\\Fall View\\test\\fall-view-outline-8x10.png",
+  "sourceSha256": "3073bc4607cf062b394b60906e81fbb8e53bb73afd28585d4576e71c3ec9f922",
+  "newVectorBytes": 121446
+}

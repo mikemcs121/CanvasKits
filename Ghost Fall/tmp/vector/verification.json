@@ -1,0 +1,28 @@
+{
+  "kit": "Ghost Fall",
+  "sourceSha256": "eae5a3e323cd524e129e825e3158f05f46d62f3adc3753dce10ee5f078e0a609",
+  "trueVector": true,
+  "embeddedRasterImages": 0,
+  "background": "transparent",
+  "fill": "#000000",
+  "physicalInches": [
+    8,
+    10
+  ],
+  "viewBox": [
+    0,
+    0,
+    2400,
+    3000
+  ],
+  "nativePixels": [
+    1254,
+    1254
+  ],
+  "sourceInk": 116589,
+  "vectorInk": 116958,
+  "intersectionOverUnion": 0.971243363690843,
+  "differencesBeyondOnePixel": 0,
+  "subpaths": 37,
+  "svgBytes": 33026
+}

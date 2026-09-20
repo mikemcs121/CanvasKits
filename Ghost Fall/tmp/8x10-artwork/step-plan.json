@@ -1,0 +1,426 @@
+{
+  "folder": "Ghost Fall",
+  "slug": "ghost-fall",
+  "title": "Autumn Ghost",
+  "source": "exec-8b4604c1-f90d-4ddd-959b-56e4dd2b270f.png",
+  "paints": [
+    "white",
+    "black",
+    "red",
+    "yellow",
+    "blue",
+    "green",
+    "brown",
+    "orange"
+  ],
+  "groups": {
+    "ivory": [
+      5
+    ],
+    "plum": [
+      2,
+      3,
+      4,
+      6,
+      7
+    ],
+    "orange": [
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22
+    ],
+    "stem": [
+      13
+    ],
+    "pink": [
+      10,
+      11,
+      12
+    ]
+  },
+  "steps": [
+    {
+      "heading": "Start with the outline",
+      "caption": "Protect your table. Follow the preprinted lines. Keep the background white. Use thin coats; rinse and blot between colors.",
+      "paint": []
+    },
+    {
+      "heading": "An ivory-white ghost",
+      "caption": "Mix white with a tiny touch of yellow and brown for ivory. Paint the ghost and hands, keeping the bow, cheeks and pumpkin clear.",
+      "paint": [
+        "ivory"
+      ]
+    },
+    {
+      "heading": "Shade the folds",
+      "caption": "Mix white with a touch of blue and a speck of black. Add soft shadows beside the printed folds; blend into the ivory.",
+      "paint": [
+        "texture:ivory"
+      ]
+    },
+    {
+      "heading": "A rich plum bow",
+      "caption": "Mix red with blue, then a little brown for plum. Paint the bow loops, knot and ribbon tails in thin coats.",
+      "paint": [
+        "plum"
+      ]
+    },
+    {
+      "heading": "The little pumpkin",
+      "caption": "Paint the pumpkin orange. Follow its curved sections from the stem toward the base; keep the stem and hands clear.",
+      "paint": [
+        "orange"
+      ]
+    },
+    {
+      "heading": "An earthy green stem",
+      "caption": "Mix green with brown for the stem. Pull small strokes along the bend; add a little yellow to brighten its upper edge.",
+      "paint": [
+        "stem",
+        "texture:stem"
+      ]
+    },
+    {
+      "heading": "Warm cheeks & smile",
+      "caption": "Mix white with a little red and a tiny touch of yellow for peach-pink. Fill the two cheek ovals and the tongue.",
+      "paint": [
+        "pink",
+        "texture:pink"
+      ]
+    },
+    {
+      "heading": "Shape the bow folds",
+      "caption": "Add a little black to the red-blue-brown plum mix for deep folds. Add white to that plum mix for lighter ridge strokes.",
+      "paint": [
+        "texture:plum"
+      ]
+    },
+    {
+      "heading": "Pumpkin ribs & glow",
+      "caption": "Mix orange with brown for narrow groove shadows. Mix orange with yellow and a little white for curved rib highlights.",
+      "paint": [
+        "texture:orange"
+      ],
+      "crop": [
+        505,
+        600,
+        800,
+        905
+      ]
+    },
+    {
+      "heading": "Bow-edge highlights",
+      "caption": "Let the bow dry. Mix red and blue with white for pale purple. Skim the upper bow edges with a lightly loaded small brush.",
+      "paint": [],
+      "crop": [
+        180,
+        25,
+        710,
+        425
+      ]
+    },
+    {
+      "heading": "Brighten the expression",
+      "caption": "Use black to tidy the eyes and smile. Add tiny white eye dots. Use white along the forehead and hand edges for soft light.",
+      "paint": [],
+      "crop": [
+        400,
+        345,
+        840,
+        635
+      ]
+    },
+    {
+      "heading": "Dry & clean up",
+      "caption": "Lay the canvas flat until fully dry. Wash brushes, wipe the palette and close the paint pots.",
+      "paint": []
+    }
+  ],
+  "dimensions": [
+    1254,
+    1254
+  ],
+  "groupNames": [
+    "white",
+    "ivory",
+    "plum",
+    "orange",
+    "stem",
+    "pink"
+  ],
+  "materials": "Preprinted 8 x 10 canvas; acrylic paints; large and small brushes; water cup; paper towels; palette or paper plate.",
+  "stages": [
+    {
+      "number": 1,
+      "heading": "Start with the outline",
+      "caption": "Protect your table. Follow the preprinted lines. Keep the background white. Use thin coats; rinse and blot between colors.",
+      "fullCanvas": true,
+      "crop": null,
+      "paintedGroups": [],
+      "texturedGroups": [],
+      "whiteGroups": [
+        "ivory",
+        "plum",
+        "orange",
+        "stem",
+        "pink"
+      ],
+      "exactCanonicalLines": true
+    },
+    {
+      "number": 2,
+      "heading": "An ivory-white ghost",
+      "caption": "Mix white with a tiny touch of yellow and brown for ivory. Paint the ghost and hands, keeping the bow, cheeks and pumpkin clear.",
+      "fullCanvas": true,
+      "crop": null,
+      "paintedGroups": [
+        "ivory"
+      ],
+      "texturedGroups": [],
+      "whiteGroups": [
+        "plum",
+        "orange",
+        "stem",
+        "pink"
+      ],
+      "exactCanonicalLines": true
+    },
+    {
+      "number": 3,
+      "heading": "Shade the folds",
+      "caption": "Mix white with a touch of blue and a speck of black. Add soft shadows beside the printed folds; blend into the ivory.",
+      "fullCanvas": true,
+      "crop": null,
+      "paintedGroups": [
+        "ivory"
+      ],
+      "texturedGroups": [
+        "ivory"
+      ],
+      "whiteGroups": [
+        "plum",
+        "orange",
+        "stem",
+        "pink"
+      ],
+      "exactCanonicalLines": true
+    },
+    {
+      "number": 4,
+      "heading": "A rich plum bow",
+      "caption": "Mix red with blue, then a little brown for plum. Paint the bow loops, knot and ribbon tails in thin coats.",
+      "fullCanvas": true,
+      "crop": null,
+      "paintedGroups": [
+        "ivory",
+        "plum"
+      ],
+      "texturedGroups": [
+        "ivory"
+      ],
+      "whiteGroups": [
+        "orange",
+        "stem",
+        "pink"
+      ],
+      "exactCanonicalLines": true
+    },
+    {
+      "number": 5,
+      "heading": "The little pumpkin",
+      "caption": "Paint the pumpkin orange. Follow its curved sections from the stem toward the base; keep the stem and hands clear.",
+      "fullCanvas": true,
+      "crop": null,
+      "paintedGroups": [
+        "ivory",
+        "plum",
+        "orange"
+      ],
+      "texturedGroups": [
+        "ivory"
+      ],
+      "whiteGroups": [
+        "stem",
+        "pink"
+      ],
+      "exactCanonicalLines": true
+    },
+    {
+      "number": 6,
+      "heading": "An earthy green stem",
+      "caption": "Mix green with brown for the stem. Pull small strokes along the bend; add a little yellow to brighten its upper edge.",
+      "fullCanvas": true,
+      "crop": null,
+      "paintedGroups": [
+        "ivory",
+        "plum",
+        "orange",
+        "stem"
+      ],
+      "texturedGroups": [
+        "ivory",
+        "stem"
+      ],
+      "whiteGroups": [
+        "pink"
+      ],
+      "exactCanonicalLines": true
+    },
+    {
+      "number": 7,
+      "heading": "Warm cheeks & smile",
+      "caption": "Mix white with a little red and a tiny touch of yellow for peach-pink. Fill the two cheek ovals and the tongue.",
+      "fullCanvas": true,
+      "crop": null,
+      "paintedGroups": [
+        "ivory",
+        "plum",
+        "orange",
+        "stem",
+        "pink"
+      ],
+      "texturedGroups": [
+        "ivory",
+        "stem",
+        "pink"
+      ],
+      "whiteGroups": [],
+      "exactCanonicalLines": true
+    },
+    {
+      "number": 8,
+      "heading": "Shape the bow folds",
+      "caption": "Add a little black to the red-blue-brown plum mix for deep folds. Add white to that plum mix for lighter ridge strokes.",
+      "fullCanvas": true,
+      "crop": null,
+      "paintedGroups": [
+        "ivory",
+        "plum",
+        "orange",
+        "stem",
+        "pink"
+      ],
+      "texturedGroups": [
+        "ivory",
+        "stem",
+        "pink",
+        "plum"
+      ],
+      "whiteGroups": [],
+      "exactCanonicalLines": true
+    },
+    {
+      "number": 9,
+      "heading": "Pumpkin ribs & glow",
+      "caption": "Mix orange with brown for narrow groove shadows. Mix orange with yellow and a little white for curved rib highlights.",
+      "fullCanvas": false,
+      "crop": [
+        505,
+        600,
+        800,
+        905
+      ],
+      "paintedGroups": [
+        "ivory",
+        "plum",
+        "orange",
+        "stem",
+        "pink"
+      ],
+      "texturedGroups": [
+        "ivory",
+        "stem",
+        "pink",
+        "plum",
+        "orange"
+      ],
+      "whiteGroups": [],
+      "exactCanonicalLines": true
+    },
+    {
+      "number": 10,
+      "heading": "Bow-edge highlights",
+      "caption": "Let the bow dry. Mix red and blue with white for pale purple. Skim the upper bow edges with a lightly loaded small brush.",
+      "fullCanvas": false,
+      "crop": [
+        180,
+        25,
+        710,
+        425
+      ],
+      "paintedGroups": [
+        "ivory",
+        "plum",
+        "orange",
+        "stem",
+        "pink"
+      ],
+      "texturedGroups": [
+        "ivory",
+        "stem",
+        "pink",
+        "plum",
+        "orange"
+      ],
+      "whiteGroups": [],
+      "exactCanonicalLines": true
+    },
+    {
+      "number": 11,
+      "heading": "Brighten the expression",
+      "caption": "Use black to tidy the eyes and smile. Add tiny white eye dots. Use white along the forehead and hand edges for soft light.",
+      "fullCanvas": false,
+      "crop": [
+        400,
+        345,
+        840,
+        635
+      ],
+      "paintedGroups": [
+        "ivory",
+        "plum",
+        "orange",
+        "stem",
+        "pink"
+      ],
+      "texturedGroups": [
+        "ivory",
+        "stem",
+        "pink",
+        "plum",
+        "orange"
+      ],
+      "whiteGroups": [],
+      "exactCanonicalLines": true
+    },
+    {
+      "number": 12,
+      "heading": "Dry & clean up",
+      "caption": "Lay the canvas flat until fully dry. Wash brushes, wipe the palette and close the paint pots.",
+      "fullCanvas": true,
+      "crop": null,
+      "paintedGroups": [
+        "ivory",
+        "plum",
+        "orange",
+        "stem",
+        "pink"
+      ],
+      "texturedGroups": [
+        "ivory",
+        "stem",
+        "pink",
+        "plum",
+        "orange"
+      ],
+      "whiteGroups": [],
+      "exactCanonicalLines": true
+    }
+  ]
+}

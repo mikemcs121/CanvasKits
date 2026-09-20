@@ -1,0 +1,44 @@
+[
+    {
+        "placementPixels":  [
+                                60,
+                                360,
+                                2280,
+                                2280
+                            ],
+        "pixels":  [
+                       2400,
+                       3000
+                   ],
+        "source":  "C:\\Projects\\Canvas Kits\\Ghost Fall\\tmp\\8x10-artwork\\canonical-outline.png",
+        "kind":  "outline",
+        "sourcePixels":  [
+                             1254,
+                             1254
+                         ],
+        "dpi":  300,
+        "output":  "ghost-fall-outline-8x10.png",
+        "sourceHash":  "EAE5A3E323CD524E129E825E3158F05F46D62F3ADC3753DCE10EE5F078E0A609"
+    },
+    {
+        "placementPixels":  [
+                                60,
+                                360,
+                                2280,
+                                2280
+                            ],
+        "pixels":  [
+                       2400,
+                       3000
+                   ],
+        "source":  "C:\\Projects\\Canvas Kits\\Ghost Fall\\tmp\\8x10-artwork\\registered-reference.png",
+        "kind":  "finished-reference",
+        "sourcePixels":  [
+                             1254,
+                             1254
+                         ],
+        "dpi":  300,
+        "output":  "ghost-fall-finished-reference-8x10.png",
+        "sourceHash":  "F309DA057F8E8EF165F1096AB4922D41AA01BC7CE159D3883290796C36C438FB"
+    }
+]

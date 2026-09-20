@@ -1,0 +1,23 @@
+[
+    {
+        "pages":  1,
+        "widthPoints":  612,
+        "file":  "ghost-fall-painting-guide-8x10.pdf",
+        "heightPoints":  792,
+        "render":  "C:\\Projects\\Canvas Kits\\Ghost Fall\\tmp\\8x10-artwork\\ghost-fall-painting-guide-8x10-render.png"
+    },
+    {
+        "pages":  1,
+        "widthPoints":  576,
+        "file":  "ghost-fall-finished-reference-8x10.pdf",
+        "heightPoints":  720,
+        "render":  "C:\\Projects\\Canvas Kits\\Ghost Fall\\tmp\\8x10-artwork\\ghost-fall-finished-reference-8x10-render.png"
+    },
+    {
+        "pages":  1,
+        "widthPoints":  576,
+        "file":  "ghost-fall-outline-8x10.pdf",
+        "heightPoints":  720,
+        "render":  "C:\\Projects\\Canvas Kits\\Ghost Fall\\tmp\\8x10-artwork\\ghost-fall-outline-8x10-render.png"
+    }
+]
