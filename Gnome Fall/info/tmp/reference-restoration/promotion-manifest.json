@@ -1,0 +1,64 @@
+{
+  "date": "2026-09-21",
+  "kit": "Gnome Fall",
+  "outlineSha256": "3f8997a82189d2ab82dbaf9d68fb5a75f56091ef9efea654ebfe70a09228cdfd",
+  "referenceChanged": true,
+  "files": [
+    {
+      "target": "C:\\Projects\\CanvasKits\\Gnome Fall\\gnome-fall-painting-guide-8x10.pdf",
+      "oldSha256": "2caae79463039c3d9c50bde1b54648db4c23932c9a13dc2af57a24770094078f",
+      "archivedAt": "C:\\Projects\\CanvasKits\\Gnome Fall\\info\\archive\\before-restoration-promotion-2026-09-21\\gnome-fall-painting-guide-8x10.pdf",
+      "source": "C:\\Projects\\CanvasKits\\Gnome Fall\\info\\tmp\\reference-restoration\\gnome-fall-painting-guide-8x10.pdf",
+      "newSha256": "75a021fd2098781593796f4944294dcf84d6e5138b7bf8f33b4e56e716c8b713"
+    },
+    {
+      "target": "C:\\Projects\\CanvasKits\\Gnome Fall\\info\\output\\pdf\\8x10\\gnome-fall-painting-guide-8x10.pdf",
+      "oldSha256": "2caae79463039c3d9c50bde1b54648db4c23932c9a13dc2af57a24770094078f",
+      "archivedAt": "C:\\Projects\\CanvasKits\\Gnome Fall\\info\\archive\\before-restoration-promotion-2026-09-21\\info\\output\\pdf\\8x10\\gnome-fall-painting-guide-8x10.pdf",
+      "source": "C:\\Projects\\CanvasKits\\Gnome Fall\\info\\tmp\\reference-restoration\\gnome-fall-painting-guide-8x10.pdf",
+      "newSha256": "75a021fd2098781593796f4944294dcf84d6e5138b7bf8f33b4e56e716c8b713"
+    },
+    {
+      "target": "C:\\Projects\\CanvasKits\\Gnome Fall\\info\\output\\pdf\\8x10\\gnome-fall-painting-guide-8x10.png",
+      "oldSha256": "4a5116227f43cc6e2cc3488c529f25696b2a58959dae235e0dad2127e0584433",
+      "archivedAt": "C:\\Projects\\CanvasKits\\Gnome Fall\\info\\archive\\before-restoration-promotion-2026-09-21\\info\\output\\pdf\\8x10\\gnome-fall-painting-guide-8x10.png",
+      "source": "C:\\Projects\\CanvasKits\\Gnome Fall\\info\\tmp\\reference-restoration\\gnome-fall-painting-guide-8x10.png",
+      "newSha256": "ba1c94dd74241d5d0ab11e2189e370e6a3873dd7de44a8406fd7c1795778276f"
+    },
+    {
+      "target": "C:\\Projects\\CanvasKits\\Gnome Fall\\gnome-fall-finished-reference-8x10.pdf",
+      "oldSha256": "38ce6c5c86c965014cad08cccc5b9d3ba546bcddb7b297dd67028a7859a667e6",
+      "archivedAt": "C:\\Projects\\CanvasKits\\Gnome Fall\\info\\archive\\before-restoration-promotion-2026-09-21\\gnome-fall-finished-reference-8x10.pdf",
+      "source": "C:\\Projects\\CanvasKits\\Gnome Fall\\info\\tmp\\reference-restoration\\gnome-fall-finished-reference-8x10.pdf",
+      "newSha256": "8235527d5f9da71ce2571a43e65c11a10fc07d4074ce63ab3fe605a2b8722778"
+    },
+    {
+      "target": "C:\\Projects\\CanvasKits\\Gnome Fall\\info\\output\\pdf\\8x10\\gnome-fall-finished-reference-8x10.pdf",
+      "oldSha256": "38ce6c5c86c965014cad08cccc5b9d3ba546bcddb7b297dd67028a7859a667e6",
+      "archivedAt": "C:\\Projects\\CanvasKits\\Gnome Fall\\info\\archive\\before-restoration-promotion-2026-09-21\\info\\output\\pdf\\8x10\\gnome-fall-finished-reference-8x10.pdf",
+      "source": "C:\\Projects\\CanvasKits\\Gnome Fall\\info\\tmp\\reference-restoration\\gnome-fall-finished-reference-8x10.pdf",
+      "newSha256": "8235527d5f9da71ce2571a43e65c11a10fc07d4074ce63ab3fe605a2b8722778"
+    },
+    {
+      "target": "C:\\Projects\\CanvasKits\\Gnome Fall\\info\\output\\pdf\\8x10\\gnome-fall-finished-reference-8x10.png",
+      "oldSha256": "93eede070748cb86798c5d45863749429f06a7a979c0d62e63ca4b045386385a",
+      "archivedAt": "C:\\Projects\\CanvasKits\\Gnome Fall\\info\\archive\\before-restoration-promotion-2026-09-21\\info\\output\\pdf\\8x10\\gnome-fall-finished-reference-8x10.png",
+      "source": "C:\\Projects\\CanvasKits\\Gnome Fall\\info\\tmp\\reference-restoration\\gnome-fall-finished-reference-8x10.png",
+      "newSha256": "b85a55db1150bd6d0342c19f59e14f7b8e05db0e9245d858937ed3fdeef08635"
+    },
+    {
+      "target": "C:\\Projects\\CanvasKits\\Gnome Fall\\info\\tmp\\template-refactor\\plan.json",
+      "oldSha256": "fa9afe56dd55f944b13e4e0221d545e8fb75634a7ece6a2133b0876d53a929ad",
+      "archivedAt": "C:\\Projects\\CanvasKits\\Gnome Fall\\info\\archive\\before-restoration-promotion-2026-09-21\\info\\tmp\\template-refactor\\plan.json",
+      "source": "C:\\Projects\\CanvasKits\\Gnome Fall\\info\\tmp\\reference-restoration\\guide-plan.json",
+      "newSha256": "42eb730229079751cd982c56d8227d2196c3bdfae9c950cc4b1a6e7044332385"
+    },
+    {
+      "target": "C:\\Projects\\CanvasKits\\Gnome Fall\\info\\production-selection.json",
+      "oldSha256": "018364b62d413abe9f77b7eb3b9f0499cd68942a60241f9b4fe149b5ea6384e9",
+      "archivedAt": "C:\\Projects\\CanvasKits\\Gnome Fall\\info\\archive\\before-restoration-promotion-2026-09-21\\info\\production-selection.json",
+      "source": "C:\\Projects\\CanvasKits\\Gnome Fall\\info\\tmp\\reference-restoration\\production-selection.json",
+      "newSha256": "ac021d1ce41ed82b250aa437d37d9c139e01ad7bf26c69575884d4ce50e34b7e"
+    }
+  ]
+}

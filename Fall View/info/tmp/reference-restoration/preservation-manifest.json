@@ -1,0 +1,37 @@
+[
+  {
+    "source": "C:\\Users\\mmcsherry\\Desktop\\New folder\\fall-view-finished-reference.png",
+    "archive": "C:\\Projects\\CanvasKits\\fall view\\info\\assets\\reference-restoration\\sources\\fall-view-finished-reference.png",
+    "sha256": "c3fadbed11fc16a6bf170226579b588d7d1554cb9a3462b33b3d458da8475c67"
+  },
+  {
+    "source": "C:\\Users\\mmcsherry\\Desktop\\New folder\\fall-view-source-composite.png",
+    "archive": "C:\\Projects\\CanvasKits\\fall view\\info\\assets\\reference-restoration\\sources\\fall-view-source-composite.png",
+    "sha256": "1112c513309fc4471e58b99803a503b87d7d6a46a92fb22f40eb3cb5124554f4"
+  },
+  {
+    "source": "C:\\Projects\\CanvasKits\\fall view\\fall-view-finished-reference-8x10.pdf",
+    "archive": "C:\\Projects\\CanvasKits\\fall view\\info\\archive\\before-reference-restoration-2026-09-21\\fall-view-finished-reference-8x10.pdf",
+    "sha256": "1e85f13d4b4235d00d8e5e2aff1ed69005ccd5148b15ce6d4be72609507245e1"
+  },
+  {
+    "source": "C:\\Projects\\CanvasKits\\fall view\\info\\output\\pdf\\8x10\\fall-view-finished-reference-8x10.png",
+    "archive": "C:\\Projects\\CanvasKits\\fall view\\info\\archive\\before-reference-restoration-2026-09-21\\fall-view-finished-reference-8x10.png",
+    "sha256": "2bb4a8bb89056cf48f066ae279c21182a08e7af97fbadf08c069338adedb233c"
+  },
+  {
+    "source": "C:\\Projects\\CanvasKits\\fall view\\fall-view-painting-guide-8x10.pdf",
+    "archive": "C:\\Projects\\CanvasKits\\fall view\\info\\archive\\before-reference-restoration-2026-09-21\\fall-view-painting-guide-8x10.pdf",
+    "sha256": "0c3c9f80b7e04ca96467c57f2abf10523f8b57eca3f1879c474c72ec5a44a92a"
+  },
+  {
+    "source": "C:\\Projects\\CanvasKits\\fall view\\info\\output\\pdf\\8x10\\fall-view-painting-guide-8x10.png",
+    "archive": "C:\\Projects\\CanvasKits\\fall view\\info\\archive\\before-reference-restoration-2026-09-21\\fall-view-painting-guide-8x10.png",
+    "sha256": "2f1ec2577a1b9332b525ddaf1b62343c9042ba8f1eccdedd317c244195505cfc"
+  },
+  {
+    "source": "C:\\Projects\\CanvasKits\\fall view\\info\\tmp\\template-refactor\\plan.json",
+    "archive": "C:\\Projects\\CanvasKits\\fall view\\info\\archive\\before-reference-restoration-2026-09-21\\guide-plan.json",
+    "sha256": "47f8c613dbd22564ae29b26face89c65fd0aea8d0b78d57a36c5302185765fcc"
+  }
+]

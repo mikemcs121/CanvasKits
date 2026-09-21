@@ -1,0 +1,1137 @@
+[
+  {
+    "folder": "Flowers in Vase",
+    "slug": "flowers-in-vase",
+    "palette": {
+      "ink": "#19484b",
+      "accent": "#3c9895",
+      "wash": "#e1f1ed",
+      "second": "#cf7590",
+      "ribbon": "#f3e8dd"
+    },
+    "reference": "Flowers in Vase/info/output/pdf/8x10/flowers-in-vase-finished-reference-8x10.png",
+    "title": "Flowers in Vase",
+    "paints": [
+      "white",
+      "black",
+      "turquoise",
+      "blue",
+      "green",
+      "rose red",
+      "yellow",
+      "orange",
+      "brown"
+    ],
+    "steps": [
+      {
+        "heading": "Prepare your canvas",
+        "caption": "Start with the printed outline. Protect your table. Use thin coats; rinse and blot your brush between colors.",
+        "image": "Flowers in Vase/info/assets/portrait-rebuild/stage-01.png",
+        "detail": false,
+        "cue": false
+      },
+      {
+        "heading": "Turquoise background",
+        "caption": "Mix turquoise with a little white. Paint around the bouquet and vase with short, loose strokes. Let dry.",
+        "image": "Flowers in Vase/info/assets/portrait-rebuild/stage-02.png",
+        "detail": false,
+        "cue": false
+      },
+      {
+        "heading": "Block in the greenery",
+        "caption": "Mix green with a little brown. Fill leaves and spaces between flowers. Keep the petals, centers and berries white.",
+        "image": "Flowers in Vase/info/assets/portrait-rebuild/stage-03.png",
+        "detail": false,
+        "cue": false
+      },
+      {
+        "heading": "Paint the vase bands",
+        "caption": "Mix blue with a little black for navy. Alternate navy and white bands, starting at the top. Follow the curves; let dry.",
+        "image": "Flowers in Vase/info/assets/portrait-rebuild/stage-04.png",
+        "detail": false,
+        "cue": false
+      },
+      {
+        "heading": "Soft blush blooms",
+        "caption": "Mix white with a little rose red for blush. Fill the upper-left and lower-right blooms. Leave their centers white.",
+        "image": "Flowers in Vase/info/assets/portrait-rebuild/stage-05.png",
+        "detail": false,
+        "cue": false
+      },
+      {
+        "heading": "Warm apricot petals",
+        "caption": "Mix orange with white for apricot. Fill the upper-right flower with curved strokes. Leave its center white.",
+        "image": "Flowers in Vase/info/assets/portrait-rebuild/stage-06.png",
+        "detail": false,
+        "cue": false
+      },
+      {
+        "heading": "The rose-red flower",
+        "caption": "Use rose red for the five central petals. Pull strokes from each petal tip toward the center. Leave the center white.",
+        "image": "Flowers in Vase/info/assets/portrait-rebuild/stage-07.png",
+        "detail": false,
+        "cue": false
+      },
+      {
+        "heading": "Golden buds & centers",
+        "caption": "Mix yellow with a touch of brown for gold. Paint the small buds and all flower centers. Let every base coat dry.",
+        "image": "Flowers in Vase/info/assets/portrait-rebuild/stage-08.png",
+        "detail": false,
+        "cue": false
+      },
+      {
+        "heading": "Blend the petals",
+        "caption": "Shade pink with rose red; apricot with orange; red with rose red + brown. Add white to each for highlights. Feather wet edges with a clean, damp brush.",
+        "image": "Flowers in Vase/info/assets/portrait-rebuild/panel-9.png",
+        "detail": true,
+        "cue": false
+      },
+      {
+        "heading": "Leaf & vase highlights",
+        "caption": "Mix green + yellow for leaf highlights; blue + a little black + white for vase streaks; white + a speck of brown for white-band shadows. Follow the curves.",
+        "image": "Flowers in Vase/info/assets/portrait-rebuild/panel-10.png",
+        "detail": true,
+        "cue": false
+      },
+      {
+        "heading": "Berries & final details",
+        "caption": "Mix blue with a little black for berries. Add white to this mix for shine dots. Shade the yellow centers with brown; dot with yellow and white.",
+        "image": "Flowers in Vase/info/assets/portrait-rebuild/panel-11.png",
+        "detail": true,
+        "cue": false
+      },
+      {
+        "heading": "Dry flat & clean up",
+        "caption": "Let the completed canvas dry lying flat. Wash and reshape brushes, wipe your palette, and close the paint pots.",
+        "image": null,
+        "detail": true,
+        "cue": false,
+        "dry": true
+      }
+    ],
+    "work": "Flowers in Vase/info/tmp/template-refactor",
+    "assets": "Flowers in Vase/info/assets/template-refactor",
+    "logo": "Flowers in Vase/info/assets/template-refactor/river-and-ridge-logo.png",
+    "unchanged": {
+      "Flowers in Vase/flowers-in-vase-outline-8x10.svg": "76bbdd0008ecab67356fc3f46c0d8d91a8e07777d1f7a78cc8fc8896c555226f",
+      "Flowers in Vase/flowers-in-vase-finished-reference-8x10.pdf": "8e5c1aaf0d54f6dd4687bae28f3998be19e4c33ddb1a5c2ea274249d93418fd1"
+    }
+  },
+  {
+    "folder": "Gnome Halloween",
+    "slug": "gnome-halloween",
+    "palette": {
+      "ink": "#422b42",
+      "accent": "#78576e",
+      "wash": "#eee6ed",
+      "second": "#bd783f",
+      "ribbon": "#eadfea"
+    },
+    "reference": "Gnome Halloween/info/output/pdf/8x10/gnome-halloween-finished-reference-8x10.png",
+    "title": "Gnome Halloween",
+    "paints": [
+      "white",
+      "black",
+      "red",
+      "yellow",
+      "blue",
+      "green",
+      "brown"
+    ],
+    "steps": [
+      {
+        "heading": "Prepare the canvas",
+        "caption": "Start with your printed 8 x 10 canvas. Protect your table. Use thin coats; rinse and blot brushes between colors.",
+        "image": "Gnome Halloween/info/assets/full-portrait/stage-01.png",
+        "detail": false,
+        "cue": false
+      },
+      {
+        "heading": "Set the atmosphere",
+        "caption": "Mix blue, a speck of black and white for a smoky sky. Paint around every outline; leave the shapes white.",
+        "image": "Gnome Halloween/info/assets/full-portrait/stage-02.png",
+        "detail": false,
+        "cue": false
+      },
+      {
+        "heading": "Ground & moonlight",
+        "caption": "Mix brown, a speck of black and a little white for ground. Use white + a little yellow for the moon; paint bats black.",
+        "image": "Gnome Halloween/info/assets/full-portrait/stage-03.png",
+        "detail": false,
+        "cue": false
+      },
+      {
+        "heading": "Block in the plum",
+        "caption": "Mix red and blue with a touch of brown for plum. Paint the hat, brim and coat; keep the band and buckle white.",
+        "image": "Gnome Halloween/info/assets/full-portrait/stage-04.png",
+        "detail": false,
+        "cue": false
+      },
+      {
+        "heading": "Add the autumn color",
+        "caption": "Mix yellow, a little red and a touch of brown for russet orange. Paint pumpkins and band, including buckle center. Leave faces and stems white.",
+        "image": "Gnome Halloween/info/assets/full-portrait/stage-05.png",
+        "detail": false,
+        "cue": false
+      },
+      {
+        "heading": "Nose & leather shoes",
+        "caption": "For peach, mix white, a little yellow and a tiny touch of red. Paint the nose peach and shoes brown.",
+        "image": "Gnome Halloween/info/assets/full-portrait/stage-06.png",
+        "detail": false,
+        "cue": false
+      },
+      {
+        "heading": "Shape the beard",
+        "caption": "Paint beard and mustache white. Mix white with a speck of black and brown for warm gray; pull curved strokes toward the tips.",
+        "image": "Gnome Halloween/info/assets/full-portrait/stage-07.png",
+        "detail": false,
+        "cue": false
+      },
+      {
+        "heading": "Finish the base colors",
+        "caption": "Mix green with a touch of brown for stems. Mix yellow with a touch of brown for the buckle rim. Let dry.",
+        "image": "Gnome Halloween/info/assets/full-portrait/stage-08.png",
+        "detail": false,
+        "cue": false
+      },
+      {
+        "heading": "Build depth",
+        "caption": "Mix red, blue, brown and a speck of black for hat shadows. Mix yellow, a little red and extra brown for pumpkin grooves. Blend softly.",
+        "image": "Gnome Halloween/info/assets/full-portrait/panel-9.png",
+        "detail": true,
+        "cue": false
+      },
+      {
+        "heading": "Define the lanterns",
+        "caption": "Over dry paint, fill the pumpkins' printed eyes and mouths with black using a small brush. Keep the edges controlled.",
+        "image": "Gnome Halloween/info/assets/full-portrait/panel-10.png",
+        "detail": true,
+        "cue": false
+      },
+      {
+        "heading": "Catch the light",
+        "caption": "Mix white with a little yellow for ivory. Add fine, curved highlights to the beard and small shine strokes to the shoes.",
+        "image": "Gnome Halloween/info/assets/full-portrait/panel-11.png",
+        "detail": true,
+        "cue": false
+      },
+      {
+        "heading": "Dry & care for tools",
+        "caption": "Let your canvas dry lying flat. Wash and reshape brushes, wipe the palette and close your paint pots.",
+        "image": null,
+        "detail": true,
+        "cue": false,
+        "dry": true
+      }
+    ],
+    "work": "Gnome Halloween/info/tmp/template-refactor",
+    "assets": "Gnome Halloween/info/assets/template-refactor",
+    "logo": "Gnome Halloween/info/assets/template-refactor/river-and-ridge-logo.png",
+    "unchanged": {
+      "Gnome Halloween/gnome-halloween-outline-8x10.svg": "cb318ab40756101d1b3ab1682f7fa18d98c216fd331473ae43d9284a23dd6998",
+      "Gnome Halloween/gnome-halloween-finished-reference-8x10.pdf": "913f3c66e856a72ee8302f8fa3138577fea1dfdc793e60ef35c8eec1a33f7380"
+    }
+  },
+  {
+    "folder": "Fox Fall",
+    "slug": "fox-fall",
+    "palette": {
+      "ink": "#4f3b26",
+      "accent": "#ba773a",
+      "wash": "#f6ebd6",
+      "second": "#738748",
+      "ribbon": "#f7e4bd"
+    },
+    "reference": "Fox Fall/info/output/pdf/8x10/fox-fall-finished-reference-8x10.png",
+    "title": "Autumn Fox",
+    "paints": [
+      "white",
+      "black",
+      "yellow",
+      "orange",
+      "green",
+      "brown"
+    ],
+    "steps": [
+      {
+        "heading": "Start with the outline",
+        "caption": "Protect your table. Follow the preprinted lines. Keep the background white. Use thin coats; rinse and blot between colors.",
+        "image": "Fox Fall/info/tmp/8x10-artwork/step-1.png",
+        "detail": false,
+        "cue": false
+      },
+      {
+        "heading": "Warm orange fur",
+        "caption": "Paint the head, outer ears, body and lower tail orange. Leave the face patches, chest, tail tip and scarf white.",
+        "image": "Fox Fall/info/tmp/8x10-artwork/step-2.png",
+        "detail": false,
+        "cue": false
+      },
+      {
+        "heading": "Soft ivory markings",
+        "caption": "Mix white with a tiny touch of yellow and brown for ivory. Paint the face patches, inner ears, chest and tail tip.",
+        "image": "Fox Fall/info/tmp/8x10-artwork/step-3.png",
+        "detail": false,
+        "cue": false
+      },
+      {
+        "heading": "Forest-green stripes",
+        "caption": "Mix green with a little brown. Fill alternating printed scarf sections, starting with green at the left of the neck.",
+        "image": "Fox Fall/info/tmp/8x10-artwork/step-4.png",
+        "detail": false,
+        "cue": false
+      },
+      {
+        "heading": "Golden scarf stripes",
+        "caption": "Mix yellow with a little orange. Fill the remaining scarf sections, keeping the printed stripe divisions clear.",
+        "image": "Fox Fall/info/tmp/8x10-artwork/step-5.png",
+        "detail": false,
+        "cue": false
+      },
+      {
+        "heading": "Two autumn leaves",
+        "caption": "Paint the left maple leaf orange. Mix yellow with a little brown for the right oak leaf. Follow each leaf from stem to tip.",
+        "image": "Fox Fall/info/tmp/8x10-artwork/step-6.png",
+        "detail": false,
+        "cue": false
+      },
+      {
+        "heading": "Dark paws & features",
+        "caption": "Mix brown with a little black for the paws and ear tips. Touch up the eyes, nose and smile in black; keep white eye dots.",
+        "image": "Fox Fall/info/tmp/8x10-artwork/step-7.png",
+        "detail": false,
+        "cue": false
+      },
+      {
+        "heading": "Layer the fur",
+        "caption": "Mix orange with a little brown for shadows. Pull short strokes along the cheeks, body and tail; keep lighter orange showing.",
+        "image": "Fox Fall/info/tmp/8x10-artwork/step-8.png",
+        "detail": false,
+        "cue": false
+      },
+      {
+        "heading": "Scarf light & shade",
+        "caption": "Mix green with yellow for light strokes on green stripes. Mix yellow with white for gold highlights. Let base coats dry first.",
+        "image": "Fox Fall/info/tmp/8x10-artwork/step-9.png",
+        "detail": true,
+        "cue": true
+      },
+      {
+        "heading": "Leaf veins & tips",
+        "caption": "Use brown for the printed leaf veins. Mix orange with yellow for maple highlights; add white to yellow for bright oak tips.",
+        "image": "Fox Fall/info/tmp/8x10-artwork/step-10.png",
+        "detail": true,
+        "cue": true
+      },
+      {
+        "heading": "Gentle finishing light",
+        "caption": "Mix white with a touch of brown for soft fur shadows. Add fine white strokes to ivory areas and tiny white eye glints.",
+        "image": "Fox Fall/info/tmp/8x10-artwork/step-11.png",
+        "detail": true,
+        "cue": true
+      },
+      {
+        "heading": "Dry & clean up",
+        "caption": "Lay the canvas flat until fully dry. Wash brushes, wipe the palette and close the paint pots.",
+        "image": null,
+        "detail": false,
+        "cue": false,
+        "dry": true
+      }
+    ],
+    "work": "Fox Fall/info/tmp/template-refactor",
+    "assets": "Fox Fall/info/assets/template-refactor",
+    "logo": "Fox Fall/info/assets/template-refactor/river-and-ridge-logo.png",
+    "unchanged": {
+      "Fox Fall/fox-fall-outline-8x10.svg": "b00e01e6c48aafe705fb421d7a66a175c8f6921ff480ef3f35287f507d74db85",
+      "Fox Fall/fox-fall-finished-reference-8x10.pdf": "ae4bf950ef8a02b48014d9d6fc68b773e172158b4f90dddc407ea5c35f4b6607"
+    }
+  },
+  {
+    "folder": "Ghost Fall",
+    "slug": "ghost-fall",
+    "palette": {
+      "ink": "#4f3b53",
+      "accent": "#8b7088",
+      "wash": "#f0e9ef",
+      "second": "#c4824c",
+      "ribbon": "#eee4ee"
+    },
+    "reference": "Ghost Fall/info/output/pdf/8x10/ghost-fall-finished-reference-8x10.png",
+    "title": "Autumn Ghost",
+    "paints": [
+      "white",
+      "black",
+      "red",
+      "yellow",
+      "blue",
+      "green",
+      "brown",
+      "orange"
+    ],
+    "steps": [
+      {
+        "heading": "Start with the outline",
+        "caption": "Protect your table. Follow the preprinted lines. Keep the background white. Use thin coats; rinse and blot between colors.",
+        "image": "Ghost Fall/info/tmp/8x10-artwork/step-1.png",
+        "detail": false,
+        "cue": false
+      },
+      {
+        "heading": "An ivory-white ghost",
+        "caption": "Mix white with a tiny touch of yellow and brown for ivory. Paint the ghost and hands, keeping the bow, cheeks and pumpkin clear.",
+        "image": "Ghost Fall/info/tmp/8x10-artwork/step-2.png",
+        "detail": false,
+        "cue": false
+      },
+      {
+        "heading": "Shade the folds",
+        "caption": "Mix white with a touch of blue and a speck of black. Add soft shadows beside the printed folds; blend into the ivory.",
+        "image": "Ghost Fall/info/tmp/8x10-artwork/step-3.png",
+        "detail": false,
+        "cue": false
+      },
+      {
+        "heading": "A rich plum bow",
+        "caption": "Mix red with blue, then a little brown for plum. Paint the bow loops, knot and ribbon tails in thin coats.",
+        "image": "Ghost Fall/info/tmp/8x10-artwork/step-4.png",
+        "detail": false,
+        "cue": false
+      },
+      {
+        "heading": "The little pumpkin",
+        "caption": "Paint the pumpkin orange. Follow its curved sections from the stem toward the base; keep the stem and hands clear.",
+        "image": "Ghost Fall/info/tmp/8x10-artwork/step-5.png",
+        "detail": false,
+        "cue": false
+      },
+      {
+        "heading": "An earthy green stem",
+        "caption": "Mix green with brown for the stem. Pull small strokes along the bend; add a little yellow to brighten its upper edge.",
+        "image": "Ghost Fall/info/tmp/8x10-artwork/step-6.png",
+        "detail": false,
+        "cue": false
+      },
+      {
+        "heading": "Warm cheeks & smile",
+        "caption": "Mix white with a little red and a tiny touch of yellow for peach-pink. Fill the two cheek ovals and the tongue.",
+        "image": "Ghost Fall/info/tmp/8x10-artwork/step-7.png",
+        "detail": false,
+        "cue": false
+      },
+      {
+        "heading": "Shape the bow folds",
+        "caption": "Add a little black to the red-blue-brown plum mix for deep folds. Add white to that plum mix for lighter ridge strokes.",
+        "image": "Ghost Fall/info/tmp/8x10-artwork/step-8.png",
+        "detail": false,
+        "cue": false
+      },
+      {
+        "heading": "Pumpkin ribs & glow",
+        "caption": "Mix orange with brown for narrow groove shadows. Mix orange with yellow and a little white for curved rib highlights.",
+        "image": "Ghost Fall/info/tmp/8x10-artwork/step-9.png",
+        "detail": true,
+        "cue": true
+      },
+      {
+        "heading": "Bow-edge highlights",
+        "caption": "Let the bow dry. Mix red and blue with white for pale purple. Skim the upper bow edges with a lightly loaded small brush.",
+        "image": "Ghost Fall/info/tmp/8x10-artwork/step-10.png",
+        "detail": true,
+        "cue": true
+      },
+      {
+        "heading": "Brighten the expression",
+        "caption": "Use black to tidy the eyes and smile. Add tiny white eye dots. Use white along the forehead and hand edges for soft light.",
+        "image": "Ghost Fall/info/tmp/8x10-artwork/step-11.png",
+        "detail": true,
+        "cue": true
+      },
+      {
+        "heading": "Dry & clean up",
+        "caption": "Lay the canvas flat until fully dry. Wash brushes, wipe the palette and close the paint pots.",
+        "image": null,
+        "detail": false,
+        "cue": false,
+        "dry": true
+      }
+    ],
+    "work": "Ghost Fall/info/tmp/template-refactor",
+    "assets": "Ghost Fall/info/assets/template-refactor",
+    "logo": "Ghost Fall/info/assets/template-refactor/river-and-ridge-logo.png",
+    "unchanged": {
+      "Ghost Fall/ghost-fall-outline-8x10.svg": "6e38259204ade00d3738a8c2e591a5cde68770993d1bcf6c9b723a32021b64c9",
+      "Ghost Fall/ghost-fall-finished-reference-8x10.pdf": "8fe169d97850c5dd2c5e85a041cd7236eb707bbd4e044a8a2633b6c3ea496c63"
+    }
+  },
+  {
+    "folder": "Cat in Pumpkin",
+    "slug": "cat-in-pumpkin",
+    "palette": {
+      "ink": "#343e4a",
+      "accent": "#c77b47",
+      "wash": "#faecdc",
+      "second": "#798595",
+      "ribbon": "#f4e4d0"
+    },
+    "reference": "Cat in Pumpkin/info/output/pdf/8x10/cat-in-pumpkin-finished-reference-8x10.png",
+    "title": "Cat in Pumpkin",
+    "paints": [
+      "white",
+      "black",
+      "red",
+      "yellow",
+      "blue",
+      "brown",
+      "orange"
+    ],
+    "steps": [
+      {
+        "heading": "Start with the outline",
+        "caption": "Protect your table. Follow the preprinted lines. Keep the background white. Use thin coats; rinse and blot between colors.",
+        "image": "Cat in Pumpkin/info/tmp/8x10-artwork/step-1.png",
+        "detail": false,
+        "cue": false
+      },
+      {
+        "heading": "Orange pumpkin base",
+        "caption": "Paint the pumpkin shell and rim orange in thin coats. Leave the carved face, opening and kitten white.",
+        "image": "Cat in Pumpkin/info/tmp/8x10-artwork/step-2.png",
+        "detail": false,
+        "cue": false
+      },
+      {
+        "heading": "Charcoal kitten",
+        "caption": "Mix black with white and a touch of blue for charcoal gray. Paint the head, paws and curled tail; leave inner ears and nose clear.",
+        "image": "Cat in Pumpkin/info/tmp/8x10-artwork/step-3.png",
+        "detail": false,
+        "cue": false
+      },
+      {
+        "heading": "Rose ears & nose",
+        "caption": "Mix white with a little red and a tiny touch of brown for dusty rose. Paint the inner ears, nose and tongue.",
+        "image": "Cat in Pumpkin/info/tmp/8x10-artwork/step-4.png",
+        "detail": false,
+        "cue": false
+      },
+      {
+        "heading": "Golden eyes",
+        "caption": "Mix yellow with a little brown for gold. Fill the small curved eye rims; keep the black pupils and white glints distinct.",
+        "image": "Cat in Pumpkin/info/tmp/8x10-artwork/step-5.png",
+        "detail": false,
+        "cue": false
+      },
+      {
+        "heading": "Deep carved shapes",
+        "caption": "Mix black with a little brown. Fill the pumpkin eyes, nose and mouth, plus the opening behind the cat. Keep the teeth orange.",
+        "image": "Cat in Pumpkin/info/tmp/8x10-artwork/step-6.png",
+        "detail": false,
+        "cue": false
+      },
+      {
+        "heading": "Round the pumpkin",
+        "caption": "Mix orange with brown for the grooves. Mix orange with yellow for rib highlights. Curve each stroke down the pumpkin.",
+        "image": "Cat in Pumpkin/info/tmp/8x10-artwork/step-7.png",
+        "detail": false,
+        "cue": false
+      },
+      {
+        "heading": "Soft directional fur",
+        "caption": "Mix white, black and a touch of blue for lighter gray. Pull short strokes over the dry charcoal, following cheeks and tail.",
+        "image": "Cat in Pumpkin/info/tmp/8x10-artwork/step-8.png",
+        "detail": false,
+        "cue": false
+      },
+      {
+        "heading": "Light along the rim",
+        "caption": "Mix orange with yellow and a little white. Trace a narrow highlight on the front rim and the upper edges of pumpkin ribs.",
+        "image": "Cat in Pumpkin/info/tmp/8x10-artwork/step-9.png",
+        "detail": true,
+        "cue": true
+      },
+      {
+        "heading": "Small paw highlights",
+        "caption": "Mix white with a little black and brown for warm gray. Add short strokes on the paw tops; keep the toe divisions darker.",
+        "image": "Cat in Pumpkin/info/tmp/8x10-artwork/step-10.png",
+        "detail": true,
+        "cue": true
+      },
+      {
+        "heading": "Whiskers & eye shine",
+        "caption": "Let the face dry. Use black and a fine brush to tidy whiskers and the smile. Add a small white dot to each eye.",
+        "image": "Cat in Pumpkin/info/tmp/8x10-artwork/step-11.png",
+        "detail": true,
+        "cue": true
+      },
+      {
+        "heading": "Dry & clean up",
+        "caption": "Lay the canvas flat until fully dry. Wash brushes, wipe the palette and close the paint pots.",
+        "image": null,
+        "detail": false,
+        "cue": false,
+        "dry": true
+      }
+    ],
+    "work": "Cat in Pumpkin/info/tmp/template-refactor",
+    "assets": "Cat in Pumpkin/info/assets/template-refactor",
+    "logo": "Cat in Pumpkin/info/assets/template-refactor/river-and-ridge-logo.png",
+    "unchanged": {
+      "Cat in Pumpkin/cat-in-pumpkin-outline-8x10.svg": "0518c2c1978cbc59e0b9e2d636e1731542cfa1979cb379e99fa6a3efe54c481f",
+      "Cat in Pumpkin/cat-in-pumpkin-finished-reference-8x10.pdf": "651c95e4390133ae4ae0c33b1a10d0c3155ddc4b17750cca72b7383ec30b089d"
+    }
+  },
+  {
+    "folder": "Pumpkin",
+    "slug": "pumpkin",
+    "palette": {
+      "ink": "#513922",
+      "accent": "#c9813e",
+      "wash": "#f7ead8",
+      "second": "#7e7947",
+      "ribbon": "#f5e3c3"
+    },
+    "reference": "Pumpkin/info/output/pdf/8x10/pumpkin-finished-reference-8x10.png",
+    "title": "Autumn Pumpkin",
+    "paints": [
+      "white",
+      "black",
+      "yellow",
+      "green",
+      "brown",
+      "orange"
+    ],
+    "steps": [
+      {
+        "heading": "Start with the outline",
+        "caption": "Protect your table. Follow the preprinted lines. Keep the background white. Use thin coats; rinse and blot between colors.",
+        "image": "Pumpkin/info/tmp/8x10-artwork/step-1.png",
+        "detail": false,
+        "cue": false
+      },
+      {
+        "heading": "An even orange base",
+        "caption": "Paint the pumpkin orange in two thin coats, drying between coats. Leave the stem and carved face white; keep both teeth orange.",
+        "image": "Pumpkin/info/tmp/8x10-artwork/step-2.png",
+        "detail": false,
+        "cue": false
+      },
+      {
+        "heading": "Olive-green stem",
+        "caption": "Mix green with brown for olive. Paint the stem, following its bend. Keep the outer printed contour clear.",
+        "image": "Pumpkin/info/tmp/8x10-artwork/step-3.png",
+        "detail": false,
+        "cue": false
+      },
+      {
+        "heading": "The carved smile",
+        "caption": "Mix black with a little brown. Fill the eyes, nose and mouth carefully around the orange teeth. Let these dark shapes dry.",
+        "image": "Pumpkin/info/tmp/8x10-artwork/step-4.png",
+        "detail": false,
+        "cue": false
+      },
+      {
+        "heading": "Shape the grooves",
+        "caption": "Mix orange with brown for russet shadows. Pull narrow curved strokes beside the printed grooves and around the pumpkin base.",
+        "image": "Pumpkin/info/tmp/8x10-artwork/step-5.png",
+        "detail": false,
+        "cue": false
+      },
+      {
+        "heading": "Golden rib highlights",
+        "caption": "Mix orange with yellow and a little white. Pull lighter strokes down the raised ribs, leaving the shaded grooves visible.",
+        "image": "Pumpkin/info/tmp/8x10-artwork/step-6.png",
+        "detail": true,
+        "cue": true
+      },
+      {
+        "heading": "Stem & finishing edges",
+        "caption": "Mix yellow with brown and a little white for stem highlights. Pull strokes along the bend; tidy carved edges with black and brown.",
+        "image": "Pumpkin/info/tmp/8x10-artwork/step-7.png",
+        "detail": true,
+        "cue": true
+      },
+      {
+        "heading": "Dry & clean up",
+        "caption": "Lay the canvas flat until fully dry. Wash brushes, wipe the palette and close the paint pots.",
+        "image": null,
+        "detail": false,
+        "cue": false,
+        "dry": true
+      }
+    ],
+    "work": "Pumpkin/info/tmp/template-refactor",
+    "assets": "Pumpkin/info/assets/template-refactor",
+    "logo": "Pumpkin/info/assets/template-refactor/river-and-ridge-logo.png",
+    "unchanged": {
+      "Pumpkin/pumpkin-outline-8x10.svg": "73d4fadcace1d4e9bac071fa14667c31fe3084211429235b059a0321dc7485fc",
+      "Pumpkin/pumpkin-finished-reference-8x10.pdf": "3a0f6122a9a94becbc118e2789bec747edf12a2587d9dee3806fca504ebda238"
+    }
+  },
+  {
+    "folder": "Gnome Christmas Tree",
+    "slug": "gnome-christmas-tree",
+    "palette": {
+      "ink": "#21493e",
+      "accent": "#729691",
+      "wash": "#e8f1ee",
+      "second": "#b34336",
+      "ribbon": "#e7f0e8"
+    },
+    "reference": "Gnome Christmas Tree/info/output/pdf/8x10/gnome-christmas-tree-finished-reference-8x10.png",
+    "title": "Christmas Gnome",
+    "paints": [
+      "white",
+      "black",
+      "red",
+      "yellow",
+      "blue",
+      "green",
+      "brown"
+    ],
+    "steps": [
+      {
+        "heading": "Set up your canvas",
+        "caption": "Cover your table. Follow the printed outlines. Rinse and blot your brush between colors.",
+        "image": "Gnome Christmas Tree/info/tmp/organization/step-1.png",
+        "detail": false,
+        "cue": false
+      },
+      {
+        "heading": "Paint the background",
+        "caption": "Mix white with a touch of blue for the sky. Paint snow white. Work around printed shapes.",
+        "image": "Gnome Christmas Tree/info/tmp/organization/step-2.png",
+        "detail": false,
+        "cue": false
+      },
+      {
+        "heading": "Paint the trees",
+        "caption": "Paint trees green; keep lights white. Use downward strokes. Mix green and a little yellow for highlights.",
+        "image": "Gnome Christmas Tree/info/tmp/organization/step-3.png",
+        "detail": false,
+        "cue": false
+      },
+      {
+        "heading": "Paint hat and coat",
+        "caption": "Use red in thin layers. Leave the nose, beard, pom-pom and light circles white.",
+        "image": "Gnome Christmas Tree/info/tmp/organization/step-4.png",
+        "detail": false,
+        "cue": false
+      },
+      {
+        "heading": "Add nose and shoes",
+        "caption": "For peach, mix white, a little yellow and a tiny touch of red. Paint the nose peach and the shoes brown.",
+        "image": "Gnome Christmas Tree/info/tmp/organization/step-5.png",
+        "detail": false,
+        "cue": false
+      },
+      {
+        "heading": "Paint the fluffy whites",
+        "caption": "Paint beard and pom-pom white. For shadows, mix white, a touch of blue and a speck of black.",
+        "image": "Gnome Christmas Tree/info/tmp/organization/step-6.png",
+        "detail": false,
+        "cue": false
+      },
+      {
+        "heading": "Shape the hat folds",
+        "caption": "Mix red with a little brown for shadows. Blend along the hat folds. Add red with a touch of yellow for highlights. Let dry.",
+        "image": "Gnome Christmas Tree/info/tmp/organization/step-7.png",
+        "detail": true,
+        "cue": true
+      },
+      {
+        "heading": "Light up the hat",
+        "caption": "Paint bulbs yellow over a dry white base. Add white shine dots. Use green and a speck of black for the cord.",
+        "image": "Gnome Christmas Tree/info/tmp/organization/step-8.png",
+        "detail": false,
+        "cue": false
+      },
+      {
+        "heading": "Paint the tree lights",
+        "caption": "Use blue and yellow. Let dry, then add tiny white dots to make the ornaments shine.",
+        "image": "Gnome Christmas Tree/info/tmp/organization/step-9.png",
+        "detail": true,
+        "cue": true
+      },
+      {
+        "heading": "Brighten the snow",
+        "caption": "Mix white with a touch of blue for snow shadows. Add white highlights to snow and beard.",
+        "image": "Gnome Christmas Tree/info/tmp/organization/step-10.png",
+        "detail": true,
+        "cue": true
+      },
+      {
+        "heading": "Add finishing touches",
+        "caption": "Let paint dry before fixing edges. Add a few white snow dots to the hat if you like.",
+        "image": "Gnome Christmas Tree/info/tmp/organization/step-11.png",
+        "detail": true,
+        "cue": true
+      },
+      {
+        "heading": "Let it dry",
+        "caption": "Lay your canvas flat until dry. Wash brushes, close paint pots and clean your palette.",
+        "image": null,
+        "detail": false,
+        "cue": false,
+        "dry": true
+      }
+    ],
+    "work": "Gnome Christmas Tree/info/tmp/template-refactor",
+    "assets": "Gnome Christmas Tree/info/assets/template-refactor",
+    "logo": "Gnome Christmas Tree/info/assets/template-refactor/river-and-ridge-logo.png",
+    "unchanged": {
+      "Gnome Christmas Tree/gnome-christmas-tree-outline-8x10.svg": "1c4b289f49a1b7ccf97b2c93049cbb961b64aff67495b457615fb5b94f05a7f9",
+      "Gnome Christmas Tree/gnome-christmas-tree-finished-reference-8x10.pdf": "2cca8f5ba1a0b7010091a4ba2af0fc220b2c542877c9acd18f37df6c5437649f"
+    }
+  },
+  {
+    "folder": "Gnome Fall",
+    "slug": "gnome-fall",
+    "palette": {
+      "ink": "#154b50",
+      "accent": "#45989c",
+      "wash": "#e4f1ed",
+      "second": "#c88338",
+      "ribbon": "#e3f0e9"
+    },
+    "reference": "Gnome Fall/info/output/pdf/8x10/gnome-fall-finished-reference-8x10.png",
+    "title": "Gnome Fall",
+    "paints": [
+      "white",
+      "black",
+      "red",
+      "yellow",
+      "teal",
+      "green",
+      "brown",
+      "orange"
+    ],
+    "steps": [
+      {
+        "heading": "Begin with the outline",
+        "caption": "Protect your table. Follow the printed lines; use thin coats. Rinse and blot brushes between colors.",
+        "image": "Gnome Fall/info/tmp/organization/step-1.png",
+        "detail": false,
+        "cue": false
+      },
+      {
+        "heading": "Brush in the teal sky",
+        "caption": "Mix teal with a little white. Paint around the printed shapes with short strokes.",
+        "image": "Gnome Fall/info/tmp/organization/step-2.png",
+        "detail": false,
+        "cue": false
+      },
+      {
+        "heading": "Ground & branches",
+        "caption": "Paint branches and stems brown. Mix green with a little brown for the ground; leave leaves white.",
+        "image": "Gnome Fall/info/tmp/organization/step-3.png",
+        "detail": false,
+        "cue": false
+      },
+      {
+        "heading": "Fill the curling hat",
+        "caption": "Mix red with a little brown for rust. Paint thin curved strokes that follow the folds.",
+        "image": "Gnome Fall/info/tmp/organization/step-4.png",
+        "detail": false,
+        "cue": false
+      },
+      {
+        "heading": "Sleeves & leather",
+        "caption": "Mix green with a little brown for sleeves. Paint boots brown; add a speck of black along lower edges.",
+        "image": "Gnome Fall/info/tmp/organization/step-5.png",
+        "detail": false,
+        "cue": false
+      },
+      {
+        "heading": "Lay in autumn color",
+        "caption": "Mix orange with a touch of brown for pumpkins and the maple leaf. Alternate orange and yellow on other leaves.",
+        "image": "Gnome Fall/info/tmp/organization/step-6.png",
+        "detail": false,
+        "cue": false
+      },
+      {
+        "heading": "Skin & soft beard",
+        "caption": "For peach, mix white, a little yellow and a tiny touch of red. Paint nose and hands. Mix white with a touch of yellow for the beard.",
+        "image": "Gnome Fall/info/tmp/organization/step-7.png",
+        "detail": false,
+        "cue": false
+      },
+      {
+        "heading": "Light the lanterns",
+        "caption": "Paint frames black with a little brown. Use yellow inside; add white to yellow for the flame and soft glow.",
+        "image": "Gnome Fall/info/tmp/organization/step-8.png",
+        "detail": false,
+        "cue": false
+      },
+      {
+        "heading": "Shape the hat",
+        "caption": "Mix red, brown and a speck of black for fold shadows. Mix red with a little yellow for highlights. Blend along curves.",
+        "image": "Gnome Fall/info/tmp/organization/step-9.png",
+        "detail": true,
+        "cue": true
+      },
+      {
+        "heading": "Round the pumpkins",
+        "caption": "Mix orange with brown for groove shadows. Mix orange with a little yellow for highlights; follow the ribs.",
+        "image": "Gnome Fall/info/tmp/organization/step-10.png",
+        "detail": true,
+        "cue": true
+      },
+      {
+        "heading": "Pull fine beard strands",
+        "caption": "Mix white, a touch of teal and a speck of brown for shadows. Pull strokes toward the tips; add white and a little yellow highlights.",
+        "image": "Gnome Fall/info/tmp/organization/step-11.png",
+        "detail": true,
+        "cue": true
+      },
+      {
+        "heading": "Dry & clean up",
+        "caption": "Let the canvas dry flat. Wash and reshape brushes, wipe the palette and close paint pots.",
+        "image": null,
+        "detail": false,
+        "cue": false,
+        "dry": true
+      }
+    ],
+    "work": "Gnome Fall/info/tmp/template-refactor",
+    "assets": "Gnome Fall/info/assets/template-refactor",
+    "logo": "Gnome Fall/info/assets/template-refactor/river-and-ridge-logo.png",
+    "unchanged": {
+      "Gnome Fall/gnome-fall-outline-8x10.svg": "3f8997a82189d2ab82dbaf9d68fb5a75f56091ef9efea654ebfe70a09228cdfd",
+      "Gnome Fall/gnome-fall-finished-reference-8x10.pdf": "38ce6c5c86c965014cad08cccc5b9d3ba546bcddb7b297dd67028a7859a667e6"
+    }
+  },
+  {
+    "folder": "fall view",
+    "slug": "fall-view",
+    "palette": {
+      "ink": "#193f60",
+      "accent": "#669abd",
+      "wash": "#e4f0f7",
+      "second": "#d79340",
+      "ribbon": "#e2eff6"
+    },
+    "reference": "fall view/info/output/pdf/8x10/fall-view-finished-reference-8x10.png",
+    "title": "Fall View",
+    "paints": [
+      "white",
+      "black",
+      "red",
+      "yellow",
+      "blue",
+      "green",
+      "brown",
+      "orange"
+    ],
+    "steps": [
+      {
+        "heading": "Set up",
+        "caption": "Cover the table. Start with the printed outline. Use thin coats; rinse and blot brushes between colors.",
+        "image": "fall view/info/tmp/organization-repair/step-1.png",
+        "detail": false,
+        "cue": false
+      },
+      {
+        "heading": "Blend the sky",
+        "caption": "Mix white with blue for the upper sky. Below, blend yellow into orange, then red plus white. Work horizontally around the outlines.",
+        "image": "fall view/info/tmp/organization-repair/step-2.png",
+        "detail": false,
+        "cue": false
+      },
+      {
+        "heading": "Light the sunset",
+        "caption": "Mix white with yellow for the sun and bright cloud streaks. Mix white with red for softer streaks. Let the sky dry.",
+        "image": "fall view/info/tmp/organization-repair/step-3.png",
+        "detail": false,
+        "cue": false
+      },
+      {
+        "heading": "Layer distant ridges",
+        "caption": "Mix blue with white for the far ridges. Use less white in each nearer ridge. Follow the printed curves; let adjoining bands dry.",
+        "image": "fall view/info/tmp/organization-repair/step-4.png",
+        "detail": false,
+        "cue": false
+      },
+      {
+        "heading": "Deepen the valley",
+        "caption": "Mix blue with green and a little black. Fill the nearest forest slopes. Tap upward with the small brush for pointed treetops.",
+        "image": "fall view/info/tmp/organization-repair/step-5.png",
+        "detail": false,
+        "cue": false
+      },
+      {
+        "heading": "Block in the rocks",
+        "caption": "Mix black, brown and a little white. Brush this gray-brown base across the rock slabs. Leave the printed fallen leaves white.",
+        "image": "fall view/info/tmp/organization-repair/step-6.png",
+        "detail": false,
+        "cue": false
+      },
+      {
+        "heading": "Paint the tree",
+        "caption": "Mix brown with a little black. Fill the trunk and branches with lengthwise strokes. Keep the foliage white. Let the base dry.",
+        "image": "fall view/info/tmp/organization-repair/step-7.png",
+        "detail": false,
+        "cue": false
+      },
+      {
+        "heading": "Build autumn color",
+        "caption": "Mix red with a little brown. Dab into the canopy and shrubs. Add orange over most areas, leaving darker pockets visible.",
+        "image": "fall view/info/tmp/organization-repair/step-8.png",
+        "detail": false,
+        "cue": false
+      },
+      {
+        "heading": "Lift the leaves",
+        "caption": "Mix orange with yellow. Tap small clusters along the lit foliage edges, leaving gaps. Use red, orange and yellow on fallen leaves.",
+        "image": "fall view/info/tmp/organization-repair/step-9.png",
+        "detail": true,
+        "cue": true
+      },
+      {
+        "heading": "Catch the bark light",
+        "caption": "Mix brown with yellow and a little white. Drag a nearly dry small brush along the trunk's left edge and branch tops.",
+        "image": "fall view/info/tmp/organization-repair/step-10.png",
+        "detail": true,
+        "cue": true
+      },
+      {
+        "heading": "Define the ledges",
+        "caption": "Mix white with a little black and brown. Skim the upper rock edges with a nearly dry brush. Keep the dark cracks visible.",
+        "image": "fall view/info/tmp/organization-repair/step-11.png",
+        "detail": true,
+        "cue": true
+      },
+      {
+        "heading": "Dry and clean up",
+        "caption": "Lay the canvas flat until fully dry. Wash and reshape brushes, wipe the palette and close the paint pots.",
+        "image": null,
+        "detail": false,
+        "cue": false,
+        "dry": true
+      }
+    ],
+    "work": "fall view/info/tmp/template-refactor",
+    "assets": "fall view/info/assets/template-refactor",
+    "logo": "fall view/info/assets/template-refactor/river-and-ridge-logo.png",
+    "unchanged": {
+      "fall view/fall-view-outline-8x10.svg": "a10351797e8408d49cab2512b702912e130b0506deda2a27024720dc82113460",
+      "fall view/fall-view-finished-reference-8x10.pdf": "1e85f13d4b4235d00d8e5e2aff1ed69005ccd5148b15ce6d4be72609507245e1"
+    }
+  },
+  {
+    "folder": "Starry-night Sunflower",
+    "slug": "starry-night-sunflower",
+    "palette": {
+      "ink": "#193e62",
+      "accent": "#4e83b0",
+      "wash": "#e4eef7",
+      "second": "#cc9e38",
+      "ribbon": "#f2e8ba"
+    },
+    "reference": "Starry-night Sunflower/info/output/pdf/8x10/starry-night-sunflower-finished-reference-8x10.png",
+    "title": "Starry Night Sunflower",
+    "paints": [
+      "white",
+      "black",
+      "blue",
+      "yellow",
+      "orange",
+      "green",
+      "brown"
+    ],
+    "steps": [
+      {
+        "heading": "Prepare your space",
+        "caption": "Protect your table. Follow the preprinted lines. Use thin coats; rinse and blot brushes between colors.",
+        "image": "Starry-night Sunflower/info/tmp/organization-repair/step-1.png",
+        "detail": false,
+        "cue": false
+      },
+      {
+        "heading": "Lay in the sky",
+        "caption": "Mix blue with a little black. Paint only the sky around the flowers and greenery. Keep all plant shapes white.",
+        "image": "Starry-night Sunflower/info/tmp/organization-repair/step-2.png",
+        "detail": false,
+        "cue": false
+      },
+      {
+        "heading": "Turn the blue swirls",
+        "caption": "Mix blue with white. Follow the sky curves with short strokes, leaving darker gaps. Let dry.",
+        "image": "Starry-night Sunflower/info/tmp/organization-repair/step-3.png",
+        "detail": false,
+        "cue": false
+      },
+      {
+        "heading": "Light the stars",
+        "caption": "Mix white with a little yellow. Dab star centers and curved light trails. Keep some blue showing.",
+        "image": "Starry-night Sunflower/info/tmp/organization-repair/step-4.png",
+        "detail": false,
+        "cue": false
+      },
+      {
+        "heading": "Paint both flowers",
+        "caption": "Paint every petal yellow, from its base toward its tip. Keep seed heads and greenery white. Let dry.",
+        "image": "Starry-night Sunflower/info/tmp/organization-repair/step-5.png",
+        "detail": false,
+        "cue": false
+      },
+      {
+        "heading": "Warm the folds",
+        "caption": "Brush orange along petal bases and one side of each fold. Blend into yellow with outward strokes.",
+        "image": "Starry-night Sunflower/info/tmp/organization-repair/step-6.png",
+        "detail": false,
+        "cue": false
+      },
+      {
+        "heading": "Paint stems and leaves",
+        "caption": "Mix green with a little blue. Fill stems, leaves and curled flower backs, following their length.",
+        "image": "Starry-night Sunflower/info/tmp/organization-repair/step-7.png",
+        "detail": false,
+        "cue": false
+      },
+      {
+        "heading": "Fill the seed heads",
+        "caption": "Mix brown with a little black. Fill both seed heads; use small dabs along the rims. Let dry.",
+        "image": "Starry-night Sunflower/info/tmp/organization-repair/step-8.png",
+        "detail": false,
+        "cue": false
+      },
+      {
+        "heading": "Shape the greenery",
+        "caption": "Mix green with yellow for light edges. Mix green with blue and a speck of black for shadows. Pull curved strokes.",
+        "image": "Starry-night Sunflower/info/tmp/organization-repair/step-9.png",
+        "detail": true,
+        "cue": true
+      },
+      {
+        "heading": "Lift the petals",
+        "caption": "Mix yellow with a little white. Pull slender highlights from base to tip on dry petals; leave orange folds visible.",
+        "image": "Starry-night Sunflower/info/tmp/organization-repair/step-10.png",
+        "detail": true,
+        "cue": true
+      },
+      {
+        "heading": "Stipple the seeds",
+        "caption": "Dab brown, orange and yellow onto dry seed heads. Mix white with yellow for a few bright dots. Keep dark gaps.",
+        "image": "Starry-night Sunflower/info/tmp/organization-repair/step-11.png",
+        "detail": true,
+        "cue": true
+      },
+      {
+        "heading": "Dry and clean up",
+        "caption": "Lay the canvas flat until fully dry. Wash and reshape brushes, wipe the palette and close the paint pots.",
+        "image": null,
+        "detail": false,
+        "cue": false,
+        "dry": true
+      }
+    ],
+    "work": "Starry-night Sunflower/info/tmp/template-refactor",
+    "assets": "Starry-night Sunflower/info/assets/template-refactor",
+    "logo": "Starry-night Sunflower/info/assets/template-refactor/river-and-ridge-logo.png",
+    "unchanged": {
+      "Starry-night Sunflower/starry-night-sunflower-outline-8x10.svg": "59c71e68a18b715a00662d03a800a353badd3472a6e2bff5fd9099e8d87d4299",
+      "Starry-night Sunflower/starry-night-sunflower-finished-reference-8x10.pdf": "8b27d4463edc2cdbed62a8e6b5fd6e927c5118a77b091208cf06069a9816f9d9"
+    }
+  }
+]

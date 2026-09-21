@@ -1,6 +1,8 @@
 # Canvas kits
 
-Current production sets after the September 20, 2026 review and organization. Each kit root contains exactly the three linked files. Guide PDFs are one US Letter page; reference PDFs and SVG transfers are 8 by 10 inches. Print artwork at Actual size / 100%. All existing production SVG geometry is preserved at 2-point gray.
+Current production sets after the September 21, 2026 original-art restoration. Each kit root contains exactly the three linked files. Guide PDFs are one US Letter page; reference PDFs and SVG transfers are 8 by 10 inches. Print artwork at Actual size / 100%. All existing production SVG geometry is preserved at 2-point gray.
+
+Four references (Fall Gnome, Christmas Gnome, Fall View and Sunflower) and their guides were restored; Flowers in Vase and Gnome Halloween received guide-only detail cleanup. All outlines, originals and the other four kits remain unchanged. [Restoration review and comparisons](reference-restoration-review.md) · [Completed handoff](RESTORATION-HANDOFF.md).
 
 All ten guides now follow the Fall View template, with logos and background accents matched to their individual paintings. [Guide update and color details](guide-template-refactor.md).
 

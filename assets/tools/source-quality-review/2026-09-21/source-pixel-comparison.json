@@ -1,0 +1,32 @@
+[
+  {
+    "slug": "flowers-in-vase",
+    "sourceVsSupportingPng": {
+      "meanAbsoluteChannelDifference": 0,
+      "maxChannelDifference": 0,
+      "changedChannels": 0,
+      "totalChannels": 21600000
+    },
+    "sourceVsRootPdfRender": {
+      "meanAbsoluteChannelDifference": 0,
+      "maxChannelDifference": 0,
+      "changedChannels": 0,
+      "totalChannels": 21600000
+    }
+  },
+  {
+    "slug": "gnome-halloween",
+    "sourceVsSupportingPng": {
+      "meanAbsoluteChannelDifference": 0,
+      "maxChannelDifference": 0,
+      "changedChannels": 0,
+      "totalChannels": 21600000
+    },
+    "sourceVsRootPdfRender": {
+      "meanAbsoluteChannelDifference": 0,
+      "maxChannelDifference": 0,
+      "changedChannels": 0,
+      "totalChannels": 21600000
+    }
+  }
+]

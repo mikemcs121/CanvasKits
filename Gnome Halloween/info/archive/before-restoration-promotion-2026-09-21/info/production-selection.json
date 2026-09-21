@@ -1,0 +1,22 @@
+[
+  {
+    "role": "outline",
+    "source": "C:\\Projects\\Canvas Kits\\Gnome Halloween\\output\\svg\\8x10\\gnome-halloween-outline-8x10.svg",
+    "destination": "C:\\Projects\\Canvas Kits\\Gnome Halloween\\gnome-halloween-outline-8x10.svg",
+    "sha256": "CB318AB40756101D1B3AB1682F7FA18D98C216FD331473AE43D9284A23DD6998"
+  },
+  {
+    "role": "guide",
+    "source": "C:\\Projects\\Canvas Kits\\Gnome Halloween\\info\\tmp\\template-refactor\\gnome-halloween-painting-guide-8x10.pdf",
+    "destination": "C:\\Projects\\Canvas Kits\\Gnome Halloween\\gnome-halloween-painting-guide-8x10.pdf",
+    "sha256": "F0000C2819AC07D59432F565CCC451F4B220D2770EB4091C92116FA5973727D8",
+    "sha256BeforeTemplateRefactor": "0FB8BBFB7EC4AC1D3FB42245E75411FF12246C4686AEA44CF54BF8070D9E2377",
+    "revision": "Fall View template, painting-matched logo and page accents, September 20 2026"
+  },
+  {
+    "role": "reference",
+    "source": "C:\\Projects\\Canvas Kits\\Gnome Halloween\\output\\pdf\\8x10\\gnome-halloween-finished-reference-8x10.pdf",
+    "destination": "C:\\Projects\\Canvas Kits\\Gnome Halloween\\gnome-halloween-finished-reference-8x10.pdf",
+    "sha256": "913F3C66E856A72EE8302F8FA3138577FEA1DFDC793E60EF35C8EEC1A33F7380"
+  }
+]

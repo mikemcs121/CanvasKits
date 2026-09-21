@@ -1,0 +1,512 @@
+[
+  {
+    "folder": "Gnome Christmas Tree",
+    "slug": "gnome-christmas-tree",
+    "palette": {
+      "ink": "#21493e",
+      "accent": "#729691",
+      "wash": "#e8f1ee",
+      "second": "#b34336",
+      "ribbon": "#e7f0e8"
+    },
+    "reference": "Gnome Christmas Tree/info/assets/reference-restoration/restored-master.png",
+    "title": "Christmas Gnome",
+    "paints": [
+      "white",
+      "black",
+      "red",
+      "yellow",
+      "blue",
+      "green",
+      "brown"
+    ],
+    "steps": [
+      {
+        "heading": "Set up your canvas",
+        "caption": "Cover your table. Follow the printed outlines. Rinse and blot your brush between colors.",
+        "image": "Gnome Christmas Tree/info/assets/reference-restoration/guide-step-01.png",
+        "detail": false,
+        "cue": false,
+        "canonicalStage": "Gnome Christmas Tree/info/assets/reference-restoration/step-01.png"
+      },
+      {
+        "heading": "Paint the background",
+        "caption": "Mix white with a touch of blue for the sky. Paint snow white. Work around printed shapes.",
+        "image": "Gnome Christmas Tree/info/assets/reference-restoration/guide-step-02.png",
+        "detail": false,
+        "cue": false,
+        "canonicalStage": "Gnome Christmas Tree/info/assets/reference-restoration/step-02.png"
+      },
+      {
+        "heading": "Paint the trees",
+        "caption": "Paint trees green; keep lights white. Mix green + blue + white for the small distant tree. Use downward strokes; add green + yellow highlights.",
+        "image": "Gnome Christmas Tree/info/assets/reference-restoration/guide-step-03.png",
+        "detail": false,
+        "cue": false,
+        "canonicalStage": "Gnome Christmas Tree/info/assets/reference-restoration/step-03.png"
+      },
+      {
+        "heading": "Paint hat and coat",
+        "caption": "Use red in thin layers. Leave the nose, beard, pom-pom and light circles white.",
+        "image": "Gnome Christmas Tree/info/assets/reference-restoration/guide-step-04.png",
+        "detail": false,
+        "cue": false,
+        "canonicalStage": "Gnome Christmas Tree/info/assets/reference-restoration/step-04.png"
+      },
+      {
+        "heading": "Add nose and shoes",
+        "caption": "For peach, mix white, a little yellow and a tiny touch of red. Paint the nose peach and the shoes brown.",
+        "image": "Gnome Christmas Tree/info/assets/reference-restoration/guide-step-05.png",
+        "detail": false,
+        "cue": false,
+        "canonicalStage": "Gnome Christmas Tree/info/assets/reference-restoration/step-05.png"
+      },
+      {
+        "heading": "Paint the fluffy whites",
+        "caption": "Paint beard and pom-pom white. For shadows, mix white, a touch of blue and a speck of black.",
+        "image": "Gnome Christmas Tree/info/assets/reference-restoration/guide-step-06.png",
+        "detail": false,
+        "cue": false,
+        "canonicalStage": "Gnome Christmas Tree/info/assets/reference-restoration/step-06.png"
+      },
+      {
+        "heading": "Shape the hat folds",
+        "caption": "Mix red with a little brown for shadows. Blend along the hat folds. Add red with a touch of yellow for highlights. Let dry.",
+        "image": "Gnome Christmas Tree/info/assets/reference-restoration/guide-step-07.png",
+        "detail": true,
+        "cue": true,
+        "canonicalStage": "Gnome Christmas Tree/info/assets/reference-restoration/step-07.png"
+      },
+      {
+        "heading": "Light up the hat",
+        "caption": "Paint bulbs yellow over a dry white base. Add white shine dots. Use green and a speck of black for the cord.",
+        "image": "Gnome Christmas Tree/info/assets/reference-restoration/guide-step-08.png",
+        "detail": false,
+        "cue": false,
+        "canonicalStage": "Gnome Christmas Tree/info/assets/reference-restoration/step-08.png"
+      },
+      {
+        "heading": "Paint the tree lights",
+        "caption": "Use blue and yellow. Let dry, then add tiny white dots to make the ornaments shine.",
+        "image": "Gnome Christmas Tree/info/assets/reference-restoration/guide-step-09.png",
+        "detail": true,
+        "cue": true,
+        "canonicalStage": "Gnome Christmas Tree/info/assets/reference-restoration/step-09.png"
+      },
+      {
+        "heading": "Brighten the snow",
+        "caption": "Mix white with a touch of blue for snow shadows. Add white highlights to snow and beard.",
+        "image": "Gnome Christmas Tree/info/assets/reference-restoration/guide-step-10.png",
+        "detail": true,
+        "cue": true,
+        "canonicalStage": "Gnome Christmas Tree/info/assets/reference-restoration/step-10.png"
+      },
+      {
+        "heading": "Refine the pom-pom",
+        "caption": "Dab white over the pom-pom's blue shadows. Let dry before fixing edges. Add a few white snow dots to the hat if you like.",
+        "image": "Gnome Christmas Tree/info/assets/reference-restoration/guide-step-11.png",
+        "detail": true,
+        "cue": true,
+        "canonicalStage": "Gnome Christmas Tree/info/assets/reference-restoration/step-11.png"
+      },
+      {
+        "heading": "Let it dry",
+        "caption": "Lay your canvas flat until dry. Wash brushes, close paint pots and clean your palette.",
+        "image": null,
+        "detail": false,
+        "cue": false,
+        "dry": true
+      }
+    ],
+    "work": "Gnome Christmas Tree/info/tmp/reference-restoration",
+    "assets": "Gnome Christmas Tree/info/assets/template-refactor",
+    "logo": "Gnome Christmas Tree/info/assets/template-refactor/river-and-ridge-logo.png",
+    "unchanged": {
+      "Gnome Christmas Tree/gnome-christmas-tree-outline-8x10.svg": "1c4b289f49a1b7ccf97b2c93049cbb961b64aff67495b457615fb5b94f05a7f9",
+      "Gnome Christmas Tree/gnome-christmas-tree-finished-reference-8x10.pdf": "2cca8f5ba1a0b7010091a4ba2af0fc220b2c542877c9acd18f37df6c5437649f"
+    }
+  },
+  {
+    "folder": "Gnome Fall",
+    "slug": "gnome-fall",
+    "palette": {
+      "ink": "#154b50",
+      "accent": "#45989c",
+      "wash": "#e4f1ed",
+      "second": "#c88338",
+      "ribbon": "#e3f0e9"
+    },
+    "reference": "Gnome Fall/info/assets/reference-restoration/restored-master.png",
+    "title": "Gnome Fall",
+    "paints": [
+      "white",
+      "black",
+      "red",
+      "yellow",
+      "teal",
+      "green",
+      "brown",
+      "orange"
+    ],
+    "steps": [
+      {
+        "heading": "Begin with the outline",
+        "caption": "Protect your table. Follow the printed lines; use thin coats. Rinse and blot brushes between colors.",
+        "image": "Gnome Fall/info/assets/reference-restoration/guide-step-01.png",
+        "detail": false,
+        "cue": false,
+        "canonicalStage": "Gnome Fall/info/assets/reference-restoration/step-01.png"
+      },
+      {
+        "heading": "Brush in the teal sky",
+        "caption": "Mix teal with a little white. Paint around the printed shapes with short strokes.",
+        "image": "Gnome Fall/info/assets/reference-restoration/guide-step-02.png",
+        "detail": false,
+        "cue": false,
+        "canonicalStage": "Gnome Fall/info/assets/reference-restoration/step-02.png"
+      },
+      {
+        "heading": "Ground & branches",
+        "caption": "Paint branches and stems brown. Mix green with a little brown for the ground; leave leaves white.",
+        "image": "Gnome Fall/info/assets/reference-restoration/guide-step-03.png",
+        "detail": false,
+        "cue": false,
+        "canonicalStage": "Gnome Fall/info/assets/reference-restoration/step-03.png"
+      },
+      {
+        "heading": "Fill the curling hat",
+        "caption": "Mix red with a little brown for rust. Paint thin curved strokes that follow the folds.",
+        "image": "Gnome Fall/info/assets/reference-restoration/guide-step-04.png",
+        "detail": false,
+        "cue": false,
+        "canonicalStage": "Gnome Fall/info/assets/reference-restoration/step-04.png"
+      },
+      {
+        "heading": "Sleeves & leather",
+        "caption": "Mix green with a little brown for sleeves. Paint boots brown; add a speck of black along lower edges.",
+        "image": "Gnome Fall/info/assets/reference-restoration/guide-step-05.png",
+        "detail": false,
+        "cue": false,
+        "canonicalStage": "Gnome Fall/info/assets/reference-restoration/step-05.png"
+      },
+      {
+        "heading": "Lay in autumn color",
+        "caption": "Mix orange with a touch of brown for pumpkins and the maple leaf. Alternate orange and yellow on other leaves.",
+        "image": "Gnome Fall/info/assets/reference-restoration/guide-step-06.png",
+        "detail": false,
+        "cue": false,
+        "canonicalStage": "Gnome Fall/info/assets/reference-restoration/step-06.png"
+      },
+      {
+        "heading": "Skin & soft beard",
+        "caption": "For peach, mix white, a little yellow and a tiny touch of red. Paint nose and hands. Mix white with a touch of yellow for the beard.",
+        "image": "Gnome Fall/info/assets/reference-restoration/guide-step-07.png",
+        "detail": false,
+        "cue": false,
+        "canonicalStage": "Gnome Fall/info/assets/reference-restoration/step-07.png"
+      },
+      {
+        "heading": "Light the lanterns",
+        "caption": "Paint frames, chains and rings black + a little brown. Use yellow in the glass; add white to yellow for flames and a soft glow.",
+        "image": "Gnome Fall/info/assets/reference-restoration/guide-step-08.png",
+        "detail": false,
+        "cue": false,
+        "canonicalStage": "Gnome Fall/info/assets/reference-restoration/step-08.png"
+      },
+      {
+        "heading": "Shape the hat",
+        "caption": "Mix red, brown and a speck of black for fold shadows. Mix red with a little yellow for highlights. Blend along curves.",
+        "image": "Gnome Fall/info/assets/reference-restoration/guide-step-09.png",
+        "detail": true,
+        "cue": true,
+        "canonicalStage": "Gnome Fall/info/assets/reference-restoration/step-09.png"
+      },
+      {
+        "heading": "Round the pumpkins",
+        "caption": "Mix orange with brown for groove shadows. Mix orange with a little yellow for highlights; follow the ribs.",
+        "image": "Gnome Fall/info/assets/reference-restoration/guide-step-10.png",
+        "detail": true,
+        "cue": true,
+        "canonicalStage": "Gnome Fall/info/assets/reference-restoration/step-10.png"
+      },
+      {
+        "heading": "Pull fine beard strands",
+        "caption": "Mix white, a touch of teal and a speck of brown for shadows. Pull strokes toward the tips; add white and a little yellow highlights.",
+        "image": "Gnome Fall/info/assets/reference-restoration/guide-step-11.png",
+        "detail": true,
+        "cue": true,
+        "canonicalStage": "Gnome Fall/info/assets/reference-restoration/step-11.png"
+      },
+      {
+        "heading": "Dry & clean up",
+        "caption": "Let the canvas dry flat. Wash and reshape brushes, wipe the palette and close paint pots.",
+        "image": null,
+        "detail": false,
+        "cue": false,
+        "dry": true
+      }
+    ],
+    "work": "Gnome Fall/info/tmp/reference-restoration",
+    "assets": "Gnome Fall/info/assets/template-refactor",
+    "logo": "Gnome Fall/info/assets/template-refactor/river-and-ridge-logo.png",
+    "unchanged": {
+      "Gnome Fall/gnome-fall-outline-8x10.svg": "3f8997a82189d2ab82dbaf9d68fb5a75f56091ef9efea654ebfe70a09228cdfd",
+      "Gnome Fall/gnome-fall-finished-reference-8x10.pdf": "38ce6c5c86c965014cad08cccc5b9d3ba546bcddb7b297dd67028a7859a667e6"
+    }
+  },
+  {
+    "folder": "fall view",
+    "slug": "fall-view",
+    "palette": {
+      "ink": "#193f60",
+      "accent": "#669abd",
+      "wash": "#e4f0f7",
+      "second": "#d79340",
+      "ribbon": "#e2eff6"
+    },
+    "reference": "fall view/info/assets/reference-restoration/restored-master.png",
+    "title": "Fall View",
+    "paints": [
+      "white",
+      "black",
+      "red",
+      "yellow",
+      "blue",
+      "green",
+      "brown",
+      "orange"
+    ],
+    "steps": [
+      {
+        "heading": "Set up",
+        "caption": "Cover the table. Start with the printed outline. Use thin coats; rinse and blot brushes between colors.",
+        "image": "fall view/info/assets/reference-restoration/guide-step-01.png",
+        "detail": false,
+        "cue": false,
+        "canonicalStage": "fall view/info/assets/reference-restoration/step-01.png"
+      },
+      {
+        "heading": "Blend the sky",
+        "caption": "Mix white with blue for the upper sky. Below, blend yellow into orange, then red plus white. Work horizontally around the outlines.",
+        "image": "fall view/info/assets/reference-restoration/guide-step-02.png",
+        "detail": false,
+        "cue": false,
+        "canonicalStage": "fall view/info/assets/reference-restoration/step-02.png"
+      },
+      {
+        "heading": "Light the sunset",
+        "caption": "Mix white with yellow for the sun and bright cloud streaks. Mix white with red for softer streaks. Let the sky dry.",
+        "image": "fall view/info/assets/reference-restoration/guide-step-03.png",
+        "detail": false,
+        "cue": false,
+        "canonicalStage": "fall view/info/assets/reference-restoration/step-03.png"
+      },
+      {
+        "heading": "Layer distant ridges",
+        "caption": "Mix blue with white for the far ridges. Use less white in each nearer ridge. Follow the printed curves; let adjoining bands dry.",
+        "image": "fall view/info/assets/reference-restoration/guide-step-04.png",
+        "detail": false,
+        "cue": false,
+        "canonicalStage": "fall view/info/assets/reference-restoration/step-04.png"
+      },
+      {
+        "heading": "Deepen the valley",
+        "caption": "Mix blue with green and a little black. Fill the nearest forest slopes. Tap upward with the small brush for pointed treetops.",
+        "image": "fall view/info/assets/reference-restoration/guide-step-05.png",
+        "detail": false,
+        "cue": false,
+        "canonicalStage": "fall view/info/assets/reference-restoration/step-05.png"
+      },
+      {
+        "heading": "Block in the rocks",
+        "caption": "Mix black, brown and a little white. Brush this gray-brown base across the rock slabs. Leave the printed fallen leaves white.",
+        "image": "fall view/info/assets/reference-restoration/guide-step-06.png",
+        "detail": false,
+        "cue": false,
+        "canonicalStage": "fall view/info/assets/reference-restoration/step-06.png"
+      },
+      {
+        "heading": "Paint the tree",
+        "caption": "Mix brown with a little black. Fill the trunk and branches with lengthwise strokes. Keep the foliage white. Let the base dry.",
+        "image": "fall view/info/assets/reference-restoration/guide-step-07.png",
+        "detail": false,
+        "cue": false,
+        "canonicalStage": "fall view/info/assets/reference-restoration/step-07.png"
+      },
+      {
+        "heading": "Build autumn color",
+        "caption": "Mix red with a little brown. Dab into the canopy and shrubs. Add orange over most areas, leaving darker pockets visible.",
+        "image": "fall view/info/assets/reference-restoration/guide-step-08.png",
+        "detail": false,
+        "cue": false,
+        "canonicalStage": "fall view/info/assets/reference-restoration/step-08.png"
+      },
+      {
+        "heading": "Lift the leaves",
+        "caption": "Mix orange with yellow. Tap small clusters along the lit foliage edges, leaving gaps. Use red, orange and yellow on fallen leaves.",
+        "image": "fall view/info/assets/reference-restoration/guide-step-09.png",
+        "detail": true,
+        "cue": true,
+        "canonicalStage": "fall view/info/assets/reference-restoration/step-09.png"
+      },
+      {
+        "heading": "Catch the bark light",
+        "caption": "Mix brown with yellow and a little white. Drag a nearly dry small brush along the trunk's left edge and branch tops.",
+        "image": "fall view/info/assets/reference-restoration/guide-step-10.png",
+        "detail": true,
+        "cue": true,
+        "canonicalStage": "fall view/info/assets/reference-restoration/step-10.png"
+      },
+      {
+        "heading": "Define the ledges",
+        "caption": "Mix white with a little black and brown. Skim the upper rock edges with a nearly dry brush. Keep the dark cracks visible.",
+        "image": "fall view/info/assets/reference-restoration/guide-step-11.png",
+        "detail": true,
+        "cue": true,
+        "canonicalStage": "fall view/info/assets/reference-restoration/step-11.png"
+      },
+      {
+        "heading": "Dry and clean up",
+        "caption": "Lay the canvas flat until fully dry. Wash and reshape brushes, wipe the palette and close the paint pots.",
+        "image": null,
+        "detail": false,
+        "cue": false,
+        "dry": true
+      }
+    ],
+    "work": "fall view/info/tmp/reference-restoration",
+    "assets": "fall view/info/assets/template-refactor",
+    "logo": "fall view/info/assets/template-refactor/river-and-ridge-logo.png",
+    "unchanged": {
+      "fall view/fall-view-outline-8x10.svg": "a10351797e8408d49cab2512b702912e130b0506deda2a27024720dc82113460",
+      "fall view/fall-view-finished-reference-8x10.pdf": "1e85f13d4b4235d00d8e5e2aff1ed69005ccd5148b15ce6d4be72609507245e1"
+    }
+  },
+  {
+    "folder": "Starry-night Sunflower",
+    "slug": "starry-night-sunflower",
+    "palette": {
+      "ink": "#193e62",
+      "accent": "#4e83b0",
+      "wash": "#e4eef7",
+      "second": "#cc9e38",
+      "ribbon": "#f2e8ba"
+    },
+    "reference": "Starry-night Sunflower/info/assets/reference-restoration/restored-master.png",
+    "title": "Starry Night Sunflower",
+    "paints": [
+      "white",
+      "black",
+      "blue",
+      "yellow",
+      "orange",
+      "green",
+      "brown"
+    ],
+    "steps": [
+      {
+        "heading": "Prepare your space",
+        "caption": "Protect your table. Follow the preprinted lines. Use thin coats; rinse and blot brushes between colors.",
+        "image": "Starry-night Sunflower/info/assets/reference-restoration/guide-step-01.png",
+        "detail": false,
+        "cue": false,
+        "canonicalStage": "Starry-night Sunflower/info/assets/reference-restoration/step-01.png"
+      },
+      {
+        "heading": "Lay in the sky",
+        "caption": "Mix blue with a little black. Paint only the sky around the flowers and greenery. Keep all plant shapes white.",
+        "image": "Starry-night Sunflower/info/assets/reference-restoration/guide-step-02.png",
+        "detail": false,
+        "cue": false,
+        "canonicalStage": "Starry-night Sunflower/info/assets/reference-restoration/step-02.png"
+      },
+      {
+        "heading": "Turn the blue swirls",
+        "caption": "Mix blue with white. Follow the sky curves with short strokes, leaving darker gaps. Let dry.",
+        "image": "Starry-night Sunflower/info/assets/reference-restoration/guide-step-03.png",
+        "detail": false,
+        "cue": false,
+        "canonicalStage": "Starry-night Sunflower/info/assets/reference-restoration/step-03.png"
+      },
+      {
+        "heading": "Light the stars",
+        "caption": "Mix white with a little yellow. Dab star centers and curved light trails. Keep some blue showing.",
+        "image": "Starry-night Sunflower/info/assets/reference-restoration/guide-step-04.png",
+        "detail": false,
+        "cue": false,
+        "canonicalStage": "Starry-night Sunflower/info/assets/reference-restoration/step-04.png"
+      },
+      {
+        "heading": "Paint both flowers",
+        "caption": "Paint every petal yellow, from its base toward its tip. Keep seed heads and greenery white. Let dry.",
+        "image": "Starry-night Sunflower/info/assets/reference-restoration/guide-step-05.png",
+        "detail": false,
+        "cue": false,
+        "canonicalStage": "Starry-night Sunflower/info/assets/reference-restoration/step-05.png"
+      },
+      {
+        "heading": "Warm the folds",
+        "caption": "Brush orange along petal bases and one side of each fold. Blend into yellow with outward strokes.",
+        "image": "Starry-night Sunflower/info/assets/reference-restoration/guide-step-06.png",
+        "detail": false,
+        "cue": false,
+        "canonicalStage": "Starry-night Sunflower/info/assets/reference-restoration/step-06.png"
+      },
+      {
+        "heading": "Paint stems and leaves",
+        "caption": "Mix green with a little blue. Fill stems, leaves and curled flower backs, following their length.",
+        "image": "Starry-night Sunflower/info/assets/reference-restoration/guide-step-07.png",
+        "detail": false,
+        "cue": false,
+        "canonicalStage": "Starry-night Sunflower/info/assets/reference-restoration/step-07.png"
+      },
+      {
+        "heading": "Fill the seed heads",
+        "caption": "Mix brown with a little black. Fill both seed heads; use small dabs along the rims. Let dry.",
+        "image": "Starry-night Sunflower/info/assets/reference-restoration/guide-step-08.png",
+        "detail": false,
+        "cue": false,
+        "canonicalStage": "Starry-night Sunflower/info/assets/reference-restoration/step-08.png"
+      },
+      {
+        "heading": "Shape the greenery",
+        "caption": "Mix green with yellow for light edges. Mix green with blue and a speck of black for shadows. Pull curved strokes.",
+        "image": "Starry-night Sunflower/info/assets/reference-restoration/guide-step-09.png",
+        "detail": true,
+        "cue": true,
+        "canonicalStage": "Starry-night Sunflower/info/assets/reference-restoration/step-09.png"
+      },
+      {
+        "heading": "Lift the petals",
+        "caption": "Mix yellow with a little white. Pull slender highlights from base to tip on dry petals; leave orange folds visible.",
+        "image": "Starry-night Sunflower/info/assets/reference-restoration/guide-step-10.png",
+        "detail": true,
+        "cue": true,
+        "canonicalStage": "Starry-night Sunflower/info/assets/reference-restoration/step-10.png"
+      },
+      {
+        "heading": "Stipple the seeds",
+        "caption": "Dab brown, orange and yellow onto dry seed heads. Mix white with yellow for a few bright dots. Keep dark gaps.",
+        "image": "Starry-night Sunflower/info/assets/reference-restoration/guide-step-11.png",
+        "detail": true,
+        "cue": true,
+        "canonicalStage": "Starry-night Sunflower/info/assets/reference-restoration/step-11.png"
+      },
+      {
+        "heading": "Dry and clean up",
+        "caption": "Lay the canvas flat until fully dry. Wash and reshape brushes, wipe the palette and close the paint pots.",
+        "image": null,
+        "detail": false,
+        "cue": false,
+        "dry": true
+      }
+    ],
+    "work": "Starry-night Sunflower/info/tmp/reference-restoration",
+    "assets": "Starry-night Sunflower/info/assets/template-refactor",
+    "logo": "Starry-night Sunflower/info/assets/template-refactor/river-and-ridge-logo.png",
+    "unchanged": {
+      "Starry-night Sunflower/starry-night-sunflower-outline-8x10.svg": "59c71e68a18b715a00662d03a800a353badd3472a6e2bff5fd9099e8d87d4299",
+      "Starry-night Sunflower/starry-night-sunflower-finished-reference-8x10.pdf": "8b27d4463edc2cdbed62a8e6b5fd6e927c5118a77b091208cf06069a9816f9d9"
+    }
+  }
+]

@@ -1,5 +1,7 @@
 # Reference texture review — September 20, 2026
 
+Historical review: the September 21 restoration supersedes the references and guides for Fall Gnome, Christmas Gnome, Fall View and Sunflower. See [current restoration review](reference-restoration-review.md) for selected masters, comparisons and verification. The evidence below describes the earlier edition.
+
 Reviewed all ten current color-reference PNGs at page scale and with enlarged texture/detail crops. Gnome Fall and Christmas Gnome had square sky artifacts caused by integer sampling of small texture patches. Both have been repaired; the other eight did not show the same square-grid defect and were left unchanged.
 
 ## Updated files

@@ -1,5 +1,20 @@
 ﻿# Gnome Halloween supporting files
 
+## Current production — September 21, 2026
+
+The guide-only detail cleanup is promoted. The reference remains unchanged and matches the supplied original. The approved outline/transfer is unchanged. Parent-folder PDFs are authoritative.
+
+- Current guide plan: [plan.json](tmp/template-refactor/plan.json), synchronized with project `assets/tools/guide-template/kits.json`.
+- Current build, rendered reviews and measured checks: [reference-restoration](tmp/reference-restoration/).
+- Exact promoted/archived paths and hashes: [promotion manifest](tmp/reference-restoration/promotion-manifest.json).
+- Supporting final PDF/PNG copies: `output/pdf/8x10/`.
+- Rollback copies: `archive/before-restoration-promotion-2026-09-21/`.
+- Project [review and comparisons](../../reference-restoration-review.md) and [completed handoff](../../RESTORATION-HANDOFF.md).
+
+## Earlier organization and template provenance
+
+The dated build selections below describe earlier editions, not the current restoration. Preserve them for dependencies and provenance; do not rerun historical exporters over current production. The shared template/logo remains in use, but current plan/check paths above take precedence.
+
 The three files in the parent folder are the current production set: SVG transfer, guide PDF, and color-reference PDF. Select those when printing or sending the transfer to a supplier.
 
 - assets/: canonical artwork, guide stages, masks and logo variants.

@@ -1,0 +1,170 @@
+{
+  "date": "2026-09-21",
+  "purpose": "Read-only production review; previews only",
+  "sources": [
+    {
+      "path": "C:\\Users\\mmcsherry\\Desktop\\New folder\\fall-view-finished-reference.png",
+      "sha256": "c3fadbed11fc16a6bf170226579b588d7d1554cb9a3462b33b3d458da8475c67",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "path": "C:\\Users\\mmcsherry\\Desktop\\New folder\\fall-view-source-composite.png",
+      "sha256": "1112c513309fc4471e58b99803a503b87d7d6a46a92fb22f40eb3cb5124554f4",
+      "width": 910,
+      "height": 607
+    },
+    {
+      "path": "C:\\Users\\mmcsherry\\Desktop\\New folder\\flowers-in-vase-finished-reference-8x10.png",
+      "sha256": "b14781b8e06c1a48e2627667dd598b9290b028c44af1ca15c5e068645429c3a7",
+      "width": 2400,
+      "height": 3000
+    },
+    {
+      "path": "C:\\Users\\mmcsherry\\Desktop\\New folder\\gnome-christmas-tree-finished-reference.png",
+      "sha256": "7c566c547e3cfdbe6649b8b0d0e24649b4103b935ce5deb266b4db40588eafe1",
+      "width": 2500,
+      "height": 2500
+    },
+    {
+      "path": "C:\\Users\\mmcsherry\\Desktop\\New folder\\gnome-fall-finished-reference.png",
+      "sha256": "1309ea0c8098a7f187c04ed4233871a349fd44f74f6b88bfd999f84ed7c5657d",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "path": "C:\\Users\\mmcsherry\\Desktop\\New folder\\gnome-halloween-finished-reference-8x10.png",
+      "sha256": "701121dd38b0191f98d5ac3251b66c806ebe748b262b78738a5fc2a4d0c06611",
+      "width": 2400,
+      "height": 3000
+    },
+    {
+      "path": "C:\\Users\\mmcsherry\\Desktop\\New folder\\starry-night-sunflower-finished-reference.png",
+      "sha256": "1080927358c920f739555c5b47f712db5cbf97da45adce1a1e2e1fee35ceca4f",
+      "width": 1254,
+      "height": 1254
+    }
+  ],
+  "production": [
+    {
+      "path": "C:\\Projects\\CanvasKits\\Flowers in Vase\\flowers-in-vase-outline-8x10.svg",
+      "sha256": "76bbdd0008ecab67356fc3f46c0d8d91a8e07777d1f7a78cc8fc8896c555226f"
+    },
+    {
+      "path": "C:\\Projects\\CanvasKits\\Flowers in Vase\\flowers-in-vase-finished-reference-8x10.pdf",
+      "sha256": "8e5c1aaf0d54f6dd4687bae28f3998be19e4c33ddb1a5c2ea274249d93418fd1"
+    },
+    {
+      "path": "C:\\Projects\\CanvasKits\\Flowers in Vase\\flowers-in-vase-painting-guide-8x10.pdf",
+      "sha256": "00ae5d7f05739f5f6b1762a692eba2853af86b898121b1342d54f46a39d22e08"
+    },
+    {
+      "path": "C:\\Projects\\CanvasKits\\Gnome Halloween\\gnome-halloween-outline-8x10.svg",
+      "sha256": "cb318ab40756101d1b3ab1682f7fa18d98c216fd331473ae43d9284a23dd6998"
+    },
+    {
+      "path": "C:\\Projects\\CanvasKits\\Gnome Halloween\\gnome-halloween-finished-reference-8x10.pdf",
+      "sha256": "913f3c66e856a72ee8302f8fa3138577fea1dfdc793e60ef35c8eec1a33f7380"
+    },
+    {
+      "path": "C:\\Projects\\CanvasKits\\Gnome Halloween\\gnome-halloween-painting-guide-8x10.pdf",
+      "sha256": "f0000c2819ac07d59432f565ccc451f4b220d2770eb4091c92116fa5973727d8"
+    },
+    {
+      "path": "C:\\Projects\\CanvasKits\\Fox Fall\\fox-fall-outline-8x10.svg",
+      "sha256": "b00e01e6c48aafe705fb421d7a66a175c8f6921ff480ef3f35287f507d74db85"
+    },
+    {
+      "path": "C:\\Projects\\CanvasKits\\Fox Fall\\fox-fall-finished-reference-8x10.pdf",
+      "sha256": "ae4bf950ef8a02b48014d9d6fc68b773e172158b4f90dddc407ea5c35f4b6607"
+    },
+    {
+      "path": "C:\\Projects\\CanvasKits\\Fox Fall\\fox-fall-painting-guide-8x10.pdf",
+      "sha256": "f0ac4c5c1b2377b1045ac81317d3e8c1b7919c93c9f532f2735bc65c3f141d7c"
+    },
+    {
+      "path": "C:\\Projects\\CanvasKits\\Ghost Fall\\ghost-fall-outline-8x10.svg",
+      "sha256": "6e38259204ade00d3738a8c2e591a5cde68770993d1bcf6c9b723a32021b64c9"
+    },
+    {
+      "path": "C:\\Projects\\CanvasKits\\Ghost Fall\\ghost-fall-finished-reference-8x10.pdf",
+      "sha256": "8fe169d97850c5dd2c5e85a041cd7236eb707bbd4e044a8a2633b6c3ea496c63"
+    },
+    {
+      "path": "C:\\Projects\\CanvasKits\\Ghost Fall\\ghost-fall-painting-guide-8x10.pdf",
+      "sha256": "bb7c67b08933f4dc814056560d8afcadb8b8edeaa7c173828e26327e5be1f29b"
+    },
+    {
+      "path": "C:\\Projects\\CanvasKits\\Cat in Pumpkin\\cat-in-pumpkin-outline-8x10.svg",
+      "sha256": "0518c2c1978cbc59e0b9e2d636e1731542cfa1979cb379e99fa6a3efe54c481f"
+    },
+    {
+      "path": "C:\\Projects\\CanvasKits\\Cat in Pumpkin\\cat-in-pumpkin-finished-reference-8x10.pdf",
+      "sha256": "651c95e4390133ae4ae0c33b1a10d0c3155ddc4b17750cca72b7383ec30b089d"
+    },
+    {
+      "path": "C:\\Projects\\CanvasKits\\Cat in Pumpkin\\cat-in-pumpkin-painting-guide-8x10.pdf",
+      "sha256": "be2c8c19c300f214655701c3bae707cdf6cce634080e9d1af6524273d74d727d"
+    },
+    {
+      "path": "C:\\Projects\\CanvasKits\\Pumpkin\\pumpkin-outline-8x10.svg",
+      "sha256": "930d3ad3b7c65d06e47ed36567deabe7e97daa553df0d45366d2d03335d5067b"
+    },
+    {
+      "path": "C:\\Projects\\CanvasKits\\Pumpkin\\pumpkin-finished-reference-8x10.pdf",
+      "sha256": "3a0f6122a9a94becbc118e2789bec747edf12a2587d9dee3806fca504ebda238"
+    },
+    {
+      "path": "C:\\Projects\\CanvasKits\\Pumpkin\\pumpkin-painting-guide-8x10.pdf",
+      "sha256": "97f4c5ab13a9db4d41a5a860938508bb25402a571a7f523e394152802a602d2b"
+    },
+    {
+      "path": "C:\\Projects\\CanvasKits\\Gnome Christmas Tree\\gnome-christmas-tree-outline-8x10.svg",
+      "sha256": "1c4b289f49a1b7ccf97b2c93049cbb961b64aff67495b457615fb5b94f05a7f9"
+    },
+    {
+      "path": "C:\\Projects\\CanvasKits\\Gnome Christmas Tree\\gnome-christmas-tree-finished-reference-8x10.pdf",
+      "sha256": "2cca8f5ba1a0b7010091a4ba2af0fc220b2c542877c9acd18f37df6c5437649f"
+    },
+    {
+      "path": "C:\\Projects\\CanvasKits\\Gnome Christmas Tree\\gnome-christmas-tree-painting-guide-8x10.pdf",
+      "sha256": "95746637bc8056d5656744a95b3932682ed8572eece456c1070ef86dc3a7baef"
+    },
+    {
+      "path": "C:\\Projects\\CanvasKits\\Gnome Fall\\gnome-fall-outline-8x10.svg",
+      "sha256": "3f8997a82189d2ab82dbaf9d68fb5a75f56091ef9efea654ebfe70a09228cdfd"
+    },
+    {
+      "path": "C:\\Projects\\CanvasKits\\Gnome Fall\\gnome-fall-finished-reference-8x10.pdf",
+      "sha256": "38ce6c5c86c965014cad08cccc5b9d3ba546bcddb7b297dd67028a7859a667e6"
+    },
+    {
+      "path": "C:\\Projects\\CanvasKits\\Gnome Fall\\gnome-fall-painting-guide-8x10.pdf",
+      "sha256": "2caae79463039c3d9c50bde1b54648db4c23932c9a13dc2af57a24770094078f"
+    },
+    {
+      "path": "C:\\Projects\\CanvasKits\\fall view\\fall-view-outline-8x10.svg",
+      "sha256": "a10351797e8408d49cab2512b702912e130b0506deda2a27024720dc82113460"
+    },
+    {
+      "path": "C:\\Projects\\CanvasKits\\fall view\\fall-view-finished-reference-8x10.pdf",
+      "sha256": "1e85f13d4b4235d00d8e5e2aff1ed69005ccd5148b15ce6d4be72609507245e1"
+    },
+    {
+      "path": "C:\\Projects\\CanvasKits\\fall view\\fall-view-painting-guide-8x10.pdf",
+      "sha256": "0c3c9f80b7e04ca96467c57f2abf10523f8b57eca3f1879c474c72ec5a44a92a"
+    },
+    {
+      "path": "C:\\Projects\\CanvasKits\\Starry-night Sunflower\\starry-night-sunflower-outline-8x10.svg",
+      "sha256": "59c71e68a18b715a00662d03a800a353badd3472a6e2bff5fd9099e8d87d4299"
+    },
+    {
+      "path": "C:\\Projects\\CanvasKits\\Starry-night Sunflower\\starry-night-sunflower-finished-reference-8x10.pdf",
+      "sha256": "8b27d4463edc2cdbed62a8e6b5fd6e927c5118a77b091208cf06069a9816f9d9"
+    },
+    {
+      "path": "C:\\Projects\\CanvasKits\\Starry-night Sunflower\\starry-night-sunflower-painting-guide-8x10.pdf",
+      "sha256": "0c8a5780c0de8edd85ed9017874479040c57d2a15070995933f1556210315dc4"
+    }
+  ]
+}

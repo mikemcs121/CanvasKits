@@ -1,0 +1,32 @@
+[
+  {
+    "source": "C:\\Users\\mmcsherry\\Desktop\\New folder\\gnome-christmas-tree-finished-reference.png",
+    "archive": "C:\\Projects\\CanvasKits\\Gnome Christmas Tree\\info\\assets\\reference-restoration\\sources\\gnome-christmas-tree-finished-reference.png",
+    "sha256": "7c566c547e3cfdbe6649b8b0d0e24649b4103b935ce5deb266b4db40588eafe1"
+  },
+  {
+    "source": "C:\\Projects\\CanvasKits\\Gnome Christmas Tree\\gnome-christmas-tree-finished-reference-8x10.pdf",
+    "archive": "C:\\Projects\\CanvasKits\\Gnome Christmas Tree\\info\\archive\\before-reference-restoration-2026-09-21\\gnome-christmas-tree-finished-reference-8x10.pdf",
+    "sha256": "2cca8f5ba1a0b7010091a4ba2af0fc220b2c542877c9acd18f37df6c5437649f"
+  },
+  {
+    "source": "C:\\Projects\\CanvasKits\\Gnome Christmas Tree\\info\\output\\pdf\\8x10\\gnome-christmas-tree-finished-reference-8x10.png",
+    "archive": "C:\\Projects\\CanvasKits\\Gnome Christmas Tree\\info\\archive\\before-reference-restoration-2026-09-21\\gnome-christmas-tree-finished-reference-8x10.png",
+    "sha256": "81cc6ba2ccab069731b2221c6a750cb35c3a71bb7a382cffcd827c1ac6662edf"
+  },
+  {
+    "source": "C:\\Projects\\CanvasKits\\Gnome Christmas Tree\\gnome-christmas-tree-painting-guide-8x10.pdf",
+    "archive": "C:\\Projects\\CanvasKits\\Gnome Christmas Tree\\info\\archive\\before-reference-restoration-2026-09-21\\gnome-christmas-tree-painting-guide-8x10.pdf",
+    "sha256": "95746637bc8056d5656744a95b3932682ed8572eece456c1070ef86dc3a7baef"
+  },
+  {
+    "source": "C:\\Projects\\CanvasKits\\Gnome Christmas Tree\\info\\output\\pdf\\8x10\\gnome-christmas-tree-painting-guide-8x10.png",
+    "archive": "C:\\Projects\\CanvasKits\\Gnome Christmas Tree\\info\\archive\\before-reference-restoration-2026-09-21\\gnome-christmas-tree-painting-guide-8x10.png",
+    "sha256": "1105e2085fb4b5e8a769962fdba5ee832b2b3a80bc10706001a4beccd07ec934"
+  },
+  {
+    "source": "C:\\Projects\\CanvasKits\\Gnome Christmas Tree\\info\\tmp\\template-refactor\\plan.json",
+    "archive": "C:\\Projects\\CanvasKits\\Gnome Christmas Tree\\info\\archive\\before-reference-restoration-2026-09-21\\guide-plan.json",
+    "sha256": "8ee09139761ae98c653a6c4328391e88311075a565ca810c36a60942ad2506c3"
+  }
+]

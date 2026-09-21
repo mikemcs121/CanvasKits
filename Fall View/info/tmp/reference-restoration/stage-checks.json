@@ -1,0 +1,183 @@
+{
+  "outlineHash": "a10351797e8408d49cab2512b702912e130b0506deda2a27024720dc82113460",
+  "masterHash": "627ae5c14fa137b97289c199b0bd5d857ccc23a321669c55426a8f49cff49ece",
+  "nativeCandidateSize": {
+    "format": "png",
+    "mediaType": "image/png",
+    "width": 1122,
+    "height": 1402,
+    "space": "srgb",
+    "channels": 3,
+    "depth": "uchar",
+    "density": 72,
+    "isProgressive": false,
+    "isPalette": false,
+    "bitsPerSample": 8,
+    "hasProfile": false,
+    "hasAlpha": false,
+    "autoOrient": {
+      "width": 1122,
+      "height": 1402
+    }
+  },
+  "printSize": [
+    2400,
+    3000
+  ],
+  "resampling": "Lanczos3 from built-in generated native image; no claim of native 300-DPI new detail",
+  "maskSource": "C:\\Projects\\CanvasKits\\fall view/info/tmp/organization-repair/labels.bin",
+  "records": [
+    {
+      "step": 1,
+      "painted": [],
+      "cropAt2400": null,
+      "unpaintedCoreErrors": 0
+    },
+    {
+      "step": 2,
+      "painted": [
+        "sky"
+      ],
+      "cropAt2400": null,
+      "unpaintedCoreErrors": 0
+    },
+    {
+      "step": 3,
+      "painted": [
+        "sky",
+        "cloud",
+        "sun"
+      ],
+      "cropAt2400": null,
+      "unpaintedCoreErrors": 0
+    },
+    {
+      "step": 4,
+      "painted": [
+        "sky",
+        "cloud",
+        "sun",
+        "ridge"
+      ],
+      "cropAt2400": null,
+      "unpaintedCoreErrors": 0
+    },
+    {
+      "step": 5,
+      "painted": [
+        "sky",
+        "cloud",
+        "sun",
+        "ridge",
+        "forest"
+      ],
+      "cropAt2400": null,
+      "unpaintedCoreErrors": 0
+    },
+    {
+      "step": 6,
+      "painted": [
+        "sky",
+        "cloud",
+        "sun",
+        "ridge",
+        "forest",
+        "rock"
+      ],
+      "cropAt2400": null,
+      "unpaintedCoreErrors": 0
+    },
+    {
+      "step": 7,
+      "painted": [
+        "sky",
+        "cloud",
+        "sun",
+        "ridge",
+        "forest",
+        "rock",
+        "trunk"
+      ],
+      "cropAt2400": null,
+      "unpaintedCoreErrors": 0
+    },
+    {
+      "step": 8,
+      "painted": [
+        "sky",
+        "cloud",
+        "sun",
+        "ridge",
+        "forest",
+        "rock",
+        "trunk",
+        "foliage"
+      ],
+      "cropAt2400": null,
+      "unpaintedCoreErrors": 0
+    },
+    {
+      "step": 9,
+      "painted": [
+        "sky",
+        "cloud",
+        "sun",
+        "ridge",
+        "forest",
+        "rock",
+        "trunk",
+        "foliage",
+        "fallen"
+      ],
+      "cropAt2400": [
+        660,
+        0,
+        1620,
+        1260
+      ],
+      "unpaintedCoreErrors": 0
+    },
+    {
+      "step": 10,
+      "painted": [
+        "sky",
+        "cloud",
+        "sun",
+        "ridge",
+        "forest",
+        "rock",
+        "trunk",
+        "foliage",
+        "fallen"
+      ],
+      "cropAt2400": [
+        1740,
+        1230,
+        660,
+        1350
+      ],
+      "unpaintedCoreErrors": 0
+    },
+    {
+      "step": 11,
+      "painted": [
+        "sky",
+        "cloud",
+        "sun",
+        "ridge",
+        "forest",
+        "rock",
+        "trunk",
+        "foliage",
+        "fallen"
+      ],
+      "cropAt2400": [
+        0,
+        2295,
+        2400,
+        705
+      ],
+      "unpaintedCoreErrors": 0
+    }
+  ]
+}

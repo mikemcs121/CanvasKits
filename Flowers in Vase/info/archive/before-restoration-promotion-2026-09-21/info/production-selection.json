@@ -1,0 +1,22 @@
+[
+  {
+    "role": "outline",
+    "source": "C:\\Projects\\Canvas Kits\\Flowers in Vase\\output\\svg\\8x10\\flowers-in-vase-outline-8x10.svg",
+    "destination": "C:\\Projects\\Canvas Kits\\Flowers in Vase\\flowers-in-vase-outline-8x10.svg",
+    "sha256": "76BBDD0008ECAB67356FC3F46C0D8D91A8E07777D1F7A78CC8FC8896C555226F"
+  },
+  {
+    "role": "guide",
+    "source": "C:\\Projects\\Canvas Kits\\Flowers in Vase\\info\\tmp\\template-refactor\\flowers-in-vase-painting-guide-8x10.pdf",
+    "destination": "C:\\Projects\\Canvas Kits\\Flowers in Vase\\flowers-in-vase-painting-guide-8x10.pdf",
+    "sha256": "00AE5D7F05739F5F6B1762A692EBA2853AF86B898121B1342D54F46A39D22E08",
+    "sha256BeforeTemplateRefactor": "8CCACC19A639D91A2382D318F0BFC786D34391BA2DC4E6B9F579FCE7C40C160B",
+    "revision": "Fall View template, painting-matched logo and page accents, September 20 2026"
+  },
+  {
+    "role": "reference",
+    "source": "C:\\Projects\\Canvas Kits\\Flowers in Vase\\output\\pdf\\8x10\\flowers-in-vase-finished-reference-8x10.pdf",
+    "destination": "C:\\Projects\\Canvas Kits\\Flowers in Vase\\flowers-in-vase-finished-reference-8x10.pdf",
+    "sha256": "8E5C1AAF0D54F6DD4687BAE28F3998BE19E4C33DDB1A5C2EA274249D93418FD1"
+  }
+]

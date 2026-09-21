@@ -1,0 +1,317 @@
+{
+  "date": "2026-09-21",
+  "status": "promoted",
+  "protectedFilesVerified": 434,
+  "protectedFilesChanged": [],
+  "updatedProductionPdfs": [
+    "C:\\Projects\\CanvasKits\\Gnome Christmas Tree\\gnome-christmas-tree-painting-guide-8x10.pdf",
+    "C:\\Projects\\CanvasKits\\Gnome Christmas Tree\\gnome-christmas-tree-finished-reference-8x10.pdf",
+    "C:\\Projects\\CanvasKits\\Gnome Fall\\gnome-fall-painting-guide-8x10.pdf",
+    "C:\\Projects\\CanvasKits\\Gnome Fall\\gnome-fall-finished-reference-8x10.pdf",
+    "C:\\Projects\\CanvasKits\\fall view\\fall-view-painting-guide-8x10.pdf",
+    "C:\\Projects\\CanvasKits\\fall view\\fall-view-finished-reference-8x10.pdf",
+    "C:\\Projects\\CanvasKits\\Starry-night Sunflower\\starry-night-sunflower-painting-guide-8x10.pdf",
+    "C:\\Projects\\CanvasKits\\Starry-night Sunflower\\starry-night-sunflower-finished-reference-8x10.pdf",
+    "C:\\Projects\\CanvasKits\\Flowers in Vase\\flowers-in-vase-painting-guide-8x10.pdf",
+    "C:\\Projects\\CanvasKits\\Gnome Halloween\\gnome-halloween-painting-guide-8x10.pdf"
+  ],
+  "unexpectedProductionChanges": [],
+  "kitRootLayouts": "exactly three files each",
+  "allCopiesHashVerified": true,
+  "files": [
+    {
+      "target": "C:\\Projects\\CanvasKits\\Gnome Christmas Tree\\gnome-christmas-tree-painting-guide-8x10.pdf",
+      "oldSha256": "95746637bc8056d5656744a95b3932682ed8572eece456c1070ef86dc3a7baef",
+      "archivedAt": "C:\\Projects\\CanvasKits\\Gnome Christmas Tree\\info\\archive\\before-restoration-promotion-2026-09-21\\gnome-christmas-tree-painting-guide-8x10.pdf",
+      "source": "C:\\Projects\\CanvasKits\\Gnome Christmas Tree\\info\\tmp\\reference-restoration\\gnome-christmas-tree-painting-guide-8x10.pdf",
+      "newSha256": "74afae9cd580b8142ec4701b09d6208883c172120ca4e9c0826c86fd18cb195a"
+    },
+    {
+      "target": "C:\\Projects\\CanvasKits\\Gnome Christmas Tree\\info\\output\\pdf\\8x10\\gnome-christmas-tree-painting-guide-8x10.pdf",
+      "oldSha256": "95746637bc8056d5656744a95b3932682ed8572eece456c1070ef86dc3a7baef",
+      "archivedAt": "C:\\Projects\\CanvasKits\\Gnome Christmas Tree\\info\\archive\\before-restoration-promotion-2026-09-21\\info\\output\\pdf\\8x10\\gnome-christmas-tree-painting-guide-8x10.pdf",
+      "source": "C:\\Projects\\CanvasKits\\Gnome Christmas Tree\\info\\tmp\\reference-restoration\\gnome-christmas-tree-painting-guide-8x10.pdf",
+      "newSha256": "74afae9cd580b8142ec4701b09d6208883c172120ca4e9c0826c86fd18cb195a"
+    },
+    {
+      "target": "C:\\Projects\\CanvasKits\\Gnome Christmas Tree\\info\\output\\pdf\\8x10\\gnome-christmas-tree-painting-guide-8x10.png",
+      "oldSha256": "1105e2085fb4b5e8a769962fdba5ee832b2b3a80bc10706001a4beccd07ec934",
+      "archivedAt": "C:\\Projects\\CanvasKits\\Gnome Christmas Tree\\info\\archive\\before-restoration-promotion-2026-09-21\\info\\output\\pdf\\8x10\\gnome-christmas-tree-painting-guide-8x10.png",
+      "source": "C:\\Projects\\CanvasKits\\Gnome Christmas Tree\\info\\tmp\\reference-restoration\\gnome-christmas-tree-painting-guide-8x10.png",
+      "newSha256": "5b7fb6ad27c0ae217a07622aa44816dc6847e37686090b69403f649ca8dac859"
+    },
+    {
+      "target": "C:\\Projects\\CanvasKits\\Gnome Christmas Tree\\gnome-christmas-tree-finished-reference-8x10.pdf",
+      "oldSha256": "2cca8f5ba1a0b7010091a4ba2af0fc220b2c542877c9acd18f37df6c5437649f",
+      "archivedAt": "C:\\Projects\\CanvasKits\\Gnome Christmas Tree\\info\\archive\\before-restoration-promotion-2026-09-21\\gnome-christmas-tree-finished-reference-8x10.pdf",
+      "source": "C:\\Projects\\CanvasKits\\Gnome Christmas Tree\\info\\tmp\\reference-restoration\\gnome-christmas-tree-finished-reference-8x10.pdf",
+      "newSha256": "067ead411638d4858d795ee57401422330023fbf59e16f7a1931786a1f079c49"
+    },
+    {
+      "target": "C:\\Projects\\CanvasKits\\Gnome Christmas Tree\\info\\output\\pdf\\8x10\\gnome-christmas-tree-finished-reference-8x10.pdf",
+      "oldSha256": "2cca8f5ba1a0b7010091a4ba2af0fc220b2c542877c9acd18f37df6c5437649f",
+      "archivedAt": "C:\\Projects\\CanvasKits\\Gnome Christmas Tree\\info\\archive\\before-restoration-promotion-2026-09-21\\info\\output\\pdf\\8x10\\gnome-christmas-tree-finished-reference-8x10.pdf",
+      "source": "C:\\Projects\\CanvasKits\\Gnome Christmas Tree\\info\\tmp\\reference-restoration\\gnome-christmas-tree-finished-reference-8x10.pdf",
+      "newSha256": "067ead411638d4858d795ee57401422330023fbf59e16f7a1931786a1f079c49"
+    },
+    {
+      "target": "C:\\Projects\\CanvasKits\\Gnome Christmas Tree\\info\\output\\pdf\\8x10\\gnome-christmas-tree-finished-reference-8x10.png",
+      "oldSha256": "81cc6ba2ccab069731b2221c6a750cb35c3a71bb7a382cffcd827c1ac6662edf",
+      "archivedAt": "C:\\Projects\\CanvasKits\\Gnome Christmas Tree\\info\\archive\\before-restoration-promotion-2026-09-21\\info\\output\\pdf\\8x10\\gnome-christmas-tree-finished-reference-8x10.png",
+      "source": "C:\\Projects\\CanvasKits\\Gnome Christmas Tree\\info\\tmp\\reference-restoration\\gnome-christmas-tree-finished-reference-8x10.png",
+      "newSha256": "3799aae5353cfbcc02dfb8f7794ac0f6eafbc897bc78da0c5cf95a0912ec7b96"
+    },
+    {
+      "target": "C:\\Projects\\CanvasKits\\Gnome Christmas Tree\\info\\tmp\\template-refactor\\plan.json",
+      "oldSha256": "8ee09139761ae98c653a6c4328391e88311075a565ca810c36a60942ad2506c3",
+      "archivedAt": "C:\\Projects\\CanvasKits\\Gnome Christmas Tree\\info\\archive\\before-restoration-promotion-2026-09-21\\info\\tmp\\template-refactor\\plan.json",
+      "source": "C:\\Projects\\CanvasKits\\Gnome Christmas Tree\\info\\tmp\\reference-restoration\\guide-plan.json",
+      "newSha256": "d49012784cfb4d3d17d12c9c8b1988f4869ec61637b143602b8629a700f56c94"
+    },
+    {
+      "target": "C:\\Projects\\CanvasKits\\Gnome Christmas Tree\\info\\production-selection.json",
+      "oldSha256": "d7ed71b2492a5aeeebaad78654c4519f5248f1d9e29e67e2df60d8bb01e58043",
+      "archivedAt": "C:\\Projects\\CanvasKits\\Gnome Christmas Tree\\info\\archive\\before-restoration-promotion-2026-09-21\\info\\production-selection.json",
+      "source": "C:\\Projects\\CanvasKits\\Gnome Christmas Tree\\info\\tmp\\reference-restoration\\production-selection.json",
+      "newSha256": "5faa96177b3d0ac158b518a6f9e4fc9a29a46fe4b1fc2aeaf68a256ae590c4bb"
+    },
+    {
+      "target": "C:\\Projects\\CanvasKits\\Gnome Fall\\gnome-fall-painting-guide-8x10.pdf",
+      "oldSha256": "2caae79463039c3d9c50bde1b54648db4c23932c9a13dc2af57a24770094078f",
+      "archivedAt": "C:\\Projects\\CanvasKits\\Gnome Fall\\info\\archive\\before-restoration-promotion-2026-09-21\\gnome-fall-painting-guide-8x10.pdf",
+      "source": "C:\\Projects\\CanvasKits\\Gnome Fall\\info\\tmp\\reference-restoration\\gnome-fall-painting-guide-8x10.pdf",
+      "newSha256": "75a021fd2098781593796f4944294dcf84d6e5138b7bf8f33b4e56e716c8b713"
+    },
+    {
+      "target": "C:\\Projects\\CanvasKits\\Gnome Fall\\info\\output\\pdf\\8x10\\gnome-fall-painting-guide-8x10.pdf",
+      "oldSha256": "2caae79463039c3d9c50bde1b54648db4c23932c9a13dc2af57a24770094078f",
+      "archivedAt": "C:\\Projects\\CanvasKits\\Gnome Fall\\info\\archive\\before-restoration-promotion-2026-09-21\\info\\output\\pdf\\8x10\\gnome-fall-painting-guide-8x10.pdf",
+      "source": "C:\\Projects\\CanvasKits\\Gnome Fall\\info\\tmp\\reference-restoration\\gnome-fall-painting-guide-8x10.pdf",
+      "newSha256": "75a021fd2098781593796f4944294dcf84d6e5138b7bf8f33b4e56e716c8b713"
+    },
+    {
+      "target": "C:\\Projects\\CanvasKits\\Gnome Fall\\info\\output\\pdf\\8x10\\gnome-fall-painting-guide-8x10.png",
+      "oldSha256": "4a5116227f43cc6e2cc3488c529f25696b2a58959dae235e0dad2127e0584433",
+      "archivedAt": "C:\\Projects\\CanvasKits\\Gnome Fall\\info\\archive\\before-restoration-promotion-2026-09-21\\info\\output\\pdf\\8x10\\gnome-fall-painting-guide-8x10.png",
+      "source": "C:\\Projects\\CanvasKits\\Gnome Fall\\info\\tmp\\reference-restoration\\gnome-fall-painting-guide-8x10.png",
+      "newSha256": "ba1c94dd74241d5d0ab11e2189e370e6a3873dd7de44a8406fd7c1795778276f"
+    },
+    {
+      "target": "C:\\Projects\\CanvasKits\\Gnome Fall\\gnome-fall-finished-reference-8x10.pdf",
+      "oldSha256": "38ce6c5c86c965014cad08cccc5b9d3ba546bcddb7b297dd67028a7859a667e6",
+      "archivedAt": "C:\\Projects\\CanvasKits\\Gnome Fall\\info\\archive\\before-restoration-promotion-2026-09-21\\gnome-fall-finished-reference-8x10.pdf",
+      "source": "C:\\Projects\\CanvasKits\\Gnome Fall\\info\\tmp\\reference-restoration\\gnome-fall-finished-reference-8x10.pdf",
+      "newSha256": "8235527d5f9da71ce2571a43e65c11a10fc07d4074ce63ab3fe605a2b8722778"
+    },
+    {
+      "target": "C:\\Projects\\CanvasKits\\Gnome Fall\\info\\output\\pdf\\8x10\\gnome-fall-finished-reference-8x10.pdf",
+      "oldSha256": "38ce6c5c86c965014cad08cccc5b9d3ba546bcddb7b297dd67028a7859a667e6",
+      "archivedAt": "C:\\Projects\\CanvasKits\\Gnome Fall\\info\\archive\\before-restoration-promotion-2026-09-21\\info\\output\\pdf\\8x10\\gnome-fall-finished-reference-8x10.pdf",
+      "source": "C:\\Projects\\CanvasKits\\Gnome Fall\\info\\tmp\\reference-restoration\\gnome-fall-finished-reference-8x10.pdf",
+      "newSha256": "8235527d5f9da71ce2571a43e65c11a10fc07d4074ce63ab3fe605a2b8722778"
+    },
+    {
+      "target": "C:\\Projects\\CanvasKits\\Gnome Fall\\info\\output\\pdf\\8x10\\gnome-fall-finished-reference-8x10.png",
+      "oldSha256": "93eede070748cb86798c5d45863749429f06a7a979c0d62e63ca4b045386385a",
+      "archivedAt": "C:\\Projects\\CanvasKits\\Gnome Fall\\info\\archive\\before-restoration-promotion-2026-09-21\\info\\output\\pdf\\8x10\\gnome-fall-finished-reference-8x10.png",
+      "source": "C:\\Projects\\CanvasKits\\Gnome Fall\\info\\tmp\\reference-restoration\\gnome-fall-finished-reference-8x10.png",
+      "newSha256": "b85a55db1150bd6d0342c19f59e14f7b8e05db0e9245d858937ed3fdeef08635"
+    },
+    {
+      "target": "C:\\Projects\\CanvasKits\\Gnome Fall\\info\\tmp\\template-refactor\\plan.json",
+      "oldSha256": "fa9afe56dd55f944b13e4e0221d545e8fb75634a7ece6a2133b0876d53a929ad",
+      "archivedAt": "C:\\Projects\\CanvasKits\\Gnome Fall\\info\\archive\\before-restoration-promotion-2026-09-21\\info\\tmp\\template-refactor\\plan.json",
+      "source": "C:\\Projects\\CanvasKits\\Gnome Fall\\info\\tmp\\reference-restoration\\guide-plan.json",
+      "newSha256": "42eb730229079751cd982c56d8227d2196c3bdfae9c950cc4b1a6e7044332385"
+    },
+    {
+      "target": "C:\\Projects\\CanvasKits\\Gnome Fall\\info\\production-selection.json",
+      "oldSha256": "018364b62d413abe9f77b7eb3b9f0499cd68942a60241f9b4fe149b5ea6384e9",
+      "archivedAt": "C:\\Projects\\CanvasKits\\Gnome Fall\\info\\archive\\before-restoration-promotion-2026-09-21\\info\\production-selection.json",
+      "source": "C:\\Projects\\CanvasKits\\Gnome Fall\\info\\tmp\\reference-restoration\\production-selection.json",
+      "newSha256": "ac021d1ce41ed82b250aa437d37d9c139e01ad7bf26c69575884d4ce50e34b7e"
+    },
+    {
+      "target": "C:\\Projects\\CanvasKits\\fall view\\fall-view-painting-guide-8x10.pdf",
+      "oldSha256": "0c3c9f80b7e04ca96467c57f2abf10523f8b57eca3f1879c474c72ec5a44a92a",
+      "archivedAt": "C:\\Projects\\CanvasKits\\fall view\\info\\archive\\before-restoration-promotion-2026-09-21\\fall-view-painting-guide-8x10.pdf",
+      "source": "C:\\Projects\\CanvasKits\\fall view\\info\\tmp\\reference-restoration\\fall-view-painting-guide-8x10.pdf",
+      "newSha256": "d4e1c3b628a687bdbeb79458d4719aaf418a9fd7b6e79217216894b3812756ae"
+    },
+    {
+      "target": "C:\\Projects\\CanvasKits\\fall view\\info\\output\\pdf\\8x10\\fall-view-painting-guide-8x10.pdf",
+      "oldSha256": "0c3c9f80b7e04ca96467c57f2abf10523f8b57eca3f1879c474c72ec5a44a92a",
+      "archivedAt": "C:\\Projects\\CanvasKits\\fall view\\info\\archive\\before-restoration-promotion-2026-09-21\\info\\output\\pdf\\8x10\\fall-view-painting-guide-8x10.pdf",
+      "source": "C:\\Projects\\CanvasKits\\fall view\\info\\tmp\\reference-restoration\\fall-view-painting-guide-8x10.pdf",
+      "newSha256": "d4e1c3b628a687bdbeb79458d4719aaf418a9fd7b6e79217216894b3812756ae"
+    },
+    {
+      "target": "C:\\Projects\\CanvasKits\\fall view\\info\\output\\pdf\\8x10\\fall-view-painting-guide-8x10.png",
+      "oldSha256": "2f1ec2577a1b9332b525ddaf1b62343c9042ba8f1eccdedd317c244195505cfc",
+      "archivedAt": "C:\\Projects\\CanvasKits\\fall view\\info\\archive\\before-restoration-promotion-2026-09-21\\info\\output\\pdf\\8x10\\fall-view-painting-guide-8x10.png",
+      "source": "C:\\Projects\\CanvasKits\\fall view\\info\\tmp\\reference-restoration\\fall-view-painting-guide-8x10.png",
+      "newSha256": "509f465ee55887ab15745ad8c94e3abde601f87d472a720b32f3298104b3688d"
+    },
+    {
+      "target": "C:\\Projects\\CanvasKits\\fall view\\fall-view-finished-reference-8x10.pdf",
+      "oldSha256": "1e85f13d4b4235d00d8e5e2aff1ed69005ccd5148b15ce6d4be72609507245e1",
+      "archivedAt": "C:\\Projects\\CanvasKits\\fall view\\info\\archive\\before-restoration-promotion-2026-09-21\\fall-view-finished-reference-8x10.pdf",
+      "source": "C:\\Projects\\CanvasKits\\fall view\\info\\tmp\\reference-restoration\\fall-view-finished-reference-8x10.pdf",
+      "newSha256": "7a9566fdd4cdff3754602b25db6a756453a3eb8041b7c11a237ad6f03e9ed667"
+    },
+    {
+      "target": "C:\\Projects\\CanvasKits\\fall view\\info\\output\\pdf\\8x10\\fall-view-finished-reference-8x10.pdf",
+      "oldSha256": "1e85f13d4b4235d00d8e5e2aff1ed69005ccd5148b15ce6d4be72609507245e1",
+      "archivedAt": "C:\\Projects\\CanvasKits\\fall view\\info\\archive\\before-restoration-promotion-2026-09-21\\info\\output\\pdf\\8x10\\fall-view-finished-reference-8x10.pdf",
+      "source": "C:\\Projects\\CanvasKits\\fall view\\info\\tmp\\reference-restoration\\fall-view-finished-reference-8x10.pdf",
+      "newSha256": "7a9566fdd4cdff3754602b25db6a756453a3eb8041b7c11a237ad6f03e9ed667"
+    },
+    {
+      "target": "C:\\Projects\\CanvasKits\\fall view\\info\\output\\pdf\\8x10\\fall-view-finished-reference-8x10.png",
+      "oldSha256": "2bb4a8bb89056cf48f066ae279c21182a08e7af97fbadf08c069338adedb233c",
+      "archivedAt": "C:\\Projects\\CanvasKits\\fall view\\info\\archive\\before-restoration-promotion-2026-09-21\\info\\output\\pdf\\8x10\\fall-view-finished-reference-8x10.png",
+      "source": "C:\\Projects\\CanvasKits\\fall view\\info\\tmp\\reference-restoration\\fall-view-finished-reference-8x10.png",
+      "newSha256": "a6db79634377173de1101dbd7d3047353e39f1953800de6fb286873b270602db"
+    },
+    {
+      "target": "C:\\Projects\\CanvasKits\\fall view\\info\\tmp\\template-refactor\\plan.json",
+      "oldSha256": "47f8c613dbd22564ae29b26face89c65fd0aea8d0b78d57a36c5302185765fcc",
+      "archivedAt": "C:\\Projects\\CanvasKits\\fall view\\info\\archive\\before-restoration-promotion-2026-09-21\\info\\tmp\\template-refactor\\plan.json",
+      "source": "C:\\Projects\\CanvasKits\\fall view\\info\\tmp\\reference-restoration\\guide-plan.json",
+      "newSha256": "fc0169206ab48e63c35272e3dd488574c4e14620eea8672abaae566266660d34"
+    },
+    {
+      "target": "C:\\Projects\\CanvasKits\\fall view\\info\\production-selection.json",
+      "oldSha256": "592fdc11b80f3efc84747037ed7e8d2551bf18c7fcd5a08e74984cb0ba7e68cb",
+      "archivedAt": "C:\\Projects\\CanvasKits\\fall view\\info\\archive\\before-restoration-promotion-2026-09-21\\info\\production-selection.json",
+      "source": "C:\\Projects\\CanvasKits\\fall view\\info\\tmp\\reference-restoration\\production-selection.json",
+      "newSha256": "19efb985afb9d60e1dec72dc0fe3a473129ef6b56d295aa8fdd913f67fae5bf2"
+    },
+    {
+      "target": "C:\\Projects\\CanvasKits\\Starry-night Sunflower\\starry-night-sunflower-painting-guide-8x10.pdf",
+      "oldSha256": "0c8a5780c0de8edd85ed9017874479040c57d2a15070995933f1556210315dc4",
+      "archivedAt": "C:\\Projects\\CanvasKits\\Starry-night Sunflower\\info\\archive\\before-restoration-promotion-2026-09-21\\starry-night-sunflower-painting-guide-8x10.pdf",
+      "source": "C:\\Projects\\CanvasKits\\Starry-night Sunflower\\info\\tmp\\reference-restoration\\starry-night-sunflower-painting-guide-8x10.pdf",
+      "newSha256": "3198847fe2bfcbfe2d9c0054e044bb0964cf5ddc6cc707ea2bd223353c782e57"
+    },
+    {
+      "target": "C:\\Projects\\CanvasKits\\Starry-night Sunflower\\info\\output\\pdf\\8x10\\starry-night-sunflower-painting-guide-8x10.pdf",
+      "oldSha256": "0c8a5780c0de8edd85ed9017874479040c57d2a15070995933f1556210315dc4",
+      "archivedAt": "C:\\Projects\\CanvasKits\\Starry-night Sunflower\\info\\archive\\before-restoration-promotion-2026-09-21\\info\\output\\pdf\\8x10\\starry-night-sunflower-painting-guide-8x10.pdf",
+      "source": "C:\\Projects\\CanvasKits\\Starry-night Sunflower\\info\\tmp\\reference-restoration\\starry-night-sunflower-painting-guide-8x10.pdf",
+      "newSha256": "3198847fe2bfcbfe2d9c0054e044bb0964cf5ddc6cc707ea2bd223353c782e57"
+    },
+    {
+      "target": "C:\\Projects\\CanvasKits\\Starry-night Sunflower\\info\\output\\pdf\\8x10\\starry-night-sunflower-painting-guide-8x10.png",
+      "oldSha256": "dce9a7210b1a595ff91f3bf7599140cc95f53a28bfb28821a8ed44657f3fbb0d",
+      "archivedAt": "C:\\Projects\\CanvasKits\\Starry-night Sunflower\\info\\archive\\before-restoration-promotion-2026-09-21\\info\\output\\pdf\\8x10\\starry-night-sunflower-painting-guide-8x10.png",
+      "source": "C:\\Projects\\CanvasKits\\Starry-night Sunflower\\info\\tmp\\reference-restoration\\starry-night-sunflower-painting-guide-8x10.png",
+      "newSha256": "c46623ef14c2887fe1222ef8b257caa9b91dedb09862c51decd52e19994a6443"
+    },
+    {
+      "target": "C:\\Projects\\CanvasKits\\Starry-night Sunflower\\starry-night-sunflower-finished-reference-8x10.pdf",
+      "oldSha256": "8b27d4463edc2cdbed62a8e6b5fd6e927c5118a77b091208cf06069a9816f9d9",
+      "archivedAt": "C:\\Projects\\CanvasKits\\Starry-night Sunflower\\info\\archive\\before-restoration-promotion-2026-09-21\\starry-night-sunflower-finished-reference-8x10.pdf",
+      "source": "C:\\Projects\\CanvasKits\\Starry-night Sunflower\\info\\tmp\\reference-restoration\\starry-night-sunflower-finished-reference-8x10.pdf",
+      "newSha256": "1d5595611d45fc02904761fe132116cabf7e6975bf96f1448714adbeff1c47c4"
+    },
+    {
+      "target": "C:\\Projects\\CanvasKits\\Starry-night Sunflower\\info\\output\\pdf\\8x10\\starry-night-sunflower-finished-reference-8x10.pdf",
+      "oldSha256": "8b27d4463edc2cdbed62a8e6b5fd6e927c5118a77b091208cf06069a9816f9d9",
+      "archivedAt": "C:\\Projects\\CanvasKits\\Starry-night Sunflower\\info\\archive\\before-restoration-promotion-2026-09-21\\info\\output\\pdf\\8x10\\starry-night-sunflower-finished-reference-8x10.pdf",
+      "source": "C:\\Projects\\CanvasKits\\Starry-night Sunflower\\info\\tmp\\reference-restoration\\starry-night-sunflower-finished-reference-8x10.pdf",
+      "newSha256": "1d5595611d45fc02904761fe132116cabf7e6975bf96f1448714adbeff1c47c4"
+    },
+    {
+      "target": "C:\\Projects\\CanvasKits\\Starry-night Sunflower\\info\\output\\pdf\\8x10\\starry-night-sunflower-finished-reference-8x10.png",
+      "oldSha256": "1256108189173851574e1ea3dde8758f04fffd6753753982458dd83be3db5189",
+      "archivedAt": "C:\\Projects\\CanvasKits\\Starry-night Sunflower\\info\\archive\\before-restoration-promotion-2026-09-21\\info\\output\\pdf\\8x10\\starry-night-sunflower-finished-reference-8x10.png",
+      "source": "C:\\Projects\\CanvasKits\\Starry-night Sunflower\\info\\tmp\\reference-restoration\\starry-night-sunflower-finished-reference-8x10.png",
+      "newSha256": "3196181faa88c351e6fec2139327d9192b2798860fc303883f0e207f1f0db166"
+    },
+    {
+      "target": "C:\\Projects\\CanvasKits\\Starry-night Sunflower\\info\\tmp\\template-refactor\\plan.json",
+      "oldSha256": "2ea5988362b0b5483912378579d74401139b55aa67b818f4cdac3410cbc94496",
+      "archivedAt": "C:\\Projects\\CanvasKits\\Starry-night Sunflower\\info\\archive\\before-restoration-promotion-2026-09-21\\info\\tmp\\template-refactor\\plan.json",
+      "source": "C:\\Projects\\CanvasKits\\Starry-night Sunflower\\info\\tmp\\reference-restoration\\guide-plan.json",
+      "newSha256": "65ae28116f5db647680cb64b1e4778f6505caf35c2b0b43bd33f4f1d471d8327"
+    },
+    {
+      "target": "C:\\Projects\\CanvasKits\\Starry-night Sunflower\\info\\production-selection.json",
+      "oldSha256": "311d2a5eaaf352724570c7ec14ff36c42254f85640680658185c6d012e9770d2",
+      "archivedAt": "C:\\Projects\\CanvasKits\\Starry-night Sunflower\\info\\archive\\before-restoration-promotion-2026-09-21\\info\\production-selection.json",
+      "source": "C:\\Projects\\CanvasKits\\Starry-night Sunflower\\info\\tmp\\reference-restoration\\production-selection.json",
+      "newSha256": "67099fb0ca0b2cc2cb6f7cc48ddec321578d587e448fd493b32a94f37c426a93"
+    },
+    {
+      "target": "C:\\Projects\\CanvasKits\\Flowers in Vase\\flowers-in-vase-painting-guide-8x10.pdf",
+      "oldSha256": "00ae5d7f05739f5f6b1762a692eba2853af86b898121b1342d54f46a39d22e08",
+      "archivedAt": "C:\\Projects\\CanvasKits\\Flowers in Vase\\info\\archive\\before-restoration-promotion-2026-09-21\\flowers-in-vase-painting-guide-8x10.pdf",
+      "source": "C:\\Projects\\CanvasKits\\Flowers in Vase\\info\\tmp\\reference-restoration\\flowers-in-vase-painting-guide-8x10.pdf",
+      "newSha256": "da90ac58c17ee32fb83a2b5ba4c100f12ac81b205ab2dc33ae37980f5b937972"
+    },
+    {
+      "target": "C:\\Projects\\CanvasKits\\Flowers in Vase\\info\\output\\pdf\\8x10\\flowers-in-vase-painting-guide-8x10.pdf",
+      "oldSha256": "00ae5d7f05739f5f6b1762a692eba2853af86b898121b1342d54f46a39d22e08",
+      "archivedAt": "C:\\Projects\\CanvasKits\\Flowers in Vase\\info\\archive\\before-restoration-promotion-2026-09-21\\info\\output\\pdf\\8x10\\flowers-in-vase-painting-guide-8x10.pdf",
+      "source": "C:\\Projects\\CanvasKits\\Flowers in Vase\\info\\tmp\\reference-restoration\\flowers-in-vase-painting-guide-8x10.pdf",
+      "newSha256": "da90ac58c17ee32fb83a2b5ba4c100f12ac81b205ab2dc33ae37980f5b937972"
+    },
+    {
+      "target": "C:\\Projects\\CanvasKits\\Flowers in Vase\\info\\output\\pdf\\8x10\\flowers-in-vase-painting-guide-8x10.png",
+      "oldSha256": "52a91aa925ff0df79f4652dce0cad8116c1794f568171e90828b69d869fa2b16",
+      "archivedAt": "C:\\Projects\\CanvasKits\\Flowers in Vase\\info\\archive\\before-restoration-promotion-2026-09-21\\info\\output\\pdf\\8x10\\flowers-in-vase-painting-guide-8x10.png",
+      "source": "C:\\Projects\\CanvasKits\\Flowers in Vase\\info\\tmp\\reference-restoration\\flowers-in-vase-painting-guide-8x10.png",
+      "newSha256": "f9878aa058dd1de4ab538f19b8842277d2c984cfbcbb12a1fe8ea331c94bbe98"
+    },
+    {
+      "target": "C:\\Projects\\CanvasKits\\Flowers in Vase\\info\\tmp\\template-refactor\\plan.json",
+      "oldSha256": "a53a4cf5ac0427863e26478eefe8c3ea143ad9c3f7e3c6af4829ef8f05d215ac",
+      "archivedAt": "C:\\Projects\\CanvasKits\\Flowers in Vase\\info\\archive\\before-restoration-promotion-2026-09-21\\info\\tmp\\template-refactor\\plan.json",
+      "source": "C:\\Projects\\CanvasKits\\Flowers in Vase\\info\\tmp\\reference-restoration\\guide-plan.json",
+      "newSha256": "edd293008381014e307a23a12d97f398cd2c01dd87fd9fe70dfd08443551ab68"
+    },
+    {
+      "target": "C:\\Projects\\CanvasKits\\Flowers in Vase\\info\\production-selection.json",
+      "oldSha256": "94fad10d68af759afa30ce3fb573cb620debd304bd0212951a7c9074bd23d65c",
+      "archivedAt": "C:\\Projects\\CanvasKits\\Flowers in Vase\\info\\archive\\before-restoration-promotion-2026-09-21\\info\\production-selection.json",
+      "source": "C:\\Projects\\CanvasKits\\Flowers in Vase\\info\\tmp\\reference-restoration\\production-selection.json",
+      "newSha256": "20709ca843f42628d92747de4f9d8d8b6e77b79951499572afe995242aa72f29"
+    },
+    {
+      "target": "C:\\Projects\\CanvasKits\\Gnome Halloween\\gnome-halloween-painting-guide-8x10.pdf",
+      "oldSha256": "f0000c2819ac07d59432f565ccc451f4b220d2770eb4091c92116fa5973727d8",
+      "archivedAt": "C:\\Projects\\CanvasKits\\Gnome Halloween\\info\\archive\\before-restoration-promotion-2026-09-21\\gnome-halloween-painting-guide-8x10.pdf",
+      "source": "C:\\Projects\\CanvasKits\\Gnome Halloween\\info\\tmp\\reference-restoration\\gnome-halloween-painting-guide-8x10.pdf",
+      "newSha256": "cf2f6bcb0f3d1de80191970b7842deeda08468ea674ed684a13a2623958333ac"
+    },
+    {
+      "target": "C:\\Projects\\CanvasKits\\Gnome Halloween\\info\\output\\pdf\\8x10\\gnome-halloween-painting-guide-8x10.pdf",
+      "oldSha256": "f0000c2819ac07d59432f565ccc451f4b220d2770eb4091c92116fa5973727d8",
+      "archivedAt": "C:\\Projects\\CanvasKits\\Gnome Halloween\\info\\archive\\before-restoration-promotion-2026-09-21\\info\\output\\pdf\\8x10\\gnome-halloween-painting-guide-8x10.pdf",
+      "source": "C:\\Projects\\CanvasKits\\Gnome Halloween\\info\\tmp\\reference-restoration\\gnome-halloween-painting-guide-8x10.pdf",
+      "newSha256": "cf2f6bcb0f3d1de80191970b7842deeda08468ea674ed684a13a2623958333ac"
+    },
+    {
+      "target": "C:\\Projects\\CanvasKits\\Gnome Halloween\\info\\output\\pdf\\8x10\\gnome-halloween-painting-guide-8x10.png",
+      "oldSha256": "c51725c3454db82b319c8de386adc1e11ffd5e938a02b135827b1d0751bba35b",
+      "archivedAt": "C:\\Projects\\CanvasKits\\Gnome Halloween\\info\\archive\\before-restoration-promotion-2026-09-21\\info\\output\\pdf\\8x10\\gnome-halloween-painting-guide-8x10.png",
+      "source": "C:\\Projects\\CanvasKits\\Gnome Halloween\\info\\tmp\\reference-restoration\\gnome-halloween-painting-guide-8x10.png",
+      "newSha256": "6b091a536f28bc47fd92866826192d2a8bf6c4279b00f3a1c616cfc8adf58572"
+    },
+    {
+      "target": "C:\\Projects\\CanvasKits\\Gnome Halloween\\info\\tmp\\template-refactor\\plan.json",
+      "oldSha256": "65b52ef5d19f28a91f62e19a628068f9c68182b1e4b3cf7de2ad65038f4615c7",
+      "archivedAt": "C:\\Projects\\CanvasKits\\Gnome Halloween\\info\\archive\\before-restoration-promotion-2026-09-21\\info\\tmp\\template-refactor\\plan.json",
+      "source": "C:\\Projects\\CanvasKits\\Gnome Halloween\\info\\tmp\\reference-restoration\\guide-plan.json",
+      "newSha256": "411d6a484dd549ec3c25a1546a345017d6388833d26ec430ce58663499512ff0"
+    },
+    {
+      "target": "C:\\Projects\\CanvasKits\\Gnome Halloween\\info\\production-selection.json",
+      "oldSha256": "5e3542c82654fd9a8e616043ffbe812f81871102dc5dd9a7cead8ca5f8e6d79e",
+      "archivedAt": "C:\\Projects\\CanvasKits\\Gnome Halloween\\info\\archive\\before-restoration-promotion-2026-09-21\\info\\production-selection.json",
+      "source": "C:\\Projects\\CanvasKits\\Gnome Halloween\\info\\tmp\\reference-restoration\\production-selection.json",
+      "newSha256": "a624f12521342e3a228c4075bb2ecd5e3a98f56e9d1a84525137837a8e4439e6"
+    }
+  ]
+}

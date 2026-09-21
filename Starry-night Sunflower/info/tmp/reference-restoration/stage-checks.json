@@ -1,0 +1,156 @@
+{
+  "outlineHash": "59c71e68a18b715a00662d03a800a353badd3472a6e2bff5fd9099e8d87d4299",
+  "masterHash": "9ca8fd40ea33dca3314b23f6a7dada2d46101bcd02b12d00b390ac3e38b5be39",
+  "nativeCandidateSize": {
+    "format": "png",
+    "mediaType": "image/png",
+    "width": 1121,
+    "height": 1403,
+    "space": "srgb",
+    "channels": 3,
+    "depth": "uchar",
+    "density": 72,
+    "isProgressive": false,
+    "isPalette": false,
+    "bitsPerSample": 8,
+    "hasProfile": false,
+    "hasAlpha": false,
+    "autoOrient": {
+      "width": 1121,
+      "height": 1403
+    }
+  },
+  "printSize": [
+    2400,
+    3000
+  ],
+  "resampling": "Lanczos3 from built-in generated native image; no claim of native 300-DPI new detail",
+  "maskSource": "C:\\Projects\\CanvasKits\\Starry-night Sunflower/info/tmp/organization-repair/labels.bin",
+  "records": [
+    {
+      "step": 1,
+      "painted": [],
+      "cropAt2400": null,
+      "unpaintedCoreErrors": 0
+    },
+    {
+      "step": 2,
+      "painted": [
+        "sky"
+      ],
+      "cropAt2400": null,
+      "unpaintedCoreErrors": 0
+    },
+    {
+      "step": 3,
+      "painted": [
+        "sky"
+      ],
+      "cropAt2400": null,
+      "unpaintedCoreErrors": 0
+    },
+    {
+      "step": 4,
+      "painted": [
+        "sky",
+        "star"
+      ],
+      "cropAt2400": null,
+      "unpaintedCoreErrors": 0
+    },
+    {
+      "step": 5,
+      "painted": [
+        "sky",
+        "star",
+        "petals"
+      ],
+      "cropAt2400": null,
+      "unpaintedCoreErrors": 0
+    },
+    {
+      "step": 6,
+      "painted": [
+        "sky",
+        "star",
+        "petals"
+      ],
+      "cropAt2400": null,
+      "unpaintedCoreErrors": 0
+    },
+    {
+      "step": 7,
+      "painted": [
+        "sky",
+        "star",
+        "petals",
+        "green"
+      ],
+      "cropAt2400": null,
+      "unpaintedCoreErrors": 0
+    },
+    {
+      "step": 8,
+      "painted": [
+        "sky",
+        "star",
+        "petals",
+        "green",
+        "seed"
+      ],
+      "cropAt2400": null,
+      "unpaintedCoreErrors": 0
+    },
+    {
+      "step": 9,
+      "painted": [
+        "sky",
+        "star",
+        "petals",
+        "green",
+        "seed"
+      ],
+      "cropAt2400": [
+        0,
+        1530,
+        1020,
+        1470
+      ],
+      "unpaintedCoreErrors": 0
+    },
+    {
+      "step": 10,
+      "painted": [
+        "sky",
+        "star",
+        "petals",
+        "green",
+        "seed"
+      ],
+      "cropAt2400": [
+        810,
+        960,
+        1020,
+        885
+      ],
+      "unpaintedCoreErrors": 0
+    },
+    {
+      "step": 11,
+      "painted": [
+        "sky",
+        "star",
+        "petals",
+        "green",
+        "seed"
+      ],
+      "cropAt2400": [
+        480,
+        480,
+        810,
+        660
+      ],
+      "unpaintedCoreErrors": 0
+    }
+  ]
+}

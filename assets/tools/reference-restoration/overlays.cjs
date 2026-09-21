@@ -1,0 +1,11 @@
+const fs=require('fs'),path=require('path');
+const sharp=require('C:/Users/mmcsherry/.cache/codex-runtimes/codex-primary-runtime/dependencies/node/node_modules/sharp');
+const root=path.resolve(__dirname,'../../..');
+const kits=JSON.parse(fs.readFileSync(path.join(root,'assets/tools/guide-template/kits.json')));
+(async()=>{for(const k of kits){const a=path.join(root,k.folder,'info/assets/reference-restoration'),w=path.join(root,k.folder,'info/tmp/reference-restoration');if(!fs.existsSync(path.join(a,'candidate-01.png')))continue;
+const src=process.argv[2]||'candidate-01.png';if(!fs.existsSync(path.join(a,src)))continue;
+const svg=fs.readFileSync(path.join(root,k.folder,k.slug+'-outline-8x10.svg'),'utf8').replaceAll('#A6A6A6','#ff00aa').replaceAll('#a6a6a6','#ff00aa');
+const lines=await sharp(Buffer.from(svg)).resize(1200,1500,{fit:'fill'}).png().toBuffer();
+await sharp(path.join(a,src)).resize(1200,1500,{fit:'fill'}).composite([{input:lines}]).png().toFile(path.join(w,src.replace('.png','-registration.png')));
+await sharp(path.join(w,src.replace('.png','-registration.png'))).resize(960).jpeg({quality:93}).toFile(path.join(w,src.replace('.png','-registration.jpg')));
+console.log(k.slug,await sharp(path.join(a,src)).metadata());}})();

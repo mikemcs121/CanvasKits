@@ -19,6 +19,8 @@ Use [canvas-kits.md](canvas-kits.md) to find current production files and review
 
 ## Artwork and production standards
 
+September 21, 2026 restoration is complete: see `reference-restoration-review.md` and `RESTORATION-HANDOFF.md`. Four restored masters live in their kits' `info/assets/reference-restoration/restored-master.png`; six current guide plans are synchronized with shared `assets/tools/guide-template/kits.json`. Current checks and promotion manifests are in `info/tmp/reference-restoration/`. Earlier organization/sky-repair exporters are historical and must not overwrite these selected masters. All approved transfer files remain unchanged; preserve them in future work. Existing paint sets and template palettes were retained.
+
 Use the project build-canvas skill for full kits. Its output layout must follow the three-file root structure above. A full kit includes the three production files plus supporting artwork PDFs/PNGs and guide PNG stored under info/.
 
 Preserve each current SVG's approved geometry. This organization request authorizes bringing references and guides into alignment with those SVGs, not redesigning the transfer. Specific future rejections of a composition authorize replacing it after archiving the rejected edition and updating all three production files together.

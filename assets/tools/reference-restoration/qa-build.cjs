@@ -1,0 +1,16 @@
+const fs=require('fs'),path=require('path'),cp=require('child_process');
+const sharp=require('C:/Users/mmcsherry/.cache/codex-runtimes/codex-primary-runtime/dependencies/node/node_modules/sharp');
+const root=path.resolve(__dirname,'../../..');process.chdir(root);
+const run=(args,extra={})=>{let r=cp.spawnSync(process.execPath,args,{cwd:root,encoding:'utf8',windowsHide:true,maxBuffer:12e6,timeout:180000,...extra});if(r.error||r.status)throw Error(r.error||r.stderr||r.stdout);console.log(r.stdout.trim());};
+(async()=>{const restored=JSON.parse(fs.readFileSync(path.join(__dirname,'restored-kits.json'))),clean=JSON.parse(fs.readFileSync(path.join(__dirname,'guide-cleanup-kits.json'))),kits=[...restored,...clean];fs.writeFileSync(path.join(__dirname,'all-staged-kits.json'),JSON.stringify(kits,null,2));
+const filter=process.argv.find(a=>a.startsWith('--kit='))?.slice(6);
+if(process.argv.includes('--build'))run(['assets/tools/guide-template/build.cjs',...(filter?[filter]:[])],{env:{...process.env,CANVAS_KITS_PLAN:'assets/tools/reference-restoration/restored-kits.json'}});
+for(const k of kits){if(filter&&k.slug!==filter)continue;const d=k.folder+'/info/tmp/reference-restoration';
+ for(const kind of restored.includes(k)?['finished-reference','painting-guide']:['painting-guide']){const pdf=d+'/'+k.slug+'-'+kind+'-8x10.pdf',png=pdf.replace('.pdf','.png');if(process.argv.includes('--render'))run(['assets/tools/pdf-render/render-pdf.cjs',pdf,png,'--expect-pages','1','--expect-points',kind==='painting-guide'?'612x792':'576x720','--checks',d+'/pdf-checks.json']);if(fs.existsSync(png))await sharp(png).resize(kind==='painting-guide'?1200:1000).jpeg({quality:93}).toFile(d+'/'+kind+'-review.jpg');}
+ if(restored.includes(k)){
+ const svg=fs.readFileSync(k.folder+'/'+k.slug+'-outline-8x10.svg','utf8').replaceAll('#A6A6A6','#ff00aa').replaceAll('#a6a6a6','#ff00aa');const line=await sharp(Buffer.from(svg)).resize(1200,1500,{fit:'fill'}).png().toBuffer();await sharp(k.reference).resize(1200,1500).composite([{input:line}]).jpeg({quality:93}).toFile(d+'/final-registration.jpg');
+ const panels=[];for(let i=0;i<11;i++){const s=k.steps[i];const b=await sharp(s.image).resize(300,375,{fit:'contain',background:'white'}).png().toBuffer();panels.push({input:b,left:(i%4)*300,top:Math.floor(i/4)*405+30});panels.push({input:Buffer.from(`<svg width="300" height="30"><text x="6" y="21" font-size="16">${i+1}. ${s.heading.replaceAll('&','&amp;')}</text></svg>`),left:i%4*300,top:Math.floor(i/4)*405});}await sharp({create:{width:1200,height:1215,channels:3,background:'white'}}).composite(panels).jpeg({quality:92}).toFile(d+'/stage-review.jpg');
+ if(fs.existsSync(d+'/'+k.slug+'-finished-reference-8x10.png')){const a=await sharp(k.reference).removeAlpha().raw().toBuffer(),b=await sharp(d+'/'+k.slug+'-finished-reference-8x10.png').removeAlpha().raw().toBuffer();let max=0,n=0,sum=0;for(let i=0;i<a.length;i++){let v=Math.abs(a[i]-b[i]);max=Math.max(max,v);sum+=v;if(v)n++;}fs.writeFileSync(d+'/reference-pixel-check.json',JSON.stringify({masterBytes:a.length,pdfRenderBytes:b.length,changedChannels:n,maxDifference:max,meanDifference:sum/a.length},null,2));}
+ }
+ console.log(k.slug+': QA previews ready');
+}})().catch(e=>{console.error(e);process.exit(1)});
