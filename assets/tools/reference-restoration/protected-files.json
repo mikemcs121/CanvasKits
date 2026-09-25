@@ -4,36 +4,8 @@
     "sha256": "76bbdd0008ecab67356fc3f46c0d8d91a8e07777d1f7a78cc8fc8896c555226f"
   },
   {
-    "path": "C:\\Projects\\CanvasKits\\Flowers in Vase\\info\\assets\\original-square\\flowers-in-vase-outline.png",
-    "sha256": "40547b6bec5fbdc82f2f59f174ab63ce017aa5310e25800ccde64220622668e6"
-  },
-  {
-    "path": "C:\\Projects\\CanvasKits\\Flowers in Vase\\info\\assets\\portrait-rebuild\\flowers-in-vase-portrait-outline-generated.png",
-    "sha256": "5cb5518c7a47089c7a362d0d0497835b339927b7931167946b215229e8a4be50"
-  },
-  {
     "path": "C:\\Projects\\CanvasKits\\Flowers in Vase\\info\\assets\\portrait-rebuild\\outline-canonical-white.png",
     "sha256": "270aa66cea912d48a90ae8eb95d07fdfcd7095c002e0c4b0c0542c70cf3394ad"
-  },
-  {
-    "path": "C:\\Projects\\CanvasKits\\Flowers in Vase\\info\\output\\pdf\\8x10\\flowers-in-vase-outline-8x10-600dpi.png",
-    "sha256": "8bc4c15b813a1cc9f8b07b2f59b2180cdbaaab857252197792ba92ebe77f449e"
-  },
-  {
-    "path": "C:\\Projects\\CanvasKits\\Flowers in Vase\\info\\output\\pdf\\8x10\\flowers-in-vase-outline-8x10.pdf",
-    "sha256": "8501bb415dcf4f0b5408886d61210f59883fc90760fe8d299922fbe8d190d6b9"
-  },
-  {
-    "path": "C:\\Projects\\CanvasKits\\Flowers in Vase\\info\\output\\pdf\\8x10\\flowers-in-vase-outline-8x10.png",
-    "sha256": "93a32b1feea7e1ebc25845921e00a5bfe534454bf1af5e0ab06d340bb027919c"
-  },
-  {
-    "path": "C:\\Projects\\CanvasKits\\Flowers in Vase\\info\\output\\svg\\8x10\\flowers-in-vase-outline-8x10.svg",
-    "sha256": "76bbdd0008ecab67356fc3f46c0d8d91a8e07777d1f7a78cc8fc8896c555226f"
-  },
-  {
-    "path": "C:\\Projects\\CanvasKits\\Flowers in Vase\\info\\tmp\\portrait-rebuild\\flowers-in-vase-outline-8x10.svg",
-    "sha256": "be230ed3777f474b95f9b231ae84524e73da8a7913a02c14c087e9005e810e08"
   },
   {
     "path": "C:\\Projects\\CanvasKits\\Gnome Halloween\\gnome-halloween-outline-8x10.svg",
@@ -44,120 +16,16 @@
     "sha256": "f067a2649284a6af5082198601a4d9c9f6e0ef36d4f302914c81966b2a18bb3c"
   },
   {
-    "path": "C:\\Projects\\CanvasKits\\Gnome Halloween\\info\\output\\pdf\\8x10\\gnome-halloween-outline-8x10-600dpi.png",
-    "sha256": "461d781701af4dce32562b1eb8c788b193ed739af7daa0f9c2e291c2e9515355"
-  },
-  {
-    "path": "C:\\Projects\\CanvasKits\\Gnome Halloween\\info\\output\\pdf\\8x10\\gnome-halloween-outline-8x10.pdf",
-    "sha256": "8acf039dff44a53cc5772bce7cc2680e0bc179b5e61ff14a0edfaf1177191f73"
-  },
-  {
-    "path": "C:\\Projects\\CanvasKits\\Gnome Halloween\\info\\output\\pdf\\8x10\\gnome-halloween-outline-8x10.png",
-    "sha256": "fc1fee06e3cb30f79412b64ce994113c70644f16e952494c7c95f9bc59136fcb"
-  },
-  {
-    "path": "C:\\Projects\\CanvasKits\\Gnome Halloween\\info\\output\\svg\\8x10\\gnome-halloween-outline-8x10.svg",
-    "sha256": "cb318ab40756101d1b3ab1682f7fa18d98c216fd331473ae43d9284a23dd6998"
-  },
-  {
-    "path": "C:\\Projects\\CanvasKits\\Gnome Halloween\\info\\test\\gnome-halloween-outline-8x10.png",
-    "sha256": "20496a9f8504dae762f2fef5a8bfb5dae4d6fbcb7fde58add7943bb8450bd1c5"
-  },
-  {
-    "path": "C:\\Projects\\CanvasKits\\Gnome Halloween\\info\\tmp\\full-portrait\\gnome-halloween-outline-8x10.svg",
-    "sha256": "1cd9e52fb889ebb8c2e6505123cea2a4ce76fb32894dddbf71fcc92b0c645583"
-  },
-  {
     "path": "C:\\Projects\\CanvasKits\\Fox Fall\\fox-fall-outline-8x10.svg",
     "sha256": "b00e01e6c48aafe705fb421d7a66a175c8f6921ff480ef3f35287f507d74db85"
-  },
-  {
-    "path": "C:\\Projects\\CanvasKits\\Fox Fall\\info\\output\\pdf\\8x10\\fox-fall-outline-8x10-600dpi.png",
-    "sha256": "116acfee6cf6705bce7d2ed45bda3edf10edf0a36a6bfcdf0b8553d95cec1e11"
-  },
-  {
-    "path": "C:\\Projects\\CanvasKits\\Fox Fall\\info\\output\\pdf\\8x10\\fox-fall-outline-8x10.pdf",
-    "sha256": "442e0e303ce138eaf53ffabad01eeec9614f4a7cdad229d0b125c69705ec0d53"
-  },
-  {
-    "path": "C:\\Projects\\CanvasKits\\Fox Fall\\info\\output\\pdf\\8x10\\fox-fall-outline-8x10.png",
-    "sha256": "79b92eff6cfd9ba59b1653dd3d1a254ac2e764ac8319ffa64e414cdd00be63ec"
-  },
-  {
-    "path": "C:\\Projects\\CanvasKits\\Fox Fall\\info\\output\\svg\\8x10\\fox-fall-outline-8x10.svg",
-    "sha256": "b00e01e6c48aafe705fb421d7a66a175c8f6921ff480ef3f35287f507d74db85"
-  },
-  {
-    "path": "C:\\Projects\\CanvasKits\\Fox Fall\\info\\tmp\\8x10-artwork\\canonical-outline.png",
-    "sha256": "074c21f9e69ce0ffd05e999e82aaaf1dad1ba165698595c071e978ec23939ed7"
   },
   {
     "path": "C:\\Projects\\CanvasKits\\Ghost Fall\\ghost-fall-outline-8x10.svg",
     "sha256": "6e38259204ade00d3738a8c2e591a5cde68770993d1bcf6c9b723a32021b64c9"
   },
   {
-    "path": "C:\\Projects\\CanvasKits\\Ghost Fall\\info\\output\\pdf\\8x10\\ghost-fall-outline-8x10-600dpi.png",
-    "sha256": "6dd9b7b11c95fe292479195f8801c58fcc6765811260e434f3233c704aeaf8d2"
-  },
-  {
-    "path": "C:\\Projects\\CanvasKits\\Ghost Fall\\info\\output\\pdf\\8x10\\ghost-fall-outline-8x10.pdf",
-    "sha256": "2681edaa5263bde725de583882399c5896211ead4f87910137a18946164231ff"
-  },
-  {
-    "path": "C:\\Projects\\CanvasKits\\Ghost Fall\\info\\output\\pdf\\8x10\\ghost-fall-outline-8x10.png",
-    "sha256": "4a1f4d96d18c7cc18222c9ef554e7d4c62f79aaf1b59b679b3ed1b120c658c0a"
-  },
-  {
-    "path": "C:\\Projects\\CanvasKits\\Ghost Fall\\info\\output\\svg\\8x10\\ghost-fall-outline-8x10.svg",
-    "sha256": "6e38259204ade00d3738a8c2e591a5cde68770993d1bcf6c9b723a32021b64c9"
-  },
-  {
-    "path": "C:\\Projects\\CanvasKits\\Ghost Fall\\info\\tmp\\8x10-artwork\\canonical-outline.png",
-    "sha256": "eae5a3e323cd524e129e825e3158f05f46d62f3adc3753dce10ee5f078e0a609"
-  },
-  {
     "path": "C:\\Projects\\CanvasKits\\Cat in Pumpkin\\cat-in-pumpkin-outline-8x10.svg",
     "sha256": "0518c2c1978cbc59e0b9e2d636e1731542cfa1979cb379e99fa6a3efe54c481f"
-  },
-  {
-    "path": "C:\\Projects\\CanvasKits\\Cat in Pumpkin\\info\\output\\pdf\\8x10\\cat-in-pumpkin-outline-8x10-600dpi.png",
-    "sha256": "23c606a705863b9370d7159963873de147d78cf3372a80bd85503ce1e8692f8c"
-  },
-  {
-    "path": "C:\\Projects\\CanvasKits\\Cat in Pumpkin\\info\\output\\pdf\\8x10\\cat-in-pumpkin-outline-8x10.pdf",
-    "sha256": "58224780140494cdebd4a2dee89225b176600a9ca2b0cdf7694f6f8ff47f741e"
-  },
-  {
-    "path": "C:\\Projects\\CanvasKits\\Cat in Pumpkin\\info\\output\\pdf\\8x10\\cat-in-pumpkin-outline-8x10.png",
-    "sha256": "0b9ee9fa7690ee83442ae90745ad394c4cc6647d35bf7cc0a01f1b7d5f61e504"
-  },
-  {
-    "path": "C:\\Projects\\CanvasKits\\Cat in Pumpkin\\info\\output\\svg\\8x10\\cat-in-pumpkin-outline-8x10.svg",
-    "sha256": "0518c2c1978cbc59e0b9e2d636e1731542cfa1979cb379e99fa6a3efe54c481f"
-  },
-  {
-    "path": "C:\\Projects\\CanvasKits\\Cat in Pumpkin\\info\\tmp\\8x10-artwork\\canonical-outline.png",
-    "sha256": "45c97a8ef2bc5191d5177c67c8dfea294782981400dd080b54941d2c779b62af"
-  },
-  {
-    "path": "C:\\Projects\\CanvasKits\\Pumpkin\\info\\output\\pdf\\8x10\\pumpkin-outline-8x10-600dpi.png",
-    "sha256": "ce7d502427c07c96d166907edd9ef99e3d47649d3f883f344e1116559caa0328"
-  },
-  {
-    "path": "C:\\Projects\\CanvasKits\\Pumpkin\\info\\output\\pdf\\8x10\\pumpkin-outline-8x10.pdf",
-    "sha256": "bd091a0b983d81abe1564d1990da5804fa433b158a4d773510532667d649627b"
-  },
-  {
-    "path": "C:\\Projects\\CanvasKits\\Pumpkin\\info\\output\\pdf\\8x10\\pumpkin-outline-8x10.png",
-    "sha256": "903b70aa6457dd51b049514bd53581f6da88805ec33198c4b7bfe2e501ccd937"
-  },
-  {
-    "path": "C:\\Projects\\CanvasKits\\Pumpkin\\info\\output\\svg\\8x10\\pumpkin-outline-8x10.svg",
-    "sha256": "930d3ad3b7c65d06e47ed36567deabe7e97daa553df0d45366d2d03335d5067b"
-  },
-  {
-    "path": "C:\\Projects\\CanvasKits\\Pumpkin\\info\\tmp\\8x10-artwork\\canonical-outline.png",
-    "sha256": "0e0eb8bb83ae7b97f931cdf84f1f69b63f9a27e9a26c4f79dfad921fc6df728a"
   },
   {
     "path": "C:\\Projects\\CanvasKits\\Pumpkin\\info\\tmp\\transfer-standard\\pumpkin-outline-8x10-render.png",
@@ -172,96 +40,12 @@
     "sha256": "1c4b289f49a1b7ccf97b2c93049cbb961b64aff67495b457615fb5b94f05a7f9"
   },
   {
-    "path": "C:\\Projects\\CanvasKits\\Gnome Christmas Tree\\info\\output\\pdf\\8x10\\gnome-christmas-tree-outline-8x10-600dpi.png",
-    "sha256": "528dc595cb47ca3f6bf98f085c42691cf6ae92bab106d7851341239021cf41e7"
-  },
-  {
-    "path": "C:\\Projects\\CanvasKits\\Gnome Christmas Tree\\info\\output\\pdf\\8x10\\gnome-christmas-tree-outline-8x10.pdf",
-    "sha256": "275da167bdaf4d890d66685a89ac1045388d2c2f5985c39a1e9672ae34f1c43f"
-  },
-  {
-    "path": "C:\\Projects\\CanvasKits\\Gnome Christmas Tree\\info\\output\\pdf\\8x10\\gnome-christmas-tree-outline-8x10.png",
-    "sha256": "10f54d963dbcb5184e4362a4ff56d49e42e2a08bd344913eca1761599073bbef"
-  },
-  {
-    "path": "C:\\Projects\\CanvasKits\\Gnome Christmas Tree\\info\\output\\svg\\8x10\\gnome-christmas-tree-outline-8x10.svg",
-    "sha256": "1c4b289f49a1b7ccf97b2c93049cbb961b64aff67495b457615fb5b94f05a7f9"
-  },
-  {
-    "path": "C:\\Projects\\CanvasKits\\Gnome Christmas Tree\\info\\test\\gnome-christmas-tree-outline-8x10.png",
-    "sha256": "2986fbc45c0d26dd92041a25ab4ea1614fdd0313f959ffa8a3f74238275e7fd4"
-  },
-  {
     "path": "C:\\Projects\\CanvasKits\\Gnome Fall\\gnome-fall-outline-8x10.svg",
     "sha256": "3f8997a82189d2ab82dbaf9d68fb5a75f56091ef9efea654ebfe70a09228cdfd"
   },
   {
-    "path": "C:\\Projects\\CanvasKits\\Gnome Fall\\info\\output\\pdf\\8x10\\gnome-fall-outline-8x10-600dpi.png",
-    "sha256": "8aa147e58ebf72b83dd6d00530f907681c804a76d3ad4e65eb30670414a99f5b"
-  },
-  {
-    "path": "C:\\Projects\\CanvasKits\\Gnome Fall\\info\\output\\pdf\\8x10\\gnome-fall-outline-8x10.pdf",
-    "sha256": "5805a390f1141a8677cb789ef41eaa3b6644ead2acb160fe37240472adbda986"
-  },
-  {
-    "path": "C:\\Projects\\CanvasKits\\Gnome Fall\\info\\output\\pdf\\8x10\\gnome-fall-outline-8x10.png",
-    "sha256": "47de1fc620343bd8eea7c1f5a73cb3a278a7e7a1faf34dd8838fd5306d0910d8"
-  },
-  {
-    "path": "C:\\Projects\\CanvasKits\\Gnome Fall\\info\\output\\svg\\8x10\\gnome-fall-outline-8x10.svg",
-    "sha256": "3f8997a82189d2ab82dbaf9d68fb5a75f56091ef9efea654ebfe70a09228cdfd"
-  },
-  {
-    "path": "C:\\Projects\\CanvasKits\\Gnome Fall\\info\\test\\gnome-fall-outline-8x10.png",
-    "sha256": "c06d62debb11c1fc853ad0d9fbd7fb4d6720d2e1a0120a02ae4f2247a2f577d5"
-  },
-  {
     "path": "C:\\Projects\\CanvasKits\\fall view\\fall-view-outline-8x10.svg",
     "sha256": "a10351797e8408d49cab2512b702912e130b0506deda2a27024720dc82113460"
-  },
-  {
-    "path": "C:\\Projects\\CanvasKits\\fall view\\info\\output\\pdf\\8x10\\fall-view-outline-8x10-600dpi.png",
-    "sha256": "08a9ef3baf6d2470b2a97c6c0244f6884db9ce7759fed385ab87390e75b7b38e"
-  },
-  {
-    "path": "C:\\Projects\\CanvasKits\\fall view\\info\\output\\pdf\\8x10\\fall-view-outline-8x10.pdf",
-    "sha256": "49df5bb7694823339549e593da2c970bf927d08bc0925520329e28ad16038278"
-  },
-  {
-    "path": "C:\\Projects\\CanvasKits\\fall view\\info\\output\\pdf\\8x10\\fall-view-outline-8x10.png",
-    "sha256": "229113097ebdd82020fa5b97538b65138566a9b54354ef27eb62e034854ebcdc"
-  },
-  {
-    "path": "C:\\Projects\\CanvasKits\\fall view\\info\\output\\svg\\8x10\\fall-view-outline-8x10.svg",
-    "sha256": "a10351797e8408d49cab2512b702912e130b0506deda2a27024720dc82113460"
-  },
-  {
-    "path": "C:\\Projects\\CanvasKits\\fall view\\info\\test\\fall-view-outline-8x10.png",
-    "sha256": "3073bc4607cf062b394b60906e81fbb8e53bb73afd28585d4576e71c3ec9f922"
-  },
-  {
-    "path": "C:\\Projects\\CanvasKits\\Starry-night Sunflower\\info\\archive\\original-square-kit\\starry-night-sunflower-outline.png",
-    "sha256": "4dddaac389b4d056ae0a1bc95306d90952cb42234515877c3e675e2705a4ccc0"
-  },
-  {
-    "path": "C:\\Projects\\CanvasKits\\Starry-night Sunflower\\info\\output\\pdf\\8x10\\starry-night-sunflower-outline-8x10-600dpi.png",
-    "sha256": "233088151997d929a1725f098d804fabc4bced85695e3455a3d7d52bbe6394c9"
-  },
-  {
-    "path": "C:\\Projects\\CanvasKits\\Starry-night Sunflower\\info\\output\\pdf\\8x10\\starry-night-sunflower-outline-8x10.pdf",
-    "sha256": "1be77ce85fc2101159ae39931b7bf7db81366741181eb3b27bcce2531c798ae1"
-  },
-  {
-    "path": "C:\\Projects\\CanvasKits\\Starry-night Sunflower\\info\\output\\pdf\\8x10\\starry-night-sunflower-outline-8x10.png",
-    "sha256": "0f8e200ccfcbfc8408738af4e34c96a9b35986388d89f006300791cc51505f7c"
-  },
-  {
-    "path": "C:\\Projects\\CanvasKits\\Starry-night Sunflower\\info\\output\\svg\\8x10\\starry-night-sunflower-outline-8x10.svg",
-    "sha256": "59c71e68a18b715a00662d03a800a353badd3472a6e2bff5fd9099e8d87d4299"
-  },
-  {
-    "path": "C:\\Projects\\CanvasKits\\Starry-night Sunflower\\info\\test\\starry-night-sunflower-outline-8x10.png",
-    "sha256": "cd17800cf2c28034efabf07e3e3b22189900f81022156991e38f6dca891f8f9b"
   },
   {
     "path": "C:\\Projects\\CanvasKits\\Starry-night Sunflower\\starry-night-sunflower-outline-8x10.svg",

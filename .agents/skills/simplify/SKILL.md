@@ -40,7 +40,7 @@ The selected kit's `simplified/` folder contains exactly these three files, usin
 - `<slug>-painting-guide-8x10.pdf` — simplified instructions.
 - `<slug>-finished-reference-8x10.pdf` — matching simplified target.
 
-Keep the root production set unchanged. Use `info/assets/simplified/` for derived artwork, `info/tmp/simplified/` for plans, builders and checks, and `info/output/simplified/` for PNGs rendered from the final PDFs. Do not place extra files in `simplified/`.
+Keep the root production set unchanged. Use `info/assets/simplified/` for derived artwork and `info/tmp/simplified/` for the plan and builders. Write checks and renders to a scratch location, not `info/`. Do not place extra files in `simplified/`.
 
 Before replacing an existing simplified edition, make sure the current edition is committed to git; earlier editions are recovered from git history rather than copied into `info/archive/`. Record hashes and source-to-output paths. Rebuild only affected deliverables; a wording-only edit does not require replacing the reference.
 
@@ -50,7 +50,7 @@ Before replacing an existing simplified edition, make sure the current edition i
 2. Inspect the final rendered guide and reference with the SVG render. Verify registration using an overlay/contact sheet or native-layer comparison, not dimensions alone. Inspect changed details at useful magnification.
 3. Confirm the retained sequence, cumulative pictures, finished preview, required colors, no mixing language, simple spelling, readable text, intact logo, safe margins and no overlap. Verify the reference uses the intended final-stage pixels or the documented constrained edits.
 4. Confirm the outline copy's hash equals the original and all three original production hashes remain unchanged. Confirm PDF/PNG revision agreement and exactly three files in `simplified/`. Save checks actually performed; distinguish prior review records from current results.
-5. Promote verified alternates to `simplified/` without an extra approval step. If a concrete source/tool blocker prevents verification, keep clearly labeled candidates under `info/output/` and report the exact unresolved issue instead of replacing a usable edition.
+5. Promote verified alternates to `simplified/` without an extra approval step. If a concrete source/tool blocker prevents verification, keep clearly labeled candidates outside `simplified/` and report the exact unresolved issue instead of replacing a usable edition.
 6. Update the kit's `info/README.md` and relevant project index entry with the alternate paths, palette, sources and checks. Deliver links to the simplified files and briefly identify what was simplified.
 
 ## Existing example

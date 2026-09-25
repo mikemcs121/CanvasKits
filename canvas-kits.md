@@ -33,9 +33,9 @@ During organization, the Christmas Gnome, Fall Gnome, Fall View and Sunflower re
 
 - [File preservation and production checks](assets/tools/organization/organization-result.json)
 
-The two Sunflower directories were consolidated into Starry-night Sunflower. Its original square kit is preserved intact in info/archive/original-square-kit/. All other supporting files are under each kit’s info/. Every moved file is recorded with its SHA-256 in info/organization-manifest.json. Desktop backup and example folders were not modified.
+The two Sunflower directories were consolidated into Starry-night Sunflower; its supplied originals are in info/archive/previous-root-files/. Desktop backup and example folders were not modified.
 
-**September 25, 2026 cleanup:** each kit's info/ now holds only current inputs, rebuild sources, checks and supplied originals (19,884 files, 3.2 GB removed; 2,259 files, 1.8 GB kept). Superseded editions, rollback copies, old builds and caches are in git history (`git checkout bf75693 -- "<path>"`). [Cleanup summary and verification](assets/tools/cleanup/info-cleanup-2026-09-25.md).
+**September 25, 2026 cleanups:** each kit's info/ now holds only its supplied originals (archive/previous-root-files/) and the files that help change the root reference, outline, guide and assets/ (22,143 files, 5.0 GB before; 312 files, 0.6 GB after). Each kit's info README (linked in the table above) lists them with the rebuild commands. Removed files are in git history. [Pass 1 summary](assets/tools/cleanup/info-cleanup-2026-09-25.md) · [Pass 2 summary](assets/tools/cleanup/info-cleanup-2026-09-25-pass2.md).
 
 **History:** the earlier project notes (kit history, organization audits, restoration plan, review and handoff, texture review, template and transfer notes) were retired on September 25, 2026. Read any of them from git history (`git show bf75693:"<file>"`), for example `git show bf75693:RESTORATION-HANDOFF.md`.
 

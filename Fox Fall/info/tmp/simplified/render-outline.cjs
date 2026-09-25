@@ -4,7 +4,7 @@ const path = require('path');
 const root = path.resolve(__dirname, '../../../..');
 const { Resvg } = require(path.join(
   root,
-  'Fox Fall/info/tmp/vector-tools/node_modules/@resvg/resvg-js'
+  'assets/tools/vector-tools/node_modules/@resvg/resvg-js'
 ));
 const source = path.join(root, 'Fox Fall/fox-fall-outline-8x10.svg');
 const destination = path.join(__dirname, 'unchanged-outline-render.png');

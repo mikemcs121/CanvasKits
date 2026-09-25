@@ -1,5 +1,5 @@
 const fs=require('fs'),path=require('path');
-const root=path.resolve(__dirname,'../../..'),Jimp=require(path.join(root,'Fox Fall/info/tmp/vector-tools/node_modules/jimp'));
+const root=path.resolve(__dirname,'../../..'),Jimp=require(path.join(root,'assets/tools/vector-tools/node_modules/jimp'));
 const kits=require('./kits.json');
 (async()=>{
  for(let i=0;i<kits.length;i+=2){

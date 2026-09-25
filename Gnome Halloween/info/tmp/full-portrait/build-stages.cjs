@@ -1,7 +1,6 @@
 const fs=require('fs'),path=require('path');
 let project=__dirname;while(!fs.existsSync(path.join(project,'AGENTS.md'))){const parent=path.dirname(project);if(parent===project)throw Error('Project root not found');project=parent;}
-const foxRoot=path.join(project,'Fox Fall'),foxWork=fs.existsSync(path.join(foxRoot,'info'))?path.join(foxRoot,'info'):foxRoot;
-const Jimp=require(path.join(foxWork,'tmp','vector-tools','node_modules','jimp'));
+const Jimp=require(path.join(project,'assets','tools','vector-tools','node_modules','jimp'));
 const kit=path.resolve(__dirname,'../..'),asset=path.join(kit,'assets/full-portrait'),w=1200,h=1500,n=w*h;
 // sky, ground, moon, bats, plum, orange, nose, shoes, beard, stems, buckle, carved faces.
 const palette=[[255,255,255],[64,86,111],[111,77,45],[246,232,173],[28,27,28],[88,36,73],[195,90,34],[238,163,108],[104,63,33],[239,232,213],[112,101,40],[205,157,59],[24,24,25]];

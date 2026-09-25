@@ -18,11 +18,8 @@ for (const k of shared) {
   const files = fs.readdirSync(abs(k.folder)).filter(n => fs.statSync(abs(k.folder + '/' + n)).isFile());
   const expected = ['outline-8x10.svg', 'painting-guide-8x10.pdf', 'finished-reference-8x10.pdf'].map(t => k.slug + '-' + t);
   if (files.length !== 3 || expected.some(n => !files.includes(n))) failures.push('Root layout: ' + k.folder);
-  if (!k.work.includes('reference-restoration')) continue;
-  const plan = read(k.folder + '/info/tmp/template-refactor/plan.json');
-  if (JSON.stringify(plan) !== JSON.stringify(k)) failures.push('Plan sync: ' + k.folder);
-  const selection = read(k.folder + '/info/production-selection.json');
-  for (const f of selection.production) if (hash(f.path) !== f.sha256) failures.push('Selection: ' + f.path);
+  // kits.json is the only guide plan since the second September 25 cleanup; every input it names must exist.
+  for (const p of [k.reference, k.logo, ...k.steps.map(s => s.image)]) if (p && !fs.existsSync(abs(p))) failures.push('Guide input missing: ' + p);
 }
 console.log(JSON.stringify({ status: failures.length ? 'failed' : 'passed', protectedFiles: protectedFiles.length, kitRoots: shared.length, promotedAndArchivedRecords: completion.files.length, failures }, null, 2));
 if (failures.length) process.exitCode = 1;

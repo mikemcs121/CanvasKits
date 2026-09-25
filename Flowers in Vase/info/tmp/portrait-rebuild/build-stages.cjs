@@ -1,7 +1,6 @@
 const fs=require('fs'),path=require('path');
 let project=__dirname;while(!fs.existsSync(path.join(project,'AGENTS.md'))){const parent=path.dirname(project);if(parent===project)throw Error('Project root not found');project=parent;}
-const foxRoot=path.join(project,'Fox Fall'),foxWork=fs.existsSync(path.join(foxRoot,'info'))?path.join(foxRoot,'info'):foxRoot;
-const Jimp=require(path.join(foxWork,'tmp','vector-tools','node_modules','jimp'));
+const Jimp=require(path.join(project,'assets','tools','vector-tools','node_modules','jimp'));
 const root=path.resolve(__dirname,'../..'),asset=path.join(root,'assets/portrait-rebuild');
 const palette=[[255,255,255],[98,194,183],[69,112,58],[26,65,105],[244,239,224],[245,195,192],[246,166,79],[181,46,85],[235,187,51],[26,65,105]];
 function good(r,g,b,k){switch(k){case 1:return g>r*1.12&&b>g*.7;case 2:return g>r*.78&&g>b*1.1&&r<240;case 3:return b>r*1.2&&b>g*1.05&&g<175;case 4:return r>135&&g>135&&b>115&&Math.abs(r-g)<38;case 5:return r>135&&r>=g*.98&&r>=b*.97&&b>g*.74;case 6:return r>135&&r>=g*.98&&g>=b;case 7:return r>g*1.45&&r>b*1.08;case 8:return r>g*.92&&g>b*1.23;case 9:return (b>r*1.15&&b>g*.99)||(r>170&&g>175&&b>175);}return true;}

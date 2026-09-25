@@ -1,7 +1,7 @@
 // Recompose one region in the existing editable staged-artwork system.
 const fs=require('fs'),path=require('path'),crypto=require('crypto');
 const root=path.resolve(__dirname,'../../../..');
-const Jimp=require(path.join(root,'Fox Fall/info/tmp/vector-tools/node_modules/jimp'));
+const Jimp=require(path.join(root,'assets/tools/vector-tools/node_modules/jimp'));
 const src=path.join(root,'Cat in Pumpkin/info/tmp/8x10-artwork');
 const out=path.join(root,'Cat in Pumpkin/info/assets/simplified');
 const hash=p=>crypto.createHash('sha256').update(fs.readFileSync(p)).digest('hex');

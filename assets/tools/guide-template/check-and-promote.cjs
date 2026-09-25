@@ -1,6 +1,6 @@
 const fs=require('fs'),path=require('path'),crypto=require('crypto');
 const root=path.resolve(__dirname,'../../..');
-const Jimp=require(path.join(root,'Fox Fall/info/tmp/vector-tools/node_modules/jimp'));
+const Jimp=require(path.join(root,'assets/tools/vector-tools/node_modules/jimp'));
 const read=p=>fs.readFileSync(path.join(root,p)),json=p=>JSON.parse(read(p).toString('utf8').replace(/^\uFEFF/,''));
 const hash=p=>crypto.createHash('sha256').update(read(p)).digest('hex').toUpperCase();
 const assert=(v,m)=>{if(!v)throw Error(m)};

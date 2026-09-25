@@ -1,5 +1,5 @@
 const fs=require('fs'),path=require('path'),crypto=require('crypto');
-const root=process.cwd(),Jimp=require(path.join(root,'Fox Fall/info/tmp/vector-tools/node_modules/jimp'));
+const root=process.cwd(),Jimp=require(path.join(root,'assets/tools/vector-tools/node_modules/jimp'));
 const hash=p=>crypto.createHash('sha256').update(fs.readFileSync(p)).digest('hex');
 (async()=>{const checks=[],font=await Jimp.loadFont(Jimp.FONT_SANS_16_BLACK);
 for(const [folder,slug]of [['Gnome Fall','gnome-fall'],['Gnome Christmas Tree','gnome-christmas-tree']]){
