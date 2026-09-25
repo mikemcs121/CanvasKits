@@ -9,6 +9,8 @@ The project root holds shared assets, project-wide Markdown notes, and one folde
 - `<slug>-finished-reference-8x10.pdf`: matching color target, one 8 by 10-inch page.
 - `info/`: everything else, with a README describing the current sources, checks, and build locations.
 
+By the user's September 25 request, a kit root (and any kit subfolder with its own guide, such as `simplified/`) may also hold `assets/`: lossless copies of the images embedded in that folder's painting guide, produced by `Tools/guide-image-extractor.cjs`. Do not move these into info/. The project-root `Tools/` folder holds that extractor; shared build tools stay in `assets/tools/`.
+
 Keep matching PNGs, compatibility PDFs, canonical images, masks, prompts, builders and review notes inside info/. Use info/assets/ for working artwork, info/tmp/ for builds and reviews, info/output/ for supporting exports, and info/test/ for retained supplied test art. Keep original supplied material unchanged. Archive superseded root aliases and notes in info/archive/previous-root-files/; preserve older build directories when current scripts depend on them. Do not delete old files merely to tidy the view. New obsolete editions belong in info/archive/ with descriptive names.
 
 Production files at the kit root are the authoritative customer/transfer deliverables. Do not leave additional aliases, README files, PNGs, or alternate PDFs there. Do not select files by modification date alone. Review the outline, reference, and guide together before promoting them. Preserve file hashes and an old-to-new path manifest when reorganizing. Keep supporting PNGs rendered from the current PDF under info/output/.
