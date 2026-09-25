@@ -167,14 +167,14 @@ draw_paragraph(pdf, PLAN["care"], 24, 607, 564, small)
 
 pdf.setStrokeColor(accent)
 pdf.setLineWidth(0.4)
-pdf.line(306, 58, 306, 574)
+pdf.line(306, 70, 306, 574)
 pdf.line(24, 316, 588, 316)
 
 cells = [
     (24, 574, 270, 326),
     (318, 574, 270, 326),
-    (24, 306, 270, 54),
-    (318, 306, 270, 54),
+    (24, 306, 270, 66),
+    (318, 306, 270, 66),
 ]
 
 for index, step in enumerate(PLAN["steps"]):
@@ -211,8 +211,11 @@ for index, step in enumerate(PLAN["steps"]):
     )
 
 pdf.setFillColor(wash)
-pdf.roundRect(24, 20, 564, 28, 8, fill=1, stroke=0)
-draw_paragraph(pdf, PLAN["cleanup"], 29, 41, 554, small)
+pdf.roundRect(24, 32, 564, 28, 8, fill=1, stroke=0)
+draw_paragraph(pdf, PLAN["cleanup"], 29, 53, 554, small)
+pdf.setFillColor(ink)
+pdf.setFont("Helvetica", 9.5)
+pdf.drawCentredString(306, 18, "www.randrpaintyourown.com | @randrpaintyourown | info@randrpaintyourown.com")
 pdf.showPage()
 pdf.save()
 

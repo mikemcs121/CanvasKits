@@ -51,7 +51,7 @@ c.drawImage(str(logo),442,709,146,146*lh/lw,mask='auto')
 c.setFillColor(wash); c.roundRect(24,617,564,53,8,fill=1,stroke=0)
 paragraph(c,'<b>Materials:</b> Preprinted 8 x 10 canvas, acrylic paints, large and small brushes<br/>Water cup, paper towels, palette or paper plate<br/><b>Paint colors provided:</b> '+', '.join(PLAN['paints']),32,663,548,small)
 paragraph(c,PLAN['care'],24,606,564,small)
-c.setStrokeColor(accent); c.setLineWidth(.4); c.line(306,64,306,584); c.line(24,356,588,356)
+c.setStrokeColor(accent); c.setLineWidth(.4); c.line(306,76,306,584); c.line(24,356,588,356)
 for i,s in enumerate(PLAN['steps']):
     x=24+(i%2)*294; top=584 if i<2 else 343; artH=112
     artW=artH*.8
@@ -60,11 +60,12 @@ for i,s in enumerate(PLAN['steps']):
     c.drawString(x,top-artH-20,f"{i+1}. {s['heading']}")
     cy=top-artH-29
     for text in s['paragraphs']: cy=paragraph(c,text,x,cy,270)-4
-    minimum=364 if i<2 else 55
+    minimum=364 if i<2 else 67
     if cy<minimum: raise RuntimeError(f'Step {i+1} overflows: {cy} < {minimum}')
     layout.append({'step':i+1,'originalStep':s['sourceStep'],'captionBottom':cy,'safeMinimum':minimum,'fontPoints':body.fontSize,'artPoints':[artW,artH]})
-c.setFillColor(wash); c.roundRect(24,20,564,28,8,fill=1,stroke=0)
-paragraph(c,PLAN['cleanup'],29,41,554,small)
+c.setFillColor(wash); c.roundRect(24,32,564,28,8,fill=1,stroke=0)
+paragraph(c,PLAN['cleanup'],29,53,554,small)
+c.setFillColor(ink); c.setFont('Helvetica',9.5); c.drawCentredString(306,18,'www.randrpaintyourown.com | @randrpaintyourown | info@randrpaintyourown.com')
 c.showPage(); c.save()
 for pdf,size in [(guide,[612,792]),(ref,[576,720])]:
     r=PdfReader(pdf)

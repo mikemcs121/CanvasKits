@@ -148,8 +148,8 @@ draw_paragraph(pdf, PLAN["care"], 24, 609, 564, small)
 
 pdf.setStrokeColor(accent)
 pdf.setLineWidth(0.4)
-pdf.line(207, 58, 207, 584)
-pdf.line(397, 58, 397, 584)
+pdf.line(207, 70, 207, 584)
+pdf.line(397, 70, 397, 584)
 pdf.line(24, 330, 588, 330)
 
 cell_x = [24, 214, 404]
@@ -177,7 +177,7 @@ for index, step in enumerate(PLAN["steps"]):
     cursor = top - art_height - 28
     for paragraph_text in step["paragraphs"]:
         cursor = draw_paragraph(pdf, paragraph_text, x, cursor, cell_width) - 3
-    safe_minimum = 339 if row == 0 else 56
+    safe_minimum = 339 if row == 0 else 68
     if cursor < safe_minimum:
         raise RuntimeError(
             f"Step {index + 1} overflows: {cursor:.1f} < {safe_minimum}"
@@ -194,8 +194,11 @@ for index, step in enumerate(PLAN["steps"]):
     )
 
 pdf.setFillColor(wash)
-pdf.roundRect(24, 20, 564, 28, 8, fill=1, stroke=0)
-draw_paragraph(pdf, PLAN["cleanup"], 29, 41, 554, small)
+pdf.roundRect(24, 32, 564, 28, 8, fill=1, stroke=0)
+draw_paragraph(pdf, PLAN["cleanup"], 29, 53, 554, small)
+pdf.setFillColor(ink)
+pdf.setFont("Helvetica", 9.5)
+pdf.drawCentredString(306, 18, "www.randrpaintyourown.com | @randrpaintyourown | info@randrpaintyourown.com")
 pdf.showPage()
 pdf.save()
 

@@ -172,14 +172,14 @@ pdf.setLineWidth(0.4)
 pdf.line(207, 324, 207, 584)
 pdf.line(397, 324, 397, 584)
 pdf.line(24, 318, 588, 318)
-pdf.line(306, 58, 306, 312)
+pdf.line(306, 70, 306, 312)
 
 cells = [
     (24, 584, 174, 316),
     (214, 584, 174, 316),
     (404, 584, 174, 316),
-    (24, 306, 270, 54),
-    (318, 306, 270, 54),
+    (24, 306, 270, 66),
+    (318, 306, 270, 66),
 ]
 
 for index, step in enumerate(PLAN["steps"]):
@@ -216,8 +216,11 @@ for index, step in enumerate(PLAN["steps"]):
     )
 
 pdf.setFillColor(wash)
-pdf.roundRect(24, 20, 564, 28, 8, fill=1, stroke=0)
-draw_paragraph(pdf, PLAN["cleanup"], 29, 41, 554, small)
+pdf.roundRect(24, 32, 564, 28, 8, fill=1, stroke=0)
+draw_paragraph(pdf, PLAN["cleanup"], 29, 53, 554, small)
+pdf.setFillColor(ink)
+pdf.setFont("Helvetica", 9.5)
+pdf.drawCentredString(306, 18, "www.randrpaintyourown.com | @randrpaintyourown | info@randrpaintyourown.com")
 pdf.showPage()
 pdf.save()
 
