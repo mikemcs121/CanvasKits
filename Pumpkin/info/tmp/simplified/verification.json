@@ -1,0 +1,111 @@
+{
+  "status": "verified",
+  "date": "2026-09-23",
+  "audience": "ages 8-14; wording for an 8-year-old",
+  "palette": [
+    "orange",
+    "olive green",
+    "black"
+  ],
+  "retainedOriginalStages": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "omitted": [
+    "mixing",
+    "groove shadows",
+    "painted texture",
+    "highlights"
+  ],
+  "originalProductionHashesBefore": {
+    "Pumpkin\\pumpkin-outline-8x10.svg": "930d3ad3b7c65d06e47ed36567deabe7e97daa553df0d45366d2d03335d5067b",
+    "Pumpkin\\pumpkin-painting-guide-8x10.pdf": "97f4c5ab13a9db4d41a5a860938508bb25402a571a7f523e394152802a602d2b",
+    "Pumpkin\\pumpkin-finished-reference-8x10.pdf": "3a0f6122a9a94becbc118e2789bec747edf12a2587d9dee3806fca504ebda238"
+  },
+  "originalProductionHashesAfter": {
+    "Pumpkin\\pumpkin-outline-8x10.svg": "930d3ad3b7c65d06e47ed36567deabe7e97daa553df0d45366d2d03335d5067b",
+    "Pumpkin\\pumpkin-painting-guide-8x10.pdf": "97f4c5ab13a9db4d41a5a860938508bb25402a571a7f523e394152802a602d2b",
+    "Pumpkin\\pumpkin-finished-reference-8x10.pdf": "3a0f6122a9a94becbc118e2789bec747edf12a2587d9dee3806fca504ebda238"
+  },
+  "simplifiedOutlineHash": "930d3ad3b7c65d06e47ed36567deabe7e97daa553df0d45366d2d03335d5067b",
+  "outlineByteIdentical": true,
+  "simplifiedFolderFiles": [
+    "pumpkin-finished-reference-8x10.pdf",
+    "pumpkin-outline-8x10.svg",
+    "pumpkin-painting-guide-8x10.pdf"
+  ],
+  "pdfChecks": {
+    "pumpkin-painting-guide-8x10.pdf": {
+      "pages": 1,
+      "points": [
+        612,
+        792
+      ],
+      "pixels": [
+        2550,
+        3300
+      ],
+      "dpi": 300,
+      "pdfSha256": "04937150f49b85533db7e7b4c0f05bb04912a122535e368d391adbb5048a005d",
+      "pngSha256": "7fb1b050bf68d76fc3782afa8f4692dc8771c9c5e6978ceb58818cefbfb48c3c",
+      "renderSource": "Pumpkin\\simplified\\pumpkin-painting-guide-8x10.pdf"
+    },
+    "pumpkin-finished-reference-8x10.pdf": {
+      "pages": 1,
+      "points": [
+        576,
+        720
+      ],
+      "pixels": [
+        2400,
+        3000
+      ],
+      "dpi": 300,
+      "pdfSha256": "111e0820dd3ac8010ac6549a028a3f9bef2550b5ba81843b764e69132f534066",
+      "pngSha256": "28e9a7d1c40f7b66fd89248865bda96e89973eaaeb75f2cff1cbf6e7deb92cb4",
+      "renderSource": "Pumpkin\\simplified\\pumpkin-finished-reference-8x10.pdf"
+    }
+  },
+  "guideTextChecks": {
+    "requiredTextPresent": true,
+    "mixingLanguageAbsent": true,
+    "readyToUsePalettePresent": true,
+    "spellingReviewed": true
+  },
+  "artworkChecks": {
+    "stageDimensions": [
+      1254,
+      1254
+    ],
+    "cumulativeGroupChangesOnly": true,
+    "canonicalBlackLinePixelsUnchanged": true,
+    "pixelsOutsidePaintedGroupsUnchanged": true,
+    "finalPreviewPanelReferenceSameAsset": "Pumpkin/info/assets/simplified/step-4.png",
+    "approvedOutlineBBox": [
+      72,
+      220,
+      1126,
+      1276
+    ],
+    "simplifiedReferenceBBox": [
+      66,
+      214,
+      1132,
+      1281
+    ],
+    "bboxDeltaPixelsAt1200x1500": [
+      6,
+      6,
+      6,
+      5
+    ],
+    "registrationReview": "Pumpkin\\info\\tmp\\simplified\\registration-review.png"
+  },
+  "visualInspection": {
+    "guide": "Inspected rendered page at 2550 x 3300: readable text, safe margins, no overlap, intact logo.",
+    "reference": "Inspected rendered page at 2400 x 3000: complete centered subject, flat continuous color, no texture artifacts.",
+    "sequence": "Inspected all four stage images: cumulative orange, olive-green stem, then black face."
+  }
+}

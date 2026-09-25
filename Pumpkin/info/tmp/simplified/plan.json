@@ -1,0 +1,73 @@
+{
+  "title": "Autumn Pumpkin",
+  "audience": "Children ages 8-14; wording for an 8-year-old",
+  "sourceStepMapping": [
+    "1",
+    "2",
+    "3",
+    "4"
+  ],
+  "paints": [
+    "orange",
+    "olive green",
+    "black"
+  ],
+  "placement": {
+    "canvasPixels": [2400, 3000],
+    "sourcePixels": [1254, 1254],
+    "sourceRectangle": [60, 360, 2280, 2280]
+  },
+  "steps": [
+    {
+      "sourceStages": [1],
+      "artwork": "step-1.png",
+      "heading": "Get ready",
+      "paragraphs": [
+        "Cover your table. Start with the preprinted pumpkin canvas. Keep the background white.",
+        "Use thin coats. Rinse your brush and pat it dry when you change colors."
+      ],
+      "newPaint": "None",
+      "alreadyPainted": "None",
+      "remainWhite": "Pumpkin, stem, eyes, nose, mouth and background"
+    },
+    {
+      "sourceStages": [2],
+      "artwork": "step-2.png",
+      "heading": "Paint the pumpkin",
+      "paragraphs": [
+        "Use orange for every pumpkin section. Paint around the eyes, nose and mouth.",
+        "Paint both teeth orange. Leave the stem and face openings white. Let the paint dry."
+      ],
+      "newPaint": "Orange pumpkin and teeth",
+      "alreadyPainted": "None",
+      "remainWhite": "Stem, eyes, nose, mouth and background"
+    },
+    {
+      "sourceStages": [3],
+      "artwork": "step-3.png",
+      "heading": "Paint the stem",
+      "paragraphs": [
+        "Use olive green for the stem. Follow its bend with your brush.",
+        "Use a small brush near the black lines. Let the stem dry."
+      ],
+      "newPaint": "Olive-green stem",
+      "alreadyPainted": "Orange pumpkin and teeth",
+      "remainWhite": "Eyes, nose, mouth and background"
+    },
+    {
+      "sourceStages": [4],
+      "artwork": "step-4.png",
+      "heading": "Finish the face",
+      "paragraphs": [
+        "Use black for both eyes, the nose and the mouth. Paint carefully around the orange teeth.",
+        "Check the edges, then lay the canvas flat to dry."
+      ],
+      "newPaint": "Black eyes, nose and mouth",
+      "alreadyPainted": "Orange pumpkin and olive-green stem",
+      "remainWhite": "Background"
+    }
+  ],
+  "care": "Use thin coats. Rinse your brush and pat it dry when you change colors. Let each color dry before painting beside it.",
+  "cleanup": "Lay your canvas flat to dry. Wash your brushes and close the paint pots.",
+  "sourceNotes": "The four panels retain original stages 1-4 and stop at the first complete, recognizable jack-o'-lantern. The artwork uses the canonical region and line masks with flat ready-to-use colors. Mixing, groove shadows, painted texture and highlights from original stages 5-8 are omitted. The approved centered composition and square-to-portrait placement are unchanged. Instruction pictures retain dark teaching linework; the production transfer is the byte-identical approved gray SVG."
+}

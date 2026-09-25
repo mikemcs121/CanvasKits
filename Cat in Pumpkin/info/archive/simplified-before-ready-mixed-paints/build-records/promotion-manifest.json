@@ -1,0 +1,29 @@
+{
+  "files": [
+    {
+      "source": "Cat in Pumpkin\\cat-in-pumpkin-outline-8x10.svg",
+      "destination": "Cat in Pumpkin\\simplified\\cat-in-pumpkin-outline-8x10.svg",
+      "sha256": "0518c2c1978cbc59e0b9e2d636e1731542cfa1979cb379e99fa6a3efe54c481f",
+      "bytes": 16574
+    },
+    {
+      "source": "Cat in Pumpkin\\info\\tmp\\simplified\\cat-in-pumpkin-painting-guide-8x10.pdf",
+      "destination": "Cat in Pumpkin\\simplified\\cat-in-pumpkin-painting-guide-8x10.pdf",
+      "sha256": "9aa3270063a6cfe9bb3c6440792c82e32bc0acf8f216a2a2d56bdb4eb21e14a7",
+      "bytes": 4100636
+    },
+    {
+      "source": "Cat in Pumpkin\\info\\tmp\\simplified\\cat-in-pumpkin-finished-reference-8x10.pdf",
+      "destination": "Cat in Pumpkin\\simplified\\cat-in-pumpkin-finished-reference-8x10.pdf",
+      "sha256": "d71d56382d731a4b8f97e00cd5eea359500cfb01c7f0ceacec94c49c5fcb87cf",
+      "bytes": 458649
+    }
+  ],
+  "originalsUnchanged": {
+    "Cat in Pumpkin\\cat-in-pumpkin-finished-reference-8x10.pdf": "651c95e4390133ae4ae0c33b1a10d0c3155ddc4b17750cca72b7383ec30b089d",
+    "Cat in Pumpkin\\cat-in-pumpkin-outline-8x10.svg": "0518c2c1978cbc59e0b9e2d636e1731542cfa1979cb379e99fa6a3efe54c481f",
+    "Cat in Pumpkin\\cat-in-pumpkin-painting-guide-8x10.pdf": "be2c8c19c300f214655701c3bae707cdf6cce634080e9d1af6524273d74d727d"
+  },
+  "review": "Astra and parent visually reviewed final PDF-rendered guide/reference; Astra reviewed outline registration contact sheet. All pass.",
+  "print": "Artwork at Actual size / 100%; guide is US Letter."
+}

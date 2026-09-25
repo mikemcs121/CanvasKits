@@ -1,0 +1,17 @@
+{
+  "palette": [
+    "orange",
+    "gray",
+    "pink",
+    "dark brown",
+    "black",
+    "white"
+  ],
+  "noGoldYellowOrMixingDirections": true,
+  "eyeEdgesWhite": true,
+  "outsideEyeRegionUnchanged": true,
+  "sourceFilesUnchanged": true,
+  "originalProductionUnchanged": true,
+  "outlineCopyUnchanged": true,
+  "archive": "Cat in Pumpkin\\info\\archive\\simplified-before-white-eyes"
+}

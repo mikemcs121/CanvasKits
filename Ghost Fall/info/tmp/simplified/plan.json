@@ -1,0 +1,89 @@
+{
+  "title": "Autumn Ghost",
+  "audience": "Children ages 8-14; wording for an 8-year-old",
+  "sourceStepMapping": [
+    "1",
+    "2",
+    "4",
+    "5-6",
+    "7 and 11"
+  ],
+  "paints": [
+    "ivory",
+    "plum purple",
+    "orange",
+    "olive green",
+    "coral pink",
+    "black"
+  ],
+  "placement": {
+    "canvasPixels": [2400, 3000],
+    "sourcePixels": [1254, 1254],
+    "sourceRectangle": [60, 360, 2280, 2280]
+  },
+  "steps": [
+    {
+      "sourceStages": [1],
+      "artwork": "step-1.png",
+      "heading": "Get ready",
+      "paragraphs": [
+        "Cover your table. Start with the preprinted ghost canvas. Keep the background white.",
+        "Use thin coats. Rinse your brush and pat it dry when you change colors."
+      ],
+      "newPaint": "None",
+      "alreadyPainted": "None",
+      "remainWhite": "The ghost, bow, pumpkin, stem, cheeks, tongue and background"
+    },
+    {
+      "sourceStages": [2],
+      "artwork": "step-2.png",
+      "heading": "Paint the ghost",
+      "paragraphs": [
+        "Use ivory for the ghost and both hands. Paint around the eyes, mouth and pumpkin.",
+        "Leave the bow, pumpkin, stem, cheeks and tongue white. Let the paint dry."
+      ],
+      "newPaint": "Ivory ghost and hands",
+      "alreadyPainted": "None",
+      "remainWhite": "Bow, pumpkin, stem, cheeks, tongue and background"
+    },
+    {
+      "sourceStages": [4],
+      "artwork": "step-3.png",
+      "heading": "Paint the bow",
+      "paragraphs": [
+        "Use plum purple for the bow loops, knot and ribbon tails.",
+        "Use a small brush near the black lines. Let the bow dry."
+      ],
+      "newPaint": "Plum-purple bow",
+      "alreadyPainted": "Ivory ghost and hands",
+      "remainWhite": "Pumpkin, stem, cheeks, tongue and background"
+    },
+    {
+      "sourceStages": [5, 6],
+      "artwork": "step-4.png",
+      "heading": "Add the pumpkin",
+      "paragraphs": [
+        "Paint the pumpkin orange. Follow each curved section from top to bottom.",
+        "Paint the stem olive green. Keep the ghost's hands ivory."
+      ],
+      "newPaint": "Orange pumpkin and olive-green stem",
+      "alreadyPainted": "Ivory ghost and plum-purple bow",
+      "remainWhite": "Cheeks, tongue and background"
+    },
+    {
+      "sourceStages": [7, 11],
+      "artwork": "step-5.png",
+      "heading": "Finish the face",
+      "paragraphs": [
+        "Paint the cheeks and tongue coral pink.",
+        "Use black for the eyes, eyebrows and mouth. Keep the tiny eye dots white. Lay the canvas flat to dry."
+      ],
+      "newPaint": "Coral-pink cheeks and tongue; black eyes, eyebrows and mouth",
+      "alreadyPainted": "Ghost, bow, pumpkin and stem",
+      "remainWhite": "Background and eye dots"
+    }
+  ],
+  "care": "Use thin coats. Rinse your brush and pat it dry when you change colors. Let each color dry before painting beside it.",
+  "cleanup": "Lay your canvas flat to dry. Wash your brushes and close the paint pots.",
+  "sourceNotes": "The five panels condense original stages 1, 2, 4, 5, 6, 7 and the black facial finish from stage 11. The artwork uses the canonical region and line masks with flat ready-to-use colors. Fold shading, texture, highlights and mixing are omitted. The approved centered composition and square-to-portrait placement are unchanged. Instruction pictures retain dark teaching linework; the production transfer is the byte-identical approved gray SVG."
+}

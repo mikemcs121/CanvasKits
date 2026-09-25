@@ -1,0 +1,43 @@
+{
+  "edition": "Ghost Fall simplified ages 8-14",
+  "sources": {
+    "outline": "Ghost Fall/ghost-fall-outline-8x10.svg",
+    "nativeLineMask": "Ghost Fall/info/tmp/8x10-artwork/line-mask.bin",
+    "nativeGroupMask": "Ghost Fall/info/tmp/8x10-artwork/group-mask.bin",
+    "logo": "Ghost Fall/info/assets/template-refactor/river-and-ridge-logo.png",
+    "adultStagePlan": "Ghost Fall/info/tmp/8x10-artwork/step-plan.json"
+  },
+  "derivedArtwork": {
+    "folder": "Ghost Fall/info/assets/simplified/",
+    "finalTarget": "Ghost Fall/info/assets/simplified/step-5.png",
+    "finalTargetSha256": "676f93c00549461d2567b3a7144db466ef79f65bb6f48f0da29b2fda5e81cec7"
+  },
+  "candidates": {
+    "guide": "Ghost Fall/info/tmp/simplified/ghost-fall-painting-guide-8x10.pdf",
+    "reference": "Ghost Fall/info/tmp/simplified/ghost-fall-finished-reference-8x10.pdf"
+  },
+  "promoted": {
+    "outline": {
+      "path": "Ghost Fall/simplified/ghost-fall-outline-8x10.svg",
+      "sha256": "6e38259204ade00d3738a8c2e591a5cde68770993d1bcf6c9b723a32021b64c9"
+    },
+    "guide": {
+      "path": "Ghost Fall/simplified/ghost-fall-painting-guide-8x10.pdf",
+      "sha256": "f9732639a5311c704ffd7704a282864feedb2d7e32641d61d4eea9ac5b7bab85"
+    },
+    "reference": {
+      "path": "Ghost Fall/simplified/ghost-fall-finished-reference-8x10.pdf",
+      "sha256": "9bdb3edd621a4f68a04920b87f0fc3c9c752325216257a8e7ea474c81793ea7d"
+    }
+  },
+  "renders": {
+    "guide": {
+      "path": "Ghost Fall/info/output/simplified/ghost-fall-painting-guide-8x10.png",
+      "sha256": "e487c6c2bc2a94ec6232cc76a0e0e6f70de3494abf728118927ca0a2ba1ff5b9"
+    },
+    "reference": {
+      "path": "Ghost Fall/info/output/simplified/ghost-fall-finished-reference-8x10.png",
+      "sha256": "c44cdd8c2f31c38e695f0764a3aab1b93c69c3f292a115929c352d9df9804f51"
+    }
+  }
+}

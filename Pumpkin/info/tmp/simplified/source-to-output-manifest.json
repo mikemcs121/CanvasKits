@@ -1,0 +1,26 @@
+{
+  "created": "2026-09-23",
+  "sources": [
+    {
+      "source": "Pumpkin/pumpkin-outline-8x10.svg",
+      "output": "Pumpkin/simplified/pumpkin-outline-8x10.svg",
+      "sha256": "930d3ad3b7c65d06e47ed36567deabe7e97daa553df0d45366d2d03335d5067b",
+      "relationship": "byte-identical copy"
+    },
+    {
+      "source": "Pumpkin/info/tmp/8x10-artwork/group-mask.bin; line-mask.bin",
+      "output": "Pumpkin/info/assets/simplified/step-1.png through step-4.png",
+      "relationship": "canonical flat cumulative stages"
+    },
+    {
+      "source": "Pumpkin/info/assets/simplified/step-4.png",
+      "output": "Pumpkin/simplified/pumpkin-finished-reference-8x10.pdf",
+      "relationship": "final target centered with preserved placement"
+    },
+    {
+      "source": "Pumpkin/info/assets/simplified/step-1.png through step-4.png",
+      "output": "Pumpkin/simplified/pumpkin-painting-guide-8x10.pdf",
+      "relationship": "four cumulative guide panels; step 4 also used for header preview"
+    }
+  ]
+}

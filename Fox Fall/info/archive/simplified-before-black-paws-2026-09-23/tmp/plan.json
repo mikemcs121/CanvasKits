@@ -1,0 +1,90 @@
+{
+  "title": "Autumn Fox",
+  "audience": "Children ages 8-14; wording for an 8-year-old",
+  "sourceStepMapping": [1, 2, 3, 5, 6, 7],
+  "paints": [
+    "orange",
+    "ivory",
+    "forest green",
+    "golden yellow",
+    "dark brown",
+    "black",
+    "white"
+  ],
+  "placement": {
+    "canvasPixels": [2400, 3000],
+    "sourcePixels": [1254, 1254],
+    "sourceRectangle": [60, 360, 2280, 2280]
+  },
+  "steps": [
+    {
+      "sourceStep": 1,
+      "heading": "Get ready",
+      "paragraphs": [
+        "Cover your table. Start with the preprinted fox canvas. Keep the background white.",
+        "Use thin coats. Rinse your brush and pat it dry when you change colors."
+      ],
+      "newPaint": "None",
+      "alreadyPainted": "None",
+      "remainWhite": "All paint regions and the background"
+    },
+    {
+      "sourceStep": 2,
+      "heading": "Paint the orange fur",
+      "paragraphs": [
+        "Use orange for the head, outer ears, body and lower tail.",
+        "Leave the face patches, chest, tail tip, scarf, paws and leaves white. Let it dry."
+      ],
+      "newPaint": "Orange head, outer ears, body and lower tail",
+      "alreadyPainted": "None",
+      "remainWhite": "Face patches, inner ears, chest, tail tip, scarf, paws, leaves and background"
+    },
+    {
+      "sourceStep": 3,
+      "heading": "Add the ivory fur",
+      "paragraphs": [
+        "Use ivory for the face patches, inner ears, chest and tail tip.",
+        "Keep the scarf, paws and leaves white. Let the paint dry."
+      ],
+      "newPaint": "Ivory face patches, inner ears, chest and tail tip",
+      "alreadyPainted": "Orange fur",
+      "remainWhite": "Scarf, paws, leaves and background"
+    },
+    {
+      "sourceStep": 5,
+      "heading": "Paint the scarf",
+      "paragraphs": [
+        "Paint every other scarf stripe forest green.",
+        "Paint the open stripes golden yellow. Keep the black dividing lines easy to see."
+      ],
+      "newPaint": "Forest green and golden yellow scarf stripes",
+      "alreadyPainted": "Orange and ivory fur",
+      "remainWhite": "Paws, leaves and background"
+    },
+    {
+      "sourceStep": 6,
+      "heading": "Paint the leaves",
+      "paragraphs": [
+        "Paint the maple leaf orange. Paint the oak leaf golden yellow.",
+        "Use your small brush near the edges. Let the leaves dry."
+      ],
+      "newPaint": "Orange maple leaf and golden yellow oak leaf",
+      "alreadyPainted": "Fox fur and scarf",
+      "remainWhite": "Paws and background"
+    },
+    {
+      "sourceStep": 7,
+      "heading": "Finish the little details",
+      "paragraphs": [
+        "Use dark brown for the paws and ear tips.",
+        "Use black for the eyes, nose, smile and leaf stems. Keep or add a tiny white dot in each eye."
+      ],
+      "newPaint": "Dark brown paws and ear tips; black face details and leaf stems; white eye dots",
+      "alreadyPainted": "Fox fur, scarf and leaves",
+      "remainWhite": "Background and eye dots"
+    }
+  ],
+  "care": "Use thin coats. Rinse your brush and pat it dry when you change colors. Let each color dry before painting beside it.",
+  "cleanup": "Lay your canvas flat to dry. Wash your brushes and close the paint pots.",
+  "sourceNotes": "Retained source stages 1, 2, 3, 5, 6 and 7. Stage 5 combines the two scarf-color actions into one child-friendly step. Stage 7 is the exact simplified target. Texture, shading and highlight stages 8-11 are omitted. Existing heavier teaching linework is retained in the pictures; the production transfer remains the unchanged gray SVG."
+}

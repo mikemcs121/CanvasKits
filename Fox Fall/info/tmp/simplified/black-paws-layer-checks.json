@@ -1,0 +1,14 @@
+{
+  "source": "Fox Fall\\info\\tmp\\8x10-artwork\\step-7.png",
+  "sourceSha256": "ebeb3283cb83fadb98592b56c1627f7c4a390ade97bf96b40121cd06ea84f803",
+  "mask": "Fox Fall\\info\\tmp\\8x10-artwork\\group-mask.bin",
+  "nativeGroupIndex": 7,
+  "nativeGroupName": "paws",
+  "maskPixels": 40928,
+  "changedPixels": 40928,
+  "allChangedPixelsExactlyMask": true,
+  "allMaskPixelsBlack": true,
+  "allPixelsOutsideMaskUnchanged": true,
+  "output": "Fox Fall\\info\\assets\\simplified\\fox-fall-final-step-7-black-paws.png",
+  "outputSha256": "9c9b1e607e897d17b899189c474765aaf499ac6758770629dca89a3c973cffde"
+}

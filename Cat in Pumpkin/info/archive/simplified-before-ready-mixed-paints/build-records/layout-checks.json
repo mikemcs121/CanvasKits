@@ -1,0 +1,46 @@
+[
+  {
+    "step": 1,
+    "originalStep": 1,
+    "captionBottom": 365,
+    "safeMinimum": 364,
+    "fontPoints": 11.5,
+    "artPoints": [
+      89.60000000000001,
+      112
+    ]
+  },
+  {
+    "step": 2,
+    "originalStep": 2,
+    "captionBottom": 379,
+    "safeMinimum": 364,
+    "fontPoints": 11.5,
+    "artPoints": [
+      89.60000000000001,
+      112
+    ]
+  },
+  {
+    "step": 3,
+    "originalStep": 3,
+    "captionBottom": 138,
+    "safeMinimum": 55,
+    "fontPoints": 11.5,
+    "artPoints": [
+      89.60000000000001,
+      112
+    ]
+  },
+  {
+    "step": 4,
+    "originalStep": 6,
+    "captionBottom": 60,
+    "safeMinimum": 55,
+    "fontPoints": 11.5,
+    "artPoints": [
+      89.60000000000001,
+      112
+    ]
+  }
+]

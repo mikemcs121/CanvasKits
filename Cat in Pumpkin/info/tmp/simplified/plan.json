@@ -1,0 +1,16 @@
+{
+  "title": "Cat in Pumpkin",
+  "audience": "Children ages 8-14; wording for an 8-year-old",
+  "sourceStepMapping": [1, 2, 3, 6],
+  "paints": ["orange", "gray", "pink", "dark brown", "black", "white"],
+  "placement": {"canvasPixels": [2400, 3000], "sourcePixels": [1254, 1254], "sourceRectangle": [60, 360, 2280, 2280]},
+  "steps": [
+    {"sourceStep": 1, "heading": "Get ready", "paragraphs": ["Cover your table. Follow the lines on your canvas. Leave the background white.", "Use your small brush to paint the eye centers and the cat's mouth black. Leave a small white dot in each eye. Keep the tongue white. Let it dry."], "newPaint": "Black eye centers and cat mouth", "alreadyPainted": "None", "remainWhite": "All other regions"},
+    {"sourceStep": 2, "heading": "Paint the pumpkin", "paragraphs": ["Use your large brush to paint the pumpkin and its top edge orange. Use a thin coat.", "Leave the face holes, the opening behind the cat, and the cat white. Let the paint dry."], "newPaint": "Orange pumpkin shell and rim", "alreadyPainted": "Black eye centers and cat mouth", "remainWhite": "Cat, ears, nose, tongue, eye rims, pumpkin openings, background"},
+    {"sourceStep": 3, "heading": "Paint the cat", "paragraphs": ["Use gray paint for the cat's head, paws and tail.", "Leave the inside of the ears, nose, tongue and white parts of the eyes white. Let the paint dry."], "newPaint": "Gray cat head, paws, tail", "alreadyPainted": "Orange pumpkin; black eye centers and mouth", "remainWhite": "Inner ears, nose, tongue, eye rims, pumpkin openings, background"},
+    {"sourceStep": 6, "heading": "Add the little details", "paragraphs": ["<b>Pink:</b> Paint inside the ears, the nose and tongue.", "Leave the curved eye edges white.", "<b>Dark brown:</b> Fill the pumpkin's face holes and opening behind the cat. Keep teeth orange.", "Let it dry. With your small brush, follow the lines and whiskers in black. Add white eye dots."], "newPaint": "Pink inner ears/nose/tongue; dark brown pumpkin openings; black defining lines and whiskers; white eye dots", "alreadyPainted": "Orange pumpkin; gray cat; black eye centers and mouth", "remainWhite": "Background, curved eye edges and eye highlights"}
+  ],
+  "care": "Use thin coats. Rinse your brush and pat it dry when you change colors.",
+  "cleanup": "Lay your canvas flat to dry. Wash your brushes and close the paint pots.",
+  "sourceNotes": "Retained source stages 1, 2 and 3. Final stage 6 uses the native group mask to restore only the curved eye edges to their white pixels from stage 4; every other source pixel is unchanged. All artwork is placed at its historical registered rectangle, never stretched. Dark teaching linework is inherited from retained source panels; production transfer is the unchanged gray SVG."
+}

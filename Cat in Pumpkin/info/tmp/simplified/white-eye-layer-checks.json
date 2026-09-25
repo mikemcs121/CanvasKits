@@ -1,0 +1,15 @@
+{
+  "nativeGroupName": "gold",
+  "nativeGroupIndex": 5,
+  "regionPixels": 2669,
+  "changedPixels": 2669,
+  "outsideRegionChangedPixels": 0,
+  "whitePixelsSource": "step-4.png",
+  "sourcePreservedHashes": {
+    "step-4.png": "db4998fd0b08ff4103b4e8fe66ac3c032f71fe1213cd0308321f18a5abd409ee",
+    "step-6.png": "6038fa60188bd6c004d5c5272ec7c2d0ee4ecdd019d9ff77314539005d3fa107",
+    "group-mask.bin": "0cafb3c06ef4f5dc2a20cf2386ac8ba2a126ae60e720955738c67fc18bc2993e",
+    "step-plan.json": "211bf96e74e37d3025df9115cd311e42bb17e296e8b483d7e591760b4cbef740"
+  },
+  "derivedHash": "b292dd09948663fea2f763ca6c26d30533ada66968da638ab5a04882f66ffdd2"
+}

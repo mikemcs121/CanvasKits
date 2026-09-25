@@ -1,0 +1,27 @@
+{
+  "revision": "Provided paint colors; no mixing instructions",
+  "palette": [
+    "orange",
+    "gray",
+    "pink",
+    "golden yellow",
+    "dark brown",
+    "black",
+    "white"
+  ],
+  "noMixingOrRecipeLanguage": true,
+  "pageCount": 1,
+  "pagePoints": [
+    612,
+    792
+  ],
+  "visualReview": "Astra inspected final rendered guide: supplied paint list fits, all captions legible, four panels unchanged, no overlap or clipping.",
+  "unchangedSimplifiedReferenceAndOutline": true,
+  "unchangedOriginalProduction": {
+    "Cat in Pumpkin\\cat-in-pumpkin-finished-reference-8x10.pdf": "651c95e4390133ae4ae0c33b1a10d0c3155ddc4b17750cca72b7383ec30b089d",
+    "Cat in Pumpkin\\cat-in-pumpkin-outline-8x10.svg": "0518c2c1978cbc59e0b9e2d636e1731542cfa1979cb379e99fa6a3efe54c481f",
+    "Cat in Pumpkin\\cat-in-pumpkin-painting-guide-8x10.pdf": "be2c8c19c300f214655701c3bae707cdf6cce634080e9d1af6524273d74d727d"
+  },
+  "archivedPreviousGuideHash": "9aa3270063a6cfe9bb3c6440792c82e32bc0acf8f216a2a2d56bdb4eb21e14a7",
+  "guideHash": "eea0cf222d88a0c6fe3ad3ba4e24d5eaabbc1a4980793823eb22b3768f2cccfe"
+}

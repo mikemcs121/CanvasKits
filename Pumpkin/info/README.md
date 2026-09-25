@@ -26,3 +26,17 @@ The current guide uses the Fall View template, with logo and background accents 
 The kit folder is now `Pumpkin`. Current project links, build configuration and SVG title use the corrected spelling. The guide already reads **Autumn Pumpkin** on the page and in its PDF title; both production PDFs are unchanged. Original archives and historical verification records retain their original paths and spelling. Resolve their former kit-folder prefix through the [rename manifest](tmp/name-correction/path-manifest.json).
 
 [Verification](tmp/name-correction/verification.json) ? [PDF page checks](tmp/name-correction/pdf-checks.json) ? [Rendered guide](tmp/name-correction/guide-review.png) ? [Updated files](tmp/name-correction/updated-files.json). Pre-edit copies are preserved in `archive/before-name-correction/`.
+
+## Simplified edition
+
+A separate edition for ages 8-14 is in `../simplified/`. It preserves the approved outline byte-for-byte and keeps the original production set above unchanged. The four child-friendly panels retain original stages 1-4: get ready, paint the pumpkin orange, paint the olive-green stem, and finish the face in black. Mixing, groove shadows, texture and highlights are omitted. The only ready-to-use paint colors are orange, olive green and black.
+
+- [Simplified outline](../simplified/pumpkin-outline-8x10.svg)
+- [Simplified guide](../simplified/pumpkin-painting-guide-8x10.pdf)
+- [Simplified reference](../simplified/pumpkin-finished-reference-8x10.pdf)
+- [Editable plan](tmp/simplified/plan.json)
+- [Builder](tmp/simplified/build.py)
+- [Verification](tmp/simplified/verification.json)
+- [Registration review](tmp/simplified/registration-review.png)
+- [Source-to-output manifest](tmp/simplified/source-to-output-manifest.json)
+- Matching final PDF renders are in [output/simplified/](output/simplified/).

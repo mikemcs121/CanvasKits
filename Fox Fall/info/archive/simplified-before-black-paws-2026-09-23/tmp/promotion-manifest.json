@@ -1,0 +1,29 @@
+{
+  "files": [
+    {
+      "source": "Fox Fall\\fox-fall-outline-8x10.svg",
+      "destination": "Fox Fall\\simplified\\fox-fall-outline-8x10.svg",
+      "sha256": "b00e01e6c48aafe705fb421d7a66a175c8f6921ff480ef3f35287f507d74db85",
+      "bytes": 15911
+    },
+    {
+      "source": "Fox Fall\\info\\tmp\\simplified\\fox-fall-painting-guide-8x10.pdf",
+      "destination": "Fox Fall\\simplified\\fox-fall-painting-guide-8x10.pdf",
+      "sha256": "00269558e3632c3edb594466e6a476fca817a8252d7f3ca3395a781634f5cd2f",
+      "bytes": 4369377
+    },
+    {
+      "source": "Fox Fall\\info\\tmp\\simplified\\fox-fall-finished-reference-8x10.pdf",
+      "destination": "Fox Fall\\simplified\\fox-fall-finished-reference-8x10.pdf",
+      "sha256": "f1792bcc6201045e8a236fb092ccb527963b3f8a9dd18f8133b0f4840013a8be",
+      "bytes": 180204
+    }
+  ],
+  "originalsUnchanged": {
+    "Fox Fall\\fox-fall-outline-8x10.svg": "b00e01e6c48aafe705fb421d7a66a175c8f6921ff480ef3f35287f507d74db85",
+    "Fox Fall\\fox-fall-painting-guide-8x10.pdf": "f0ac4c5c1b2377b1045ac81317d3e8c1b7919c93c9f532f2735bc65c3f141d7c",
+    "Fox Fall\\fox-fall-finished-reference-8x10.pdf": "ae4bf950ef8a02b48014d9d6fc68b773e172158b4f90dddc407ea5c35f4b6607"
+  },
+  "review": "Final PDF renders and the outline-registration contact sheet passed visual review.",
+  "print": "Print artwork at Actual size / 100%; the guide is US Letter."
+}

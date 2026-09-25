@@ -20,3 +20,9 @@ Old instructions in preserved files describe the former layout. Old kit-relative
 ## Current guide template
 
 The current guide uses the Fall View template, with logo and background accents matched to this painting. Shared builder: `assets/tools/guide-template/build.cjs` at the project root. Editable plan, HTML, logo prompt, layout checks and final verification: [tmp/template-refactor/](tmp/template-refactor/). Page-colored logo: [assets/template-refactor/river-and-ridge-logo.png](assets/template-refactor/river-and-ridge-logo.png). Earlier guide PDF/PNG: `archive/before-fall-view-template/`. Current artwork and transfer are unchanged.
+
+## Simplified children's edition
+
+A separate five-step edition for ages 8-14 is in `../simplified/`. It keeps a byte-identical copy of the approved outline and leaves the production files in the kit root unchanged. The flat target omits mixing, fold shading, texture and highlights while preserving the centered composition. Ready-to-use paint colors are ivory, plum purple, orange, olive green, coral pink and black.
+
+Editable plan and builders: [tmp/simplified/](tmp/simplified/). Derived cumulative artwork: [assets/simplified/](assets/simplified/). Final PDF renders: [output/simplified/](output/simplified/). Current verification, original hashes and registration results: [tmp/simplified/verification.json](tmp/simplified/verification.json). Source-to-output paths and promoted hashes: [tmp/simplified/promotion-manifest.json](tmp/simplified/promotion-manifest.json).
