@@ -3,6 +3,7 @@
 <head>
 <meta charset="utf-8">
 <title>Kit Viewer</title>
+<link rel="icon" type="image/svg+xml" href="/icon.svg">
 <style>
   :root {
     --bg: #f4f2ee; --panel: #ffffff; --ink: #24211d; --muted: #6f6a62; --line: #ddd8cf;
@@ -70,6 +71,14 @@
   #lightbox .nav:hover { opacity: 1; }
   #lightbox .prev { left: 4px; } #lightbox .next { right: 4px; }
   #lightbox .close { position: absolute; top: 8px; right: 14px; font-size: 26px; color: #fff; background: none; border: 0; cursor: pointer; }
+  #bar button:disabled { opacity: .6; cursor: progress; }
+  #log { border: 1px solid var(--line); border-radius: 8px; background: var(--panel); color: var(--ink); padding: 0; width: min(900px, 90vw); }
+  #log::backdrop { background: rgba(15,14,13,.5); }
+  #log h2 { font-size: 14px; margin: 0; padding: 12px 16px; border-bottom: 1px solid var(--line); }
+  #log h2.fail { color: #c0392b; }
+  #log pre { margin: 0; padding: 12px 16px; max-height: 60vh; overflow: auto; font: 12px/1.45 Consolas, monospace; white-space: pre-wrap; }
+  #log form { padding: 10px 16px; border-top: 1px solid var(--line); text-align: right; }
+  #log form button { font: inherit; background: var(--accent); color: #fff; border: 0; border-radius: 5px; padding: 5px 16px; cursor: pointer; }
 </style>
 </head>
 <body>
@@ -89,6 +98,7 @@
   <div class="cap"></div>
   <button class="nav next" title="Next (→)">&#8250;</button>
 </div>
+<dialog id="log"><h2></h2><pre></pre><form method="dialog"><button>Close</button></form></dialog>
 <script>
 const $ = s => document.querySelector(s);
 const fileUrl = p => '/files/' + p.split('/').map(encodeURIComponent).join('/');
@@ -113,15 +123,18 @@ function labelFor(p) {
 function buildTabs(k) {
   const t = [];
   if (k.reference) t.push({ label: 'Reference', kind: 'file', path: k.reference });
-  if (k.guide) t.push({ label: 'Guide', kind: 'file', path: k.guide });
+  if (k.guide) t.push({ label: 'Guide', kind: 'file', path: k.guide, guide: k.guide });
   if (k.outline) t.push({ label: 'Outline', kind: 'file', path: k.outline });
-  t.push({ label: `Assets (${k.assets.length})`, kind: 'gallery', files: k.assets, path: k.path + '/assets' });
+  t.push({ label: `Assets (${k.assets.length})`, kind: 'gallery', files: k.assets, path: k.path + '/assets', guide: k.guide });
   const s = k.simplified;
   if (s) {
     const order = { Reference: 0, Guide: 1, Outline: 2 };
     const files = [...s.files].sort((a, b) => (order[labelFor(a)] ?? 9) - (order[labelFor(b)] ?? 9) || a.localeCompare(b));
-    for (const f of files) t.push({ label: 'Simplified ' + labelFor(f), kind: 'file', path: f, simplified: true });
-    for (const d of s.folders) t.push({ label: `Simplified ${d.name} (${d.files.length})`, kind: 'gallery', files: d.files, path: d.path, simplified: true });
+    for (const f of files) t.push({ label: 'Simplified ' + labelFor(f), kind: 'file', path: f, simplified: true, guide: f === s.guide ? f : null });
+    for (const d of s.folders) t.push({ label: `Simplified ${d.name} (${d.files.length})`, kind: 'gallery', files: d.files, path: d.path, simplified: true, guide: d.name.toLowerCase() === 'assets' ? s.guide : null });
+    // Offer an empty assets gallery so a new simplified guide can be extracted from here too.
+    if (s.guide && !s.folders.some(d => d.name.toLowerCase() === 'assets'))
+      t.push({ label: 'Simplified assets (0)', kind: 'gallery', files: [], path: s.path + '/assets', simplified: true, guide: s.guide });
   }
   return t;
 }
@@ -181,6 +194,13 @@ function showTab(t) {
   view.innerHTML = ''; tools.innerHTML = '';
   currentPath = t.path;
   $('#path').textContent = t.path;
+  if (t.guide) {
+    const b = document.createElement('button');
+    b.textContent = 'Extract images';
+    b.title = 'Copy every picture in ' + baseName(t.guide) + ' into the assets folder beside it (lossless; existing files are kept)';
+    b.onclick = () => extractImages(t.guide, b);
+    tools.append(b, ' ');
+  }
   if (t.kind === 'gallery') return showGallery(view, t.files);
   const e = ext(t.path);
   if (e === 'pdf') {
@@ -241,6 +261,19 @@ function showGallery(view, files) {
     grid.appendChild(card);
   });
   view.appendChild(grid);
+}
+
+async function extractImages(guide, button) {
+  button.disabled = true; button.textContent = 'Extracting…';
+  let r;
+  try { r = await (await fetch('/api/extract?path=' + encodeURIComponent(guide), { method: 'POST' })).json(); }
+  catch (e) { r = { ok: false, output: String(e) }; }
+  const h = $('#log h2');
+  h.textContent = r.ok ? 'Guide images extracted' : 'Extraction stopped';
+  h.className = r.ok ? '' : 'fail';
+  $('#log pre').textContent = r.output;
+  await load(true);
+  $('#log').showModal();
 }
 
 let lbFiles = [], lbIndex = 0;

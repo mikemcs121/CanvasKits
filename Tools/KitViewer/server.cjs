@@ -10,7 +10,7 @@
 const fs = require('fs');
 const http = require('http');
 const path = require('path');
-const { spawn } = require('child_process');
+const { spawn, execFile } = require('child_process');
 
 const args = process.argv.slice(2);
 
@@ -24,6 +24,8 @@ if (!args.includes('--serve')) {
 
 const ROOT = findRoot();
 const PAGE = path.join(__dirname, 'viewer.html');
+const ICON = path.join(__dirname, 'icon.svg');
+const EXTRACTOR = path.join(ROOT, 'Tools', 'guide-image-extractor.cjs');
 const TYPES = {
   '.pdf': 'application/pdf', '.svg': 'image/svg+xml', '.png': 'image/png',
   '.jpg': 'image/jpeg', '.jpeg': 'image/jpeg', '.gif': 'image/gif', '.webp': 'image/webp',
@@ -106,6 +108,7 @@ function scanKits() {
         name: simp.name,
         path: rel(sdir),
         files: entries(sdir).filter(s => s.isFile()).map(s => rel(path.join(sdir, s.name))),
+        guide: rel(findOne(sdir, /-painting-guide-.*\.pdf$/i)),
         // info/ holds working files, not kit content.
         folders: entries(sdir).filter(s => s.isDirectory() && s.name.toLowerCase() !== 'info').map(s => ({
           name: s.name, path: rel(path.join(sdir, s.name)), files: listFiles(path.join(sdir, s.name)),
@@ -136,6 +139,15 @@ const server = http.createServer((req, res) => {
   try {
     if (p === '/' || p === '/index.html') {
       send(res, 200, 'text/html; charset=utf-8', fs.readFileSync(PAGE));
+    } else if (p === '/icon.svg' || p === '/favicon.ico') {
+      send(res, 200, 'image/svg+xml', fs.readFileSync(ICON));
+    } else if (p === '/api/extract' && req.method === 'POST') {
+      // Runs the guide image extractor on one guide PDF and returns its console output.
+      const full = resolve(url.searchParams.get('path'));
+      if (!full || !/painting-guide.*\.pdf$/i.test(full) || !fs.existsSync(full)) return send(res, 400, 'text/plain', 'Not a painting-guide PDF in the project.');
+      execFile(process.execPath, [EXTRACTOR, full], { cwd: ROOT, timeout: 5 * 60000, windowsHide: true }, (err, stdout, stderr) => {
+        send(res, 200, 'application/json; charset=utf-8', JSON.stringify({ ok: !err, output: (stdout + stderr).trim() }));
+      });
     } else if (p === '/api/kits') {
       send(res, 200, 'application/json; charset=utf-8', JSON.stringify(scanKits()));
     } else if (p === '/api/ping') {
