@@ -2,9 +2,9 @@
 
 Current production sets after the September 21, 2026 original-art restoration. Each kit root contains exactly the three linked files. Guide PDFs are one US Letter page; reference PDFs and SVG transfers are 8 by 10 inches. Print artwork at Actual size / 100%. All existing production SVG geometry is preserved at 2-point gray.
 
-Four references (Fall Gnome, Christmas Gnome, Fall View and Sunflower) and their guides were restored; Flowers in Vase and Gnome Halloween received guide-only detail cleanup. All outlines, originals and the other four kits remain unchanged. [Restoration review and comparisons](reference-restoration-review.md) · [Completed handoff](RESTORATION-HANDOFF.md).
+Four references (Fall Gnome, Christmas Gnome, Fall View and Sunflower) and their guides were restored; Flowers in Vase and Gnome Halloween received guide-only detail cleanup. All outlines, originals and the other four kits remain unchanged.
 
-All ten guides now follow the Fall View template, with logos and background accents matched to their individual paintings. [Guide update and color details](guide-template-refactor.md).
+All ten guides now follow the Fall View template, with logos and background accents matched to their individual paintings.
 
 | Kit | Transfer SVG | Guide PDF | Color reference PDF | Supporting files |
 | --- | --- | --- | --- | --- |
@@ -31,11 +31,12 @@ Ghost Fall also has a separate simplified edition for ages 8-14 with five child-
 
 During organization, the Christmas Gnome, Fall Gnome, Fall View and Sunflower references/guides were updated to match their existing portrait outlines, and Pumpkin’s clipped guide was repaired. The subsequent template refactor replaced all ten guide layouts. Fox Fall, Ghost Fall, Cat in Pumpkin and Pumpkin keep their existing centered arrangements. Fox Fall and Cat in Pumpkin use children’s #808080 gray; all other kits use #A6A6A6.
 
-- [Six-kit audit](organization-audit-recent.md)
-- [Christmas/Fall Gnome audit](organization-audit-gnomes.md)
-- [Fall View/Sunflower audit](organization-audit-landscape.md)
 - [File preservation and production checks](assets/tools/organization/organization-result.json)
 
-The two Sunflower directories were consolidated into Starry-night Sunflower. Its original square kit is preserved intact in info/archive/original-square-kit/. All other supporting files are under each kit’s info/; old root aliases and notes are in info/archive/previous-root-files/. Every moved file is recorded with its SHA-256 in info/organization-manifest.json. Original paintings and superseded generated editions remain available for reference. Desktop backup and example folders were not modified.
+The two Sunflower directories were consolidated into Starry-night Sunflower. Its original square kit is preserved intact in info/archive/original-square-kit/. All other supporting files are under each kit’s info/. Every moved file is recorded with its SHA-256 in info/organization-manifest.json. Desktop backup and example folders were not modified.
 
-[Current workflow](AGENTS.md) · [Historical decisions and former paths](canvas-kit-history.md).
+**September 25, 2026 cleanup:** each kit's info/ now holds only current inputs, rebuild sources, checks and supplied originals (19,884 files, 3.2 GB removed; 2,259 files, 1.8 GB kept). Superseded editions, rollback copies, old builds and caches are in git history (`git checkout bf75693 -- "<path>"`). [Cleanup summary and verification](assets/tools/cleanup/info-cleanup-2026-09-25.md).
+
+**History:** the earlier project notes (kit history, organization audits, restoration plan, review and handoff, texture review, template and transfer notes) were retired on September 25, 2026. Read any of them from git history (`git show bf75693:"<file>"`), for example `git show bf75693:RESTORATION-HANDOFF.md`.
+
+[Current workflow](AGENTS.md).

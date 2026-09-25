@@ -1,4 +1,0 @@
-[7004:6548:0920/135754.277:ERROR:chrome\installer\util\google_update_settings_win.cc:270] Failed opening key Software\Google\Update\ClientStateMedium\{8A69D345-D564-463c-AFF1-A69D9E530F96} to set usagestats; result: 5
-[7004:232:0920/135755.968:ERROR:services\device\public\cpp\geolocation\system_geolocation_source_win.cc:251] Failed to get location access status: The parameter is incorrect. (0x80070057)
-12169790 bytes written to file C:\Projects\Canvas Kits\Starry-night Sunflower\tmp\organization-repair/starry-night-sunflower-painting-guide-8x10.pdf
-[7004:5516:0920/135756.905:ERROR:chrome\browser\web_applications\externally_managed_app_manager.cc:680] https://docs.google.com/presentation/installwebapp?usp=chrome_default from install source 1 failed to install with reason 21

@@ -42,7 +42,7 @@ The selected kit's `simplified/` folder contains exactly these three files, usin
 
 Keep the root production set unchanged. Use `info/assets/simplified/` for derived artwork, `info/tmp/simplified/` for plans, builders and checks, and `info/output/simplified/` for PNGs rendered from the final PDFs. Do not place extra files in `simplified/`.
 
-Before replacing an existing simplified edition, preserve the affected PDFs, renders, editable files and verification records in a descriptively named folder under `info/archive/`. Record hashes and source-to-output paths. Rebuild only affected deliverables; a wording-only edit does not require replacing the reference.
+Before replacing an existing simplified edition, make sure the current edition is committed to git; earlier editions are recovered from git history rather than copied into `info/archive/`. Record hashes and source-to-output paths. Rebuild only affected deliverables; a wording-only edit does not require replacing the reference.
 
 ## Verify and finish
 

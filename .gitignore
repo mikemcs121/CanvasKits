@@ -1,1 +1,5 @@
 .hivemind/
+
+# Headless-browser profiles and caches written by guide builds
+**/browser-cache/
+**/chrome-profile-*/

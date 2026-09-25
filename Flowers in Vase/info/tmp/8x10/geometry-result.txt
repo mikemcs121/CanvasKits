@@ -1,4 +1,0 @@
-Locked dimensions: 1254 x 1254
-Middle-stage line pixel differences: 0
-Close-ups: step 9 [595,390,425,365]; step 10 [0,570,790,680]; step 11 [935,655,315,420].
-Step 12 uses the exact finished reference mapped to a flat canvas.

@@ -1,4 +1,0 @@
-[13396:13796:0920/135748.028:ERROR:chrome\installer\util\google_update_settings_win.cc:270] Failed opening key Software\Google\Update\ClientStateMedium\{8A69D345-D564-463c-AFF1-A69D9E530F96} to set usagestats; result: 5
-[13396:496:0920/135749.727:ERROR:services\device\public\cpp\geolocation\system_geolocation_source_win.cc:251] Failed to get location access status: The parameter is incorrect. (0x80070057)
-10334592 bytes written to file C:\Projects\Canvas Kits\fall view\tmp\organization-repair/fall-view-painting-guide-8x10.pdf
-[13396:14612:0920/135750.668:ERROR:chrome\browser\web_applications\externally_managed_app_manager.cc:680] https://www.youtube.com/s/notifications/manifest/cr_install.html from install source 1 failed to install with reason 21

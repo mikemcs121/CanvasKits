@@ -11,7 +11,8 @@ const failures = [];
 for (const f of protectedFiles) if (hash(f.path) !== f.sha256) failures.push('Protected: ' + f.path);
 for (const f of completion.files) {
   if (hash(f.target) !== f.newSha256) failures.push('Promoted: ' + f.target);
-  if (f.archivedAt && hash(f.archivedAt) !== f.oldSha256) failures.push('Archive: ' + f.archivedAt);
+  // Rollback copies were removed in the September 25 info/ cleanup; they remain in git history at bf75693.
+  if (f.archivedAt && fs.existsSync(abs(f.archivedAt)) && hash(f.archivedAt) !== f.oldSha256) failures.push('Archive: ' + f.archivedAt);
 }
 for (const k of shared) {
   const files = fs.readdirSync(abs(k.folder)).filter(n => fs.statSync(abs(k.folder + '/' + n)).isFile());

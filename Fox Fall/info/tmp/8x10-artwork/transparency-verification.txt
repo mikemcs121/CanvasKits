@@ -1,2 +1,0 @@
-2400 x 3000, 300 DPI; black RGB only; 6562070 transparent pixels; white-composite maximum difference 0/255
-All four PNGs were visually inspected on a checkerboard. Their PDF renders retain black linework and exact 576 x 720-point pages. Original source hashes are checked separately by verify-kits.cjs.

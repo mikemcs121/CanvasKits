@@ -1,3 +1,5 @@
+// Historical: audited the September 20 organization. Later work (Tools/, simplified/, root assets/) and the
+// September 25 info/ cleanup mean it no longer passes; use assets/tools/reference-restoration/verify-completed.cjs.
 const fs=require('fs'),path=require('path'),crypto=require('crypto');
 const root=path.resolve(__dirname,'../../..');
 const read=p=>fs.readFileSync(path.join(root,p));

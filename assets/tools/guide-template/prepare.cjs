@@ -1,3 +1,5 @@
+// Historical: generated the original kits.json. Its inputs were removed in the September 25 info/ cleanup
+// (recover from git at bf75693), and rerunning it would overwrite the current restored kits.json.
 const fs=require('fs'),path=require('path'),crypto=require('crypto');
 const root=path.resolve(__dirname,'../../..'),read=p=>fs.readFileSync(path.join(root,p),'utf8').replace(/^\uFEFF/,'');
 const kitList=JSON.parse(read('assets/tools/organization/selections.json'));
