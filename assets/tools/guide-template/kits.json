@@ -164,7 +164,7 @@
       "ribbon": "#eadfea"
     },
     "reference": "Gnome Halloween/info/output/pdf/8x10/gnome-halloween-finished-reference-8x10.png",
-    "title": "Gnome Halloween",
+    "title": "Halloween Gnome",
     "paints": [
       "white",
       "black",
@@ -893,7 +893,7 @@
       "ribbon": "#e3f0e9"
     },
     "reference": "Gnome Fall/info/assets/reference-restoration/restored-master.png",
-    "title": "Gnome Fall",
+    "title": "Fall Gnome",
     "paints": [
       "white",
       "black",
@@ -915,7 +915,7 @@
       },
       {
         "heading": "Brush in the teal sky",
-        "caption": "Mix teal with a little white. Paint around the printed shapes with short strokes.",
+        "caption": "Mix teal with a little white. Paint with short strokes. Add yellow wind highlights.",
         "image": "Gnome Fall/info/assets/reference-restoration/guide-step-02.png",
         "detail": false,
         "cue": false,
