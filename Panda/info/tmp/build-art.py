@@ -3,7 +3,8 @@
 Run from the project root after build-outline.py:
     python "Panda/info/tmp/build-art.py" <workDir>
 Reads <workDir>/labels.png and <workDir>/outline.png (the SVG rendered at 2400 x 3000).
-Writes <workDir>/panda-finished-reference-8x10.png (2400 x 3000, 300 DPI) and <workDir>/steps/step-N.png.
+Writes <workDir>/panda-finished-reference-8x10.png (2400 x 3000, 300 DPI) and <workDir>/steps/step-1..3.png
+(step 4 of the kids guide is the drying scene, which shows the reference).
 Promote the reference to info/output/pdf/8x10/ and the steps to info/tmp/steps/.
 """
 import json, math, os, random, sys
@@ -18,19 +19,17 @@ WORK = os.path.abspath(sys.argv[1])
 lab = np.asarray(Image.open(os.path.join(WORK, 'labels.png')))
 R = REGIONS
 
-# Paint colours. Every one is a listed paint (white, black, yellow, green) or a mix stated in the guide.
+# Ready-to-use paint colours for the 4-step kids guide (no mixing): yellow-green, white, black,
+# light green, dark green. bg_light/bg_dark only vary the brushed texture of the yellow-green coat.
 C = {
     'canvas': (255, 255, 255),
     'white': (244, 243, 237),
     'black': (35, 37, 38),
-    'bg': (203, 206, 86),          # yellow + a little green
+    'bg': (203, 206, 86),          # yellow-green
     'bg_light': (224, 228, 124),
     'bg_dark': (181, 188, 64),
-    'stalk': (122, 160, 79),       # green + a little yellow
-    'leaf': (76, 124, 68),         # green
-    'shade': (52, 86, 46),         # green + a tiny dot of black
-    'light': (176, 205, 136),      # green + yellow + white
-    'gray': (200, 204, 206),       # white + a tiny dot of black
+    'stalk': (122, 160, 79),       # light green
+    'leaf': (76, 124, 68),         # dark green (leaves and bamboo rings)
 }
 GROUPS = {
     'bg': ['bg'], 'face': ['face'], 'black1': ['earL', 'earR', 'body'], 'black2': ['patchL', 'patchR', 'nose'],
@@ -123,21 +122,6 @@ def line_layer(lines, color, width, alpha=255, clip=None, taper=False, soft=1.0,
     return layer
 
 
-def band_strokes(band_lines, band_width, clip, n, colors, width, length, angle, alpha, seed, feather=10):
-    """Bristle strokes kept inside a feathered band along the given lines (painted shading/highlight)."""
-    band = line_layer(band_lines, (255, 255, 255), band_width, 255, None, soft=feather).split()[3]
-    xs = [T(p)[0] for ln in band_lines for p in ln]; ys = [T(p)[1] for ln in band_lines for p in ln]
-    area = (min(xs), min(ys), max(xs), max(ys))
-    tex = strokes((W, H), n, colors, width, length, angle, alpha, seed, area, curve=0.04).filter(ImageFilter.GaussianBlur(1.2))
-    a_ = np.asarray(tex).copy()
-    a_[..., 3] = (a_[..., 3].astype(int) * np.asarray(band).astype(int) // 255 * np.asarray(clip).astype(int) // 255).astype('uint8')
-    return Image.fromarray(a_)
-
-
-def offset_line(pts, dy):
-    return [(x, y + dy) for x, y in pts]
-
-
 # ---------- base coats ----------
 size = (W, H)
 base = Image.new('RGB', size, C['canvas'])
@@ -163,42 +147,19 @@ base = Image.fromarray(np.clip(arr, 0, 255).astype('uint8'))
 
 # ---------- detail layers ----------
 stalk_clip = mask(['stalk', 'twig'], 1.5)
-leaf_clip = mask(GROUPS['leaves'], 1.5)
-STALK_TOP = SHAPES['stalk'][1]
-STALK_BOTTOM = SHAPES['stalk'][3][::-1]
-stalk_along = lambda r: stalk_dir + r.uniform(-0.05, 0.05)
-segs = [(171, 205), (210, 258), (263, 320), (325, 393), (398, 422)]
-shade = [
-    band_strokes([offset_line(STALK_BOTTOM[1:], -7)], 70, stalk_clip, 260, [C['shade'], (62, 98, 52)], (24, 50), (140, 360), stalk_along, (0.45, 0.8), 11),
-    band_strokes([[(316, 392), (331, 366), (347, 338)]], 18, stalk_clip, 60, [C['shade']], (10, 20), (60, 140), lambda r: math.radians(-58), (0.4, 0.7), 12, feather=3),
-    line_layer(JOINTS, C['shade'], 20, 255, stalk_clip),
-    line_layer([[(x + 3.2, y) for x, y in j] for j in JOINTS], (150, 186, 108), 7, 200, stalk_clip),
-    line_layer([[(342, 333), (362, 326), (380, 314), (396, 296), (404, 270)],  # shady side of each leaf
-                [(331, 370), (352, 362), (380, 351), (420, 341)],
-                [(274, 469), (312, 479), (352, 482), (386, 476)]], C['shade'], 34, 140, leaf_clip, soft=8),
-]
-MIDRIBS = [[(350, 333), (370, 290), (388, 250), (402, 218)], [(333, 369), (360, 353), (390, 340), (420, 332)],
-           [(274, 467), (310, 460), (350, 464), (387, 476)], [(325, 491), (331, 508), (336, 527)],
-           [(40, 526), (62, 512), (91, 504)]]
-light = [
-    line_layer(MIDRIBS, C['light'], 13, 240, leaf_clip, taper=True),
-    line_layer([[(356, 318), (366, 285), (381, 252), (396, 226)], [(345, 352), (375, 340), (405, 333)],
-                [(300, 452), (330, 449), (357, 455)]], (226, 236, 210), 6, 220, leaf_clip, taper=True),
-]
-for i, (a, b) in enumerate(segs):
-    pts = [p for p in catmull(STALK_TOP) if a + 5 <= p[0] <= b - 5]
-    light.append(band_strokes([offset_line(pts, 11)], 46, stalk_clip, 90, [C['light'], (196, 220, 156)], (16, 36), (90, 260), stalk_along, (0.45, 0.85), 20 + i, feather=8))
-    light.append(line_layer([offset_line(pts[2:-2], 9)], (228, 238, 214), 6, 190, stalk_clip, taper=True))
-body_clip = mask(['body'], 1.0)
+# Step 4 finishing touches, all in ready-to-use colours: dark green rings, black smile lines,
+# white shine on the ears and nose, white eye dots. (No shading, highlights or mixed colours.)
 ear_clip = mask(['earL', 'earR'], 1.0)
-shine = [line_layer(EAR_SHINE, C['gray'], 30, 245, ear_clip, taper=True),
-         line_layer([ARM_LINE[1:-1]], C['gray'], 20, 235, body_clip, taper=True)]
-face_detail = [line_layer(FACE_LINES, C['black'], 14, 255, mask(['face', 'patchL', 'patchR', 'nose'], 0.5)),
-               line_layer([NOSE_SHINE], C['gray'], 20, 245, mask(['nose'], 1.0), taper=True)]
+finish = [
+    line_layer(JOINTS, C['leaf'], 20, 255, stalk_clip),
+    line_layer(FACE_LINES, C['black'], 14, 255, mask(['face', 'patchL', 'patchR', 'nose'], 0.5)),
+    line_layer(EAR_SHINE, C['white'], 30, 250, ear_clip, taper=True),
+    line_layer([NOSE_SHINE], C['white'], 20, 250, mask(['nose'], 1.0), taper=True),
+]
 dots_white = Image.new('RGBA', size, (0, 0, 0, 0))
 dots_white.paste(Image.new('RGBA', size, C['white'] + (255,)), (0, 0), mask(GROUPS['dots'], 1.0))
-face_detail.append(dots_white)
-DETAILS = {8: shade, 9: light, 10: shine, 11: face_detail}
+finish.append(dots_white)
+DETAILS = {4: finish}
 
 
 def compose(painted, upto, lines=True):
@@ -216,18 +177,15 @@ def compose(painted, upto, lines=True):
 
 outline = Image.open(os.path.join(WORK, 'outline.png')).convert('RGBA')
 
-reference = compose(list(GROUPS), 11, lines=False)
+reference = compose(list(GROUPS), 4, lines=False)
 reference.save(os.path.join(WORK, 'panda-finished-reference-8x10.png'), dpi=(300, 300))
 
 # ---------- guide step pictures ----------
+# Step 4 is the drying scene, which shows the reference itself.
 STAGES = [
-    (1, [], None), (2, ['bg'], None), (3, ['bg', 'face'], None), (4, ['bg', 'face', 'black1'], None),
-    (5, ['bg', 'face', 'black1', 'black2'], None), (6, ['bg', 'face', 'black1', 'black2', 'stalk'], None),
-    (7, ['bg', 'face', 'black1', 'black2', 'stalk', 'leaves'], None),
-    (8, ['bg', 'face', 'black1', 'black2', 'stalk', 'leaves'], (1080, 1880, 2400, 3000)),
-    (9, ['bg', 'face', 'black1', 'black2', 'stalk', 'leaves'], (1460, 1480, 2400, 2280)),
-    (10, ['bg', 'face', 'black1', 'black2', 'stalk', 'leaves'], (0, 650, 1300, 1750)),
-    (11, ['bg', 'face', 'black1', 'black2', 'stalk', 'leaves'], (720, 1220, 1920, 2260)),
+    (1, ['bg'], None),
+    (2, ['bg', 'face', 'black1', 'black2'], None),
+    (3, ['bg', 'face', 'black1', 'black2', 'stalk', 'leaves'], None),
 ]
 sdir = os.path.join(WORK, 'steps')
 os.makedirs(sdir, exist_ok=True)

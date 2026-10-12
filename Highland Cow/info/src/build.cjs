@@ -1,5 +1,5 @@
 const fs=require('fs'),path=require('path'),cp=require('child_process');
-const root=path.resolve(__dirname,'../../..'),kit=path.join(root,'Highland Cow'),a=path.join(kit,'info/assets'),scratch=path.join(root,'tmp/highland-cow');
+const root=path.resolve(__dirname,'../../..'),kit=path.join(root,'Highland Cow'),a=path.join(kit,'info/assets'),scratch=path.join(root,'tmp/highland-cow-four-steps');
 const Jimp=require(path.join(root,'assets/tools/vector-tools/node_modules/jimp')),potrace=require(path.join(root,'assets/tools/vector-tools/node_modules/potrace')),{Resvg}=require(path.join(root,'assets/tools/vector-tools/node_modules/@resvg/resvg-js')),{PNG}=require(path.join(root,'assets/tools/pdf-render/node_modules/pngjs'));
 const colors={mint:'#BFECD2',tan:'#D79648',brown:'#82542F',cream:'#FFF0D3',pink:'#F6AAA9',black:'#151515',white:'#FFFFFF'};
 const trace=im=>new Promise((resolve,reject)=>potrace.trace(im,{threshold:128,turdSize:70,optTolerance:.5,alphaMax:1,color:'black'},(e,s)=>e?reject(e):resolve([...s.matchAll(/<path[^>]*d="([^"]+)"/g)].map(m=>m[1]).join(' '))));
@@ -16,7 +16,8 @@ fs.writeFileSync(path.join(scratch,'highland-cow-outline-8x10.svg'),head+group+o
 png(head+'<rect width="576" height="720" fill="white"/>'+group+outlines+'</g></svg>',path.join(scratch,'outline-preview.png'));
 const unlocked={cream:4,pink:5,brown:6,black:7,white:7};
 for(let s=1;s<=7;s++){let art=head+`<rect width="576" height="720" fill="${s>=2?colors.mint:'white'}"/>`+group+shape('silhouette',s>=3?colors.tan:'white');for(const n of ['brown','cream','pink','black','white'])art+=shape(n,s>=unlocked[n]?colors[n]:'white');if(s<7)art+=outlines;art+='</g></svg>';png(art,path.join(a,`stage-0${s}.png`));if(s===7){png(art,path.join(a,'reference-master.png'));fs.writeFileSync(path.join(a,'reference-master.svg'),art);}}
-const logo=await Jimp.read(path.join(root,'assets/images/river-and-ridge-logo.png'));logo.scan(0,0,logo.bitmap.width,logo.bitmap.height,function(x,y,i){const r=this.bitmap.data[i],g=this.bitmap.data[i+1],b=this.bitmap.data[i+2],l=(r+g+b)/3;const t=Math.max(0,Math.min(1,(l-30)/220));let rgb=[72+183*t,53+189*t,37+181*t].map(Math.round);this.bitmap.data[i]=rgb[0];this.bitmap.data[i+1]=rgb[1];this.bitmap.data[i+2]=rgb[2];});await logo.writeAsync(path.join(a,'page-logo.png'));
+// Preserve the selected cow-themed logo; do not replace it during artwork rebuilds.
+if(!fs.existsSync(path.join(a,'page-logo.png')))throw Error('Missing approved cow-themed logo');
 run('assets/tools/reference-pdf/png-to-pdf.cjs',[path.join(a,'reference-master.png'),path.join(scratch,'highland-cow-finished-reference-8x10.pdf')]);
 run('assets/tools/guide-template/build.cjs',['highland-cow']);
 for(const [kind,size] of [['painting-guide','612x792'],['finished-reference','576x720']])run('assets/tools/pdf-render/render-pdf.cjs',[path.join(scratch,`highland-cow-${kind}-8x10.pdf`),path.join(scratch,kind+'.png'),'--expect-pages','1','--expect-points',size,'--checks',path.join(scratch,kind+'-checks.json')]);

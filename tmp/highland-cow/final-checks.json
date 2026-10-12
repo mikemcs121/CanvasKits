@@ -1,0 +1,12 @@
+{
+  "transparentPixels": 693659,
+  "opaqueGrayPixels": 21019,
+  "productionHashes": {
+    "highland-cow-finished-reference-8x10.pdf": "1fd8648054746c4935e523eea285380b71c9c850037a9d458afbabb9ca515519",
+    "highland-cow-outline-8x10.svg": "d1c93c281b7c99aaad7a280383bed0b2c9f15846032175d8e3c835cfff34ba78",
+    "highland-cow-painting-guide-8x10.pdf": "cb59271cfd6408e1065c460125557a469183dff441ba544bb3a42444bcb005d0"
+  },
+  "svgNoRaster": true,
+  "svgNoBackground": true,
+  "visualReview": "Outline, guide, reference, face detail, stage progression reviewed"
+}
