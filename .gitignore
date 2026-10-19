@@ -3,3 +3,6 @@
 # Headless-browser profiles and caches written by guide builds
 **/browser-cache/
 **/chrome-profile-*/
+
+# Rollback bundles are too large for GitHub (100 MB limit); kept locally only
+tmp/**/*.bundle
