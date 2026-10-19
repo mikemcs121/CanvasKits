@@ -1,0 +1,10 @@
+[
+  {"number":1,"name":"Cream","hex":"#FFF0CF","use":"Upper sky"},
+  {"number":2,"name":"Peach","hex":"#F5BB7D","use":"Middle sunset"},
+  {"number":3,"name":"Orange","hex":"#F87818","use":"Lower sunset and entire emblem border"},
+  {"number":4,"name":"Light blue","hex":"#508AB6","use":"Highest, farthest mountain band"},
+  {"number":5,"name":"Medium blue","hex":"#285E8C","use":"Middle mountain band"},
+  {"number":6,"name":"Dark blue","hex":"#083A65","use":"Lowest, nearest mountain band"},
+  {"number":7,"name":"Maroon","hex":"#6A1026","use":"Emblem and small inner marks"},
+  {"number":8,"name":"White","hex":"#FFFFFF","use":"HokieBird details"}
+]

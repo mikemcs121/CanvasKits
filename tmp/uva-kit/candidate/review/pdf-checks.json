@@ -1,0 +1,26 @@
+[
+  {
+    "pdf": "C:\\Projects\\CanvasKits\\tmp\\uva-kit\\candidate\\uva-painting-guide-10x8.pdf",
+    "image": "C:\\Projects\\CanvasKits\\tmp\\uva-kit\\candidate\\review\\painting-guide.png",
+    "page": 1,
+    "pages": 1,
+    "widthPoints": 612,
+    "heightPoints": 792,
+    "pixelWidth": 2550,
+    "pixelHeight": 3300,
+    "dpi": 300,
+    "renderedAt": "2026-10-19T15:15:14.257Z"
+  },
+  {
+    "pdf": "C:\\Projects\\CanvasKits\\tmp\\uva-kit\\candidate\\uva-finished-reference-10x8.pdf",
+    "image": "C:\\Projects\\CanvasKits\\tmp\\uva-kit\\candidate\\review\\finished-reference.png",
+    "page": 1,
+    "pages": 1,
+    "widthPoints": 720,
+    "heightPoints": 576,
+    "pixelWidth": 3000,
+    "pixelHeight": 2400,
+    "dpi": 300,
+    "renderedAt": "2026-10-19T15:15:15.495Z"
+  }
+]

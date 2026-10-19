@@ -40,3 +40,17 @@ The two Sunflower directories were consolidated into Starry-night Sunflower; its
 **History:** the earlier project notes (kit history, organization audits, restoration plan, review and handoff, texture review, template and transfer notes) were retired on September 25, 2026. Read any of them from git history (`git show bf75693:"<file>"`), for example `git show bf75693:RESTORATION-HANDOFF.md`.
 
 [Current workflow](AGENTS.md).
+
+## Separate color tests
+
+October 19, 2026: [VT Hokie eight-color test](tests/vt-hokie-ready-colors/README.md) supplies cream, peach, orange, three blues, maroon and white as ready-to-use paints, with a plain color list and no mixing recipes. The guide and reference are separate test files; the approved horizontal VT Hokie production set is unchanged.
+
+## Hokie Sunset - approved October 19 edition
+
+[VT Hokie outline](<VT Hokie/vt-hokie-outline-10x8.svg>) | [Guide](<VT Hokie/vt-hokie-painting-guide-10x8.pdf>) | [Reference](<VT Hokie/vt-hokie-finished-reference-10x8.pdf>) | [Sources and rebuild](<VT Hokie/info/README.md>). This is a 10 x 8 horizontal kit. The approved eight-color version uses the shorter HokieBird directions, plain color list, and subject-specific logo. The original SVG is unchanged. The separate test is retained for experimentation and is no longer the production target.
+
+## UVA Sunset - October 19, 2026
+
+[Outline](<UVA/uva-outline-10x8.svg>) | [Guide](<UVA/uva-painting-guide-10x8.pdf>) | [Reference](<UVA/uva-finished-reference-10x8.pdf>) | [Sources and rebuild](<UVA/info/README.md>). Matching 10 x 8 horizontal companion to VT Hokie, using the supplied Desktop UVA.jpg emblem: white/gray V and orange sabres over the VT sunset and blue mountain concept. Nine ready-to-use paints, eight illustrated steps, no mixing recipes or numbered swatches. Digital page, vector, stage and registration checks passed; no physical press test claimed.
+
+UVA correction, October 19: the small far-mountain patch between the crossed sabres is slightly taller; all production files and guide images follow the new local ridge contour.

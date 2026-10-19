@@ -1261,5 +1261,230 @@
     "unchanged": {
       "Starry-night Sunflower/starry-night-sunflower-outline-8x10.svg": "59c71e68a18b715a00662d03a800a353badd3472a6e2bff5fd9099e8d87d4299"
     }
+  },
+  {
+    "folder": "VT Hokie",
+    "slug": "vt-hokie",
+    "title": "Hokie Sunset",
+    "palette": {
+      "ink": "#592232",
+      "accent": "#F87818",
+      "wash": "#FBE9D2"
+    },
+    "reference": "VT Hokie/info/assets/reference-master.png",
+    "logo": "VT Hokie/info/assets/page-logo.png",
+    "work": "tmp/vt-hokie-approved",
+    "builder": "VT Hokie/info/src/build.cjs",
+    "canvasLabel": "10 x 8 horizontal",
+    "filenameSize": "10x8",
+    "paints": [
+      "cream",
+      "peach",
+      "orange",
+      "light blue",
+      "medium blue",
+      "dark blue",
+      "maroon",
+      "white"
+    ],
+    "suppliedPaints": [
+      {
+        "number": 1,
+        "name": "Cream",
+        "hex": "#FFF0CF",
+        "use": "Upper sky"
+      },
+      {
+        "number": 2,
+        "name": "Peach",
+        "hex": "#F5BB7D",
+        "use": "Middle sunset"
+      },
+      {
+        "number": 3,
+        "name": "Orange",
+        "hex": "#F87818",
+        "use": "Lower sunset and entire emblem border"
+      },
+      {
+        "number": 4,
+        "name": "Light blue",
+        "hex": "#508AB6",
+        "use": "Highest, farthest mountain band"
+      },
+      {
+        "number": 5,
+        "name": "Medium blue",
+        "hex": "#285E8C",
+        "use": "Middle mountain band"
+      },
+      {
+        "number": 6,
+        "name": "Dark blue",
+        "hex": "#083A65",
+        "use": "Lowest, nearest mountain band"
+      },
+      {
+        "number": 7,
+        "name": "Maroon",
+        "hex": "#6A1026",
+        "use": "Emblem and small inner marks"
+      },
+      {
+        "number": 8,
+        "name": "White",
+        "hex": "#FFFFFF",
+        "use": "HokieBird details"
+      }
+    ],
+    "steps": [
+      {
+        "heading": "Paint the cream sky",
+        "caption": "Start with the preprinted canvas. Use cream around the emblem, above the mountains. Keep the emblem and mountain bands white. Brush thin coats. Rinse and blot between colors.",
+        "image": "VT Hokie/info/assets/stage-01.png"
+      },
+      {
+        "heading": "Add the ready sunset",
+        "caption": "Use peach across the middle sky and orange just above the mountains. Feather the touching edges with light sideways strokes. Let dry.",
+        "image": "VT Hokie/info/assets/stage-02.png"
+      },
+      {
+        "heading": "Paint the far ridge",
+        "caption": "Use light blue for the highest mountain band. Fill to the next line. Keep the lower bands and emblem white. Let dry.",
+        "image": "VT Hokie/info/assets/stage-03.png"
+      },
+      {
+        "heading": "Add the middle ridge",
+        "caption": "Fill the middle mountain band with medium blue. Follow the curves with sideways strokes. Keep the nearest mountain and emblem white. Let dry before painting beside it.",
+        "image": "VT Hokie/info/assets/stage-04.png"
+      },
+      {
+        "heading": "Fill the nearest ridge",
+        "caption": "Use dark blue in the lowest mountain band, right to the bottom edge. Keep its upper edge clear. Let dry.",
+        "image": "VT Hokie/info/assets/stage-05.png"
+      },
+      {
+        "heading": "Paint the maroon",
+        "caption": "Use maroon in the emblem and its small inner marks. Leave the HokieBird details and narrow border white. Use two thin coats, drying between them. Turn the canvas for control.",
+        "image": "VT Hokie/info/assets/stage-06.png"
+      },
+      {
+        "heading": "Frame and finish",
+        "caption": "Paint the narrow border with orange. Let dry. Fill the HokieBird details with white.",
+        "image": "VT Hokie/info/assets/stage-07.png"
+      },
+      {
+        "heading": "Dry and clean up",
+        "caption": "Lay the finished canvas flat until fully dry. Wash and reshape both brushes, wipe your palette and close the paints.",
+        "dry": true
+      }
+    ]
+  },
+  {
+    "folder": "UVA",
+    "slug": "uva",
+    "title": "UVA Sunset",
+    "palette": {
+      "ink": "#242949",
+      "accent": "#F87818",
+      "wash": "#FBE9D2"
+    },
+    "reference": "UVA/info/assets/reference-master.png",
+    "logo": "UVA/info/assets/page-logo.png",
+    "work": "tmp/uva-kit/candidate",
+    "builder": "UVA/info/src/build.cjs",
+    "canvasLabel": "10 x 8 horizontal",
+    "filenameSize": "10x8",
+    "paints": [
+      "cream",
+      "peach",
+      "orange",
+      "light blue",
+      "medium blue",
+      "dark blue",
+      "reddish-orange",
+      "light gray",
+      "white"
+    ],
+    "suppliedPaints": [
+      {
+        "name": "Cream",
+        "hex": "#FFF0CF"
+      },
+      {
+        "name": "Peach",
+        "hex": "#F5BB7D"
+      },
+      {
+        "name": "Orange",
+        "hex": "#F87818"
+      },
+      {
+        "name": "Light blue",
+        "hex": "#508AB6"
+      },
+      {
+        "name": "Medium blue",
+        "hex": "#285E8C"
+      },
+      {
+        "name": "Dark blue",
+        "hex": "#083A65"
+      },
+      {
+        "name": "Reddish-orange",
+        "hex": "#E8471B"
+      },
+      {
+        "name": "Light gray",
+        "hex": "#BEC4C0"
+      },
+      {
+        "name": "White",
+        "hex": "#FFFFFF"
+      }
+    ],
+    "steps": [
+      {
+        "heading": "Paint the cream sky",
+        "caption": "Start with the preprinted canvas. Brush thin cream coats around the emblem, above the mountains. Keep the V, sabres and mountain bands white. Rinse and blot between colors.",
+        "image": "UVA/info/assets/stage-01.png"
+      },
+      {
+        "heading": "Add the sunset",
+        "caption": "Use peach across the middle sky and orange just above the mountains. Feather the touching edges with light sideways strokes. Let dry.",
+        "image": "UVA/info/assets/stage-02.png"
+      },
+      {
+        "heading": "Paint the far ridge",
+        "caption": "Use light blue for the highest mountain band. Fill to the next line. Keep the lower bands and emblem white. Let dry.",
+        "image": "UVA/info/assets/stage-03.png"
+      },
+      {
+        "heading": "Add the middle ridge",
+        "caption": "Fill the middle mountain band with medium blue. Follow the curves with sideways strokes. Keep the nearest mountain and emblem white. Let dry before painting beside it.",
+        "image": "UVA/info/assets/stage-04.png"
+      },
+      {
+        "heading": "Fill the nearest ridge",
+        "caption": "Use dark blue in the lowest mountain band, right to the bottom edge. Keep its upper edge clear. Let dry.",
+        "image": "UVA/info/assets/stage-05.png"
+      },
+      {
+        "heading": "Paint the orange",
+        "caption": "Fill the V border and crossed sabres with orange. Use reddish-orange on their darker edges. Keep the V faces white. Use thin coats and let them dry.",
+        "image": "UVA/info/assets/stage-06.png"
+      },
+      {
+        "heading": "Add gray and white",
+        "caption": "Use light gray on the shaded V faces and white on its bright faces. Keep the orange border clear. Use the small brush for the narrow shapes. Let dry.",
+        "image": "UVA/info/assets/stage-07.png"
+      },
+      {
+        "heading": "Dry and clean up",
+        "caption": "Lay the finished canvas flat until fully dry. Wash and reshape both brushes, wipe your palette and close the paints.",
+        "dry": true
+      }
+    ]
   }
 ]

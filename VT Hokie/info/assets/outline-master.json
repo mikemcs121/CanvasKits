@@ -1,0 +1,11 @@
+{
+  "schema": 1,
+  "authority": "production SVG outline",
+  "masterFile": "VT Hokie/vt-hokie-outline-10x8.svg",
+  "masterSvgSha256": "5fe65c65e5763f3535a78e4e6509024ce54d4b0b92cbba39b4354b9dfbe424b0",
+  "selectedPaintingFile": "VT Hokie/info/assets/border-continuation-source.png",
+  "selectedPaintingSha256": "22fcb88ca788707b5ddd254cd2a3cee9f8d5da5f229b4c2435ff80b3facdb108",
+  "derivativeGeometryFile": "VT Hokie/info/assets/geometry.json",
+  "derivativeGeometrySha256": "41743787e57f4a7d08ab7a1a5adea07e919a9439779ea2b639476566ae53dea7",
+  "policy": "Normal builds read the saved SVG and never regenerate it. Independent changes to the selected painting or derivative masks stop the build before outputs are written. Geometry proposals stay in scratch until the complete kit has been reviewed."
+}
