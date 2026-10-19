@@ -164,7 +164,7 @@
       "ribbon": "#eadfea"
     },
     "reference": "Gnome Halloween/info/output/pdf/8x10/gnome-halloween-finished-reference-8x10.png",
-    "title": "Gnome Halloween",
+    "title": "Halloween Gnome",
     "paints": [
       "white",
       "black",
@@ -893,7 +893,7 @@
       "ribbon": "#e3f0e9"
     },
     "reference": "Gnome Fall/info/assets/reference-restoration/restored-master.png",
-    "title": "Gnome Fall",
+    "title": "Fall Gnome",
     "paints": [
       "white",
       "black",
@@ -915,7 +915,7 @@
       },
       {
         "heading": "Brush in the teal sky",
-        "caption": "Mix teal with a little white. Paint around the printed shapes with short strokes.",
+        "caption": "Mix teal with a little white. Paint with short strokes. Add yellow wind highlights.",
         "image": "Gnome Fall/info/assets/reference-restoration/guide-step-02.png",
         "detail": false,
         "cue": false,
@@ -1486,5 +1486,99 @@
         "dry": true
       }
     ]
+  },
+  {
+    "folder": "Highland Cow",
+    "slug": "highland-cow",
+    "title": "Highland Cow",
+    "palette": {
+      "ink": "#483525",
+      "accent": "#839D83",
+      "wash": "#EEF5E9",
+      "second": "#D79648",
+      "ribbon": "#FFF0D3"
+    },
+    "reference": "Highland Cow/info/assets/reference-master.png",
+    "logo": "Highland Cow/info/assets/page-logo.png",
+    "paints": [
+      "mint green",
+      "caramel tan",
+      "dark brown",
+      "cream",
+      "pink",
+      "black",
+      "white"
+    ],
+    "work": "tmp/highland-cow-four-steps",
+    "steps": [
+      {
+        "heading": "Paint the background",
+        "caption": "Cover your table. Start with the printed canvas. Paint mint green around the cow. Keep the cow white. Use thin coats; rinse and blot your brush between colors. Let dry.",
+        "image": "Highland Cow/info/assets/stage-02.png"
+      },
+      {
+        "heading": "Paint the coat and horns",
+        "caption": "Paint the coat caramel tan with downward strokes. Leave the marked tufts, hooves, ears and face details white. Paint both horns cream. Use a small brush near the edges. Let dry.",
+        "image": "Highland Cow/info/assets/stage-04.png"
+      },
+      {
+        "heading": "Add pink and brown",
+        "caption": "Paint the inner ears and big nose pink. Keep the eyes and nostrils white. Paint the marked tufts and four hooves dark brown. Pull strokes toward each tuft tip. Let dry.",
+        "image": "Highland Cow/info/assets/stage-06.png"
+      },
+      {
+        "heading": "Finish the face and dry",
+        "caption": "Paint the eyes and nostrils black, leaving the eye sparkles white. When dry, dab white on each sparkle. Lay the canvas flat to dry. Wash your brushes, wipe the palette and close the paints.",
+        "dry": true
+      }
+    ],
+    "columns": 2
+  },
+  {
+    "folder": "Panda",
+    "slug": "panda",
+    "palette": {
+      "ink": "#2e3d25",
+      "accent": "#8c9a35",
+      "wash": "#f1f3d6",
+      "second": "#4c7c44",
+      "ribbon": "#eef0cf"
+    },
+    "reference": "Panda/info/output/pdf/8x10/panda-finished-reference-8x10.png",
+    "title": "Bamboo Panda",
+    "paints": [
+      "yellow-green",
+      "white",
+      "black",
+      "light green",
+      "dark green"
+    ],
+    "steps": [
+      {
+        "heading": "Paint the background",
+        "caption": "Cover your table. Start with the printed canvas. Paint yellow-green all around the panda and bamboo. Keep them white. Use thin coats; rinse and blot your brush between colors. Let dry.",
+        "image": "Panda/info/tmp/steps/step-1.png"
+      },
+      {
+        "heading": "Paint the panda",
+        "caption": "Paint the face white. Paint the ears, eye patches, nose and body black. Leave the two tiny eye circles white. Use a small brush near the edges. Let dry.",
+        "image": "Panda/info/tmp/steps/step-2.png"
+      },
+      {
+        "heading": "Paint the bamboo",
+        "caption": "Paint the long stalk and thin twig light green. Paint the five leaves dark green, brushing from the bottom of each leaf to its pointy tip. Let dry.",
+        "image": "Panda/info/tmp/steps/step-3.png"
+      },
+      {
+        "heading": "Finish the face and dry",
+        "caption": "Paint the bamboo rings dark green. Trace the smile lines black. Add a white shine on each ear and the nose. Lay the canvas flat to dry. Wash brushes, wipe the palette and close the paints.",
+        "dry": true
+      }
+    ],
+    "work": "Panda/info/tmp/template-refactor",
+    "assets": "Panda/info/assets/template-refactor",
+    "logo": "Panda/info/assets/template-refactor/river-and-ridge-logo.png",
+    "unchanged": {},
+    "columns": 2
   }
 ]

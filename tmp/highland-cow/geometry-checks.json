@@ -1,0 +1,25 @@
+{
+  "bbox": [
+    111,
+    49,
+    1012,
+    1358
+  ],
+  "sourceSize": [
+    1122,
+    1402
+  ],
+  "portraitSubjectRatio": 0.6883116883116883,
+  "paths": [
+    "silhouette",
+    "brown",
+    "cream",
+    "pink",
+    "black",
+    "white"
+  ],
+  "strokePoints": 2,
+  "color": "#808080",
+  "canonicalStages": 7,
+  "reference": "stage-07 identical geometry and colors"
+}
