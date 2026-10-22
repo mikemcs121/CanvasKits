@@ -6,3 +6,6 @@
 
 # Rollback bundles are too large for GitHub (100 MB limit); kept locally only
 tmp/**/*.bundle
+
+# Project-root scratch builds and checks; kept locally only
+/tmp/

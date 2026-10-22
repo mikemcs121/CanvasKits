@@ -1,4 +1,0 @@
-interface:
-  display_name: "Fabric Kit"
-  short_description: "Create 8x8 Kinusaiga fabric kits, outline first"
-  default_prompt: "Use $fabric-kit to turn my image or subject into an 8x8 fabric kit, creating the outline first, then a matching finished picture and six-step printable guide."
