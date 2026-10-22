@@ -1,0 +1,75 @@
+{
+  "kit": "Ghost Fall",
+  "audience": "ages 8-14; wording for an 8-year-old",
+  "steps": 5,
+  "palette": [
+    "ivory",
+    "plum purple",
+    "orange",
+    "olive green",
+    "coral pink",
+    "black"
+  ],
+  "mixingLanguageAbsent": true,
+  "advancedTextureShadingHighlightsOmitted": true,
+  "pdfs": {
+    "ghost-fall-painting-guide-8x10.pdf": {
+      "pages": 1,
+      "points": [
+        612,
+        792
+      ],
+      "renderPixels": [
+        2550,
+        3300
+      ]
+    },
+    "ghost-fall-finished-reference-8x10.pdf": {
+      "pages": 1,
+      "points": [
+        576,
+        720
+      ],
+      "renderPixels": [
+        2400,
+        3000
+      ]
+    }
+  },
+  "referenceRegistration": {
+    "sourceRectangle": [
+      60,
+      360,
+      2280,
+      2280
+    ],
+    "maximumChannelDelta": 0,
+    "sampledMeanDelta": 0.0,
+    "sampledFractionAbove40": 0.0
+  },
+  "originalProductionHashesBefore": {
+    "Ghost Fall\\ghost-fall-outline-8x10.svg": "6e38259204ade00d3738a8c2e591a5cde68770993d1bcf6c9b723a32021b64c9",
+    "Ghost Fall\\ghost-fall-painting-guide-8x10.pdf": "abbf0697d5cd11b464f9190d915a7c01e03a9c63a87d1f60a7d7735d9f846953",
+    "Ghost Fall\\ghost-fall-finished-reference-8x10.pdf": "8fe169d97850c5dd2c5e85a041cd7236eb707bbd4e044a8a2633b6c3ea496c63"
+  },
+  "originalProductionHashesAfter": {
+    "Ghost Fall\\ghost-fall-outline-8x10.svg": "6e38259204ade00d3738a8c2e591a5cde68770993d1bcf6c9b723a32021b64c9",
+    "Ghost Fall\\ghost-fall-painting-guide-8x10.pdf": "abbf0697d5cd11b464f9190d915a7c01e03a9c63a87d1f60a7d7735d9f846953",
+    "Ghost Fall\\ghost-fall-finished-reference-8x10.pdf": "8fe169d97850c5dd2c5e85a041cd7236eb707bbd4e044a8a2633b6c3ea496c63"
+  },
+  "simplifiedOutlineHash": "d75aab05da1fff1090f7fa021c44ea1eec5528d0c14f0e7c83366bf37d390a14",
+  "rootOutlineHash": "6e38259204ade00d3738a8c2e591a5cde68770993d1bcf6c9b723a32021b64c9",
+  "transferLineColor": "#000000",
+  "transferStrokePoints": 3,
+  "simplifiedFolderFiles": [
+    "ghost-fall-finished-reference-8x10.pdf",
+    "ghost-fall-outline-8x10.svg",
+    "ghost-fall-painting-guide-8x10.pdf"
+  ],
+  "visualInspection": {
+    "guide": "passed full-page inspection: readable text, safe margins, no overlaps, intact logo and five cumulative panels",
+    "reference": "passed full-page inspection: clean flat colors, centered approved composition and matching final guide target",
+    "enlargedDetails": "passed native 1254 px inspection of face, bow, pumpkin, stem, hands and linework",
+    "outline": "passed rendered SVG inspection with matching centered geometry against the simplified reference"
+  }
+}

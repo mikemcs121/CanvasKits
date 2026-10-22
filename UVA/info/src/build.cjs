@@ -5,6 +5,7 @@ const Jimp=require(path.join(root,'assets/tools/vector-tools/node_modules/jimp')
 const {Resvg}=require(path.join(root,'assets/tools/vector-tools/node_modules/@resvg/resvg-js'));
 const {PNG}=require(path.join(root,'assets/tools/vector-tools/node_modules/pngjs'));
 const {clean,boundaries}=require('./geometry-tools.cjs');
+const {outline}=require('./outline-paths.cjs');
 const plan=JSON.parse(fs.readFileSync(path.join(root,'assets/tools/guide-template/kits.json'),'utf8')).find(k=>k.slug==='uva'),palette=plan.suppliedPaints;
 const hash=b=>crypto.createHash('sha256').update(b).digest('hex'),read=f=>fs.readFileSync(f),W=1000,H=800;
 const sourcePath=path.join(root,'UVA/info/archive/previous-root-files/UVA.jpg');
@@ -48,7 +49,7 @@ async function geometry(){
  return {width:W,height:H,sourceSha256:hash(read(sourcePath)),sourceCrop:[140,26,416,334],placement:[155,90,690,554],omitted:'navy rectangle and tiny registration symbol',backgroundSourceSha256:hash(read(path.join(A,'background-source.json'))),regions,silhouette,lines:lines.map(({d,pair})=>({d,pair})),ridges};
 }
 function paths(lines){return lines.map(l=>`<path d="${l.d}"/>`).join('');}
-function outline(g){return `<svg xmlns="http://www.w3.org/2000/svg" width="10in" height="8in" viewBox="0 0 720 576"><defs><clipPath id="outside"><path d="M0 0H1000V800H0Z ${g.silhouette}" clip-rule="evenodd" fill-rule="evenodd"/></clipPath></defs><g transform="scale(.72)" fill="none" stroke="#A6A6A6" stroke-width="${2/.72}" stroke-linecap="round" stroke-linejoin="round"><g clip-path="url(#outside)">${g.ridges.map(r=>`<path d="${r.seam}"/>`).join('')}</g>${paths(g.lines)}</g></svg>`;}
+function legacyOutline(g){return `<svg xmlns="http://www.w3.org/2000/svg" width="10in" height="8in" viewBox="0 0 720 576"><defs><clipPath id="outside"><path d="M0 0H1000V800H0Z ${g.silhouette}" clip-rule="evenodd" fill-rule="evenodd"/></clipPath></defs><g transform="scale(.72)" fill="none" stroke="#A6A6A6" stroke-width="${2/.72}" stroke-linecap="round" stroke-linejoin="round"><g clip-path="url(#outside)">${g.ridges.map(r=>`<path d="${r.seam}"/>`).join('')}</g>${paths(g.lines)}</g></svg>`;}
 function painting(g,stage){
  const sky=`<defs><linearGradient id="sky" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="0" y2="580"><stop offset="0" stop-color="#FFF0CF"/><stop offset=".48" stop-color="#FFF0CF"/><stop offset=".63" stop-color="#F5BB7D"/><stop offset=".75" stop-color="#F5BB7D"/><stop offset=".93" stop-color="#F87818"/><stop offset="1" stop-color="#F87818"/></linearGradient><clipPath id="outside"><path d="M0 0H1000V800H0Z ${g.silhouette}" clip-rule="evenodd"/></clipPath></defs>`;
  let body=sky+`<rect width="1000" height="800" fill="${stage===1?'#FFF0CF':'url(#sky)'}"/>`;
@@ -64,13 +65,21 @@ async function main(){
  const geometryPath=path.join(A,'geometry.json'),bindingPath=path.join(A,'outline-binding.json'),productionOutline=path.join(root,'UVA/uva-outline-10x8.svg');
  const savedG=fs.existsSync(geometryPath)?JSON.parse(read(geometryPath)):await geometry();
  const proposalAt=process.argv.indexOf('--geometry-proposal');
+ if(process.argv.includes('--outline-only')&&proposalAt>=0)throw Error('Outline-only repair must preserve saved geometry.');
  const g=proposalAt>=0?JSON.parse(read(path.resolve(root,process.argv[proposalAt+1]))):savedG;
  if(proposalAt>=0&&['regions','silhouette','lines'].some(k=>JSON.stringify(g[k])!==JSON.stringify(savedG[k])))throw Error('This background proposal must preserve all emblem contours.');
  if(g.sourceSha256!==hash(read(sourcePath))||g.backgroundSourceSha256!==hash(read(path.join(A,'background-source.json'))))throw Error('Source changed independently of canonical geometry');
  const svg=outline(g);
- if(fs.existsSync(productionOutline)){const binding=JSON.parse(read(bindingPath));if(hash(read(productionOutline))!==binding.outlineSha256||hash(Buffer.from(outline(savedG)))!==binding.outlineSha256||hash(read(geometryPath))!==binding.geometrySha256)throw Error('Saved outline binding changed');}
+ if(fs.existsSync(productionOutline)){const binding=JSON.parse(read(bindingPath));if(hash(read(productionOutline))!==binding.outlineSha256||hash(Buffer.from((binding.rendererVersion===2?outline:legacyOutline)(savedG)))!==binding.outlineSha256||(hash(read(geometryPath))!==binding.geometrySha256&&hash(read(geometryPath).toString('utf8').replace(/\r\n/g,'\n'))!==binding.geometrySha256))throw Error('Saved outline binding changed');}
  fs.writeFileSync(path.join(out,'uva-outline-10x8.svg'),svg);fs.writeFileSync(path.join(out,'geometry.json'),JSON.stringify(g,null,2));
  png(svg,path.join(review,'outline-transparent.png'));png(svg.replace('<g transform=', '<rect width="720" height="576" fill="white"/><g transform='),path.join(review,'outline-preview.png'));
+ if(process.argv.includes('--outline-only')){
+  if(process.argv.includes('--promote')){
+   fs.copyFileSync(path.join(out,'uva-outline-10x8.svg'),productionOutline);
+   fs.writeFileSync(bindingPath,JSON.stringify({rendererVersion:2,outlineSha256:hash(read(productionOutline)),geometrySha256:hash(read(geometryPath)),sourceSha256:g.sourceSha256},null,2));
+  }
+  console.log('UVA outline-only repair complete; reference, guide and canonical geometry preserved.');return;
+ }
  for(let stage=1;stage<=7;stage++)png(painting(g,stage),path.join(art,`stage-${String(stage).padStart(2,'0')}.png`));
  fs.writeFileSync(path.join(art,'reference-master.svg'),painting(g,7));fs.copyFileSync(path.join(art,'stage-07.png'),path.join(art,'reference-master.png'));
  fs.copyFileSync(path.join(A,'page-logo.png'),path.join(art,'page-logo.png'));
@@ -84,7 +93,7 @@ async function main(){
  if(process.argv.includes('--promote')){
   for(const name of ['uva-outline-10x8.svg','uva-painting-guide-10x8.pdf','uva-finished-reference-10x8.pdf'])fs.copyFileSync(path.join(out,name),path.join(root,'UVA',name));
   fs.copyFileSync(path.join(out,'geometry.json'),geometryPath);for(const name of fs.readdirSync(art))if(name!=='page-logo.png')fs.copyFileSync(path.join(art,name),path.join(A,name));
-  fs.writeFileSync(bindingPath,JSON.stringify({outlineSha256:hash(read(productionOutline)),geometrySha256:hash(read(geometryPath)),sourceSha256:g.sourceSha256},null,2));console.log('UVA kit promoted.');
+  fs.writeFileSync(bindingPath,JSON.stringify({rendererVersion:2,outlineSha256:hash(read(productionOutline)),geometrySha256:hash(read(geometryPath)),sourceSha256:g.sourceSha256},null,2));console.log('UVA kit promoted.');
  }else console.log('UVA candidates ready for review; production unchanged.');
 }
 main().catch(e=>{console.error(e);process.exitCode=1;});

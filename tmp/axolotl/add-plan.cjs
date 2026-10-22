@@ -1,0 +1,10 @@
+const fs=require('fs');const f='assets/tools/guide-template/kits.json',plans=JSON.parse(fs.readFileSync(f));
+const plan={slug:'axolotl',title:'Axolotl',audience:'Children ages 8-14',layout:'six steps, two columns and three rows',suppliedPaints:[['turquoise','#A2DCE4'],['light blue','#D6F0FA'],['green','#70BC79'],['yellow','#FFD56B'],['light pink','#F6B5D0'],['pink','#E67BA6'],['black','#20252B'],['white','#FFFFFF']].map(([name,hex])=>({name,hex})),steps:[
+ ['Water and bubbles','Brush a thin turquoise coat around the shapes. Paint bubbles light blue. Keep their shine marks white. Rinse and blot your brush. Let dry.','Water and bubbles painted; all other shapes white.'],
+ ['Green plants','Paint all the seaweed green. Use the small brush at pointed tips. Keep the starfish and axolotl white. Let this coat dry.','Water, bubbles and seaweed painted; starfish and axolotl white.'],
+ ['Yellow starfish','Fill the starfish with yellow. Leave its eyes and little dots for later. Keep your coat thin so the printed lines still show. Let dry.','Starfish yellow; face and dots left for black later.'],
+ ['Light pink body','Use light pink for the head, body, arms, feet, and long tail. Leave the eyes, cheeks, spots, mouth, and feathery gills white. Let dry.','Axolotl body painted; gills, details and eyes white.'],
+ ['Pink details','Paint all six feathery gills pink. Add pink to the cheeks, body spots, and inside the mouth. Rinse and blot before changing colors. Let dry.','Gills, cheeks, spots and tongue painted; black features not yet painted.'],
+ ['Faces and drying','Use black for eyes, eyebrows, smiles, and starfish dots. Add white eye shines and bubble shines. Lay the canvas flat to dry. Wash brushes and wipe your palette.','All features painted; exact finished reference lies flat on the drying table.']
+].map(([heading,caption,state],i)=>({heading,caption,state,image:`Axolotl/info/assets/stage-${String(i+1).padStart(2,'0')}.png`}))};
+const old=plans.findIndex(p=>p.slug==='axolotl');if(old>=0)plans[old]=plan;else plans.push(plan);fs.writeFileSync(f,JSON.stringify(plans,null,2)+'\n');

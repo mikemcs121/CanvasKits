@@ -1,0 +1,35 @@
+[
+  {
+    "kit": "Owl",
+    "pathsPreserved": true,
+    "placementPreserved": true,
+    "lineColor": "#000000",
+    "strokePoints": 3,
+    "pdfPagesAndSizes": true,
+    "transparentVector": true,
+    "referencePixelsMatchMaster": true,
+    "guideImagesRefreshed": true
+  },
+  {
+    "kit": "Axolotl",
+    "pathsPreserved": true,
+    "placementPreserved": true,
+    "lineColor": "#000000",
+    "strokePoints": 3,
+    "pdfPagesAndSizes": true,
+    "transparentVector": true,
+    "referencePixelsMatchMaster": true,
+    "guideImagesRefreshed": true
+  },
+  {
+    "kit": "Ghost kids",
+    "pathsPreserved": true,
+    "placementPreserved": true,
+    "lineColor": "#000000",
+    "strokePoints": 3,
+    "pdfPagesAndSizes": true,
+    "transparentVector": true,
+    "referencePixelsMatchMaster": true,
+    "guideImagesRefreshed": true
+  }
+]

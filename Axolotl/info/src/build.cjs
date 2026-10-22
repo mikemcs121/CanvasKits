@@ -18,7 +18,7 @@ if(process.argv.includes('--retrace')){
 }
 const g=JSON.parse(fs.readFileSync(path.join(A,'geometry.json')));
 const body=[...g.centerlinePaths,...g.solidBoundaryPaths].map(d=>`<path d="${d}"/>`).join('');
-const svg=`<svg xmlns="http://www.w3.org/2000/svg" width="8in" height="10in" viewBox="0 0 576 720"><title>Axolotl kids canvas — border-free transfer</title><g transform="translate(${g.translate.join(' ')}) scale(${g.scale})" fill="none" stroke="#808080" stroke-width="${2/g.scale}" stroke-linecap="round" stroke-linejoin="round">${body}</g></svg>`;
+const svg=`<svg xmlns="http://www.w3.org/2000/svg" width="8in" height="10in" viewBox="0 0 576 720"><title>Axolotl kids canvas — border-free transfer</title><g transform="translate(${g.translate.join(' ')}) scale(${g.scale})" fill="none" stroke="#000000" stroke-width="${3/g.scale}" stroke-linecap="round" stroke-linejoin="round">${body}</g></svg>`;
 fs.writeFileSync(path.join(out,'axolotl-outline-8x10.svg'),svg);
 fs.writeFileSync(path.join(out,'outline-transparent.png'),new Resvg(svg,{fitTo:{mode:'width',value:2400}}).render().asPng());
 fs.writeFileSync(path.join(out,'outline-preview.png'),new Resvg(svg,{fitTo:{mode:'width',value:2400},background:'white'}).render().asPng());
@@ -33,8 +33,8 @@ for(const [kind,size]of [['painting-guide','612x792'],['finished-reference','576
 const p=PNG.sync.read(fs.readFileSync(path.join(out,'outline-transparent.png')));
 if(p.width!==2400||p.height!==3000||/<image\b|<rect\b/.test(svg))throw Error('Transfer preflight failed');
 const colors=new Set();let transparent=0;for(let i=0;i<p.data.length;i+=4){if(!p.data[i+3])transparent++;else{if(p.data[i]!==p.data[i+1]||p.data[i]!==p.data[i+2])throw Error('Non-neutral transfer pixel');if(p.data[i+3]===255)colors.add(p.data.subarray(i,i+3).join(','));}}
-if(colors.size!==1||!colors.has('128,128,128')||!transparent)throw Error('Transfer gray or transparency mismatch');
+if(colors.size!==1||!colors.has('0,0,0')||!transparent)throw Error('Transfer black or transparency mismatch');
 if(hash(path.join(A,'reference-master.png'))!==hash(path.join(A,'stage-06.png')))throw Error('Final stage mismatch');
-fs.writeFileSync(path.join(out,'art-checks.json'),JSON.stringify({pixels:[p.width,p.height],physicalInches:[8,10],strokePoints:2,gray:'#808080',vectorOnly:true,transparentPixels:transparent,frameRemoved:true,sourceProportionsPreserved:true,finalStageEqualsReference:true},null,2));
+fs.writeFileSync(path.join(out,'art-checks.json'),JSON.stringify({pixels:[p.width,p.height],physicalInches:[8,10],strokePoints:3,lineColor:'#000000',vectorOnly:true,transparentPixels:transparent,frameRemoved:true,sourceProportionsPreserved:true,finalStageEqualsReference:true},null,2));
 if(process.argv.includes('--promote'))for(const name of ['axolotl-outline-8x10.svg','axolotl-painting-guide-8x10.pdf','axolotl-finished-reference-8x10.pdf'])fs.copyFileSync(path.join(out,name),path.join(root,'Axolotl',name));
 console.log(process.argv.includes('--promote')?'Axolotl kit promoted.':'Axolotl candidates ready for visual review.');

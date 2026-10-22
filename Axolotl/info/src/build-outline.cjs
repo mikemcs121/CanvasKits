@@ -26,9 +26,9 @@ potrace.trace(path.join(out,'solid-regions.png'),{threshold:128,turdSize:3,optTo
  // Preserve source proportions. The tall scene fits within a modest unprinted margin.
  const scale=.45,dx=(576-1024*scale)/2,dy=(720-1536*scale)/2;
  const body=[...chains.map(line),...solids].map(d=>`<path d="${d}"/>`).join('');
- fs.writeFileSync(path.join(out,'source-lines.svg'),`<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1536" viewBox="0 0 1024 1536"><rect width="1024" height="1536" fill="white"/><g fill="none" stroke="black" stroke-width="${2/scale}" stroke-linecap="round" stroke-linejoin="round">${body}</g></svg>`);
+ fs.writeFileSync(path.join(out,'source-lines.svg'),`<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1536" viewBox="0 0 1024 1536"><rect width="1024" height="1536" fill="white"/><g fill="none" stroke="black" stroke-width="${3/scale}" stroke-linecap="round" stroke-linejoin="round">${body}</g></svg>`);
  fs.writeFileSync(path.join(out,'source-lines.png'),new Resvg(fs.readFileSync(path.join(out,'source-lines.svg'))).render().asPng());
- const svg=`<svg xmlns="http://www.w3.org/2000/svg" width="8in" height="10in" viewBox="0 0 576 720"><title>Axolotl kids canvas — border-free transfer</title><g transform="translate(${dx} ${dy}) scale(${scale})" fill="none" stroke="#808080" stroke-width="${2/scale}" stroke-linecap="round" stroke-linejoin="round">${body}</g></svg>`;
+ const svg=`<svg xmlns="http://www.w3.org/2000/svg" width="8in" height="10in" viewBox="0 0 576 720"><title>Axolotl kids canvas — border-free transfer</title><g transform="translate(${dx} ${dy}) scale(${scale})" fill="none" stroke="#000000" stroke-width="${3/scale}" stroke-linecap="round" stroke-linejoin="round">${body}</g></svg>`;
  fs.writeFileSync(path.join(out,'axolotl-outline-8x10.svg'),svg);
  for(const [name,bg]of [['outline-preview.png','white'],['outline-transparent.png',undefined]])fs.writeFileSync(path.join(out,name),new Resvg(svg,{fitTo:{mode:'width',value:2400},background:bg}).render().asPng());
  fs.writeFileSync(path.join(root,'Axolotl/info/assets/geometry.json'),JSON.stringify({sourceSize:[1024,1536],scale,translate:[dx,dy],centerlinePaths:chains.map(line),solidBoundaryPaths:solids},null,2));

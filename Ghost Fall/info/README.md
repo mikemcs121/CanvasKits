@@ -18,3 +18,9 @@ The three files in the parent folder are the production set. This folder holds o
 - **Outline:** edit the SVG in the kit root directly (2 pt, round caps/joins, the kit's gray). The stage masks were made from older rasters; a geometry change means the step pictures must be rebuilt to match.
 - **Kit-root assets/:** after a guide change, empty `../assets/` and run `node Tools/guide-image-extractor.cjs "Ghost Fall"`.
 - **Simplified edition:** `python "Ghost Fall/info/tmp/simplified/build.py"` (requires Python with reportlab), then `verify_promote.py` in the same folder checks the result and copies it into `../simplified/`.
+
+## Kids' black 3-point transfer — October 19, 2026
+
+The black #000000, 3-point standard applies only to the transfer SVG in ../simplified/, with unchanged approved paths and placement. The kids guide, reference, source stages and extracted pictures were restored byte-for-byte from pre-change commit da6f20a. The adult kit-root production set remains unchanged.
+
+	mp/simplified/render-lines.cjs builds the independently styled transfer candidate. The illustration builder preserves the original square stages and approved placement. Candidates and checks go to project 	mp/ghost-kids-black-3pt/. The verifier checks original adult hashes, unchanged outline paths, black 3-point styling and the original reference placement before promotion. Do not apply transfer stroke changes to the guide or reference art.

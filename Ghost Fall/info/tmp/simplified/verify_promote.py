@@ -2,6 +2,7 @@ from pathlib import Path
 import hashlib
 import json
 import shutil
+import xml.etree.ElementTree as ET
 
 import numpy as np
 from PIL import Image, ImageChops
@@ -12,7 +13,7 @@ ROOT = Path(__file__).resolve().parents[4]
 KIT = ROOT / "Ghost Fall"
 WORK = KIT / "info/tmp/simplified"
 ASSETS = KIT / "info/assets/simplified"
-OUT = KIT / "info/output/simplified"
+OUT = ROOT / "tmp/ghost-kids-black-3pt"
 DEST = KIT / "simplified"
 SLUG = "ghost-fall"
 
@@ -21,14 +22,21 @@ def sha256(path):
     return hashlib.sha256(path.read_bytes()).hexdigest()
 
 
-before = json.loads((WORK / "original-hashes.json").read_text(encoding="utf-8"))
+before = json.loads((OUT / "original-hashes.json").read_text(encoding="utf-8"))
 after = {relative: sha256(ROOT / relative) for relative in before}
 if after != before:
     raise RuntimeError("An original Ghost production file changed")
 
-guide = WORK / f"{SLUG}-painting-guide-8x10.pdf"
-reference = WORK / f"{SLUG}-finished-reference-8x10.pdf"
-outline = KIT / f"{SLUG}-outline-8x10.svg"
+guide = OUT / f"{SLUG}-painting-guide-8x10.pdf"
+reference = OUT / f"{SLUG}-finished-reference-8x10.pdf"
+outline = OUT / f"{SLUG}-outline-8x10.svg"
+old_root=ET.parse(KIT / outline.name).getroot();new_root=ET.parse(outline).getroot()
+ns={'s':'http://www.w3.org/2000/svg'}
+if [p.attrib['d'] for p in old_root.findall('.//s:path',ns)] != [p.attrib['d'] for p in new_root.findall('.//s:path',ns)]:
+    raise RuntimeError('Approved Ghost paths changed')
+group=new_root.find('s:g',ns)
+if group.attrib['stroke']!='#000000' or float(group.attrib['stroke-width'])!=12.5:
+    raise RuntimeError('Kids transfer must be black 3 pt')
 
 for path, expected in ((guide, (612, 792)), (reference, (576, 720))):
     reader = PdfReader(path)
@@ -39,7 +47,7 @@ for path, expected in ((guide, (612, 792)), (reference, (576, 720))):
     if len(reader.pages) != 1 or measured != expected:
         raise RuntimeError(f"PDF verification failed for {path.name}")
 
-guide_text = (WORK / f"{SLUG}-painting-guide-8x10-text.txt").read_text(
+guide_text = (OUT / f"{SLUG}-painting-guide-8x10-text.txt").read_text(
     encoding="utf-8"
 ).lower()
 required = [
@@ -67,10 +75,8 @@ if guide_png.size != (2550, 3300) or reference_png.size != (2400, 3000):
 
 # The rendered reference must be the exact approved square placement of the flat final target.
 expected = Image.new("RGB", (2400, 3000), "white")
-subject = Image.open(ASSETS / "step-5.png").convert("RGB").resize(
-    (2280, 2280), Image.Resampling.LANCZOS
-)
-expected.paste(subject, (60, 360))
+subject = Image.open(ASSETS / "step-5.png").convert("RGB").resize((2280,2280), Image.Resampling.LANCZOS)
+expected.paste(subject,(60,360))
 rendered = reference_png.convert("RGB")
 diff = ImageChops.difference(expected, rendered)
 extrema = diff.getextrema()
@@ -88,7 +94,8 @@ if mean_delta > 1.5 or large_delta_fraction > 0.01:
 DEST.mkdir(parents=True, exist_ok=True)
 for existing in DEST.iterdir():
     if existing.is_file():
-        raise RuntimeError("Unexpected pre-existing file in new simplified folder")
+        if existing.name not in [outline.name, guide.name, reference.name]:
+            raise RuntimeError("Unexpected production filename in simplified folder")
 
 shutil.copy2(outline, DEST / outline.name)
 shutil.copy2(guide, DEST / guide.name)
@@ -128,7 +135,9 @@ checks = {
     "originalProductionHashesBefore": before,
     "originalProductionHashesAfter": after,
     "simplifiedOutlineHash": sha256(DEST / outline.name),
-    "rootOutlineHash": sha256(outline),
+    "rootOutlineHash": sha256(KIT / outline.name),
+    "transferLineColor": "#000000",
+    "transferStrokePoints": 3,
     "simplifiedFolderFiles": delivered,
     "visualInspection": {
         "guide": "passed full-page inspection: readable text, safe margins, no overlaps, intact logo and five cumulative panels",
@@ -137,7 +146,7 @@ checks = {
         "outline": "passed rendered SVG inspection with matching centered geometry against the simplified reference",
     },
 }
-(WORK / "verification.json").write_text(
+(OUT / "verification.json").write_text(
     json.dumps(checks, indent=2), encoding="utf-8"
 )
 print("Verification passed and the simplified Ghost edition was promoted.")

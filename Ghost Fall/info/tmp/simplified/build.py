@@ -18,7 +18,7 @@ ROOT = Path(__file__).resolve().parents[4]
 KIT = ROOT / "Ghost Fall"
 WORK = KIT / "info/tmp/simplified"
 ASSETS = KIT / "info/assets/simplified"
-OUT = KIT / "info/output/simplified"
+OUT = ROOT / "tmp/ghost-kids-black-3pt"
 PLAN = json.loads((WORK / "plan.json").read_text(encoding="utf-8"))
 SLUG = "ghost-fall"
 
@@ -39,7 +39,7 @@ originals = {
     str((KIT / name).relative_to(ROOT)): sha256(KIT / name)
     for name in original_names
 }
-(WORK / "original-hashes.json").write_text(
+(OUT / "original-hashes.json").write_text(
     json.dumps(originals, indent=2), encoding="utf-8"
 )
 
@@ -60,6 +60,8 @@ colors = {
 }
 stage_groups = [(), (1,), (1, 2), (1, 2, 3, 4), (1, 2, 3, 4, 5)]
 line_scale = lines.astype(np.float32)[:, None] / 255.0
+# Transfer styling is independent of the preserved guide illustrations.
+subprocess.run(["node", str(WORK / "render-lines.cjs")], cwd=ROOT, check=True)
 
 for number, painted in enumerate(stage_groups, 1):
     image = np.repeat(lines[:, None], 3, axis=1).astype(np.float32)
@@ -124,7 +126,7 @@ def draw_stage(pdf, step_number, x, y, width_points, height_points, border=True)
         pdf.rect(x, y, width_points, height_points)
 
 
-reference = WORK / f"{SLUG}-finished-reference-8x10.pdf"
+reference = OUT / f"{SLUG}-finished-reference-8x10.pdf"
 pdf = canvas.Canvas(str(reference), pagesize=(576, 720), pageCompression=1)
 pdf.setTitle("Autumn Ghost - simplified finished reference")
 pdf.setAuthor("River and Ridge")
@@ -132,7 +134,7 @@ draw_stage(pdf, 5, 0, 0, 576, 720, False)
 pdf.showPage()
 pdf.save()
 
-guide = WORK / f"{SLUG}-painting-guide-8x10.pdf"
+guide = OUT / f"{SLUG}-painting-guide-8x10.pdf"
 pdf = canvas.Canvas(str(guide), pagesize=(612, 792), pageCompression=1)
 pdf.setTitle("Autumn Ghost - simplified painting guide")
 pdf.setAuthor("River and Ridge")
@@ -232,7 +234,7 @@ for pdf_path, size in ((guide, (612, 792)), (reference, (576, 720))):
     )
     if len(reader.pages) != 1 or measured != size:
         raise RuntimeError(f"Unexpected PDF page geometry for {pdf_path.name}")
-    (WORK / f"{pdf_path.stem}-text.txt").write_text(
+    (OUT / f"{pdf_path.stem}-text.txt").write_text(
         reader.pages[0].extract_text(), encoding="utf-8"
     )
     subprocess.run(
@@ -246,13 +248,13 @@ for pdf_path, size in ((guide, (612, 792)), (reference, (576, 720))):
             "--expect-points",
             f"{size[0]}x{size[1]}",
             "--checks",
-            str(WORK / f"{pdf_path.stem}-checks.json"),
+            str(OUT / f"{pdf_path.stem}-checks.json"),
         ],
         cwd=ROOT,
         check=True,
     )
 
-(WORK / "layout-checks.json").write_text(
+(OUT / "layout-checks.json").write_text(
     json.dumps(layout, indent=2), encoding="utf-8"
 )
 print("Simplified Ghost candidates built and rendered. Inspect before promotion.")

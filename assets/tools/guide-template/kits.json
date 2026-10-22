@@ -1580,5 +1580,314 @@
     "logo": "Panda/info/assets/template-refactor/river-and-ridge-logo.png",
     "unchanged": {},
     "columns": 2
+  },
+  {
+    "slug": "axolotl",
+    "title": "Axolotl",
+    "audience": "Children ages 8-14",
+    "layout": "six steps, two columns and three rows",
+    "suppliedPaints": [
+      {
+        "name": "turquoise",
+        "hex": "#A2DCE4"
+      },
+      {
+        "name": "light blue",
+        "hex": "#D6F0FA"
+      },
+      {
+        "name": "green",
+        "hex": "#70BC79"
+      },
+      {
+        "name": "yellow",
+        "hex": "#FFD56B"
+      },
+      {
+        "name": "light pink",
+        "hex": "#F6B5D0"
+      },
+      {
+        "name": "pink",
+        "hex": "#E67BA6"
+      },
+      {
+        "name": "black",
+        "hex": "#20252B"
+      },
+      {
+        "name": "white",
+        "hex": "#FFFFFF"
+      }
+    ],
+    "steps": [
+      {
+        "heading": "Water and bubbles",
+        "caption": "Brush a thin turquoise coat around the shapes. Paint bubbles light blue. Keep their shine marks white. Rinse and blot your brush. Let dry.",
+        "state": "Water and bubbles painted; all other shapes white.",
+        "image": "Axolotl/info/assets/stage-01.png"
+      },
+      {
+        "heading": "Green plants",
+        "caption": "Paint all the seaweed green. Use the small brush at pointed tips. Keep the starfish and axolotl white. Let this coat dry.",
+        "state": "Water, bubbles and seaweed painted; starfish and axolotl white.",
+        "image": "Axolotl/info/assets/stage-02.png"
+      },
+      {
+        "heading": "Yellow starfish",
+        "caption": "Fill the starfish with yellow. Leave its eyes and little dots for later. Keep your coat thin so the printed lines still show. Let dry.",
+        "state": "Starfish yellow; face and dots left for black later.",
+        "image": "Axolotl/info/assets/stage-03.png"
+      },
+      {
+        "heading": "Light pink body",
+        "caption": "Use light pink for the head, body, arms, feet, and long tail. Leave the eyes, cheeks, spots, mouth, and feathery gills white. Let dry.",
+        "state": "Axolotl body painted; gills, details and eyes white.",
+        "image": "Axolotl/info/assets/stage-04.png"
+      },
+      {
+        "heading": "Pink details",
+        "caption": "Paint all six feathery gills pink. Add pink to the cheeks, body spots, and inside the mouth. Rinse and blot before changing colors. Let dry.",
+        "state": "Gills, cheeks, spots and tongue painted; black features not yet painted.",
+        "image": "Axolotl/info/assets/stage-05.png"
+      },
+      {
+        "heading": "Faces and drying",
+        "caption": "Use black for eyes, eyebrows, smiles, and starfish dots. Add white eye shines and bubble shines. Lay the canvas flat to dry. Wash brushes and wipe your palette.",
+        "state": "All features painted; exact finished reference lies flat on the drying table.",
+        "image": "Axolotl/info/assets/stage-06.png"
+      }
+    ],
+    "builder": "Axolotl/info/src/build.cjs"
+  },
+  {
+    "slug": "owl",
+    "title": "Owl",
+    "builder": "Owl/info/src/build.cjs",
+    "audience": "Children ages 8-14",
+    "layout": "six steps, two columns and three rows",
+    "suppliedPaints": [
+      {
+        "name": "light blue",
+        "hex": "#D4EBF5"
+      },
+      {
+        "name": "tan",
+        "hex": "#D4A777"
+      },
+      {
+        "name": "cream",
+        "hex": "#FFF0D1"
+      },
+      {
+        "name": "brown",
+        "hex": "#9A6948"
+      },
+      {
+        "name": "green",
+        "hex": "#79B66E"
+      },
+      {
+        "name": "yellow",
+        "hex": "#F9CB57"
+      },
+      {
+        "name": "pink",
+        "hex": "#ECA0B7"
+      },
+      {
+        "name": "black",
+        "hex": "#25282B"
+      },
+      {
+        "name": "white",
+        "hex": "#FFFFFF"
+      }
+    ],
+    "steps": [
+      {
+        "heading": "Light blue sky",
+        "caption": "Start on the preprinted canvas. Brush a thin light blue coat around the owl, branch, leaves, and stars. Keep those shapes white. Rinse and blot your brush. Let dry.",
+        "state": "Only the sky is painted; every subject region remains white.",
+        "image": "Owl/info/assets/stage-01.png"
+      },
+      {
+        "heading": "Branch and leaves",
+        "caption": "Paint the branch and little stems brown. Rinse and blot. Paint all five leaves green. Use the small brush at their tips. Keep the owl and stars white. Let dry.",
+        "state": "Branch brown and leaves green; owl and stars white.",
+        "image": "Owl/info/assets/stage-02.png"
+      },
+      {
+        "heading": "Tan feathers",
+        "caption": "Paint the outer head feathers, both wings, and body tan. Follow the feather shapes with short strokes. Leave the heart-shaped face, eyes, beak, and feet white. Let dry.",
+        "state": "Tan owl silhouette painted; face and details white.",
+        "image": "Owl/info/assets/stage-03.png"
+      },
+      {
+        "heading": "Cream face",
+        "caption": "Paint the heart-shaped face cream. Use the small brush near the eyes and feather tips. Leave the eyes, cheeks, and beak white. Let the cream dry.",
+        "state": "Cream face painted; eyes and facial details white.",
+        "image": "Owl/info/assets/stage-04.png"
+      },
+      {
+        "heading": "Bright details",
+        "caption": "Paint the beak, feet, and four stars yellow. Rinse and blot. Paint both cheeks and inside the mouth pink. Let each color dry before painting beside it.",
+        "state": "Yellow accents and pink cheeks/mouth painted; black features not yet painted.",
+        "image": "Owl/info/assets/stage-05.png"
+      },
+      {
+        "heading": "Eyes and drying",
+        "caption": "Use black for the dark eye shapes, eyelashes, and eyebrows. Keep the white eye rings and add white shine dots. Lay the canvas flat to dry. Wash brushes and wipe your palette.",
+        "state": "Final eyes and shine marks painted; exact finished reference lies flat on the work table.",
+        "image": "Owl/info/assets/stage-06.png"
+      }
+    ]
+  },
+  {
+    "slug": "turtle",
+    "title": "Sea Turtle",
+    "builder": "turtle/info/src/build.cjs",
+    "audience": "Children ages 8-14",
+    "layout": "six steps, two columns and three rows",
+    "suppliedPaints": [
+      {
+        "name": "blue",
+        "hex": "#1389EE"
+      },
+      {
+        "name": "lime green",
+        "hex": "#D5F544"
+      },
+      {
+        "name": "green",
+        "hex": "#42AF32"
+      },
+      {
+        "name": "dark green",
+        "hex": "#167745"
+      },
+      {
+        "name": "yellow",
+        "hex": "#FFF16A"
+      },
+      {
+        "name": "light blue",
+        "hex": "#73D9F2"
+      },
+      {
+        "name": "black",
+        "hex": "#151E1B"
+      },
+      {
+        "name": "white",
+        "hex": "#FFFFFF"
+      }
+    ],
+    "steps": [
+      {
+        "heading": "Blue water",
+        "caption": "Start on the preprinted canvas. Brush thin blue coats around the turtle, plants, starfish, and bubbles. Leave those shapes white. Use broad strokes. Rinse and blot your brush. Let dry.",
+        "state": "Only water painted; all enclosed subjects remain white.",
+        "image": "turtle/info/assets/stage-01.png"
+      },
+      {
+        "heading": "Lime turtle and coral",
+        "caption": "Paint the head, neck, all flippers, and coral lime green. Keep the eye and oval spots white. The cheek stays lime green too. Use a small brush at the edges. Let dry.",
+        "state": "Lime regions painted; eye, spots, shell, seaweed, star and bubbles unpainted.",
+        "image": "turtle/info/assets/stage-02.png"
+      },
+      {
+        "heading": "Greens and spots",
+        "caption": "Paint the shell plates and all turtle and starfish spots green. Paint the shell rim and tall seaweed dark green. Follow each shape with your brush. Rinse and blot between colors. Let dry.",
+        "state": "Green plates/spots and dark-green rim/seaweed painted; yellow bands/star and bubbles remain white.",
+        "image": "turtle/info/assets/stage-03.png"
+      },
+      {
+        "heading": "Yellow shell bands",
+        "caption": "Paint the wide shell bands and starfish yellow. Use the small brush around the green dots. Keep the spaces between shell plates neat. Use thin coats and let each coat dry.",
+        "state": "Yellow shell bands and starfish added; bubble and black eye details still unpainted.",
+        "image": "turtle/info/assets/stage-04.png"
+      },
+      {
+        "heading": "Bubbles and face",
+        "caption": "Paint bubbles light blue. Add white rims and shines. Paint the eye, eyebrow, nostrils, and smile black; keep the eye shines white. Use dark green to neaten outlines. Let dry.",
+        "state": "Final face and bubbles painted; final target complete.",
+        "image": "turtle/info/assets/stage-05.png"
+      },
+      {
+        "heading": "Dry and tidy",
+        "caption": "Check for missed spots. Add a thin second coat if needed. Keep cheeks lime green. Lay the canvas flat to dry. Wash your brushes, wipe your palette, and tidy your space.",
+        "state": "Exact finished reference lies flat to dry with closed paints and clean brushes.",
+        "image": "turtle/info/assets/stage-06.png"
+      }
+    ]
+  },
+  {
+    "slug": "kids-highland-cow",
+    "title": "Highland Cow",
+    "folder": "Kids Highland Cow",
+    "builder": "Kids Highland Cow/info/src/build.cjs",
+    "work": "tmp/kids-highland-cow",
+    "reference": "Kids Highland Cow/info/assets/reference-master.png",
+    "logo": "Kids Highland Cow/info/assets/page-logo.png",
+    "columns": 2,
+    "audience": "Ages 8-14",
+    "suppliedPaints": [
+      {
+        "name": "light blue",
+        "hex": "#35B4EF"
+      },
+      {
+        "name": "caramel tan",
+        "hex": "#DD9440"
+      },
+      {
+        "name": "cream",
+        "hex": "#FCECCA"
+      },
+      {
+        "name": "pink",
+        "hex": "#F49BB7"
+      },
+      {
+        "name": "brown",
+        "hex": "#A56F43"
+      },
+      {
+        "name": "black",
+        "hex": "#171717"
+      },
+      {
+        "name": "white",
+        "hex": "#FFFFFF"
+      }
+    ],
+    "steps": [
+      {
+        "heading": "Blue background",
+        "caption": "Start with your preprinted canvas. Paint light blue around the cow. Use a large brush, then a small brush near the edges. Keep the cow white. Use thin coats so the printed lines can show through. Rinse and blot your brush. Let dry."
+      },
+      {
+        "heading": "Fluffy tan fur",
+        "caption": "Paint the hair, face, outer ears, and body caramel tan. Brush in the direction of the fur. Keep the horns, muzzle, bow, and eyes white. Leave a small white curve inside each ear for pink. Let the tan dry."
+      },
+      {
+        "heading": "Cream horns and muzzle",
+        "caption": "Use a small brush to paint both horns cream. Paint the large muzzle cream too. Leave the two small nostrils white for now. Keep the eyes and bow white. Rinse and blot your brush. Let the cream dry."
+      },
+      {
+        "heading": "A pretty pink bow",
+        "caption": "Paint the bow pink, including its knot and hanging ends. Add a pink curve inside each ear, like the picture. Use a small brush and thin coats. Rinse and blot your brush. Let the pink dry."
+      },
+      {
+        "heading": "Bring her face to life",
+        "caption": "Paint the nostrils brown. Paint the dark eye areas black. Keep the eye crescents and shine dots white. Let dry, then use white to tidy the shines. The printed fur lines, eyebrows, and smile show through. You do not need to paint over these lines."
+      },
+      {
+        "heading": "Dry and clean up",
+        "caption": "Check for small white gaps and cover them with the matching paint. Lay your finished canvas flat to dry. Close the paint pots. Rinse your brushes, blot them gently, and wipe your work area. Your Highland cow is finished!",
+        "dry": true
+      }
+    ]
   }
 ]

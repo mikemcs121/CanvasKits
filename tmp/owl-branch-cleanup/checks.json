@@ -1,0 +1,37 @@
+[
+  {
+    "file": "stage-01.png",
+    "changedPixels": 13156,
+    "outsideWoodgrain": 0
+  },
+  {
+    "file": "stage-02.png",
+    "changedPixels": 13156,
+    "outsideWoodgrain": 0
+  },
+  {
+    "file": "stage-03.png",
+    "changedPixels": 13156,
+    "outsideWoodgrain": 0
+  },
+  {
+    "file": "stage-04.png",
+    "changedPixels": 13156,
+    "outsideWoodgrain": 0
+  },
+  {
+    "file": "stage-05.png",
+    "changedPixels": 13156,
+    "outsideWoodgrain": 0
+  },
+  {
+    "file": "stage-06.png",
+    "changedPixels": 13156,
+    "outsideWoodgrain": 0
+  },
+  {
+    "file": "reference-master.png",
+    "changedPixels": 13156,
+    "outsideWoodgrain": 0
+  }
+]

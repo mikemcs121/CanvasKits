@@ -1,0 +1,26 @@
+[
+  {
+    "pdf": "C:\\Projects\\Canvas Kits\\tmp\\axolotl\\axolotl-painting-guide-8x10.pdf",
+    "image": "C:\\Projects\\Canvas Kits\\tmp\\axolotl\\painting-guide.png",
+    "page": 1,
+    "pages": 1,
+    "widthPoints": 612,
+    "heightPoints": 792,
+    "pixelWidth": 2550,
+    "pixelHeight": 3300,
+    "dpi": 300,
+    "renderedAt": "2026-10-20T01:05:56.819Z"
+  },
+  {
+    "pdf": "C:\\Projects\\Canvas Kits\\tmp\\axolotl\\axolotl-finished-reference-8x10.pdf",
+    "image": "C:\\Projects\\Canvas Kits\\tmp\\axolotl\\finished-reference.png",
+    "page": 1,
+    "pages": 1,
+    "widthPoints": 576,
+    "heightPoints": 720,
+    "pixelWidth": 2400,
+    "pixelHeight": 3000,
+    "dpi": 300,
+    "renderedAt": "2026-10-20T01:05:57.921Z"
+  }
+]

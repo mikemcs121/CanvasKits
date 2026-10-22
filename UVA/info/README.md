@@ -4,7 +4,7 @@ Created October 19, 2026 from the user-selected Desktop `UVA.jpg`, with the appr
 
 ## Production files
 
-- `../uva-outline-10x8.svg`: true vector paths, transparent background and interiors, #A6A6A6, 2-point rounded strokes.
+- `../uva-outline-10x8.svg`: true vector paths, transparent background and interiors, #A6A6A6, 2-point rounded strokes. Hidden mountain segments are removed as actual vector geometry, without clipping masks. A nonprinting path with no fill or stroke marks the full 10 x 8-inch canvas bounds.
 - `../uva-finished-reference-10x8.pdf`: one 720 x 576-point landscape page.
 - `../uva-painting-guide-10x8.pdf`: one US Letter portrait page, eight illustrated steps.
 - `../assets/`: extracted final-guide pictures, including a 600-DPI rendered crop of the complete drying scene.
@@ -23,6 +23,7 @@ Nine ready-to-use colors: cream, peach, orange, light blue, medium blue, dark bl
 - `assets/stage-01.png` through `stage-07.png`: cumulative layers from the same canonical geometry.
 - `assets/page-logo.png`: transparent, naturally proportioned River and Ridge logo variant featuring the sunset, blue mountains, river and the supplied white/gray V with orange sabres. The shared master logo is unchanged.
 - `src/build.cjs`, `src/geometry-tools.cjs`: geometry construction, bound-source validation, stage rendering, review images and promotion.
+- `src/outline-paths.cjs`: clips mountain centerlines against the saved emblem contours and exports only the visible segments for reliable vector imports; preserves all emblem paths.
 - `src/guide-pdf.cjs`, `src/reference-pdf.cjs`: editable deterministic PDF builders.
 - Shared palette and ordered directions: `../../assets/tools/guide-template/kits.json`, entry `uva`.
 
@@ -42,6 +43,16 @@ node Tools/guide-image-extractor.cjs UVA/uva-painting-guide-10x8.pdf
 ```
 
 The extractor refuses changed existing pictures; extract into a scratch candidate folder before replacing a previous assets set. Do not recover old WinRT PDF renderers.
+
+For an outline export repair that preserves the existing canonical geometry, reference, guide and extracted pictures:
+
+```powershell
+node UVA/info/src/build.cjs --outline-only
+# Review the candidate first, then:
+node UVA/info/src/build.cjs --outline-only --promote
+```
+
+October 19 Illustrator import repair: replaced the mountain clipping mask with permanently trimmed vector paths and added the invisible full-canvas sizing path. The artboard remains landscape, 10 inches wide by 8 inches high. The visible marks alone measure roughly 10 x 6.4 inches because the composition has transparent top and bottom margins. Do not stretch those marks to fill the canvas. Digital review verified unchanged emblem paths, zero mountain strokes inside the emblem away from its boundary, 2-point gray strokes, transparency, and agreement with the existing reference and guide. Illustrator itself was not available for an application-level import test. Geometry binding checks accept equivalent LF/CRLF line endings from Git while still rejecting substantive changes.
 
 ## Review performed
 

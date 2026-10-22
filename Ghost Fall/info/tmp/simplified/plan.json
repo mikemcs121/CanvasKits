@@ -17,13 +17,26 @@
     "black"
   ],
   "placement": {
-    "canvasPixels": [2400, 3000],
-    "sourcePixels": [1254, 1254],
-    "sourceRectangle": [60, 360, 2280, 2280]
+    "canvasPixels": [
+      2400,
+      3000
+    ],
+    "sourcePixels": [
+      1254,
+      1254
+    ],
+    "sourceRectangle": [
+      60,
+      360,
+      2280,
+      2280
+    ]
   },
   "steps": [
     {
-      "sourceStages": [1],
+      "sourceStages": [
+        1
+      ],
       "artwork": "step-1.png",
       "heading": "Get ready",
       "paragraphs": [
@@ -35,7 +48,9 @@
       "remainWhite": "The ghost, bow, pumpkin, stem, cheeks, tongue and background"
     },
     {
-      "sourceStages": [2],
+      "sourceStages": [
+        2
+      ],
       "artwork": "step-2.png",
       "heading": "Paint the ghost",
       "paragraphs": [
@@ -47,7 +62,9 @@
       "remainWhite": "Bow, pumpkin, stem, cheeks, tongue and background"
     },
     {
-      "sourceStages": [4],
+      "sourceStages": [
+        4
+      ],
       "artwork": "step-3.png",
       "heading": "Paint the bow",
       "paragraphs": [
@@ -59,7 +76,10 @@
       "remainWhite": "Pumpkin, stem, cheeks, tongue and background"
     },
     {
-      "sourceStages": [5, 6],
+      "sourceStages": [
+        5,
+        6
+      ],
       "artwork": "step-4.png",
       "heading": "Add the pumpkin",
       "paragraphs": [
@@ -71,7 +91,10 @@
       "remainWhite": "Cheeks, tongue and background"
     },
     {
-      "sourceStages": [7, 11],
+      "sourceStages": [
+        7,
+        11
+      ],
       "artwork": "step-5.png",
       "heading": "Finish the face",
       "paragraphs": [
@@ -85,5 +108,5 @@
   ],
   "care": "Use thin coats. Rinse your brush and pat it dry when you change colors. Let each color dry before painting beside it.",
   "cleanup": "Lay your canvas flat to dry. Wash your brushes and close the paint pots.",
-  "sourceNotes": "The five panels condense original stages 1, 2, 4, 5, 6, 7 and the black facial finish from stage 11. The artwork uses the canonical region and line masks with flat ready-to-use colors. Fold shading, texture, highlights and mixing are omitted. The approved centered composition and square-to-portrait placement are unchanged. Instruction pictures retain dark teaching linework; the production transfer is the byte-identical approved gray SVG."
+  "sourceNotes": "The five panels condense original stages 1, 2, 4, 5, 6, 7 and the black facial finish from stage 11. The artwork uses the canonical region and line masks with flat ready-to-use colors. Fold shading, texture, highlights and mixing are omitted. The approved centered composition and square-to-portrait placement are unchanged. Instruction pictures retain dark teaching linework; the production transfer is the byte-identical approved gray SVG. October 19 clarification: the guide/reference artwork remains unchanged; only the transfer SVG uses black #000000 at 3 pt."
 }

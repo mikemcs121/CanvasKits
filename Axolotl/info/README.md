@@ -4,12 +4,12 @@ Created October 19, 2026 from the user's supplied `Copy of axolotl_coloring_page
 
 ## Production
 
-- `../axolotl-outline-8x10.svg`: 8 x 10 inches, true vector paths, no frame, no background, no raster image; #808080 with 2-point rounded strokes. Interiors are transparent.
+- `../axolotl-outline-8x10.svg`: 8 x 10 inches, true vector paths, no frame, no background, no raster image; #000000 with 3-point rounded strokes. Interiors are transparent.
 - `../axolotl-finished-reference-8x10.pdf`: one 576 x 720-point page, containing the exact 2400 x 3000 master.
 - `../axolotl-painting-guide-8x10.pdf`: one US Letter page, six illustrated steps for ages 8-14, two columns by three rows.
 - `../assets/`: images extracted from the production guide, including its complete flat drying scene.
 
-Eight ready-to-use paints: turquoise, light blue, green, yellow, light pink, pink, black and white. No mixing. Fine gray contours in the reference represent the preprinted transfer, not an extra paint. Stages: water/bubbles; plants; starfish; light pink body; pink gills/details; faces, shines, drying and cleanup.
+Eight ready-to-use paints: turquoise, light blue, green, yellow, light pink, pink, black and white. No mixing. The guide and reference retain their approved gray illustration lines. The black 3-point standard applies to the separate transfer SVG only. Stages: water/bubbles; plants; starfish; light pink body; pink gills/details; faces, shines, drying and cleanup.
 
 ## Preserved source and edit assets
 
@@ -38,4 +38,6 @@ Use `--retrace` only for an intentional source-geometry revision, then review al
 
 ## Review
 
-Reviewed the complete transparent outline, colored reference, six-stage sheet and rendered guide. Checked the SVG's physical size, vector-only content, transparent background and interiors, gray and effective stroke weight; one-page PDF dimensions; 300-DPI master/stages; final-stage identity; cumulative paint order, readable captions, full logo, spelling and exact reference in the flat drying scene. The supplied original is unchanged. These are digital file checks, not a physical painting or press test.
+Reviewed the complete transparent outline, colored reference, six-stage sheet and rendered guide. Checked the SVG's physical size, vector-only content, transparent background and interiors, black and effective 3-point stroke weight; one-page PDF dimensions; 300-DPI master/stages; final-stage identity; cumulative paint order, readable captions, full logo, spelling and exact reference in the flat drying scene. The supplied original is unchanged. These are digital file checks, not a physical painting or press test.
+
+October 19 correction: guide PDF, reference PDF, stage artwork and extracted guide pictures were restored byte-for-byte from pre-change commit da6f20a. Only the transfer SVG uses the new black 3-point styling; illustration builders retain their prior treatment.

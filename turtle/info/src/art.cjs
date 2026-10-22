@@ -15,9 +15,12 @@ for(let stage=1;stage<=6;stage++){
  fs.writeFileSync(path.join(A,`stage-${String(stage).padStart(2,'0')}.png`),new Resvg(svg,{fitTo:{mode:'width',value:2400}}).render().asPng());
  if(stage===6){fs.writeFileSync(path.join(A,'reference-master.svg'),svg);fs.copyFileSync(path.join(A,'stage-06.png'),path.join(A,'reference-master.png'));}
 }
+// Preserve the user-selected river-turtle logo on every ordinary rebuild.
+if(!fs.existsSync(path.join(A,'page-logo.png'))){
 const logo=await Jimp.read(path.join(root,'assets/images/river-and-ridge-logo.png'));
 logo.scan(0,0,logo.bitmap.width,logo.bitmap.height,function(x,y,i){const d=this.bitmap.data,r=d[i],g=d[i+1],b=d[i+2];if(!d[i+3])return;if(r>210&&g>180&&b<r-20){d[i]=243;d[i+1]=250;d[i+2]=205;}else if(b>r*1.3&&b>g*.95){d[i]=45;d[i+1]=155;d[i+2]=200;}});
 await logo.writeAsync(path.join(A,'page-logo.png'));
+}
 const sheet=new Jimp(1440,1200,0xffffffff);for(let i=1;i<=6;i++){const im=await Jimp.read(path.join(A,`stage-${String(i).padStart(2,'0')}.png`));im.resize(480,600,Jimp.RESIZE_BICUBIC);sheet.composite(im,((i-1)%3)*480,Math.floor((i-1)/3)*600);}await sheet.writeAsync(path.join(out,'stages.png'));
 }
 main().catch(e=>{console.error(e);process.exitCode=1});

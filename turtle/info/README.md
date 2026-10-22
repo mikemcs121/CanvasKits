@@ -19,7 +19,7 @@ Eight ready-to-use paints: blue, lime green, green, dark green, yellow, light bl
 - `assets/generated-color-source.png`, `generation-prompt.txt`: generated painting study following the two supplied images. Brush texture is clipped and recolored into the canonical regions; generated object boundaries do not control the transfer or stages.
 - `assets/painted-regions.png`, `water-background.png`: registered paint layers with continuous blue water.
 - `assets/reference-master.svg`, `reference-master.png`, `stage-01.png` through `stage-06.png`: saved reference and cumulative guide artwork. PNGs are 2400 x 3000 at 300 DPI. Generated texture began at 1024 x 1536 and was smoothly resampled; this is not native 300-DPI detail.
-- `assets/page-logo.png`: full shared logo, with complementary pale lime ribbons and blue water; the original logo remains unchanged.
+- `assets/page-logo.png`: selected full logo with a small green turtle emerging from the river, complementary pale lime ribbons and blue water. Preserve this version on rebuild; the shared original logo remains unchanged.
 - `src/`: trace, region, artwork, guide, build and verification sources. Shared guide plan: project `assets/tools/guide-template/kits.json`, entry `turtle`.
 
 Run from the project root:
@@ -32,6 +32,8 @@ node turtle/info/src/build.cjs
 node turtle/info/src/build.cjs --promote
 node Tools/guide-image-extractor.cjs turtle/turtle-painting-guide-8x10.pdf
 ```
+
+For logo/guide-only repairs, run `node turtle/info/src/rebuild-guide.cjs`; it writes a candidate and rendered preview in `tmp/turtle-logo/` without rebuilding canvas artwork. The October 21 logo addition leaves all outline/reference/step artwork unchanged.
 
 `--retrace` intentionally reconstructs geometry and region maps from the supplied PNG. Do not use it for ordinary guide changes. After changing paint groups, update the shared guide plan and review all stages. The sources use the bundled Python path; adjust it if the runtime moves. Build candidates and measured review records stay in project `tmp/turtle/`.
 

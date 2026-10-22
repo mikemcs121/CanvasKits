@@ -1,0 +1,17 @@
+{
+  "pixels": [
+    2400,
+    3000
+  ],
+  "physicalInches": [
+    8,
+    10
+  ],
+  "strokePoints": 3,
+  "lineColor": "#000000",
+  "vectorOnly": true,
+  "transparentPixels": 6492255,
+  "frameRemoved": true,
+  "sourceProportionsPreserved": true,
+  "finalStageEqualsReference": true
+}

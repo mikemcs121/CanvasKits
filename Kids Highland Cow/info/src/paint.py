@@ -28,8 +28,6 @@ for stage in range(1,7):
  if stage<5:full=Image.alpha_composite(full.convert('RGBA'),line).convert('RGB')
  full.save(A/f'stage-{stage:02}.png',dpi=(300,300))
  if stage==6:full.save(A/'reference-master.png',dpi=(300,300))
-# Whole shared logo with a restrained palette derived from the cow and sky.
-logo=Image.open(R/'assets/images/river-and-ridge-logo.png').convert('RGBA');arr=np.array(logo);rgb=arr[:,:,:3].astype(float);lum=rgb.mean(2);active=arr[:,:,3]>0
-# Preserve silhouettes and alpha, dark lettering and light ribbons.
-lo=np.array([72,53,44]);hi=np.array([250,236,215]);t=(lum/255)[:,:,None];new=lo*(1-t)+hi*t;arr[:,:,:3]=new.astype('uint8');Image.fromarray(arr).save(A/'page-logo.png')
+# Preserve the selected cow-themed page logo on rebuilds.
+assert (A/'page-logo.png').exists()
 print('Six cumulative images and matched reference created')

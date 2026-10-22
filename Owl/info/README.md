@@ -1,15 +1,15 @@
 # Owl kids canvas kit
 
-Created October 19, 2026 from the supplied `ChatGPT Image Oct 14, 2026, 06_04_48 PM.png`. The owl, both wings, branch, five leaves and four stars retain their source proportions and arrangement in an 8 x 10 portrait canvas. Heavy black raster strokes were converted to smooth gray vector centerlines and closed eye contours. The branch's open left end was given a rounded end so it can be painted as one shape; one nearby woodgrain tip was shortened to remain inside it. Fine raster junctions are traced adaptations, not original editable vectors.
+Created October 19, 2026 from the supplied `ChatGPT Image Oct 14, 2026, 06_04_48 PM.png`. The owl, both wings, branch, five leaves and four stars retain their source proportions and arrangement in an 8 x 10 portrait canvas. Heavy black raster strokes were converted to smooth black vector centerlines and closed eye contours. The branch's open left end was given a rounded end so it can be painted as one shape; the internal woodgrain marks were subsequently removed at the user's request. Fine raster junctions are traced adaptations, not original editable vectors.
 
 ## Production files
 
-- `../owl-outline-8x10.svg`: 8 x 10 inches, #808080, 2-point rounded strokes, true vector paths, transparent background and interiors, no frame or embedded raster.
+- `../owl-outline-8x10.svg`: 8 x 10 inches, #000000, 3-point rounded strokes, true vector paths, transparent background and interiors, no frame or embedded raster.
 - `../owl-finished-reference-8x10.pdf`: one 576 x 720-point page with the exact saved 2400 x 3000 reference master.
 - `../owl-painting-guide-8x10.pdf`: one US Letter page, six illustrated steps in two columns and three rows, for ages 8-14.
 - `../assets/`: final guide pictures, including the complete drying scene cropped from a 600-DPI render.
 
-Nine ready-to-use paints: light blue, tan, cream, brown, green, yellow, pink, black and white. No mixing. Fine gray contours in the reference represent the preprinted transfer, not an additional paint. Stages: sky; branch/leaves; tan feathers; cream face; yellow/pink accents; eyes, shines, drying and cleanup.
+Nine ready-to-use paints: light blue, tan, cream, brown, green, yellow, pink, black and white. No mixing. The guide and reference retain their approved gray illustration lines. The black 3-point standard applies to the separate transfer SVG only. Stages: sky; branch/leaves; tan feathers; cream face; yellow/pink accents; eyes, shines, drying and cleanup.
 
 ## Preserved source and editable files
 
@@ -38,4 +38,10 @@ Use `--retrace` only for an intentional reconstruction from the supplied source,
 
 ## Review
 
-Reviewed the complete transparent outline, colored reference, enlarged eye details, six cumulative stages and rendered guide. Verified the 8 x 10 vector transfer, #808080 and effective 2-point stroke, transparent interior/background, one-page Letter guide and 8 x 10 reference, 300-DPI master/stages, final-stage identity, exact master pixels embedded in the reference PDF, readable captions, full logo and the exact reference lying flat in the drying scene. The original source remains byte-identical. These are digital checks, not physical painting or press testing.
+Reviewed the complete transparent outline, colored reference, enlarged eye details, six cumulative stages and rendered guide. Verified the 8 x 10 vector transfer, #000000 and effective 3-point stroke, transparent interior/background, one-page Letter guide and 8 x 10 reference, 300-DPI master/stages, final-stage identity, exact master pixels embedded in the reference PDF, readable captions, full logo and the exact reference lying flat in the drying scene. The original source remains byte-identical. These are digital checks, not physical painting or press testing.
+
+October 19 correction: guide PDF, reference PDF, stage artwork and extracted guide pictures were restored byte-for-byte from pre-change commit da6f20a. Only the transfer SVG uses the new black 3-point styling; illustration builders retain their prior treatment.
+
+## Branch cleanup — October 19, 2026
+
+Removed eight internal woodgrain paths from the canonical centerlines, transfer outline, all six guide stages, header preview, reference and drying picture. The branch edge, leaf veins, stems, feet and all other paths are preserved. `omittedCenterlinePaths` records the excluded paths and the source-outline builder retains those exclusions on retrace. The transfer remains black 3 pt; approved gray 2-point illustration styling is unchanged. A pixel comparison against snapshot `f9d0faf` confirmed zero changes outside the deleted strokes in every stage and reference master. Previous same-day byte-identical restoration notes describe the prior edition; this branch-only correction is the current artwork.

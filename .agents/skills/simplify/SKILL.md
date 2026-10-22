@@ -16,12 +16,13 @@ Create a complete, verified alternate edition that children can follow. Default 
 
 ## Preserve the transfer and simplify the target
 
-- Copy the approved outline SVG byte-for-byte. Do not regenerate, recolor, thicken, resize or otherwise edit it, even if an existing adult outline uses a lighter gray than the children's default.
+- Preserve the approved outline's paths, placement and size. For new children's editions and explicitly requested migrations, use black #000000 at 3 pt with rounded caps and joins, per the user's October 19, 2026 standard. This styling exception supersedes the earlier byte-identical gray transfer requirement. Keep the original kit-root files unchanged; verify path geometry is identical when recoloring or changing stroke width. Other existing editions retain their current files until requested.
+- Transfer styling changes alone do not authorize changing existing guide or reference illustrations. The user clarified that black 3-point lines apply to the outline files only; preserve approved guide/reference artwork unless separately requested.
 - Keep the original composition and placement. A square source may have an established centered placement on the 8 x 10 canvas; recover that transform from the current builder or provenance instead of stretching the image to 4:5.
 - Make the reference match the selected simplified final stage. Prefer the exact retained stage when suitable. Keep essential subject features and remove advanced shading, texture or small accents only as the requested simplification warrants.
 - Use existing editable native masks, layers and stage builders for small deterministic changes. Toggle only the intended region, save a derived asset, and verify that other regions and canonical linework stay unchanged. Follow the imagegen skill when a task actually requires generated raster artwork; inspect local inputs first.
 - Leaving an omitted accent white can be appropriate when authorized by the user's simplification choices. Do not impose Cat in Pumpkin's white eye treatment, palette or other subject-specific choices on another kit.
-- The header preview, final guide panel and reference must show the same target. All earlier panels must accurately show the cumulative steps and use the same registered geometry. Include any black fills or defining lines that the pictures require; do not assume an unfilled gray transfer already supplies painted black details.
+- The header preview, final guide panel and reference must show the same target. All earlier panels must accurately show the cumulative steps and use the same registered geometry. Include any black fills or defining lines that the pictures require; do not assume an unfilled transfer already supplies painted black details.
 
 ## Write and lay out the guide
 
@@ -36,7 +37,7 @@ Create a complete, verified alternate edition that children can follow. Default 
 
 The selected kit's `simplified/` folder contains exactly these three files, using that kit's existing slug:
 
-- `<slug>-outline-8x10.svg` — unchanged copy of the approved transfer.
+- `<slug>-outline-8x10.svg` — approved transfer geometry with the current children's line treatment.
 - `<slug>-painting-guide-8x10.pdf` — simplified instructions.
 - `<slug>-finished-reference-8x10.pdf` — matching simplified target.
 
@@ -49,7 +50,7 @@ Before replacing an existing simplified edition, make sure the current edition i
 1. Render PDFs with the project's `assets/tools/pdf-render/render-pdf.cjs`, from the project root. Check one page and exact page dimensions; keep 300-DPI PNGs (guide 2550 x 3300, reference 2400 x 3000). Never use the historical WinRT PowerShell PDF renderers.
 2. Inspect the final rendered guide and reference with the SVG render. Verify registration using an overlay/contact sheet or native-layer comparison, not dimensions alone. Inspect changed details at useful magnification.
 3. Confirm the retained sequence, cumulative pictures, finished preview, required colors, no mixing language, simple spelling, readable text, intact logo, safe margins and no overlap. Verify the reference uses the intended final-stage pixels or the documented constrained edits.
-4. Confirm the outline copy's hash equals the original and all three original production hashes remain unchanged. Confirm PDF/PNG revision agreement and exactly three files in `simplified/`. Save checks actually performed; distinguish prior review records from current results.
+4. Confirm the outline's path geometry and placement equal the approved original, its styling follows the current children's standard, and all three original production hashes remain unchanged. Confirm PDF/PNG revision agreement and exactly three files in `simplified/`. Save checks actually performed; distinguish prior review records from current results.
 5. Promote verified alternates to `simplified/` without an extra approval step. If a concrete source/tool blocker prevents verification, keep clearly labeled candidates outside `simplified/` and report the exact unresolved issue instead of replacing a usable edition.
 6. Update the kit's `info/README.md` and relevant project index entry with the alternate paths, palette, sources and checks. Deliver links to the simplified files and briefly identify what was simplified.
 

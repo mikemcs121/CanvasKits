@@ -25,13 +25,15 @@ potrace.trace(path.join(out,'solid-regions.png'),{threshold:128,turdSize:3,optTo
  const solids=[...result.matchAll(/<path d="([^"]+)"/g)].map(m=>m[1]);
  // Preserve source proportions. The tall scene fits within a modest unprinted margin.
  const scale=.45,dx=(576-1024*scale)/2,dy=(720-1536*scale)/2;
- const linePaths=[...chains.map(line).map(d=>d.startsWith('M50 1459 ')?'M62.222 1442.333 C'+d.split(' C').slice(3).join(' C'):d),'M18 1356 C0 1390 42 1465 118 1476'];
+ const geometryFile=path.join(root,'Owl/info/assets/geometry.json');
+ const omitted=fs.existsSync(geometryFile)?JSON.parse(fs.readFileSync(geometryFile)).omittedCenterlinePaths||[]:[];
+ const linePaths=[...chains.map(line).map(d=>d.startsWith('M50 1459 ')?'M62.222 1442.333 C'+d.split(' C').slice(3).join(' C'):d),'M18 1356 C0 1390 42 1465 118 1476'].filter(d=>!omitted.includes(d));
  const body=[...linePaths,...solids].map(d=>`<path d="${d}"/>`).join('');
- fs.writeFileSync(path.join(out,'source-lines.svg'),`<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1536" viewBox="0 0 1024 1536"><rect width="1024" height="1536" fill="white"/><g fill="none" stroke="black" stroke-width="${2/scale}" stroke-linecap="round" stroke-linejoin="round">${body}</g></svg>`);
+ fs.writeFileSync(path.join(out,'source-lines.svg'),`<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1536" viewBox="0 0 1024 1536"><rect width="1024" height="1536" fill="white"/><g fill="none" stroke="black" stroke-width="${3/scale}" stroke-linecap="round" stroke-linejoin="round">${body}</g></svg>`);
  fs.writeFileSync(path.join(out,'source-lines.png'),new Resvg(fs.readFileSync(path.join(out,'source-lines.svg'))).render().asPng());
- const svg=`<svg xmlns="http://www.w3.org/2000/svg" width="8in" height="10in" viewBox="0 0 576 720"><title>Owl kids canvas — border-free transfer</title><g transform="translate(${dx} ${dy}) scale(${scale})" fill="none" stroke="#808080" stroke-width="${2/scale}" stroke-linecap="round" stroke-linejoin="round">${body}</g></svg>`;
+ const svg=`<svg xmlns="http://www.w3.org/2000/svg" width="8in" height="10in" viewBox="0 0 576 720"><title>Owl kids canvas — border-free transfer</title><g transform="translate(${dx} ${dy}) scale(${scale})" fill="none" stroke="#000000" stroke-width="${3/scale}" stroke-linecap="round" stroke-linejoin="round">${body}</g></svg>`;
  fs.writeFileSync(path.join(out,'owl-outline-8x10.svg'),svg);
  for(const [name,bg]of [['outline-preview.png','white'],['outline-transparent.png',undefined]])fs.writeFileSync(path.join(out,name),new Resvg(svg,{fitTo:{mode:'width',value:2400},background:bg}).render().asPng());
- fs.writeFileSync(path.join(root,'Owl/info/assets/geometry.json'),JSON.stringify({sourceSize:[1024,1536],scale,translate:[dx,dy],centerlinePaths:linePaths,solidBoundaryPaths:solids},null,2));
+ fs.writeFileSync(path.join(root,'Owl/info/assets/geometry.json'),JSON.stringify({sourceSize:[1024,1536],scale,translate:[dx,dy],centerlinePaths:linePaths,solidBoundaryPaths:solids,omittedCenterlinePaths:omitted},null,2));
  console.log('Owl vector candidate built.');
 });
